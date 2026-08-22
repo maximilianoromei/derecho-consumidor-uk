@@ -1,0 +1,1155 @@
+---
+author: Presentación de grado
+format:
+  revealjs:
+    center: false
+    css: styles-consumidor.css
+    hash: true
+    height: 720
+    margin: 7.0e-2
+    navigation-mode: linear
+    slide-number: true
+    theme: default
+    transition: fade
+    width: 1280
+subtitle: Fundamentos · orden público protectorio · fuentes · principios
+  · trato digno · mercado
+title: Introducción al Derecho del Consumidor
+---
+
+## Tema 1 · Introducción al Derecho del Consumidor {#tema-1-introducción-al-derecho-del-consumidor .section-title}
+
+### Recorrido de la clase
+
+1.  Origen y fundamento del Derecho del Consumidor.
+2.  Asimetría y vulnerabilidad.
+3.  Orden público protectorio.
+4.  Evolución argentina y constitucionalización.
+5.  MERCOSUR y Derecho comparado.
+6.  Sistema normativo y diálogo de fuentes.
+7.  Principios de interpretación.
+8.  Buena fe, confianza, equidad y *favor consumatoris*.
+9.  Trato digno e igualdad.
+10. Defensa del consumidor, competencia y lealtad comercial.
+
+::: fuente
+Estructura: consumidor.1.docx. Profundización: Tratado de Derecho del
+Consumidor, Stiglitz-Hernández (dirs.), Tomos I y II.
+:::
+
+------------------------------------------------------------------------
+
+## ¿Por qué aparece un Derecho del Consumidor?
+
+El punto de partida es una **relación estructuralmente asimétrica**.
+
+::: contraste
+`<strong>`{=html}PROVEEDOR`</strong>`{=html}`<br>`{=html}profesional ·
+organizado ·
+informado`<br>`{=html}`<br>`{=html}`<strong>`{=html}CONSUMIDOR`</strong>`{=html}`<br>`{=html}destinatario
+final · no profesional · vulnerable
+:::
+
+La igualdad jurídica formal no asegura por sí sola un equilibrio real en
+el mercado.
+
+::: pregunta
+¿Alcanza la autonomía de la voluntad clásica para explicar la
+contratación masiva?
+:::
+
+------------------------------------------------------------------------
+
+## La transformación del mercado
+
+Durante el siglo XX cambian las condiciones de contratación:
+
+::: cuatro
+<div>
+
+`<strong>`{=html}Producción
+masiva`</strong>`{=html}`<br>`{=html}estandarización
+
+</div>
+
+<div>
+
+`<strong>`{=html}Contratación
+masiva`</strong>`{=html}`<br>`{=html}predisposición
+
+</div>
+
+<div>
+
+`<strong>`{=html}Publicidad`</strong>`{=html}`<br>`{=html}decisiones de
+consumo
+
+</div>
+
+<div>
+
+`<strong>`{=html}Tecnología`</strong>`{=html}`<br>`{=html}nuevas formas
+de intercambio
+
+</div>
+:::
+
+El esquema destaca además la economía fordista y transnacional.
+
+::: idea-central
+Las instituciones tradicionales del Derecho Privado resultaron
+insuficientes para responder por sí solas a estas nuevas relaciones.
+:::
+
+------------------------------------------------------------------------
+
+## De la igualdad formal al principio protectorio
+
+El Derecho clásico parte de sujetos jurídicamente iguales.
+
+El Derecho del Consumidor advierte una desigualdad material previa.
+
+::: formula
+DESIGUALDAD REAL → PROTECCIÓN DIFERENCIADA → EQUILIBRIO
+:::
+
+No se procura privilegiar arbitrariamente a una parte, sino compensar
+jurídicamente una situación estructural de debilidad.
+
+------------------------------------------------------------------------
+
+## Vulnerabilidad del consumidor {#vulnerabilidad-del-consumidor .section-title}
+
+El Tratado coloca el reconocimiento de la vulnerabilidad entre las
+pautas centrales del sistema.
+
+::: idea-central
+El consumidor es la parte débil frente a un proveedor que actúa
+profesionalmente.
+:::
+
+La vulnerabilidad explica reglas imperativas, deberes agravados,
+interpretación favorable, protección de la confianza y controles sobre
+prácticas de mercado.
+
+------------------------------------------------------------------------
+
+## Vulnerabilidad no significa incapacidad
+
+::: contraste
+`<strong>`{=html}INCAPACIDAD`</strong>`{=html}`<br>`{=html}categoría
+relativa a la aptitud para ejercer
+derechos`<br>`{=html}`<br>`{=html}`<strong>`{=html}VULNERABILIDAD`</strong>`{=html}`<br>`{=html}posición
+de debilidad dentro de una relación de consumo
+:::
+
+El consumidor puede ser plenamente capaz y encontrarse, sin embargo, en
+posición vulnerable.
+
+------------------------------------------------------------------------
+
+## Dimensiones de la vulnerabilidad
+
+El Tratado identifica situaciones en las que la debilidad puede
+acentuarse:
+
+-   económica;
+-   cognoscitiva;
+-   técnica;
+-   informativa;
+-   cultural o social.
+
+::: pregunta
+¿Tiene la misma capacidad negociadora quien compra ocasionalmente un
+servicio que la empresa que lo diseña y comercializa todos los días?
+:::
+
+------------------------------------------------------------------------
+
+## Consumidores particularmente frágiles
+
+El Tratado menciona, entre otros:
+
+-   personas mayores;
+-   niños;
+-   personas económicamente desfavorecidas;
+-   personas con dificultades culturales o informativas;
+-   turistas o emigrantes en determinadas circunstancias.
+
+::: idea-central
+A mayor vulnerabilidad concreta, mayor intensidad puede requerir el
+principio protectorio.
+:::
+
+------------------------------------------------------------------------
+
+## El principio protectorio {#el-principio-protectorio .section-title}
+
+::: formula
+PROTEGER PARA EQUILIBRAR
+:::
+
+Es un principio estructurante e incide sobre producción normativa,
+interpretación, integración, contratación, prácticas comerciales y
+ejercicio de derechos.
+
+------------------------------------------------------------------------
+
+## Un microsistema de protección
+
+El Tratado caracteriza al Derecho del Consumidor como un ámbito
+transversal.
+
+**civil / comercial · contractual / extracontractual · público /
+privado**
+
+::: idea-central
+La relación de consumo presenta pautas, criterios y principios propios
+que atraviesan el ordenamiento.
+:::
+
+------------------------------------------------------------------------
+
+## Orden público protectorio {#orden-público-protectorio .section-title}
+
+El art. 65 LDC atribuye a la ley carácter de **orden público**.
+
+::: tres
+<div>
+
+`<strong>`{=html}Imperatividad`</strong>`{=html}`<br>`{=html}límites a
+la disponibilidad
+
+</div>
+
+<div>
+
+`<strong>`{=html}Irrenunciabilidad`</strong>`{=html}`<br>`{=html}protección
+indisponible
+
+</div>
+
+<div>
+
+`<strong>`{=html}Equilibrio`</strong>`{=html}`<br>`{=html}tutela del
+contratante débil
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Orden público económico de protección
+
+::: contraste
+`<strong>`{=html}ORDEN PÚBLICO
+CLÁSICO`</strong>`{=html}`<br>`{=html}valores generales del
+ordenamiento`<br>`{=html}`<br>`{=html}`<strong>`{=html}ORDEN PÚBLICO DE
+PROTECCIÓN`</strong>`{=html}`<br>`{=html}intervención para tutelar a la
+parte débil y corregir desequilibrios
+:::
+
+------------------------------------------------------------------------
+
+## Autonomía de la voluntad
+
+La autonomía privada **no desaparece**, pero deja de ser ilimitada.
+
+::: flujo
+<div>
+
+AUTONOMÍA
+
+</div>
+
++
+
+<div>
+
+ORDEN PÚBLICO
+
+</div>
+
++
+
+<div>
+
+PROTECCIÓN
+
+</div>
+
+→
+
+<div>
+
+CONTRATO DE CONSUMO
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Evolución argentina {#evolución-argentina .section-title}
+
+::: linea
+<div>
+
+`<strong>`{=html}Años 80`</strong>`{=html}`<br>`{=html}doctrina
+
+</div>
+
+<div>
+
+`<strong>`{=html}1993`</strong>`{=html}`<br>`{=html}Ley 24.240
+
+</div>
+
+<div>
+
+`<strong>`{=html}1994`</strong>`{=html}`<br>`{=html}art. 42 CN
+
+</div>
+
+<div>
+
+`<strong>`{=html}2008`</strong>`{=html}`<br>`{=html}ley 26.361
+
+</div>
+
+<div>
+
+`<strong>`{=html}2014/15`</strong>`{=html}`<br>`{=html}CCyC
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## 1993 · Ley 24.240
+
+La Ley de Defensa del Consumidor consolida un **estatuto especial**.
+
+El esquema vincula su sanción con vulnerabilidad, equilibrio,
+transformación del mercado e integración regional.
+
+::: idea-central
+La protección deja de depender exclusivamente de las categorías
+generales del Derecho Civil.
+:::
+
+------------------------------------------------------------------------
+
+## 1994 · Constitucionalización {#constitucionalización .section-title}
+
+La reforma incorpora los derechos de consumidores y usuarios en el art.
+42 CN.
+
+::: formula
+PROTECCIÓN LEGAL → DERECHO CONSTITUCIONAL
+:::
+
+La constitucionalización modifica la lectura de todo el sistema
+infraconstitucional.
+
+------------------------------------------------------------------------
+
+## Artículo 42 CN · derechos
+
+::: mapa
+<div>
+
+`<strong>`{=html}Salud`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Seguridad`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Intereses económicos`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Información`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Libertad de elección`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Trato digno`</strong>`{=html}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Artículo 42 CN · deberes estatales
+
+-   educación para el consumo;
+-   defensa de la competencia;
+-   control de monopolios;
+-   calidad y eficiencia de servicios públicos;
+-   promoción de asociaciones;
+-   procedimientos eficaces.
+
+::: idea-central
+El consumidor aparece como sujeto contractual, participante del mercado
+y titular de derechos fundamentales.
+:::
+
+------------------------------------------------------------------------
+
+## Constitución y derechos fundamentales
+
+La tutela se conecta con dignidad, igualdad, intereses económicos, salud
+y seguridad, acceso a justicia y derechos de incidencia colectiva.
+
+::: pregunta
+¿Qué cambia cuando dejamos de ver el problema como una simple discusión
+contractual?
+:::
+
+------------------------------------------------------------------------
+
+## 2014 · Código Civil y Comercial {#código-civil-y-comercial .section-title}
+
+::: tres
+<div>
+
+`<strong>`{=html}Título Preliminar`</strong>`{=html}`<br>`{=html}arts.
+7, 11 y 14 destacados en el Tratado
+
+</div>
+
+<div>
+
+`<strong>`{=html}Contratos de
+consumo`</strong>`{=html}`<br>`{=html}arts. 1092 a 1122
+
+</div>
+
+<div>
+
+`<strong>`{=html}Principios`</strong>`{=html}`<br>`{=html}diálogo con
+todo el Derecho Privado
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Un cambio de arquitectura
+
+::: formula
+CCyC + LDC + CN + NORMAS ESPECIALES
+:::
+
+La incorporación al Código no elimina la legislación especial. La clave
+pasa a ser el **diálogo de fuentes**.
+
+------------------------------------------------------------------------
+
+## MERCOSUR y protección del consumidor {#mercosur-y-protección-del-consumidor .section-title}
+
+El Word incorpora:
+
+-   1996: XXIV Reunión del Grupo Mercado Común;
+-   1996: Protocolo de Santa María;
+-   1997: Reglamento Común de Defensa del Consumidor.
+
+::: idea-central
+La integración regional enfrenta diferentes conceptos y grados
+nacionales de protección.
+:::
+
+------------------------------------------------------------------------
+
+## ¿Por qué importa la armonización?
+
+::: flujo
+<div>
+
+MERCADO REGIONAL
+
+</div>
+
+→
+
+<div>
+
+CONSUMO TRANSFRONTERIZO
+
+</div>
+
+→
+
+<div>
+
+DIFERENCIAS
+
+</div>
+
+→
+
+<div>
+
+COORDINACIÓN
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Sistema normativo argentino {#sistema-normativo-argentino .section-title}
+
+::: piramide
+<div>
+
+CONSTITUCIÓN · arts. 42 y 43
+
+</div>
+
+<div>
+
+CÓDIGO CIVIL Y COMERCIAL
+
+</div>
+
+<div>
+
+LEY 24.240
+
+</div>
+
+<div>
+
+NORMAS GENERALES Y ESPECIALES
+
+</div>
+
+<div>
+
+COMPETENCIA · LEALTAD COMERCIAL
+
+</div>
+:::
+
+::: nota
+Esquema didáctico: entre CCyC y LDC no hay una relación jerárquica
+simple.
+:::
+
+------------------------------------------------------------------------
+
+## Artículo 3 LDC · integración
+
+::: formula
+INTEGRACIÓN + PREEMINENCIA PROTECTORIA
+:::
+
+Las normas generales y especiales aplicables a la relación deben
+dialogar entre sí.
+
+------------------------------------------------------------------------
+
+## Diálogo de fuentes {#diálogo-de-fuentes .section-title}
+
+::: gran-flujo
+<div>
+
+CONSTITUCIÓN
+
+</div>
+
+↕
+
+<div>
+
+CÓDIGO CIVIL Y COMERCIAL
+
+</div>
+
+↕
+
+<div>
+
+LEY 24.240
+
+</div>
+
+↕
+
+<div>
+
+NORMAS ESPECIALES
+
+</div>
+:::
+
+El Tratado enfatiza el análisis del Derecho del Consumidor como
+**sistema**.
+
+------------------------------------------------------------------------
+
+## ¿Código o ley especial?
+
+CCyC y LDC tienen rango legal. Intervienen especialidad, integración,
+principios, protección constitucional y norma más favorable.
+
+::: pregunta
+¿Qué hacemos cuando dos normas aplicables ofrecen respuestas distintas?
+:::
+
+------------------------------------------------------------------------
+
+## Interpretación favorable
+
+El principio aparece en art. 3 LDC y arts. 1094 y 1095 CCyC.
+
+::: formula
+DUDA → SOLUCIÓN MÁS FAVORABLE AL CONSUMIDOR
+:::
+
+------------------------------------------------------------------------
+
+## Artículo 1094 CCyC
+
+::: dos
+<div>
+
+`<strong>`{=html}Protección`</strong>`{=html}`<br>`{=html}interpretación
+desde la tutela del consumidor
+
+</div>
+
+<div>
+
+`<strong>`{=html}Consumo
+sustentable`</strong>`{=html}`<br>`{=html}directriz del sistema
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Artículo 1095 CCyC
+
+En la interpretación del contrato de consumo, la duda se resuelve en
+sentido favorable al consumidor.
+
+::: idea-central
+Ante dudas sobre el alcance de una obligación, se adopta la
+interpretación menos gravosa para el consumidor.
+:::
+
+------------------------------------------------------------------------
+
+## Buena fe {#buena-fe .section-title}
+
+El Word vincula la materia con el art. 9 CCyC.
+
+::: definicion
+La buena fe exige comportamientos leales y coherentes y excluye
+conductas incompatibles con la confianza legítimamente generada.
+:::
+
+------------------------------------------------------------------------
+
+## Buena fe y mercado
+
+Ejemplos del esquema:
+
+-   imágenes que no reflejan el producto;
+-   condiciones ilegibles;
+-   información insuficiente;
+-   comportamientos incompatibles con expectativas creadas.
+
+::: pregunta
+¿Puede el proveedor ampararse en la literalidad si su conducta creó
+razonablemente otra expectativa?
+:::
+
+------------------------------------------------------------------------
+
+## Principio de confianza {#principio-de-confianza .section-title}
+
+::: contraste
+`<strong>`{=html}PROVEEDOR`</strong>`{=html}`<br>`{=html}genera
+expectativas mediante su conducta
+profesional`<br>`{=html}`<br>`{=html}`<strong>`{=html}CONSUMIDOR`</strong>`{=html}`<br>`{=html}puede
+confiar razonablemente en ellas
+:::
+
+La profesionalidad eleva la exigencia de conducta.
+
+------------------------------------------------------------------------
+
+## Confianza y vulnerabilidad
+
+El Tratado señala que la confianza se expande a favor del consumidor y
+se restringe frente al proveedor, especialmente ante consumidores
+particularmente vulnerables.
+
+::: formula
+MAYOR VULNERABILIDAD → MAYOR PROTECCIÓN
+:::
+
+------------------------------------------------------------------------
+
+## Equidad
+
+La equidad acompaña la buena fe y el principio protectorio para evitar
+resultados formalmente correctos pero materialmente desequilibrados.
+
+------------------------------------------------------------------------
+
+## Relación de consumo {#relación-de-consumo .section-title}
+
+::: definicion
+Vínculo jurídico entre el proveedor y el consumidor o usuario.
+:::
+
+El concepto determina el **ámbito de aplicación** del régimen.
+
+------------------------------------------------------------------------
+
+## Relación de consumo ≠ contrato
+
+::: contraste
+`<strong>`{=html}RELACIÓN DE
+CONSUMO`</strong>`{=html}`<br>`{=html}categoría amplia de
+tutela`<br>`{=html}`<br>`{=html}`<strong>`{=html}CONTRATO DE
+CONSUMO`</strong>`{=html}`<br>`{=html}una de las fuentes posibles de esa
+relación
+:::
+
+------------------------------------------------------------------------
+
+## Contrato de consumo
+
+El art. 1093 CCyC se estructura sobre consumidor final, proveedor,
+adquisición/uso/goce y destino privado, familiar o social.
+
+::: idea-central
+La finalidad de consumo final conecta el contrato con el concepto
+jurídico de consumidor.
+:::
+
+------------------------------------------------------------------------
+
+## Consumidor y destino final
+
+::: formula
+BIEN O SERVICIO → DESTINO FINAL → PROTECCIÓN
+:::
+
+No basta que exista una compra: importa **para qué se incorpora el bien
+o servicio**.
+
+------------------------------------------------------------------------
+
+## El proveedor
+
+El Tratado resalta la profesionalidad y organización del proveedor
+frente a la posición no profesional del consumidor.
+
+::: idea-central
+Esta asimetría explica deberes especiales.
+:::
+
+------------------------------------------------------------------------
+
+## Principios generales y propios
+
+::: dos
+<div>
+
+`<strong>`{=html}GENERALES`</strong>`{=html}`<br>`{=html}buena fe ·
+abuso del derecho · posición dominante
+
+</div>
+
+<div>
+
+`<strong>`{=html}CONSUMERILES`</strong>`{=html}`<br>`{=html}protección ·
+favor consumatoris · consumo sustentable
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Trato digno {#trato-digno .section-title}
+
+Fundamento: art. 42 CN, art. 8 bis LDC y art. 1097 CCyC.
+
+::: formula
+CONSUMIDOR = PERSONA → RESPETO DE SU DIGNIDAD
+:::
+
+------------------------------------------------------------------------
+
+## ¿Qué prohíbe el trato digno?
+
+-   situaciones vergonzantes;
+-   vejatorias;
+-   intimidatorias;
+-   discriminatorias.
+
+::: idea-central
+La tutela no se limita al patrimonio: alcanza la condición de persona.
+:::
+
+------------------------------------------------------------------------
+
+## Dignidad y jurisprudencia
+
+El Word menciona:
+
+-   **"Pupelis"**
+-   **"F.A.L."**
+-   **"Ekmekdjian"**
+
+para insertar el trato digno en una concepción constitucional de la
+dignidad humana.
+
+::: fuente
+Fallos mencionados en consumidor.1.docx.
+:::
+
+------------------------------------------------------------------------
+
+## Jurisprudencia · Machinandiarena
+
+El Tratado destaca **"Machinandiarena c. Telefónica de Argentina"**.
+
+La Suprema Corte bonaerense confirmó una multa civil y vinculó el caso
+con el derecho constitucional al **trato digno**.
+
+::: idea-central
+El consumidor debe ser respetado como persona y no sometido a
+menosprecio o desconsideración.
+:::
+
+------------------------------------------------------------------------
+
+## Machinandiarena · importancia
+
+::: gran-flujo
+<div>
+
+ART. 42 CN
+
+</div>
+
+↓
+
+<div>
+
+TRATO DIGNO
+
+</div>
+
+↓
+
+<div>
+
+DERECHOS FUNDAMENTALES
+
+</div>
+
+↓
+
+<div>
+
+RESPUESTA SANCIONATORIA
+
+</div>
+:::
+
+El Tratado lo inserta en la constitucionalización y el diálogo de
+fuentes.
+
+------------------------------------------------------------------------
+
+## Igualdad y no discriminación
+
+El esquema vincula trato digno, art. 16 CN, igualdad de trato y
+prohibición de prácticas discriminatorias.
+
+::: idea-central
+La vulnerabilidad exige igualdad real y respeto.
+:::
+
+------------------------------------------------------------------------
+
+## Consumidor y mercado {#consumidor-y-mercado .section-title}
+
+El art. 42 CN conecta consumidor con competencia, distorsiones de
+mercado, monopolios, calidad, eficiencia y libertad de elección.
+
+------------------------------------------------------------------------
+
+## Defensa de la competencia
+
+::: formula
+MERCADO COMPETITIVO → MAYOR LIBERTAD DE ELECCIÓN
+:::
+
+Consumidor y competencia protegen bienes no idénticos, pero
+interrelacionados.
+
+------------------------------------------------------------------------
+
+## Lealtad comercial
+
+El esquema destaca información sobre condiciones, correspondencia entre
+oferta y prestación, reglas claras, publicidad y promociones.
+
+::: pregunta
+¿Puede existir una decisión verdaderamente libre sin información
+confiable?
+:::
+
+------------------------------------------------------------------------
+
+## Publicidad y consumidor
+
+El Tratado dedica un capítulo a marketing y publicidad.
+
+**publicidad → información + persuasión + expectativas + decisión**
+
+Se conecta con buena fe, confianza, información y libertad de elección.
+
+------------------------------------------------------------------------
+
+## Información y asimetría
+
+::: flujo
+<div>
+
+ASIMETRÍA INFORMATIVA
+
+</div>
+
+→
+
+<div>
+
+DEBER DEL PROVEEDOR
+
+</div>
+
+→
+
+<div>
+
+DECISIÓN MÁS LIBRE
+
+</div>
+:::
+
+El deber de información reduce desigualdad.
+
+------------------------------------------------------------------------
+
+## Un sistema transversal
+
+::: mapa
+<div>
+
+`<strong>`{=html}Contrato`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Constitución`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Mercado`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Competencia`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Publicidad`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Derechos fundamentales`</strong>`{=html}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Caso 1 · Condiciones ilegibles
+
+Una plataforma publicita un servicio. La limitación principal aparece en
+un enlace secundario y con texto difícil de leer.
+
+1.  ¿Buena fe?
+2.  ¿Confianza?
+3.  ¿La aceptación formal resuelve el problema?
+4.  ¿Cómo opera el principio protectorio?
+5.  ¿Qué importancia tiene la asimetría informativa?
+
+------------------------------------------------------------------------
+
+## Caso 2 · Trato al consumidor
+
+Una empresa obliga al usuario que reclama a esperar durante horas y le
+exige reiteradamente documentación que ya posee.
+
+-   ¿solo eficiencia?
+-   ¿trato digno?
+-   ¿qué cambia al constitucionalizar el análisis?
+-   ¿importa que sea una práctica sistemática?
+
+------------------------------------------------------------------------
+
+## Caso 3 · Conflicto de normas
+
+Una relación está regulada por una norma especial de actividad, la LDC y
+el CCyC.
+
+::: pregunta
+¿Debe elegirse automáticamente una norma y excluir las demás?
+:::
+
+Analizar mediante **diálogo de fuentes + principio protectorio +
+solución más favorable**.
+
+------------------------------------------------------------------------
+
+## Caso 4 · Mercado y consumidor
+
+Un proveedor condiciona la adquisición de un producto a la compra
+simultánea de otro.
+
+Analizar:
+
+1.  libertad de elección;
+2.  consumidor y competencia;
+3.  prácticas de mercado;
+4.  autonomía;
+5.  orden público protectorio.
+
+------------------------------------------------------------------------
+
+## Mapa conceptual
+
+::: gran-flujo
+<div>
+
+ASIMETRÍA
+
+</div>
+
+↓
+
+<div>
+
+VULNERABILIDAD
+
+</div>
+
+↓
+
+<div>
+
+PRINCIPIO PROTECTORIO
+
+</div>
+
+↓
+
+<div>
+
+ORDEN PÚBLICO
+
+</div>
+
+↓
+
+<div>
+
+DIÁLOGO DE FUENTES
+
+</div>
+
+↓
+
+<div>
+
+PROTECCIÓN EFECTIVA
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Del contrato al sistema
+
+::: contraste
+`<strong>`{=html}VISIÓN CLÁSICA`</strong>`{=html}`<br>`{=html}contrato ·
+autonomía · igualdad
+formal`<br>`{=html}`<br>`{=html}`<strong>`{=html}DERECHO DEL
+CONSUMIDOR`</strong>`{=html}`<br>`{=html}relación de consumo ·
+vulnerabilidad · orden público · derechos fundamentales · mercado
+:::
+
+------------------------------------------------------------------------
+
+## Preguntas de cierre
+
+1.  ¿Por qué surge históricamente el Derecho del Consumidor?
+2.  ¿Qué significa vulnerabilidad?
+3.  ¿Por qué el orden público es "de protección"?
+4.  ¿Qué consecuencias produce la constitucionalización?
+5.  ¿Cómo funciona el diálogo de fuentes?
+6.  ¿Qué alcance tiene el *favor consumatoris*?
+7.  ¿Cómo se relacionan buena fe y confianza?
+8.  ¿Por qué el trato digno excede el patrimonio?
+9.  ¿Qué relación existe entre consumidor y competencia?
+10. ¿Por qué la relación de consumo es más amplia que el contrato?
+
+------------------------------------------------------------------------
+
+## Fuentes utilizadas
+
+**Esqueleto temático:** `consumidor.1.docx`
+
+**Profundización:** Gabriel Stiglitz y Carlos A. Hernández (dirs.),
+*Tratado de Derecho del Consumidor*, Tomos I y II.
+
+::: nota
+La presentación conserva el recorrido del Word. La ampliación doctrinal
+se limita al Tratado adjunto. La jurisprudencia incorporada es la
+mencionada en el Word o citada por el Tratado y vinculada con esta
+unidad.
+:::

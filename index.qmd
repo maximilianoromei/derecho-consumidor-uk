@@ -1,0 +1,59 @@
+---
+title: "Derecho del Consumidor"
+---
+
+::: {.hero}
+# Derecho del Consumidor
+
+## Material de clases
+
+**Universidad Kennedy**
+
+**Prof. Maximiliano Lucas Romei**
+:::
+
+## Clases
+
+::: {.clase-card}
+### Clase 1
+
+## Introducción al Derecho del Consumidor
+
+Concepto, fuentes, relación de consumo y principios fundamentales.
+
+[Ingresar a la presentación →](consumidor-introduccion-stiglitz.html){target="_blank" .btn-clase}
+:::
+
+::: {.clase-card}
+### Clase 2
+
+## Ley de Defensa del Consumidor
+
+Ley 24.240 · análisis artículo por artículo · consumidores hipervulnerables · publicidad comparativa.
+
+::: {.material}
+**Ley 24.240 · Arts. 1 a 20**
+
+[Ver presentación →](clase2.html){target="_blank" .btn-clase}
+:::
+
+::: {.material}
+**Consumidores hipervulnerables**
+
+[Ver presentación →](clase2-hipervulnerables.html){target="_blank" .btn-clase}
+:::
+
+::: {.material}
+**Publicidad comparativa**
+
+[Descargar PowerPoint →](Publicidad%20comparativa.pptx){target="_blank" .btn-secundario}
+:::
+:::
+
+::: {.clase-card .proximamente}
+### Clase 3
+
+## Próximamente
+
+El material será incorporado a medida que avance el curso.
+:::

@@ -1,0 +1,798 @@
+---
+title: "Consumidores Hipervulnerables"
+subtitle: "Vulnerabilidad agravada · Protección reforzada · Jurisprudencia reciente"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: fade
+    center: false
+    scrollable: true
+    controls: true
+    progress: true
+    hash: true
+    slide-level: 1
+---
+
+# Consumidores hipervulnerables
+
+## De la vulnerabilidad estructural a la tutela reforzada
+
+La relación de consumo parte de una **asimetría estructural** entre proveedor y consumidor.
+
+Pero existen situaciones en las que esa vulnerabilidad general se encuentra **agravada** por circunstancias personales, económicas, sociales o culturales.
+
+::: {.idea-central}
+La hipervulnerabilidad expresa una **desigualdad dentro de la desigualdad**: determinados consumidores encuentran obstáculos adicionales para comprender, decidir, reclamar o ejercer efectivamente sus derechos.
+:::
+
+---
+
+# Punto de partida
+
+## Todo consumidor es vulnerable
+
+El derecho del consumidor reconoce una desigualdad típica:
+
+- asimetría informativa;
+- desigual poder de negociación;
+- contratación predispuesta;
+- profesionalidad del proveedor;
+- dificultades probatorias;
+- costos de acceso al reclamo.
+
+La categoría de consumidor hipervulnerable agrega un segundo nivel de análisis.
+
+::: {.formula}
+VULNERABILIDAD CONSUMERIL
+
++
+
+CIRCUNSTANCIA AGRAVANTE
+
+=
+
+NECESIDAD DE PROTECCIÓN REFORZADA
+:::
+
+---
+
+# ¿Qué es la hipervulnerabilidad?
+
+El concepto comprende situaciones en las que determinados factores dificultan especialmente el ejercicio de los derechos del consumidor.
+
+Pueden intervenir circunstancias:
+
+- económicas;
+- sociales;
+- culturales;
+- físicas;
+- vinculadas con la edad;
+- relacionadas con la salud;
+- vinculadas con barreras de comprensión o acceso.
+
+## No alcanza con reconocer formalmente el derecho
+
+La tutela debe ser **efectivamente accesible**.
+
+---
+
+# Vulnerabilidad multidimensional
+
+La hipervulnerabilidad no debe pensarse desde una única variable.
+
+Una misma persona puede encontrarse atravesada simultáneamente por:
+
+- edad avanzada;
+- bajos ingresos;
+- escaso nivel educativo;
+- discapacidad;
+- enfermedad;
+- dependencia de un servicio esencial;
+- barreras tecnológicas.
+
+::: {.idea-central}
+La acumulación de factores puede aumentar significativamente la dificultad real para desenvolverse en el mercado y defender los propios derechos.
+:::
+
+---
+
+# Vulnerabilidad permanente
+
+El material distingue situaciones estructurales o duraderas.
+
+Entre los colectivos mencionados aparecen:
+
+- adultos mayores;
+- jubilados;
+- personas con discapacidad;
+- migrantes;
+- integrantes de poblaciones originarias;
+- personas en situación de pobreza.
+
+La característica relevante es que la dificultad no deriva solamente de un episodio contractual aislado.
+
+## Existe una condición estructural que agrava la posición del consumidor.
+
+---
+
+# Fundamento constitucional
+
+## Artículo 75 inciso 23 CN
+
+El marco constitucional permite vincular la protección reforzada con las **medidas de acción positiva** destinadas a garantizar igualdad real.
+
+También adquieren relevancia los instrumentos internacionales de protección de grupos especialmente vulnerables.
+
+Entre los mencionados en el material:
+
+- Convención Interamericana sobre Derechos Humanos de las Personas Mayores;
+- CEDAW.
+
+::: {.formula}
+IGUALDAD FORMAL
+
+≠
+
+IGUALDAD REAL
+:::
+
+---
+
+# Acción positiva
+
+La protección reforzada no supone simplemente conceder un privilegio.
+
+Busca compensar obstáculos que impiden ejercer los derechos en condiciones reales de igualdad.
+
+Puede exigir:
+
+- asesoramiento especial;
+- tratamiento diferenciado;
+- acompañamiento;
+- adaptación de canales;
+- información accesible;
+- mecanismos efectivos de reclamo.
+
+::: {.idea-central}
+Tratar de manera idéntica situaciones profundamente desiguales puede reproducir la desigualdad existente.
+:::
+
+---
+
+# Evolución normativa
+
+## Resolución 139/2020
+
+Constituyó un antecedente central en el reconocimiento administrativo de consumidores hipervulnerables.
+
+## Disposición 137/2024
+
+La Subsecretaría de Defensa del Consumidor y Lealtad Comercial:
+
+- derogó la Resolución 139/2020;
+- estableció un nuevo marco;
+- utiliza la categoría de **consumidor vulnerable**;
+- prevé medidas especiales de protección.
+
+---
+
+# Disposición 137/2024
+
+## Concepto
+
+El material reproduce como consumidor vulnerable a la persona humana que, atendiendo a circunstancias como:
+
+- edad;
+- género;
+- condiciones de salud;
+- circunstancias sociales;
+- circunstancias económicas;
+- circunstancias culturales;
+
+sea o pueda ser particularmente afectada en sus derechos como consumidor.
+
+## El análisis es contextual
+
+No se trata solamente de incorporar personas a una lista cerrada.
+
+---
+
+# ¿Categoría o situación?
+
+Una cuestión conceptual importante es evitar convertir la vulnerabilidad en una etiqueta automática.
+
+La situación concreta puede depender de:
+
+### Condiciones personales
+Edad, salud, discapacidad.
+
+### Condiciones socioeconómicas
+Ingresos, educación, acceso al crédito.
+
+### Características del mercado
+Complejidad del producto, digitalización, información técnica.
+
+### Naturaleza de la prestación
+Salud, crédito o servicios esenciales.
+
+::: {.pregunta}
+¿La misma persona puede encontrarse especialmente vulnerable frente a una contratación y no necesariamente frente a otra?
+:::
+
+---
+
+# Consecuencias jurídicas
+
+La protección reforzada repercute sobre distintos deberes del proveedor.
+
+Especialmente:
+
+- información;
+- buena fe;
+- trato digno;
+- prevención de prácticas abusivas;
+- accesibilidad;
+- atención de reclamos;
+- colaboración probatoria.
+
+## La vulnerabilidad modifica la intensidad con la que deben cumplirse deberes ya existentes.
+
+---
+
+# Información reforzada
+
+## Art. 4 LDC
+
+La información cierta, clara y detallada adquiere especial relevancia cuando el destinatario enfrenta barreras adicionales.
+
+No basta con que la información exista formalmente.
+
+Debe ser:
+
+- comprensible;
+- accesible;
+- oportuna;
+- adecuada al destinatario;
+- suficiente para adoptar una decisión real.
+
+::: {.idea-central}
+Una información técnicamente correcta puede ser jurídicamente insuficiente cuando el proveedor conoce que el consumidor no puede comprenderla razonablemente en la forma utilizada.
+:::
+
+---
+
+# Trato digno reforzado
+
+## Art. 8 bis LDC
+
+La hipervulnerabilidad se conecta directamente con el deber de trato digno.
+
+El proveedor debe evitar que su organización:
+
+- humille;
+- intimide;
+- desaliente reclamos;
+- profundice barreras;
+- aproveche dificultades de comprensión;
+- agrave una situación personal conocida.
+
+## La dignidad se evalúa desde las circunstancias reales del consumidor.
+
+---
+
+# Sectores especialmente sensibles
+
+El material identifica ámbitos en los que la tutela reforzada adquiere especial importancia.
+
+### Salud
+
+La negativa o demora puede afectar bienes fundamentales.
+
+### Crédito
+
+Existe riesgo de sobreendeudamiento y aprovechamiento de asimetrías informativas.
+
+### Servicios esenciales
+
+La dependencia del servicio puede aumentar significativamente el poder del proveedor.
+
+---
+
+# Hipervulnerabilidad y prueba
+
+El material vincula la tutela reforzada con mecanismos probatorios adecuados.
+
+Cuando el proveedor controla:
+
+- documentación;
+- contratos;
+- sistemas informáticos;
+- registros;
+- grabaciones;
+- información técnica;
+
+su deber de colaboración adquiere especial intensidad.
+
+::: {.formula}
+MAYOR ASIMETRÍA PROBATORIA
+
+→
+
+MAYOR DEBER DE COLABORACIÓN DEL PROVEEDOR
+:::
+
+---
+
+# Jurisprudencia reciente
+
+## Tres problemas diferentes
+
+El material propone tres casos especialmente útiles:
+
+1. **Ruffo c/ Omint** — adulto mayor, medicina prepaga e IVA.
+2. **Mechetner c/ Sancor Salud** — cobertura médica urgente.
+3. **Romero c/ Cartasur Cards** — crédito, sobreendeudamiento y prácticas abusivas.
+
+Los tres permiten observar que la hipervulnerabilidad no funciona como una categoría meramente teórica.
+
+---
+
+# Caso Ruffo c/ Omint
+
+## CNCom., Sala C · 8/5/2025
+
+El caso involucra a un consumidor jubilado y adulto mayor frente a una empresa de medicina prepaga.
+
+Según el material:
+
+- se reconoció una situación de hipervulnerabilidad;
+- se discutió facturación indebida de IVA;
+- se ordenó refacturar;
+- se dispuso la devolución de importes;
+- adquirieron relevancia información y trato digno.
+
+---
+
+# Ruffo · La vulnerabilidad concreta
+
+El material destaca factores concurrentes:
+
+- edad superior a 70 años;
+- condición de jubilado;
+- situación socioeconómica delicada;
+- circunstancias familiares vinculadas con discapacidad.
+
+::: {.idea-central}
+La hipervulnerabilidad aparece construida a partir de la **convergencia de circunstancias**, no de una abstracción desvinculada del caso.
+:::
+
+---
+
+# Ruffo · Deber del proveedor
+
+## Medicina prepaga
+
+La empresa profesional debe actuar con particular:
+
+- diligencia;
+- buena fe;
+- claridad informativa;
+- consideración de las circunstancias del afiliado.
+
+La posición vulnerable del consumidor impide naturalizar errores administrativos que trasladan al usuario la carga de descubrir, gestionar y corregir problemas generados por la organización empresarial.
+
+---
+
+# Ruffo · Regla para discutir
+
+::: {.pregunta}
+¿El proveedor cumple simplemente corrigiendo el error una vez descubierto?
+:::
+
+La tutela reforzada permite analizar también:
+
+- cuánto tiempo persistió;
+- qué información suministró;
+- qué obstáculos encontró el consumidor;
+- cómo respondió ante el reclamo;
+- si agravó innecesariamente la situación.
+
+## La calidad de la respuesta empresarial también integra el análisis consumeril.
+
+---
+
+# Caso Mechetner c/ Sancor Salud
+
+## CNCom., Sala C · 5/6/2025
+
+El afiliado debió afrontar el costo de una cirugía ocular urgente ante la negativa de cobertura.
+
+Según el material, la sentencia dispuso:
+
+- reintegro de gastos;
+- indemnización por daño moral;
+- aplicación de tutela consumeril;
+- consideración reforzada del derecho a la salud.
+
+---
+
+# Mechetner · Salud e hipervulnerabilidad
+
+En contratos de medicina prepaga el incumplimiento puede proyectarse sobre bienes que exceden el mero interés patrimonial.
+
+::: {.formula}
+CONSUMIDOR
+
++
+
+ADULTO MAYOR
+
++
+
+NECESIDAD MÉDICA URGENTE
+
+=
+
+TUTELA PARTICULARMENTE INTENSA
+:::
+
+La demora o negativa puede colocar al consumidor ante una decisión crítica:
+
+## pagar personalmente o comprometer su salud.
+
+---
+
+# Mechetner · Carga dinámica
+
+El material destaca un punto probatorio central.
+
+La empresa que pretende negar una prestación debe encontrarse en condiciones de demostrar adecuadamente:
+
+- la exclusión invocada;
+- su fundamento;
+- la información suministrada;
+- las condiciones contractuales aplicables.
+
+## Quien controla la información relevante no puede limitarse a trasladar al consumidor la imposibilidad de probarla.
+
+---
+
+# Mechetner · Trato digno
+
+La protección no se agota en determinar si finalmente existía cobertura.
+
+También debe analizarse:
+
+- respuesta brindada;
+- urgencia;
+- diligencia;
+- impacto de la negativa;
+- situación personal del afiliado.
+
+::: {.idea-central}
+En materia de salud, una respuesta tardía puede equivaler prácticamente a una respuesta inútil.
+:::
+
+---
+
+# Caso Romero c/ Cartasur Cards
+
+## CNCom., Sala C · 14/10/2024
+
+El caso presenta una combinación especialmente intensa de vulnerabilidades.
+
+La actora era:
+
+- mujer;
+- mayor de 80 años;
+- jubilada;
+- con educación básica incompleta;
+- sobreendeudada.
+
+Sus ingresos se encontraban fuertemente afectados por cuotas derivadas de créditos.
+
+---
+
+# Romero · Crédito y vulnerabilidad
+
+## El problema no era simplemente “haber pedido dinero prestado”
+
+La Cámara examinó la forma en que se estructuraron las operaciones.
+
+El material identifica:
+
+- falta de información clara;
+- omisiones sobre tasas;
+- ausencia del sistema de amortización;
+- condiciones particulares no consignadas;
+- capitalización de intereses;
+- duplicación de intereses sin mora.
+
+::: {.pregunta}
+¿Puede analizarse el consentimiento contractual sin considerar las condiciones reales en que fue obtenido?
+:::
+
+---
+
+# Romero · Información financiera
+
+En materia crediticia, la información es especialmente sensible.
+
+El consumidor debe poder comprender razonablemente:
+
+- cuánto recibe;
+- cuánto devolverá;
+- tasa aplicable;
+- sistema de amortización;
+- cantidad y monto de cuotas;
+- consecuencias de la mora;
+- costo económico real.
+
+## Sin información comprensible, la libertad contractual puede transformarse en una mera apariencia.
+
+---
+
+# Romero · Sobreendeudamiento
+
+El caso permite vincular hipervulnerabilidad y sobreendeudamiento.
+
+El crédito puede cumplir una función económica y social legítima.
+
+Pero también puede convertirse en un mecanismo de profundización de vulnerabilidad cuando:
+
+- se concede irresponsablemente;
+- se oculta su costo;
+- se refinancia indefinidamente;
+- se aprovecha la necesidad económica;
+- se compromete una porción irrazonable de los ingresos.
+
+---
+
+# Romero · Poder económico
+
+El material destaca la existencia de prácticas abusivas vinculadas con el poder económico de las demandadas.
+
+La protección consumeril busca impedir que la superioridad profesional permita:
+
+- imponer condiciones incomprensibles;
+- multiplicar deuda;
+- dificultar el reclamo;
+- utilizar mecanismos de cobranza abusivos.
+
+::: {.idea-central}
+La autonomía de la voluntad pierde capacidad explicativa cuando existe una desigualdad extrema entre las posibilidades reales de comprender y diseñar el negocio.
+:::
+
+---
+
+# Romero · Consecuencias
+
+Según el material, la sentencia dispuso:
+
+- nulidad de contratos de mutuo;
+- cese de reclamos;
+- indemnización por daño moral;
+- daño punitivo;
+- exclusión de bases de datos crediticias.
+
+## La tutela no se limitó a indemnizar.
+
+También procuró **desactivar los efectos persistentes** de las operaciones cuestionadas.
+
+---
+
+# Romero · Daño punitivo
+
+El material informa una condena de:
+
+## $5.000.000
+
+en concepto de daño punitivo.
+
+La decisión vincula la sanción con:
+
+- prácticas abusivas;
+- incumplimiento informativo;
+- trato indigno;
+- abuso de poder económico.
+
+::: {.pregunta}
+¿Por qué la reparación individual podría resultar insuficiente frente a una práctica empresarial particularmente grave?
+:::
+
+---
+
+# Tres casos · Tres dimensiones
+
+## Ruffo
+
+**Administración del contrato + adulto mayor + salud**
+
+## Mechetner
+
+**Negativa de cobertura + urgencia médica + prueba**
+
+## Romero
+
+**Crédito + sobreendeudamiento + información + prácticas abusivas**
+
+::: {.idea-central}
+La hipervulnerabilidad no genera un único remedio. Funciona como una circunstancia que atraviesa e intensifica distintos instrumentos del sistema protectorio.
+:::
+
+---
+
+# Un principio transversal
+
+Los casos permiten relacionar la hipervulnerabilidad con reglas ya conocidas de la LDC:
+
+- art. 4 → información;
+- art. 8 bis → trato digno;
+- interpretación favorable;
+- buena fe;
+- prácticas abusivas;
+- carga dinámica de la prueba;
+- reparación;
+- daño punitivo cuando corresponda.
+
+## La tutela reforzada no reemplaza el microsistema consumeril.
+
+## Lo intensifica.
+
+---
+
+# Proveedor y diseño del servicio
+
+Una consecuencia práctica importante consiste en trasladar el análisis desde la conducta individual del empleado hacia la organización empresarial.
+
+Debe preguntarse si el sistema fue diseñado para que una persona vulnerable pueda efectivamente:
+
+- comprender;
+- contratar;
+- pagar;
+- reclamar;
+- cancelar;
+- obtener respuesta.
+
+::: {.idea-central}
+La accesibilidad no es solamente física. También puede ser **informativa, económica, tecnológica y procedimental**.
+:::
+
+---
+
+# Vulnerabilidad tecnológica
+
+La digitalización puede simplificar la contratación.
+
+Pero también puede generar nuevas barreras para:
+
+- adultos mayores;
+- personas con baja alfabetización digital;
+- consumidores sin dispositivos adecuados;
+- personas con dificultades visuales o cognitivas.
+
+## Digitalizar no autoriza a excluir.
+
+El canal debe conservar mecanismos razonables de accesibilidad.
+
+---
+
+# ¿Protección reforzada = incapacidad?
+
+## No
+
+Reconocer vulnerabilidad no implica negar autonomía.
+
+El objetivo es permitir que la autonomía pueda ejercerse realmente.
+
+::: {.formula}
+PROTECCIÓN REFORZADA
+
+≠
+
+SUSTITUCIÓN DE LA VOLUNTAD
+
+PROTECCIÓN REFORZADA
+
+=
+
+CONDICIONES REALES PARA EJERCER DERECHOS
+:::
+
+---
+
+# Riesgo de paternalismo
+
+La tutela debe evitar dos extremos.
+
+### Desprotección
+
+Suponer que todos los consumidores poseen idénticas capacidades materiales para desenvolverse en el mercado.
+
+### Paternalismo
+
+Transformar la vulnerabilidad en una presunción de incapacidad personal.
+
+## El eje debe estar en remover barreras y evitar aprovechamientos.
+
+---
+
+# Caso para clase
+
+Una mujer de 78 años contrata telefónicamente un préstamo.
+
+La empresa:
+
+- informa únicamente el monto de la cuota;
+- no explica el costo total;
+- renueva automáticamente el crédito;
+- debita cuotas que absorben gran parte de la jubilación;
+- exige gestionar cualquier reclamo mediante una aplicación.
+
+::: {.pregunta}
+¿Qué elementos permiten identificar una situación de vulnerabilidad agravada?
+:::
+
+---
+
+# Caso para clase · Normas involucradas
+
+Podrían analizarse:
+
+- deber de información;
+- trato digno;
+- buena fe;
+- prácticas abusivas;
+- contratación financiera;
+- accesibilidad del reclamo;
+- prueba en poder del proveedor;
+- eventual sobreendeudamiento.
+
+## La hipervulnerabilidad no sustituye este análisis.
+
+Permite determinar **con qué intensidad deben aplicarse esas herramientas**.
+
+---
+
+# Pregunta de cierre
+
+::: {.pregunta}
+¿El consumidor hipervulnerable constituye una nueva categoría subjetiva rígida o una herramienta para evaluar desigualdades concretas dentro de la relación de consumo?
+:::
+
+La evolución normativa y jurisprudencial presentada en el material conduce a privilegiar una mirada:
+
+# CONTEXTUAL, MULTIDIMENSIONAL Y PROTECTORIA
+
+---
+
+# Síntesis
+
+## Cinco ideas para llevarse
+
+1. Todo consumidor parte de una situación estructural de vulnerabilidad.
+2. Algunas circunstancias producen una **vulnerabilidad agravada**.
+3. La igualdad real puede exigir **medidas diferenciadas de protección**.
+4. Información, trato digno, prueba y accesibilidad adquieren mayor intensidad.
+5. La jurisprudencia reciente aplica esta mirada especialmente en **salud, adultos mayores, crédito y sobreendeudamiento**.
+
+---
+
+# Consumidores hipervulnerables
+
+## La pregunta central
+
+No es solamente:
+
+> **¿Qué derecho reconoce la norma?**
+
+También debemos preguntar:
+
+> **¿Puede esta persona ejercerlo efectivamente en las condiciones concretas en las que se encuentra?**
+
+::: {.idea-central}
+La protección reforzada procura que los derechos del consumidor sean **reales y ejercitables**, y no únicamente declaraciones formales.
+:::

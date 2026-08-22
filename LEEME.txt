@@ -1,0 +1,15 @@
+Copiá estos archivos a la raíz de derecho-consumidor-uk.
+
+NO renombres ni muevas:
+- consumidor-introduccion-stiglitz.html
+- clase2.html
+- clase2-hipervulnerables.html
+- Publicidad comparativa.pptx
+
+Luego ejecutá:
+quarto preview
+
+Si se ve bien:
+quarto render
+
+La portada funciona como la de Derecho Tributario UK. No embebe presentaciones: cada botón abre el HTML correspondiente en una pestaña nueva.

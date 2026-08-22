@@ -1,0 +1,2898 @@
+---
+title: "Ley de Defensa del Consumidor"
+subtitle: "Ley 24.240 · Análisis artículo por artículo · Arts. 1 a 20"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: fade
+    center: false
+    scrollable: true
+    controls: true
+    progress: true
+    hash: true
+    slide-level: 1
+---
+
+# Ley 24.240
+
+## Defensa del Consumidor
+
+### Análisis artículo por artículo
+
+**Arts. 1 a 20**
+
+Enfoque central:
+
+- identificación de los sujetos y del ámbito de aplicación;
+
+- deberes impuestos al proveedor;
+
+- tutela de la información, salud, seguridad y dignidad;
+
+- formación y contenido del contrato de consumo;
+
+- garantías legales;
+
+- prestación de servicios.
+
+::: {.idea-central}
+
+La Ley 24.240 no debe leerse como un conjunto aislado de remedios contractuales.
+
+Conforma un ****régimen protectorio**** construido para corregir la desigualdad estructural propia de la relación de consumo.
+:::
+
+---
+
+# El fundamento constitucional
+
+## Artículo 42 de la Constitución Nacional
+
+La constitucionalización de la protección del consumidor incorpora al máximo nivel normativo derechos vinculados con:
+
+- salud;
+
+- seguridad;
+
+- intereses económicos;
+
+- información adecuada y veraz;
+
+- libertad de elección;
+
+- trato equitativo y digno.
+
+Esto modifica la lectura del derecho privado.
+
+::: {.formula}
+
+RELACIÓN DE CONSUMO
+
+→
+
+Cada sujeto puede integrar el concepto de proveedor.
+:::
+
+::: {.idea-central}
+
+ El consumidor no tiene por qué reconstruir internamente la organización empresarial para identificar quién controla cada etapa.
+
+El sistema proyecta deberes sobre la ****cadena profesional de provisión****.
+:::
+
+---
+
+# Art. 2 · Proveedor público
+
+La naturaleza pública del sujeto no excluye automáticamente el régimen.
+
+Tambussi recoge jurisprudencia que afirma que la sola naturaleza jurídica estatal o pública:
+
+## NO BASTA PARA EXCLUIR LA LDC.
+
+Debe analizarse la actividad desarrollada y la relación concreta con el usuario.
+
+---
+
+# Art. 2 · Profesiones liberales
+
+La ley contiene una exclusión específica respecto de los servicios prestados por profesionales liberales que requieran:
+
+-  título universitario;
+
+-  matrícula otorgada por colegio profesional reconocido oficialmente o autoridad facultada.
+
+Pero la exclusión debe interpretarse con precisión.
+
+---
+
+# Art. 2 · Profesionales liberales
+
+## La publicidad sí queda alcanzada
+
+La exclusión del servicio profesional no significa inmunidad absoluta frente al derecho del consumidor.
+
+La publicidad de servicios profesionales:
+
+## QUEDA COMPRENDIDA.
+
+Esto permite controlar:
+
+-  mensajes promocionales;
+
+-  promesas;
+
+-  información comercial;
+
+-  publicidad potencialmente engañosa.
+
+---
+
+# Art. 2 · Distinción importante
+
+### Prestación profesional
+
+Puede quedar comprendida en la exclusión legal.
+
+### Actividad comercial vinculada
+
+Puede quedar sometida al régimen consumeril.
+
+### Publicidad profesional
+
+Se encuentra expresamente contemplada.
+
+::: {.pregunta}
+
+ ¿Todo acto realizado por un profesional matriculado queda fuera de la LDC?
+
+**No.**
+:::
+
+---
+
+# Art. 2 · Jurisprudencia
+
+## Proveedor público
+
+Tambussi recoge jurisprudencia según la cual la naturaleza pública de la demandada no excluye por sí misma el estatuto protectorio.
+
+### Enseñanza
+
+La calificación debe atender a:
+
+-  función concretamente desarrollada;
+
+-  existencia de usuario o consumidor;
+
+-  profesionalidad;
+
+-  servicio prestado.
+
+---
+
+# Art. 2 · Jurisprudencia
+
+## Cadena de provisión y desperfectos
+
+En casos de productos complejos, los tribunales han considerado aplicable el régimen a distintos integrantes de la cadena.
+
+La tutela no se limita al vendedor que celebró directamente el contrato.
+
+Esto será especialmente importante al llegar a:
+
+# ART. 13 · SOLIDARIDAD EN LA GARANTÍA
+
+---
+
+# ARTÍCULO 3
+
+## Relación de consumo
+
+La ley define la relación de consumo como el:
+
+# VÍNCULO JURÍDICO ENTRE PROVEEDOR Y CONSUMIDOR
+
+Este concepto es más amplio que el contrato.
+
+::: {.formula}
+
+ CONTRATO DE CONSUMO
+
+⊂
+
+RELACIÓN DE CONSUMO
+:::
+
+---
+
+# Art. 3 · ¿Por qué es más amplia?
+
+Porque el derecho del consumidor protege situaciones:
+
+### Antes del contrato
+
+-  publicidad;
+
+-  oferta;
+
+-  información;
+
+-  prácticas comerciales.
+
+### Durante el contrato
+
+-  cumplimiento;
+
+-  seguridad;
+
+-  trato digno.
+
+### Después del contrato
+
+-  garantía;
+
+-  reparación;
+
+-  servicio técnico;
+
+-  cobranza;
+
+-  rescisión.
+
+---
+
+# Art. 3 · Contractual o extracontractual
+
+La relación de consumo puede comprender daños y deberes cuya tutela no depende de encajarlos primero en la vieja división:
+
+-  contractual;
+
+-  extracontractual.
+
+La pregunta prioritaria es:
+
+## ¿EL DAÑO O CONFLICTO SE PRODUJO EN EL MARCO DE UNA RELACIÓN DE CONSUMO?
+
+---
+
+# Art. 3 · Unidad práctica
+
+Tambussi destaca la utilidad del concepto.
+
+Una vez identificada la relación de consumo:
+
+-  se activa el estatuto protectorio;
+
+-  operan sus principios;
+
+-  se aplican sus deberes;
+
+-  se integran las distintas fuentes normativas.
+
+::: {.idea-central}
+
+ La relación de consumo funciona como la ****puerta de entrada al microsistema****.
+:::
+
+---
+
+# Art. 3 · Alcance temporal
+
+La tutela puede proyectarse sobre:
+
+-  etapa precontractual;
+
+-  celebración;
+
+-  ejecución;
+
+-  etapa poscontractual.
+
+### Ejemplo
+
+Una publicidad engañosa puede generar tutela consumeril:
+
+**aunque todavía no se haya celebrado el contrato.**
+
+---
+
+# Art. 3 · Integración normativa
+
+La LDC no funciona aislada.
+
+El art. 3 establece la integración con:
+
+-  normas generales;
+
+-  normas especiales;
+
+-  regímenes sectoriales;
+
+-  normas de lealtad comercial y competencia;
+
+-  reglas del Código Civil y Comercial.
+
+La coexistencia de normas no debe utilizarse para reducir la tutela.
+
+---
+
+# Art. 3 · Regla de interpretación
+
+Ante duda interpretativa:
+
+# PREVALECE LA NORMA MÁS FAVORABLE AL CONSUMIDOR
+
+No significa que el juez pueda ignorar el sistema jurídico.
+
+Significa que, frente a interpretaciones jurídicamente posibles, la orientación protectoria actúa como criterio decisorio.
+
+---
+
+# Art. 3 · Microsistema
+
+Tambussi presenta al derecho del consumidor como un verdadero:
+
+## MICROSISTEMA DE PROTECCIÓN
+
+Sus normas se relacionan con:
+
+-  derecho civil;
+
+-  comercial;
+
+-  administrativo;
+
+-  constitucional;
+
+-  regímenes sectoriales.
+
+::: {.idea-central}
+
+ La especialidad consumeril no significa aislamiento.
+
+Significa ****integración bajo un principio protectorio****.
+:::
+
+---
+
+# Art. 3 · Jurisprudencia
+
+## Relación de consumo sin contrato clásico
+
+Tambussi recoge decisiones que señalan que la relación de consumo puede anudarse por el mero contacto social entre proveedor y consumidor.
+
+### Consecuencia
+
+No siempre será necesario demostrar previamente:
+
+-  contrato escrito;
+
+-  negociación;
+
+-  consentimiento formal tradicional.
+
+Lo decisivo es la existencia de una vinculación jurídicamente relevante dentro del mercado de consumo.
+
+---
+
+# Art. 3 · Jurisprudencia
+
+## Servicios públicos
+
+La prestación de un servicio público no desplaza por sí sola la tutela consumeril.
+
+Cuando existe:
+
+-  usuario;
+
+-  proveedor;
+
+-  prestación destinada al consumo final;
+
+el régimen sectorial debe articularse con el estatuto del consumidor.
+
+---
+
+# ARTÍCULO 4
+
+## Deber de información
+
+El proveedor debe suministrar información:
+
+-  cierta;
+
+-  clara;
+
+-  detallada;
+
+-  sobre las características esenciales del bien o servicio;
+
+-  y sobre sus condiciones de comercialización.
+
+La información debe permitir:
+
+# COMPRENDER Y DECIDIR
+
+---
+
+# Art. 4 · Fundamento constitucional
+
+El deber de información no nace sólo de la ley.
+
+Tiene apoyo directo en:
+
+## ART. 42 CN
+
+El consumidor debe poder tomar decisiones libres en un mercado que se caracteriza por una fuerte desigualdad informativa.
+
+::: {.formula}
+
+ LIBERTAD DE ELECCIÓN
+
+REQUIERE
+
+INFORMACIÓN ADECUADA
+:::
+
+---
+
+# Art. 4 · ¿Por qué existe?
+
+El proveedor conoce normalmente:
+
+-  composición;
+
+-  funcionamiento;
+
+-  riesgos;
+
+-  precio;
+
+-  condiciones;
+
+-  restricciones;
+
+-  mantenimiento;
+
+-  límites del servicio.
+
+El consumidor no posee naturalmente esa información.
+
+::: {.idea-central}
+
+ La ley desplaza sobre quien controla la información el ****deber de revelarla adecuadamente****.
+:::
+
+---
+
+# Art. 4 · Caracteres
+
+La información debe reunir varios atributos.
+
+### Cierta
+
+Debe ser verdadera.
+
+### Clara
+
+Debe poder comprenderse.
+
+### Detallada
+
+Debe contener los elementos relevantes.
+
+### Gratuita
+
+El consumidor no paga por acceder a aquello que necesita para ejercer sus derechos.
+
+### Comprensible
+
+No basta con entregar datos técnicamente correctos si resultan ininteligibles para el destinatario.
+
+---
+
+# Art. 4 · Suficiencia
+
+No se exige entregar cualquier cantidad de información.
+
+Se exige la necesaria para conocer:
+
+-  qué se adquiere;
+
+-  qué características posee;
+
+-  qué riesgos presenta;
+
+-  cuánto cuesta;
+
+-  cómo debe utilizarse;
+
+-  qué obligaciones asumirá el consumidor;
+
+-  qué limitaciones existen.
+
+::: {.idea-central}
+
+ ****Más información**** no necesariamente significa ****mejor información****.
+
+El estándar es información ****útil y comprensible****.
+:::
+
+---
+
+# Art. 4 · Oportunidad
+
+La información debe llegar:
+
+# ANTES DE QUE SEA DEMASIADO TARDE
+
+No cumple adecuadamente su función si el consumidor conoce una condición esencial:
+
+-  después de contratar;
+
+-  después de pagar;
+
+-  o cuando ya no puede elegir razonablemente otra alternativa.
+
+---
+
+# Art. 4 · Deber dinámico
+
+La información no se agota necesariamente al celebrar el contrato.
+
+Puede subsistir durante:
+
+-  ejecución;
+
+-  modificaciones;
+
+-  actualizaciones;
+
+-  aparición de nuevos riesgos;
+
+-  servicio posventa.
+
+La relación de consumo puede exigir información durante toda su duración.
+
+---
+
+# Art. 4 · Profesionalidad
+
+Cuanto mayor sea:
+
+-  especialización;
+
+-  complejidad técnica;
+
+-  opacidad del producto;
+
+-  conocimiento profesional del proveedor;
+
+mayor será normalmente la intensidad del deber informativo.
+
+::: {.formula}
+
+ MAYOR ASIMETRÍA
+
+→
+
+MAYOR EXIGENCIA INFORMATIVA
+:::
+
+---
+
+# Art. 4 · Incumplimiento
+
+La omisión informativa puede funcionar de dos formas.
+
+### Incumplimiento autónomo
+
+La falta de información constituye por sí misma una infracción.
+
+### Incumplimiento causal
+
+La información omitida provoca:
+
+-  contratación defectuosa;
+
+-  error;
+
+-  daño;
+
+-  pérdida económica;
+
+-  utilización riesgosa.
+
+---
+
+# Art. 4 · La prueba
+
+El proveedor se encuentra normalmente en mejor situación para demostrar:
+
+-  qué informó;
+
+-  cuándo;
+
+-  por qué medio;
+
+-  con qué contenido.
+
+Esto se conecta con el principio de colaboración probatoria del régimen consumeril.
+
+::: {.pregunta}
+
+ ¿Puede el proveedor limitarse a afirmar:
+
+“el consumidor debía saberlo”?
+
+En general, no cuando se trata de información que profesionalmente debía suministrar.
+:::
+
+---
+
+# Art. 4 · Beneficio para el mercado
+
+Tambussi remarca que informar correctamente no sólo beneficia individualmente al consumidor.
+
+También:
+
+-  mejora competencia;
+
+-  reduce engaños;
+
+-  permite comparar;
+
+-  favorece decisiones racionales;
+
+-  premia al proveedor que ofrece mejores condiciones reales.
+
+---
+
+# ARTÍCULO 5
+
+## Protección de la salud
+
+Las cosas y servicios deben ser suministrados de manera tal que:
+
+**utilizados en condiciones previsibles o normales**
+
+no presenten peligro para:
+
+-  salud;
+
+-  integridad física del consumidor.
+
+::: {.idea-central}
+
+ La obligación de seguridad no exige únicamente que el producto “funcione”.
+
+Exige que su utilización normal o previsible sea ****segura****.
+:::
+
+---
+
+# Art. 5 · Riesgo permitido y defecto
+
+No todo producto debe ser absolutamente incapaz de producir daño.
+
+Algunos bienes presentan riesgos inherentes.
+
+La cuestión es determinar si:
+
+-  el riesgo es razonable;
+
+-  fue adecuadamente controlado;
+
+-  se proporcionó información;
+
+-  se adoptaron medidas preventivas.
+
+---
+
+# Art. 5 · Uso previsible
+
+El estándar no se limita al:
+
+> “uso ideal imaginado por el fabricante”.
+
+También exige considerar:
+
+## USOS PREVISIBLES
+
+El diseño de seguridad debe contemplar conductas razonablemente esperables del consumidor.
+
+---
+
+# Art. 5 · Función preventiva
+
+La norma actúa antes del daño.
+
+El derecho del consumidor no espera necesariamente:
+
+# QUE EL ACCIDENTE OCURRA
+
+para exigir seguridad.
+
+La prevención integra la tutela.
+
+---
+
+# ARTÍCULO 6
+
+## Cosas y servicios riesgosos
+
+Cuando el uso pueda suponer riesgo para la salud o integridad:
+
+el proveedor debe extremar mecanismos de seguridad.
+
+La ley exige:
+
+-  observancia de normas;
+
+-  instrucciones adecuadas;
+
+-  mecanismos razonables;
+
+-  asesoramiento;
+
+-  manual en idioma nacional cuando corresponda.
+
+---
+
+# Art. 6 · Información + seguridad
+
+Los arts. 4, 5 y 6 deben leerse conjuntamente.
+
+```
+
+ART. 4
+
+```
+
+INFORMAR
+
+   ↓
+
+ART. 5
+
+NO EXPONER A RIESGOS INDEBIDOS
+
+   ↓
+
+ART. 6
+
+ADVERTIR Y CONTROLAR RIESGOS ESPECÍFICOS
+
+::: {.idea-central}
+
+ La seguridad no se logra sólo mediante advertencias.
+
+Primero debe diseñarse y prestarse de modo seguro; la información complementa la prevención.
+:::
+
+---
+
+# Art. 6 · Manual y asesoramiento
+
+En productos complejos o riesgosos, una advertencia genérica puede ser insuficiente.
+
+El proveedor debe facilitar:
+
+-  instrucciones de uso;
+
+-  instalación;
+
+-  mantenimiento;
+
+-  precauciones;
+
+-  condiciones seguras de empleo.
+
+### Pregunta
+
+¿Sirve un manual técnicamente perfecto que el consumidor medio no puede comprender?
+
+## NO.
+
+---
+
+# ARTÍCULO 7
+
+## Oferta
+
+La oferta dirigida a consumidores potenciales indeterminados:
+
+# OBLIGA AL OFERENTE
+
+Debe contener:
+
+-  modalidades;
+
+-  condiciones;
+
+-  limitaciones;
+
+-  plazo de vigencia.
+
+La regla protege la confianza creada en el mercado.
+
+---
+
+# Art. 7 · Cambio de paradigma
+
+En el consumo masivo, gran parte de la contratación comienza mediante:
+
+-  vidrieras;
+
+-  páginas web;
+
+-  aplicaciones;
+
+-  catálogos;
+
+-  promociones;
+
+-  anuncios.
+
+La ley evita que el proveedor atraiga al consumidor mediante una propuesta y luego desconozca sus términos.
+
+::: {.formula}
+
+ OFERTA AL PÚBLICO
+
+→
+
+EFECTO VINCULANTE
+:::
+
+---
+
+# Art. 7 · Revocación
+
+La revocación de una oferta dirigida a consumidores debe ser difundida por medios similares a los utilizados para formularla.
+
+### Razón
+
+Quien generó confianza públicamente debe desactivar esa confianza de forma igualmente eficaz.
+
+No alcanza una revocación:
+
+-  secreta;
+
+-  interna;
+
+-  o inaccesible al público alcanzado.
+
+---
+
+# Art. 7 · Oferta incumplida
+
+El incumplimiento puede dar lugar a:
+
+-  exigencia de cumplimiento;
+
+-  sustitución;
+
+-  resolución;
+
+-  daños;
+
+-  sanciones administrativas.
+
+El proveedor no puede utilizar la publicidad de una ventaja como simple mecanismo de atracción y luego negarla al contratar.
+
+---
+
+# ARTÍCULO 8
+
+## Efectos de la publicidad
+
+Las precisiones formuladas en:
+
+-  publicidad;
+
+-  anuncios;
+
+-  prospectos;
+
+-  circulares;
+
+-  otros medios de difusión;
+
+# SE TIENEN POR INCLUIDAS EN EL CONTRATO
+
+y obligan al oferente.
+
+---
+
+# Art. 8 · Publicidad vinculante
+
+La publicidad deja de ser jurídicamente:
+
+> “mera exageración comercial sin consecuencias”.
+
+Cuando contiene precisiones relevantes:
+
+## INTEGRA EL CONTENIDO CONTRACTUAL.
+
+::: {.idea-central}
+
+ El proveedor queda obligado no sólo por lo escrito en el formulario final.
+
+También por las ****expectativas concretas que él mismo generó mediante publicidad****.
+:::
+
+---
+
+# Art. 8 · Funciones de la publicidad
+
+Tambussi destaca que la publicidad:
+
+-  informa;
+
+-  persuade;
+
+-  posiciona productos;
+
+-  genera necesidades y expectativas;
+
+-  influye en la decisión económica.
+
+Precisamente por su potencia comercial:
+
+# EL DERECHO LE ATRIBUYE CONSECUENCIAS.
+
+---
+
+# Art. 8 · Presupuestos de licitud
+
+La publicidad debe respetar, entre otros, criterios de:
+
+-  legalidad;
+
+-  veracidad;
+
+-  autenticidad;
+
+-  reconocimiento como mensaje publicitario;
+
+-  respeto de prohibiciones especiales.
+
+Una publicidad puede ser formalmente atractiva y, sin embargo, jurídicamente ilícita.
+
+---
+
+# Art. 8 · Jurisprudencia
+
+## Publicidad y productos para adelgazar
+
+Tambussi recoge jurisprudencia administrativa relacionada con mensajes publicitarios capaces de inducir a error respecto de:
+
+-  resultados;
+
+-  eficacia;
+
+-  efectos del producto.
+
+### Regla
+
+La comunicación comercial debe analizarse desde la perspectiva de:
+
+## LA IMPRESIÓN GLOBAL QUE GENERA EN EL CONSUMIDOR
+
+y no únicamente mediante una lectura fragmentaria de expresiones aisladas.
+
+---
+
+# Art. 8 · Jurisprudencia
+
+## “Aerobaires”
+
+Tambussi recoge un caso en el cual una promoción publicitada integró la contratación.
+
+### Problema
+
+El proveedor pretendía desconocer una ventaja promocional invocando condiciones no claramente comunicadas.
+
+### Regla
+
+Las condiciones relevantes deben ser:
+
+-  visibles;
+
+-  comprensibles;
+
+-  coherentes con el mensaje principal.
+
+No es admisible atraer con una promesa clara y neutralizarla luego mediante restricciones ocultas.
+
+---
+
+# ARTÍCULO 8 BIS
+
+## Trato digno y prácticas abusivas
+
+Los proveedores deben garantizar:
+
+# CONDICIONES DE ATENCIÓN Y TRATO DIGNO Y EQUITATIVO
+
+Deben abstenerse de conductas que coloquen a consumidores en situaciones:
+
+-  vergonzantes;
+
+-  vejatorias;
+
+-  intimidatorias.
+
+---
+
+# Art. 8 bis · Dignidad
+
+La norma lleva al plano legal un mandato constitucional del art. 42 CN.
+
+El consumidor debe ser tratado:
+
+## COMO PERSONA
+
+y no simplemente como:
+
+-  número de cliente;
+
+-  fuente de ingresos;
+
+-  objeto de presión;
+
+-  obstáculo operativo.
+
+---
+
+# Art. 8 bis · Igualdad
+
+El trato digno se conecta con:
+
+-  igualdad;
+
+-  no discriminación;
+
+-  respeto de diferencias;
+
+-  consideración de vulnerabilidades particulares.
+
+::: {.idea-central}
+
+ Tratar igual no siempre significa tratar de manera idéntica.
+
+Puede ser necesario adoptar medidas diferenciadas para garantizar una ****igualdad real de acceso y ejercicio de derechos****.
+:::
+
+---
+
+# Art. 8 bis · Sujetos especialmente vulnerables
+
+La intensidad del deber de trato debe contemplar situaciones como:
+
+-  discapacidad;
+
+-  edad;
+
+-  dificultades de comprensión;
+
+-  barreras tecnológicas;
+
+-  dependencia de servicios esenciales.
+
+El estándar de atención debe adaptarse a las condiciones concretas del consumidor.
+
+---
+
+# Art. 8 bis · Prácticas abusivas
+
+No toda práctica abusiva requiere violencia o insultos.
+
+Puede configurarse mediante:
+
+-  esperas irrazonables;
+
+-  obstáculos artificiales;
+
+-  derivaciones interminables;
+
+-  negativa sistemática a responder;
+
+-  procedimientos diseñados para desalentar reclamos;
+
+-  exigencias innecesarias;
+
+-  exposición pública de deudas.
+
+---
+
+# Art. 8 bis · Cobranza
+
+La protección se extiende al cobro extrajudicial.
+
+No puede darse a la intimación una apariencia que induzca al consumidor a creer que se encuentra frente a:
+
+# UN RECLAMO JUDICIAL
+
+cuando no lo es.
+
+La existencia de una deuda:
+
+## NO ELIMINA LA DIGNIDAD DEL DEUDOR.
+
+---
+
+# Art. 8 bis · Responsabilidad
+
+El incumplimiento puede producir:
+
+-  sanción administrativa;
+
+-  responsabilidad civil;
+
+-  daño punitivo cuando concurran sus presupuestos;
+
+-  responsabilidad de quienes actúan en nombre del proveedor.
+
+La dignidad no es una recomendación ética.
+
+# ES UNA OBLIGACIÓN JURÍDICA.
+
+---
+
+# Art. 8 bis · Jurisprudencia
+
+## “Uriarte Martínez”
+
+La Corte relacionó el trato digno con la necesidad de atender a las condiciones reales de los usuarios.
+
+### Enseñanza
+
+La organización del servicio debe contemplar:
+
+-  personas con capacidades diferentes;
+
+-  menores;
+
+-  personas con dificultades de comprensión;
+
+-  condiciones razonables de seguridad y comodidad.
+
+::: {.idea-central}
+
+ El proveedor no puede diseñar el servicio para un usuario abstracto e ideal ignorando las personas reales que lo utilizan.
+:::
+
+---
+
+# Art. 8 bis · Jurisprudencia
+
+## “Ledesma c/ Metrovías”
+
+El trato digno aparece unido a la protección de la integridad del pasajero.
+
+La prestación masiva del servicio no justifica condiciones que:
+
+-  degraden;
+
+-  expongan;
+
+-  o sometan al usuario a riesgos evitables.
+
+### Clave
+
+****Dignidad + seguridad**** pueden operar conjuntamente.
+
+---
+
+# Art. 8 bis · Jurisprudencia
+
+## Demoras y falta de respuesta
+
+Tambussi recoge precedentes en los que se considera relevante:
+
+-  demora injustificada;
+
+-  falta de respuesta a reclamos;
+
+-  necesidad de reiterar gestiones;
+
+-  deficiente organización del servicio de atención.
+
+::: {.pregunta}
+
+ ¿Puede una empresa incumplir el trato digno sin insultar al consumidor?
+
+**Sí.**
+
+La indiferencia organizada también puede constituir una práctica abusiva.
+:::
+
+---
+
+# Art. 8 bis · Jurisprudencia
+
+## Supermercados y seguridad
+
+Tambussi recoge jurisprudencia que rechaza la idea de que los comercios puedan implementar controles de seguridad sin límite.
+
+La prevención de ilícitos no autoriza:
+
+-  humillaciones;
+
+-  exposiciones públicas;
+
+-  afectaciones innecesarias del honor;
+
+-  procedimientos desproporcionados.
+
+---
+
+# ARTÍCULO 9
+
+## Cosas deficientes, usadas o reconstituidas
+
+Cuando se ofrecen públicamente cosas que presentan alguna deficiencia o son:
+
+-  usadas;
+
+-  reconstituidas;
+
+esa circunstancia debe ser indicada:
+
+# EN FORMA PRECISA Y NOTORIA.
+
+---
+
+# Art. 9 · ¿Qué protege?
+
+El consumidor puede comprar perfectamente una cosa usada o con determinada deficiencia.
+
+Lo que la ley impide es:
+
+## QUE LO HAGA SIN SABERLO.
+
+::: {.formula}
+
+ CONSENTIMIENTO VÁLIDO
+
+REQUIERE
+
+CONOCIMIENTO DE LA CONDICIÓN REAL DEL BIEN
+:::
+
+---
+
+# Art. 9 · Tres categorías
+
+### Cosa usada
+
+Ya fue adquirida o utilizada anteriormente.
+
+### Cosa deficiente
+
+Presenta una insuficiencia o defecto que afecta su funcionamiento, calidad o prestaciones.
+
+### Cosa reconstituida
+
+Ha sido objeto de sustituciones o reparaciones destinadas a restablecer su funcionamiento.
+
+---
+
+# Art. 9 · Información esencial
+
+La condición de:
+
+-  usada;
+
+-  deficiente;
+
+-  reconstituida;
+
+puede determinar:
+
+-  precio;
+
+-  decisión de contratar;
+
+-  expectativa de duración;
+
+-  necesidad de mantenimiento;
+
+-  riesgos.
+
+Por eso constituye:
+
+## INFORMACIÓN ESENCIAL.
+
+---
+
+# Art. 9 · Consecuencias
+
+La falta de información puede habilitar:
+
+-  cumplimiento conforme lo ofrecido;
+
+-  resolución;
+
+-  reclamo de daños;
+
+-  sanciones administrativas;
+
+-  aplicación de garantías cuando corresponda.
+
+El proveedor no puede beneficiarse de su propia omisión informativa.
+
+---
+
+# ARTÍCULO 10
+
+## Contenido del documento de venta
+
+El documento debe contener información relevante acerca de:
+
+-  descripción del bien;
+
+-  identificación de las partes;
+
+-  garantía;
+
+-  plazos y condiciones de entrega;
+
+-  precio;
+
+-  condiciones de pago;
+
+-  costos adicionales.
+
+---
+
+# Art. 10 · Función del documento
+
+El documento cumple al menos tres funciones.
+
+### Informativa
+
+Permite conocer el negocio.
+
+### Instrumental
+
+Fija condiciones concretas.
+
+### Probatoria
+
+Facilita acreditar qué se contrató.
+
+::: {.idea-central}
+
+ En contratación masiva, la documentación reduce la distancia probatoria entre quien diseña el negocio y quien simplemente adhiere a él.
+:::
+
+---
+
+# Art. 10 · Precio final
+
+No basta con publicitar un valor parcial cuando el consumidor debe afrontar otros importes inevitables.
+
+La información debe permitir conocer:
+
+# CUÁNTO TERMINARÁ PAGANDO
+
+incluyendo las condiciones que determinan el costo total de la operación.
+
+---
+
+# Art. 10 · Formalidades
+
+La redacción debe ser:
+
+-  completa;
+
+-  clara;
+
+-  fácilmente legible;
+
+-  en idioma correspondiente;
+
+-  entregada al consumidor.
+
+No es suficiente que el proveedor conserve internamente la información.
+
+---
+
+# Art. 10 · Cláusulas adicionales
+
+Las cláusulas que no integran el documento principal y son agregadas:
+
+-  deben ser claramente identificables;
+
+-  no pueden utilizarse para ocultar obligaciones;
+
+-  ni contradecir sorpresivamente la información central.
+
+---
+
+# Art. 10 · Incumplimiento documental
+
+La omisión de documentación puede representar:
+
+-  infracción administrativa;
+
+-  incumplimiento del deber informativo;
+
+-  dificultad probatoria imputable al proveedor;
+
+-  indicio relevante en la interpretación del contrato.
+
+::: {.pregunta}
+
+ ¿Puede el proveedor beneficiarse de la falta de un documento que él mismo tenía obligación legal de entregar?
+
+La lógica protectoria conduce a una respuesta negativa.
+:::
+
+---
+
+# ARTÍCULO 10 BIS
+
+## Incumplimiento de la obligación
+
+Ante incumplimiento del proveedor, salvo caso fortuito o fuerza mayor, el consumidor puede optar entre distintas soluciones.
+
+La norma abandona la idea de que el proveedor pueda decidir unilateralmente:
+
+> “qué remedio le conviene ofrecer”.
+
+La elección pertenece al consumidor dentro de los límites legales.
+
+---
+
+# Art. 10 bis · Primera opción
+
+## Exigir cumplimiento forzado
+
+Siempre que sea posible.
+
+Ejemplo:
+
+El comercio recibió el precio pero no entrega el producto.
+
+El consumidor puede exigir:
+
+# LA ENTREGA DE LO CONTRATADO.
+
+---
+
+# Art. 10 bis · Segunda opción
+
+## Aceptar otro producto o prestación equivalente
+
+La equivalencia no puede ser impuesta unilateralmente por el proveedor.
+
+Debe ser:
+
+-  real;
+
+-  adecuada;
+
+-  aceptada por el consumidor.
+
+::: {.idea-central}
+
+ “Te doy otra cosa porque no tengo lo que vendí” no constituye por sí mismo cumplimiento.
+:::
+
+---
+
+# Art. 10 bis · Tercera opción
+
+## Resolver el contrato
+
+Con restitución de lo pagado.
+
+La resolución no impide necesariamente reclamar:
+
+-  daños;
+
+-  gastos;
+
+-  otras consecuencias indemnizables.
+
+---
+
+# Art. 10 bis · Daños
+
+La elección entre los remedios contractuales no elimina:
+
+# LA REPARACIÓN DE DAÑOS
+
+cuando corresponda.
+
+Debe distinguirse:
+
+-  solución del vínculo contractual;
+
+-  reparación de las consecuencias producidas por el incumplimiento.
+
+---
+
+# ARTÍCULO 10 TER
+
+## Modos de rescisión
+
+La ley procura que rescindir no sea artificialmente más difícil que contratar.
+
+Si la contratación se realizó por determinadas vías:
+
+-  electrónicas;
+
+-  telefónicas;
+
+-  similares;
+
+el proveedor debe facilitar mecanismos equivalentes de rescisión.
+
+---
+
+# Art. 10 ter · Simetría
+
+Una práctica frecuente del mercado consiste en:
+
+### Alta
+
+-  inmediata;
+
+-  digital;
+
+-  simple.
+
+### Baja
+
+-  presencial;
+
+-  formularios;
+
+-  esperas;
+
+-  múltiples gestiones.
+
+La regla busca impedir esa asimetría deliberada.
+
+::: {.formula}
+
+ FACILIDAD PARA CONTRATAR
+
+→
+
+FACILIDAD RAZONABLE PARA RESCINDIR
+:::
+
+---
+
+# Art. 10 ter · Obstáculos abusivos
+
+Pueden resultar incompatibles con el régimen:
+
+-  derivaciones sucesivas;
+
+-  teléfonos que no responden;
+
+-  exigencia de concurrencia presencial sin justificación;
+
+-  formularios inaccesibles;
+
+-  ausencia de constancia;
+
+-  demoras artificiales.
+
+---
+
+# ARTÍCULO 10 QUATER
+
+## Prohibición de cobro
+
+Solicitada la baja:
+
+el proveedor no debe continuar generando cargos por períodos posteriores cuando legalmente corresponde el cese.
+
+La norma procura evitar un fenómeno muy frecuente:
+
+# “LA BAJA QUE NUNCA TERMINA”
+
+---
+
+# Art. 10 quater · Constancia
+
+El mecanismo de baja debe permitir al consumidor acreditar:
+
+-  cuándo la solicitó;
+
+-  por qué medio;
+
+-  desde cuándo debía cesar el servicio.
+
+La trazabilidad protege especialmente frente a cargos posteriores.
+
+---
+
+# Art. 10 quater · Jurisprudencia
+
+Tambussi recoge decisiones anteriores y posteriores a estas reformas relativas a:
+
+-  servicios telefónicos;
+
+-  tarjetas;
+
+-  bajas no procesadas;
+
+-  cobros posteriores;
+
+-  falta de constancia.
+
+### Regla práctica
+
+La organización interna del proveedor no puede transformar la voluntad de rescindir en una carrera de obstáculos.
+
+---
+
+# CAPÍTULO IV
+
+# COSAS MUEBLES NO CONSUMIBLES
+
+---
+
+# ARTÍCULO 11
+
+## Garantía legal
+
+Cuando se comercializan cosas muebles no consumibles, consumidor y sucesivos adquirentes gozan de garantía legal por:
+
+-  defectos;
+
+-  vicios;
+
+-  falta de identidad entre lo ofrecido y lo entregado;
+
+-  problemas que afecten el correcto funcionamiento.
+
+---
+
+# Art. 11 · Garantía legal
+
+La garantía no depende de la generosidad del proveedor.
+
+# SURGE DE LA LEY.
+
+Por eso:
+
+-  existe aunque no haya “garantía comercial”;
+
+-  no puede ser eliminada mediante cláusulas contractuales;
+
+-  constituye un piso mínimo de tutela.
+
+---
+
+# Art. 11 · ¿Qué bienes comprende?
+
+La regla se refiere a:
+
+## COSAS MUEBLES NO CONSUMIBLES
+
+Es decir, bienes cuya utilización no implica necesariamente su desaparición material inmediata.
+
+Ejemplos:
+
+-  automóvil;
+
+-  electrodoméstico;
+
+-  teléfono;
+
+-  computadora;
+
+-  mueble.
+
+---
+
+# Art. 11 · Bienes usados
+
+La garantía también alcanza bienes usados.
+
+El régimen diferencia el plazo legal según la condición del producto.
+
+::: {.idea-central}
+
+ “Usado” no significa:
+
+> “sin derechos”.
+
+El consumidor acepta el desgaste razonablemente informado, no cualquier defecto oculto ni la desaparición del régimen legal.
+:::
+
+---
+
+# Art. 11 · Sujetos protegidos
+
+La garantía favorece:
+
+-  adquirente inicial;
+
+-  sucesivos adquirentes.
+
+Esto demuestra nuevamente que la tutela no queda encerrada en el contrato originario.
+
+La garantía:
+
+# ACOMPAÑA AL BIEN.
+
+---
+
+# Art. 11 · Falta de identidad
+
+Existe problema no sólo cuando la cosa se rompe.
+
+También cuando:
+
+# LO ENTREGADO NO COINCIDE CON LO OFRECIDO.
+
+Ejemplos:
+
+-  modelo distinto;
+
+-  características técnicas diferentes;
+
+-  accesorios faltantes;
+
+-  prestaciones inferiores.
+
+---
+
+# Art. 11 · Vicio o defecto
+
+Tambussi analiza el defecto en sentido amplio.
+
+Puede relacionarse con:
+
+-  diseño;
+
+-  fabricación;
+
+-  información;
+
+-  conservación;
+
+-  funcionamiento.
+
+Lo relevante es que la cosa no reúna razonablemente:
+
+-  identidad;
+
+-  calidad;
+
+-  funcionalidad;
+
+-  seguridad esperable.
+
+---
+
+# Art. 11 · Costos
+
+La garantía legal no puede trasladar al consumidor costos que corresponden a su cumplimiento.
+
+Cuando la cosa debe trasladarse para su reparación:
+
+-  flete;
+
+-  seguros;
+
+-  gastos razonables;
+
+deben ser afrontados según el régimen legal por los responsables de la garantía.
+
+---
+
+# Art. 11 · Plazo
+
+Tambussi destaca que el plazo constituye un mínimo de orden público.
+
+Las partes pueden:
+
+## AMPLIARLO.
+
+No pueden:
+
+## REDUCIRLO POR DEBAJO DEL PISO LEGAL.
+
+---
+
+# Art. 11 · Jurisprudencia
+
+## Vicios y ausencia de notificación
+
+Tambussi recoge decisiones en las que se discute si el consumidor pierde automáticamente sus derechos por no realizar determinadas notificaciones formales.
+
+### Criterio protectorio
+
+La garantía legal no debe ser vaciada mediante formalismos que no surgen razonablemente del régimen protectorio.
+
+---
+
+# Art. 11 · Jurisprudencia
+
+## Productos defectuosos
+
+Se recogen casos vinculados con automotores y otros productos en los cuales los defectos sucesivos y la incapacidad de reparar correctamente resultan relevantes para evaluar:
+
+-  incumplimiento de garantía;
+
+-  daños;
+
+-  procedencia de sustitución.
+
+---
+
+# ARTÍCULO 12
+
+## Servicio técnico
+
+Fabricantes, importadores y vendedores deben asegurar:
+
+-  servicio técnico adecuado;
+
+-  suministro de partes y repuestos.
+
+La obligación no termina con la venta.
+
+::: {.idea-central}
+
+ La comercialización de bienes durables genera deberes de ****posventa****.
+:::
+
+---
+
+# Art. 12 · Finalidad
+
+Una garantía sin posibilidad real de reparación sería ilusoria.
+
+Por eso el régimen exige infraestructura capaz de hacerla efectiva.
+
+### La posventa debe permitir
+
+-  diagnóstico;
+
+-  reparación;
+
+-  repuestos;
+
+-  continuidad funcional del bien.
+
+---
+
+# Art. 12 · Repuestos
+
+La obligación de disponer de repuestos evita que el consumidor quede con un bien inutilizable por falta de componentes razonablemente necesarios.
+
+La vida útil del producto no puede quedar enteramente sometida a una decisión unilateral del proveedor.
+
+---
+
+# Art. 12 · Piezas usadas
+
+El empleo de piezas usadas no constituye la regla.
+
+Su utilización requiere los supuestos admitidos legalmente.
+
+::: {.idea-central}
+
+ El servicio técnico debe restablecer razonablemente el bien, no degradarlo mediante soluciones inferiores no consentidas.
+:::
+
+---
+
+# Art. 12 · Jurisprudencia
+
+Tambussi recoge casos de automotores en los cuales se analiza:
+
+-  calidad del servicio técnico;
+
+-  repetición de fallas;
+
+-  deber de reparación;
+
+-  responsabilidad de fabricante y concesionario.
+
+La garantía se juzga por su:
+
+# EFECTIVIDAD
+
+y no por la mera existencia formal de un taller autorizado.
+
+---
+
+# ARTÍCULO 13
+
+## Solidaridad
+
+Son solidariamente responsables del otorgamiento y cumplimiento de la garantía legal:
+
+-  productores;
+
+-  importadores;
+
+-  distribuidores;
+
+-  vendedores.
+
+---
+
+# Art. 13 · ¿Por qué solidaridad?
+
+El consumidor normalmente:
+
+-  no diseña la cadena comercial;
+
+-  no elige al fabricante;
+
+-  no conoce acuerdos internos;
+
+-  no controla distribución.
+
+Por eso no debe cargar con el riesgo de determinar qué integrante “tuvo realmente la culpa”.
+
+::: {.formula}
+
+ CADENA DE PROVISIÓN
+
+→
+
+SOLIDARIDAD FRENTE AL CONSUMIDOR
+:::
+
+---
+
+# Art. 13 · Efecto
+
+El consumidor puede dirigir su pretensión contra los sujetos legalmente responsables sin tener que reconstruir previamente:
+
+-  contratos internos;
+
+-  repartos empresariales;
+
+-  culpas recíprocas.
+
+Las relaciones internas podrán discutirse después entre los proveedores.
+
+---
+
+# Art. 13 · Jurisprudencia
+
+Tambussi recoge casos en los que fabricante y concesionario pretenden deslindar responsabilidades.
+
+### Regla
+
+Frente al consumidor:
+
+# LA ORGANIZACIÓN INTERNA DE LA CADENA NO REDUCE LA GARANTÍA LEGAL.
+
+---
+
+# ARTÍCULO 14
+
+## Certificado de garantía
+
+El certificado debe contener información destinada a hacer operativa la garantía.
+
+Entre otros elementos:
+
+-  identificación de responsables;
+
+-  identificación del bien;
+
+-  especificaciones;
+
+-  condiciones de uso;
+
+-  mantenimiento;
+
+-  vigencia;
+
+-  lugares y condiciones de reparación.
+
+---
+
+# Art. 14 · Función
+
+El certificado no es un elemento decorativo.
+
+Debe permitir al consumidor saber:
+
+-  quién responde;
+
+-  qué cubre;
+
+-  cuánto dura;
+
+-  qué debe hacer;
+
+-  dónde reclamar.
+
+::: {.idea-central}
+
+ La garantía debe ser ****comprensible y ejercitable****, no simplemente mencionada.
+:::
+
+---
+
+# Art. 14 · Formalismo de protección
+
+Tambussi caracteriza estas exigencias como un:
+
+## NEOFORMALISMO DE PROTECCIÓN
+
+La forma vuelve a ser relevante no para dificultar la contratación, sino para:
+
+-  informar;
+
+-  documentar;
+
+-  equilibrar;
+
+-  facilitar la prueba del consumidor.
+
+---
+
+# Art. 14 · Renuncia
+
+La garantía legal no puede quedar válidamente eliminada mediante cláusulas que:
+
+-  excluyan toda responsabilidad;
+
+-  reduzcan derechos mínimos;
+
+-  trasladen ilegítimamente riesgos al consumidor.
+
+La autonomía privada opera:
+
+# DENTRO DEL PISO IMPERATIVO.
+
+---
+
+# ARTÍCULO 15
+
+## Constancia de reparación
+
+Cuando una cosa es reparada bajo garantía, el garante debe entregar constancia que indique:
+
+-  naturaleza de la reparación;
+
+-  piezas reparadas o reemplazadas;
+
+-  fecha de ingreso;
+
+-  fecha de devolución.
+
+---
+
+# Art. 15 · Función probatoria
+
+La constancia permite reconstruir:
+
+-  qué defecto existió;
+
+-  qué se hizo;
+
+-  cuánto tiempo estuvo el consumidor privado del bien;
+
+-  si hubo reparaciones sucesivas.
+
+Es especialmente importante para aplicar posteriormente:
+
+# ART. 16 Y ART. 17.
+
+---
+
+# Art. 15 · Reparaciones reiteradas
+
+Sin documentación, un proveedor podría presentar cada desperfecto como:
+
+> “la primera vez”.
+
+La constancia permite demostrar:
+
+-  recurrencia;
+
+-  reparación fallida;
+
+-  acumulación de tiempo;
+
+-  persistencia del defecto.
+
+---
+
+# ARTÍCULO 16
+
+## Prolongación del plazo de garantía
+
+El tiempo durante el cual el consumidor está privado del uso del bien por una reparación:
+
+# SE COMPUTA COMO PROLONGACIÓN DE LA GARANTÍA.
+
+---
+
+# Art. 16 · Fundamento
+
+Sería contradictorio que el plazo legal corriera mientras:
+
+-  la cosa está en el taller;
+
+-  el consumidor no puede usarla;
+
+-  precisamente por un defecto cubierto.
+
+::: {.formula}
+
+ TIEMPO SIN USO POR REPARACIÓN
+
+→
+
+NO PERJUDICA EL PLAZO EFECTIVO DE GARANTÍA
+:::
+
+---
+
+# Art. 16 · Ejemplo
+
+Garantía vigente hasta el 30 de junio.
+
+El producto permanece en reparación:
+
+**20 días.**
+
+El consumidor no debe perder esos 20 días de protección.
+
+La vigencia se prolonga por el tiempo correspondiente.
+
+---
+
+# ARTÍCULO 17
+
+## Reparación no satisfactoria
+
+Si la reparación no resulta satisfactoria porque la cosa no reúne las condiciones óptimas para el uso al que está destinada:
+
+# EL CONSUMIDOR PUEDE ELEGIR.
+
+---
+
+# Art. 17 · Opción A
+
+## Sustitución
+
+Puede pedir la sustitución por otra cosa de:
+
+# IDÉNTICAS CARACTERÍSTICAS.
+
+La solución busca restablecer aquello que el consumidor tenía derecho a recibir desde el comienzo.
+
+---
+
+# Art. 17 · Opción B
+
+## Devolución de la cosa + restitución del precio
+
+El consumidor puede devolver el bien y recibir el importe correspondiente según las pautas legales.
+
+Se produce una solución equivalente a la resolución del negocio por fracaso de la garantía.
+
+---
+
+# Art. 17 · Opción C
+
+## Quita proporcional del precio
+
+El consumidor puede optar por conservar la cosa:
+
+pero obtener una reducción proporcional que refleje la disminución de valor o funcionalidad.
+
+---
+
+# Art. 17 · Elección del consumidor
+
+La norma es importante porque impide que el proveedor imponga indefinidamente:
+
+# “SE LO VOLVEMOS A REPARAR”
+
+cuando la reparación anterior no resultó satisfactoria.
+
+::: {.idea-central}
+
+ El sistema no obliga al consumidor a tolerar una ****cadena interminable de reparaciones fallidas****.
+:::
+
+---
+
+# Art. 17 · Daños
+
+Las opciones del art. 17 no excluyen:
+
+-  daños y perjuicios;
+
+-  consecuencias derivadas del incumplimiento;
+
+-  otros remedios legalmente procedentes.
+
+Debe distinguirse nuevamente:
+
+**remedio sobre el bien**
+
+de
+
+****reparación integral del daño****.
+
+---
+
+# Art. 17 · ¿Qué es reparación satisfactoria?
+
+No basta con que:
+
+> “el producto vuelva a encender”.
+
+Debe encontrarse en condiciones óptimas para:
+
+-  uso normal;
+
+-  función esperada;
+
+-  seguridad;
+
+-  prestaciones prometidas.
+
+La evaluación debe ser material y funcional.
+
+---
+
+# Art. 17 · Reparaciones múltiples
+
+Tambussi critica una lectura puramente formal de la reglamentación.
+
+El número de reparaciones no puede analizarse aisladamente.
+
+Debe ponderarse:
+
+-  gravedad del defecto;
+
+-  reincidencia;
+
+-  calidad técnica;
+
+-  duración;
+
+-  afectación del uso;
+
+-  razonabilidad de seguir reparando.
+
+---
+
+# Art. 17 · Jurisprudencia
+
+## Automotores con defectos reiterados
+
+Tambussi recoge casos en que un vehículo retorna repetidamente al servicio técnico sin obtener solución estable.
+
+### Problema
+
+¿Debe el consumidor continuar aceptando reparaciones?
+
+### Respuesta
+
+Cuando la reparación no devuelve al bien las condiciones óptimas:
+
+# SE ACTIVAN LAS OPCIONES DEL ART. 17.
+
+---
+
+# Art. 17 · Jurisprudencia
+
+## Vehículo de alta gama
+
+Se recoge un caso en el que el comprador reclamó por defectos persistentes después de varias intervenciones.
+
+### Enseñanza
+
+La calidad y precio del producto influyen legítimamente sobre:
+
+-  expectativas;
+
+-  estándar de funcionamiento;
+
+-  tolerancia frente a fallas reiteradas.
+
+Un bien premium no puede ser juzgado con un estándar inferior al que su propia comercialización generó.
+
+---
+
+# ARTÍCULO 18
+
+## Vicios redhibitorios
+
+La garantía legal consumeril convive con el régimen de vicios previsto por el derecho común.
+
+La LDC procura evitar que las reglas generales se utilicen para:
+
+# REDUCIR LA PROTECCIÓN ESPECIAL.
+
+---
+
+# Art. 18 · Dos sistemas relacionados
+
+### Garantía legal
+
+Opera con reglas específicamente consumeriles.
+
+### Vicios redhibitorios
+
+Provienen del régimen general del derecho privado.
+
+::: {.idea-central}
+
+ La coexistencia debe resolverse mediante integración normativa y aplicación de la solución más compatible con la tutela del consumidor.
+:::
+
+---
+
+# Art. 18 · No renuncia anticipada
+
+Las cláusulas que intentan:
+
+-  excluir toda garantía por defectos;
+
+-  trasladar el riesgo integral al comprador;
+
+-  obligarlo a aceptar “el estado en que se encuentra”;
+
+deben analizarse frente al carácter imperativo de la protección consumeril.
+
+---
+
+# Art. 18 · Caso práctico
+
+Un comercio vende un automóvil usado indicando:
+
+> “se vende en el estado en que se encuentra, sin responsabilidad alguna”.
+
+Luego aparece un defecto grave no informado.
+
+::: {.pregunta}
+
+ ¿La frase elimina automáticamente la protección legal?
+
+**No.**
+
+Debe examinarse frente a los arts. 9, 11, 18 y al orden público consumeril.
+:::
+
+---
+
+# CAPÍTULO V
+
+# PRESTACIÓN DE SERVICIOS
+
+---
+
+# ARTÍCULO 19
+
+## Modalidades de prestación
+
+Quienes prestan servicios deben respetar:
+
+-  términos;
+
+-  plazos;
+
+-  condiciones;
+
+-  modalidades;
+
+-  reservas;
+
+-  circunstancias
+
+conforme hayan sido:
+
+# OFRECIDAS, PUBLICITADAS O CONVENIDAS.
+
+---
+
+# Art. 19 · Fuerza del programa contractual
+
+El prestador no queda obligado solamente por una definición abstracta del servicio.
+
+También por:
+
+-  modalidad concreta prometida;
+
+-  tiempo;
+
+-  condiciones de ejecución;
+
+-  características publicitadas.
+
+::: {.formula}
+
+ SERVICIO DEBIDO
+
+=
+
+LO CONVENIDO
+
+-
+
+LO OFRECIDO
+
+-
+
+LO PUBLICITADO
+:::
+
+---
+
+# Art. 19 · Tiempo de cumplimiento
+
+En los servicios, el tiempo puede integrar el interés principal del consumidor.
+
+Ejemplos:
+
+-  transporte;
+
+-  turismo;
+
+-  reparación;
+
+-  servicios financieros;
+
+-  prestaciones vinculadas con eventos.
+
+Un servicio tardío puede equivaler:
+
+# A UN SERVICIO INÚTIL.
+
+---
+
+# Art. 19 · Condiciones accesorias
+
+Las obligaciones laterales también integran la prestación.
+
+Pueden ser relevantes:
+
+-  seguridad;
+
+-  confidencialidad;
+
+-  atención;
+
+-  forma de entrega;
+
+-  documentación;
+
+-  medios ofrecidos.
+
+El cumplimiento no se reduce a realizar mecánicamente la prestación principal.
+
+---
+
+# Art. 19 · Caso
+
+Una agencia promete un paquete turístico:
+
+-  hotel determinado;
+
+-  traslado incluido;
+
+-  determinada categoría de habitación.
+
+Luego presta:
+
+-  otro hotel;
+
+-  sin traslado;
+
+-  categoría inferior.
+
+::: {.pregunta}
+
+ ¿Puede afirmar que “el viaje igualmente se realizó”?
+
+**No basta.**
+
+Debe respetarse la modalidad ofrecida y convenida.
+:::
+
+---
+
+# ARTÍCULO 20
+
+## Materiales utilizados
+
+En servicios de reparación, mantenimiento o acondicionamiento:
+
+los materiales o productos utilizados deben ser:
+
+# NUEVOS Y ADECUADOS
+
+salvo que exista autorización o acuerdo válido en sentido diferente conforme al régimen legal.
+
+---
+
+# Art. 20 · Fundamento
+
+El consumidor entrega un bien para que sea:
+
+-  reparado;
+
+-  mantenido;
+
+-  acondicionado.
+
+Normalmente no puede controlar:
+
+-  piezas instaladas;
+
+-  procedencia;
+
+-  calidad;
+
+-  estado;
+
+-  reemplazos.
+
+La ley responde a esa asimetría mediante un estándar objetivo sobre los materiales empleados.
+
+---
+
+# Art. 20 · Adecuación
+
+No basta con que una pieza sea nueva.
+
+También debe ser:
+
+# ADECUADA PARA EL SERVICIO
+
+Debe conservar:
+
+-  compatibilidad;
+
+-  funcionalidad;
+
+-  seguridad;
+
+-  calidad razonable.
+
+---
+
+# Art. 20 · Piezas usadas
+
+Si el consumidor autoriza válidamente materiales usados o reacondicionados:
+
+la información debe ser:
+
+-  previa;
+
+-  clara;
+
+-  específica.
+
+No puede presumirse un consentimiento genérico.
+
+::: {.idea-central}
+
+ El proveedor no puede reducir unilateralmente la calidad de la reparación para disminuir sus propios costos.
+:::
+
+---
+
+# Art. 20 · Caso práctico
+
+Un automóvil ingresa al taller para una reparación.
+
+El presupuesto no menciona piezas usadas.
+
+El taller instala un repuesto reacondicionado sin informarlo.
+
+### Problemas
+
+-  art. 4 → información;
+
+-  art. 19 → modalidad del servicio;
+
+-  art. 20 → materiales;
+
+-  eventualmente garantía y daños.
+
+::: {.idea-central}
+
+ La LDC funciona como sistema.
+
+Un mismo hecho puede vulnerar simultáneamente varios deberes.
+:::
+
+---
+
+# Mapa general · Arts. 1 a 20
+
+\| NúcleoArtículosPregunta |             |                                               |
+
+\| ----------------------- | ----------- | --------------------------------------------- |
+
+\| Ámbito subjetivo        | 1–2         | ¿Quién es consumidor y quién proveedor?       |
+
+\| Relación y fuentes      | 3           | ¿Cuándo se activa el sistema?                 |
+
+\| Información y seguridad | 4–6         | ¿Qué debe saber y qué riesgos puede soportar? |
+
+\| Oferta y publicidad     | 7–8         | ¿Qué obliga al proveedor?                     |
+
+\| Dignidad                | 8 bis       | ¿Cómo debe tratarse al consumidor?            |
+
+\| Venta                   | 9–10 quater | ¿Cómo se informa, documenta y resuelve?       |
+
+\| Garantías               | 11–18       | ¿Qué ocurre ante defectos?                    |
+
+\| Servicios               | 19–20       | ¿Cómo debe prestarse el servicio?             |
+
+---
+
+# Un caso integrador
+
+Una persona compra por internet un automóvil usado.
+
+La publicidad dice:
+
+> “Único dueño · estado impecable · garantía total por un año”.
+
+Luego descubre:
+
+-  que había sido reconstruido después de un choque;
+
+-  que el contrato dice “sin garantía”;
+
+-  que presenta fallas mecánicas;
+
+-  que el taller oficial utiliza repuestos usados sin avisar;
+
+-  que después de cuatro reparaciones el defecto continúa.
+
+### ¿Qué artículos aparecen?
+
+---
+
+# Caso integrador · identificación
+
+## Art. 1
+
+Consumidor destinatario final.
+
+## Art. 2
+
+Concesionaria / fabricante / integrantes de la cadena como proveedores.
+
+## Art. 3
+
+Relación de consumo y microsistema protectorio.
+
+## Art. 4
+
+Información omitida sobre antecedentes y características.
+
+---
+
+# Caso integrador · oferta
+
+## Art. 8
+
+La publicidad:
+
+> “estado impecable · garantía total”
+
+integra el contrato.
+
+## Art. 9
+
+La condición reconstruida debía informarse de forma precisa y notoria.
+
+## Art. 10
+
+La documentación debe reflejar correctamente el negocio.
+
+---
+
+# Caso integrador · garantía
+
+## Art. 11
+
+Garantía legal.
+
+## Art. 12
+
+Servicio técnico.
+
+## Art. 13
+
+Solidaridad.
+
+## Arts. 15 y 16
+
+Constancias y prolongación.
+
+## Art. 17
+
+Reparación no satisfactoria.
+
+## Art. 20
+
+Materiales utilizados en la reparación.
+
+---
+
+# La lógica transversal de la ley
+
+Los primeros veinte artículos muestran cinco grandes obligaciones del proveedor.
+
+### 1 · Informar
+
+### 2 · No generar riesgos indebidos
+
+### 3 · Cumplir lo ofrecido
+
+### 4 · Tratar dignamente
+
+### 5 · Responder eficazmente cuando el producto o servicio falla
+
+---
+
+# Una idea para el examen
+
+No conviene estudiar los artículos como compartimentos estancos.
+
+Ante un caso:
+
+## 1
+
+Identificar consumidor y proveedor.
+
+## 2
+
+Determinar la relación de consumo.
+
+## 3
+
+Identificar el deber vulnerado.
+
+## 4
+
+Relacionar artículos.
+
+## 5
+
+Elegir el remedio.
+
+---
+
+# Pregunta integradora
+
+Un proveedor afirma:
+
+> “Yo cumplí el contrato porque entregué exactamente lo que decía la letra pequeña firmada por el consumidor”.
+
+Pero la publicidad decía otra cosa y el vendedor había omitido información esencial.
+
+::: {.pregunta}
+
+ ¿El análisis termina leyendo el contrato firmado?
+:::
+
+# NO.
+
+Debemos integrar:
+
+-  art. 4;
+
+-  art. 7;
+
+-  art. 8;
+
+-  art. 10;
+
+-  principio protectorio;
+
+-  carácter vinculante de la información y publicidad.
+
+---
+
+# Segunda pregunta integradora
+
+Una empresa sostiene:
+
+> “El consumidor recibió el producto, así que nuestra obligación terminó”.
+
+### ¿Qué demuestra la LDC?
+
+La relación continúa mediante:
+
+-  información;
+
+-  garantía;
+
+-  servicio técnico;
+
+-  repuestos;
+
+-  reparación;
+
+-  trato digno;
+
+-  obligaciones poscontractuales.
+
+::: {.idea-central}
+
+ La venta no es el final de la relación.
+
+En muchos casos es apenas el comienzo de los deberes posventa.
+:::
+
+---
+
+# Cierre
+
+## Arts. 1 a 20 · estructura protectoria
+
+```
+
+SUJETOS
+
+```
+
+  ↓
+
+RELACIÓN DE CONSUMO
+
+  ↓
+
+INFORMACIÓN + SEGURIDAD
+
+  ↓
+
+OFERTA + PUBLICIDAD + TRATO DIGNO
+
+  ↓
+
+CONTENIDO Y CUMPLIMIENTO
+
+  ↓
+
+GARANTÍA
+
+  ↓
+
+SERVICIO POSVENTA
+
+::: {.idea-central}
+
+ La Ley 24.240 procura que la desigualdad real entre consumidor y proveedor no se convierta en una desigualdad jurídica tolerada por el sistema.
+:::
+
+---
+
+# Pregunta final
+
+::: {.pregunta}
+
+ ¿Qué cambia cuando dejamos de mirar el conflicto como un simple contrato entre dos sujetos formalmente iguales y comenzamos a verlo como una:
+
+# RELACIÓN DE CONSUMO?
+:::
