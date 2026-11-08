@@ -1,0 +1,556 @@
+---
+title: "Pagaré de consumo"
+subtitle: "Evolución jurisprudencial"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    slide-number: true
+    scrollable: true
+    center: false
+    transition: slide
+---
+
+## Pagaré de consumo
+
+### El problema
+
+El **pagaré** es un título:
+
+- literal;
+- autónomo;
+- abstracto;
+- formal;
+- ejecutivo.
+
+Cuando documenta una **operación de crédito para el consumo**, aparece un segundo régimen:
+
+**Ley 24.240 de Defensa del Consumidor**, especialmente su **art. 36**.
+
+---
+
+## Dos sistemas en tensión
+
+### Derecho cambiario
+
+La abstracción procura separar:
+
+**título cambiario ≠ relación causal**
+
+En principio, el juicio ejecutivo limita la discusión sobre la causa.
+
+### Derecho del consumidor
+
+La LDC exige:
+
+- información y transparencia;
+- conocimiento de las condiciones del crédito;
+- tutela efectiva del consumidor;
+- cumplimiento del art. 36.
+
+---
+
+## La pregunta central
+
+El pagaré puede ser **formalmente válido como título cambiario**.
+
+Pero puede no contener toda la información exigida para una operación de crédito para consumo.
+
+### Problema
+
+**¿Puede ejecutarse el pagaré prescindiendo de la relación de consumo?**
+
+O, por el contrario:
+
+**¿debe verificarse también el cumplimiento del art. 36 LDC?**
+
+---
+
+## Primera respuesta jurisprudencial
+
+Una primera línea jurisprudencial puso el acento en la **inhabilidad del pagaré** cuando su utilización impedía verificar el cumplimiento de la LDC.
+
+La abstracción cambiaria no podía funcionar como mecanismo para:
+
+**eludir normas imperativas de protección del consumidor.**
+
+Caso representativo:
+
+**“Consumo S.A. c/ González”**
+
+---
+
+## Caso 1 — Consumo
+
+**Autos:** *Consumo S.A. c/ González, Ana Paola s/ Cobro Ejecutivo*
+
+**Expediente:** Nº 57.975
+
+**Tribunal:** Cámara de Apelación en lo Civil y Comercial de Azul, Sala II
+
+**Fecha:** 6/11/2013
+
+**Materia:** ejecución de pagaré vinculado con una relación de consumo.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/paginas.asp?id=28168)
+
+---
+
+## Consumo — hechos
+
+La actora promovió un **juicio ejecutivo** sobre la base de un pagaré.
+
+El título tenía origen en una **operación de consumo**.
+
+Considerado aisladamente, el documento no permitía verificar adecuadamente los recaudos informativos exigidos por el **art. 36 LDC**.
+
+### Interrogante
+
+¿Debe prevalecer la abstracción cambiaria o las exigencias de la legislación consumeril?
+
+---
+
+## Consumo — resolución
+
+La Cámara consideró **inhábil** el pagaré de consumo que no satisfacía las exigencias derivadas del art. 36 LDC.
+
+### Fundamento central
+
+La abstracción cambiaria no puede utilizarse para:
+
+**neutralizar la aplicación de normas de orden público protectorias del consumidor.**
+
+El régimen cambiario debía ser interpretado conjuntamente con la legislación consumeril.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/paginas.asp?id=28168)
+
+---
+
+## El problema posterior
+
+La solución de *Consumo* planteaba otra cuestión:
+
+**¿Todo pagaré de consumo que no contenga por sí solo los requisitos del art. 36 debe considerarse definitivamente inhábil?**
+
+Aparece entonces una solución intermedia:
+
+**Pagaré + documentación causal**
+
+De allí surge la construcción jurisprudencial del **título complejo**.
+
+---
+
+## Caso 2 — HSBC c/ Pardo
+
+**Autos:** *HSBC Bank Argentina c/ Pardo, Cristian Daniel s/ Cobro Ejecutivo*
+
+**Expediente:** Nº 61.380
+
+**Tribunal:** Cámara de Apelación en lo Civil y Comercial de Azul, en pleno
+
+**Fecha:** 9/3/2017
+
+**Decisión:** Plenario Nº 5
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/_paginas.asp?id=36532)
+
+---
+
+## HSBC — problema jurídico
+
+La Cámara debía determinar si el pagaré podía:
+
+**integrarse con documentación correspondiente al negocio causal**
+
+para verificar el cumplimiento del **art. 36 LDC**.
+
+El problema enfrentaba dos principios:
+
+- abstracción cambiaria;
+- protección del consumidor.
+
+La cuestión era si ingresar en la documentación causal destruía necesariamente la ejecutividad del pagaré.
+
+---
+
+## HSBC — resolución
+
+La Cámara admitió, por mayoría, que el pagaré de consumo pudiera **integrarse con documentación adicional relativa al negocio causal**.
+
+El control se realiza dentro del propio proceso ejecutivo.
+
+### Resultado
+
+**Pagaré + documentación causal = título complejo**
+
+La documentación debe permitir comprobar las condiciones de la operación y el cumplimiento de la LDC.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/_paginas.asp?id=36532)
+
+---
+
+## ¿Qué es el título complejo?
+
+No significa transformar al pagaré en un contrato causal.
+
+Significa considerar conjuntamente:
+
+**Pagaré + documentación de la operación de consumo**
+
+para controlar:
+
+- condiciones del crédito;
+- información suministrada;
+- cumplimiento del art. 36 LDC;
+- derechos del consumidor.
+
+---
+
+## HSBC — límite procesal
+
+La integración no significa que el acreedor pueda completar ilimitadamente su pretensión.
+
+La documentación debe incorporarse **oportunamente** al proceso.
+
+Debe poder ser:
+
+- examinada por el juez;
+- conocida por el consumidor;
+- sometida a contradicción.
+
+El título complejo debe permitir un **control efectivo** del art. 36 LDC.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/_paginas.asp?id=36532)
+
+---
+
+## Caso 3 — Mutual Asís
+
+**Autos:** *Asociación Mutual Asís c/ Cubilla, María Ester s/ Cobro Ejecutivo*
+
+**Causa:** C. 121.684
+
+**Tribunal:** Suprema Corte de Justicia de la Provincia de Buenos Aires
+
+**Fecha:** 14/8/2019
+
+Es el pronunciamiento central de la **SCBA** sobre la cuestión.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/_paginas.asp?id=43103)
+
+---
+
+## Mutual Asís — hechos
+
+La Mutual reclamó judicialmente una obligación vinculada con una **operación de consumo**.
+
+El juez de primera instancia había decidido **reconducir el trámite hacia un proceso de conocimiento**.
+
+La Cámara de San Martín revocó esa decisión y dispuso:
+
+**preparar la vía ejecutiva.**
+
+El Fiscal General interpuso recurso extraordinario ante la SCBA.
+
+---
+
+## Mutual Asís — problema
+
+La Suprema Corte debía compatibilizar:
+
+**régimen cambiario**
+
+con
+
+**régimen de protección del consumidor**.
+
+La existencia de una relación de consumo planteaba la necesidad de controlar el art. 36 LDC.
+
+Pero ello no significaba necesariamente excluir **la vía ejecutiva**.
+
+---
+
+## Mutual Asís — resolución
+
+La SCBA **rechazó el recurso extraordinario de inaplicabilidad de ley**.
+
+La Corte admitió la posibilidad de compatibilizar la ejecución cambiaria con la tutela del consumidor.
+
+### Regla relevante
+
+La existencia de una relación de consumo **no determina por sí sola la imposibilidad del juicio ejecutivo**.
+
+Deben respetarse, sin embargo, las exigencias imperativas de la LDC.
+
+[Sentencia oficial — SCBA](https://www.scba.gov.ar/_paginas.asp?id=43103)
+
+---
+
+## Mutual Asís — integración
+
+La documentación causal puede complementar al pagaré para posibilitar el control del **art. 36 LDC**.
+
+Por ello:
+
+**Pagaré insuficiente por sí solo**
+
+no equivale necesariamente a:
+
+**inhabilidad definitiva**.
+
+Puede conformarse un **título complejo** susceptible de ejecución.
+
+---
+
+## Primera evolución
+
+### Consumo — 2013
+
+Pagaré insuficiente frente al art. 36 LDC  
+→ **inhabilidad**
+
+### HSBC c/ Pardo — 2017
+
+Pagaré + documentación causal  
+→ **título complejo**
+
+### Mutual Asís — 2019
+
+SCBA  
+→ **compatibilización de ambos regímenes**
+
+---
+
+## Caso 4 — PROMAQ
+
+**Autos:** *PROMAQ S.A. c/ Vallejos Bessi, Lorena s/ Cobro Ejecutivo*
+
+**Causa:** Nº 169.240
+
+**Tribunal:** Cámara Civil y Comercial de Mar del Plata, Sala III
+
+**Fecha:** 1/4/2020
+
+**Temas:** pagaré de consumo — art. 36 LDC — integración — intereses.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/paginas.asp?id=45436)
+
+---
+
+## PROMAQ — resolución
+
+La Cámara dispuso:
+
+1. otorgar a la actora oportunidad para **cumplir con los recaudos del art. 36 LDC**;
+2. dar posteriormente **traslado a la demandada**;
+3. permitir el ejercicio de las defensas correspondientes.
+
+También señaló la necesidad de considerar el **art. 771 CCyC** al controlar los intereses.
+
+[Fuente oficial — SCBA](https://www.scba.gov.ar/paginas.asp?id=45436)
+
+---
+
+## PROMAQ — importancia
+
+El proceso ejecutivo no se convierte necesariamente en un proceso de conocimiento pleno.
+
+Pero tampoco puede quedar **cerrado al derecho del consumidor**.
+
+El proceso debe permitir:
+
+- integración documental;
+- control del art. 36 LDC;
+- contradicción del consumidor;
+- control judicial de los intereses.
+
+---
+
+## Caso 5 — CFN c/ Rodríguez
+
+**Autos:** *CFN S.A. c/ Rodríguez, Graciela Esther s/ Cobro Ejecutivo*
+
+**Causa:** Nº 36.894
+
+**Tribunal:** Cámara Civil y Comercial de San Isidro, Sala III
+
+**Fecha:** 24/10/2019
+
+**Tema:** pagaré de consumo, mutuo subyacente y facultades judiciales de oficio.
+
+[Fuente oficial — SCBA](https://www.scba.gob.ar/paginas.asp?id=44020)
+
+---
+
+## CFN — resolución
+
+La Cámara **revocó la resolución apelada** y ordenó dar trámite a la ejecución.
+
+En las circunstancias del caso, rechazó la solución consistente en declarar directamente la **nulidad de oficio**.
+
+### Importancia
+
+La tutela consumeril no implica necesariamente:
+
+- nulidad automática del pagaré;
+- inhabilidad automática;
+- imposibilidad absoluta de la vía ejecutiva.
+
+[Fuente oficial — SCBA](https://www.scba.gob.ar/paginas.asp?id=44020)
+
+---
+
+## Caso 6 — Trust Funds
+
+**Autos:** *Trust Funds S.A. c/ Romero, Liliana Emilce s/ Cobro Ejecutivo*
+
+**Causa:** C. 122.128
+
+**Tribunal:** Suprema Corte de Justicia de la Provincia de Buenos Aires
+
+**Tema:** aplicación de la doctrina establecida en **“Asociación Mutual Asís c/ Cubilla”**.
+
+[Fuente oficial — SCBA](https://www.scba.gob.ar/paginas.asp?id=45532)
+
+---
+
+## Trust Funds — resolución
+
+El Fiscal General de San Martín interpuso **recurso extraordinario de inaplicabilidad de ley**.
+
+La Suprema Corte rechazó el recurso.
+
+La propia SCBA identifica el caso como:
+
+> **“Pagaré de consumo. Aplicación de la doctrina ‘Mutual Asís’”.**
+
+### Importancia
+
+Confirma que *Mutual Asís* no constituyó una solución aislada.
+
+[Fuente oficial — SCBA](https://www.scba.gob.ar/paginas.asp?id=45532)
+
+---
+
+## La doctrina resultante
+
+La pregunta ya no puede reducirse a:
+
+**“¿El pagaré es abstracto o causal?”**
+
+El verdadero problema es:
+
+**¿Cómo compatibilizar la abstracción cambiaria con las normas imperativas de protección del consumidor?**
+
+La jurisprudencia bonaerense construyó una respuesta mediante:
+
+**integración documental + diálogo de fuentes**
+
+---
+
+## Método para resolver un caso
+
+Ante la ejecución de un pagaré:
+
+1. **Identificar** si existe relación de consumo.
+2. **Examinar** las exigencias del art. 36 LDC.
+3. **Analizar** el contenido del pagaré.
+4. **Verificar** la documentación causal acompañada.
+5. **Determinar** si el conjunto configura un título hábil.
+6. **Garantizar** las defensas del consumidor.
+
+---
+
+## ¿Desaparece la abstracción?
+
+**No.**
+
+El pagaré continúa siendo un **título cambiario**.
+
+La relación causal no sustituye al título.
+
+Pero la abstracción tampoco puede convertirse en un mecanismo para:
+
+**impedir la aplicación de normas imperativas de protección del consumidor.**
+
+La solución busca compatibilizar:
+
+**eficacia ejecutiva + tutela consumeril**
+
+---
+
+## Evolución — síntesis
+
+| Fallo | Criterio |
+|---|---|
+| **Consumo** | Inhabilidad frente al incumplimiento de la LDC |
+| **HSBC** | Admite integración documental |
+| **Mutual Asís** | SCBA compatibiliza ambos regímenes |
+| **PROMAQ** | Integración, traslado y control |
+| **CFN** | No hay nulidad automática |
+| **Trust Funds** | Aplica doctrina de *Mutual Asís* |
+
+---
+
+## Dos extremos
+
+### Abstracción absoluta
+
+“Es un pagaré: la causa nunca interesa.”
+
+Puede permitir que la instrumentación cambiaria neutralice normas imperativas de la LDC.
+
+### Causalización absoluta
+
+“Si existe relación de consumo, el pagaré nunca puede ejecutarse.”
+
+Desconoce la subsistencia del régimen cambiario y de la vía ejecutiva.
+
+---
+
+## La solución intermedia
+
+**Pagaré**
+
++
+
+**documentación causal**
+
++
+
+**control del art. 36 LDC**
+
+=
+
+**TÍTULO COMPLEJO**
+
+El conjunto documental debe permitir verificar efectivamente las condiciones de la operación de consumo y garantizar la defensa del consumidor.
+
+---
+
+## Caso práctico — preguntas
+
+1. ¿Existe una **relación de consumo**?
+
+2. ¿El pagaré permite verificar las exigencias del **art. 36 LDC**?
+
+3. Si no, ¿existe **documentación causal complementaria**?
+
+4. ¿El conjunto permite controlar las condiciones del crédito?
+
+5. ¿Se garantizó la posibilidad de defensa del consumidor?
+
+---
+
+## Idea final
+
+El pagaré de consumo enfrenta dos lógicas:
+
+### Derecho cambiario
+
+**Literalidad — autonomía — abstracción — celeridad**
+
+### Derecho del consumidor
+
+**Información — transparencia — tutela — orden público**
+
+La evolución jurisprudencial procura **compatibilizar ambos sistemas** sin permitir que la abstracción cambiaria se convierta en un mecanismo de elusión de la tutela del consumidor.

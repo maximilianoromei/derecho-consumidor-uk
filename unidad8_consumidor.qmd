@@ -1,0 +1,675 @@
+---
+title: "Unidades 8 y 9 · Contratos de consumo en particular"
+subtitle: "Derecho del Consumidor · Universidad Kennedy"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    smaller: true
+    scrollable: true
+lang: es
+---
+
+## Objetivos de la unidad
+
+- Reconocer contratos de consumo sometidos a regímenes especiales.
+- Aplicar conjuntamente la Ley 24.240 (LDC), el Código Civil y Comercial (CCyC) y la legislación sectorial.
+- Identificar deberes de información, cláusulas abusivas y remedios frente al incumplimiento.
+- Resolver casos de tarjetas, créditos y medicina prepaga.
+
+## Marco normativo común
+
+- **Constitución Nacional, art. 42:** protección de intereses económicos, salud, seguridad e información adecuada y veraz.
+- **LDC, arts. 1 a 3:** consumidor, proveedor, relación de consumo e interpretación favorable.
+- **CCyC, arts. 1092 a 1095:** relación de consumo, interpretación y prelación normativa.
+- **LDC, arts. 4, 8 bis, 10 bis y 37:** información, trato digno, incumplimiento y cláusulas abusivas.
+
+**Ejemplo:** aunque un contrato bancario sea formalmente válido, una cláusula predispuesta puede ser ineficaz por abusiva.
+
+# Tema 1 · Tarjeta de crédito
+
+## ¿Qué es el sistema de tarjeta de crédito?
+
+**Ley 25.065, art. 1:** sistema de contratos individuales que permite al usuario realizar operaciones de compra o locación y obtener financiación, con intervención del emisor y los comercios adheridos.
+
+- **Emisor:** entidad que emite la tarjeta y administra el sistema.
+- **Titular:** persona habilitada para utilizarla y obligada frente al emisor.
+- **Usuario adicional:** autorizado para operar con tarjeta extendida.
+- **Proveedor o comercio adherido:** acepta la tarjeta como medio de pago.
+
+**Ejemplo:** una consumidora compra una computadora por $900.000 en seis cuotas. El comercio entrega el bien; el emisor registra y liquida los consumos.
+
+## Contratos y relaciones jurídicas
+
+- **Emisor–titular:** apertura, uso, límites, liquidación, financiación y pago.
+- **Emisor–comercio:** adhesión al sistema, presentación y liquidación de operaciones.
+- **Consumidor–comercio:** compraventa o prestación del servicio adquirido.
+
+No debe confundirse el contrato de tarjeta con la compraventa subyacente.
+
+**Caso:** el comercio entrega una heladera defectuosa. La responsabilidad por el producto se analiza con la LDC; el emisor debe, además, tramitar las impugnaciones del resumen según su régimen.
+
+## Contrato de emisión: contenido y forma
+
+**Ley 25.065, arts. 6 y 7:** exigencias de contenido contractual y redacción; identificación de partes, plazo, límites, tasas y cargos, entre otros extremos legales.
+
+**LDC, art. 4 y CCyC, arts. 985 y 1100:** información clara, precisa y comprensible.
+
+**Ejemplo:** no basta anunciar «tarjeta sin costo» si se aplicarán cargos de renovación o mantenimiento que no fueron informados adecuadamente.
+
+## Intereses y financiación del saldo
+
+**Ley 25.065, arts. 16 a 18:** regulación de intereses compensatorios y punitorios, con límites legales.
+
+- **Compensatorios:** retribuyen la financiación del saldo no cancelado.
+- **Punitorios:** se vinculan con la mora, dentro de los límites legales.
+- El pago mínimo no equivale a cancelar la deuda total: puede generar intereses sobre el saldo financiado.
+
+**Ejemplo ilustrativo:** resumen de $600.000; pago de $150.000. Los $450.000 restantes no desaparecen: quedan sujetos a las condiciones de financiación aplicables.
+
+## El resumen de cuenta
+
+**Ley 25.065, arts. 22 y 23:** contenido y remisión del resumen periódico.
+
+Debe permitir identificar, entre otros datos, consumos, fechas, establecimientos, pagos, intereses, cargos y vencimientos.
+
+**Ejemplo:** aparecen dos cargos idénticos de $85.000 por una compra realizada una sola vez. El titular debe contar con un procedimiento de impugnación.
+
+## Impugnación del resumen
+
+**Ley 25.065, arts. 26 a 30.**
+
+1. El titular dispone de **30 días desde la recepción** del resumen para cuestionar la liquidación.
+2. El emisor debe acusar recibo y corregir o explicar la liquidación dentro de los plazos legales.
+3. La impugnación no autoriza a exigir el pago del concepto cuestionado como condición para tramitar el reclamo.
+4. Deben distinguirse las sumas cuestionadas de las no cuestionadas.
+
+**Caso:** una compra desconocida de $230.000 aparece en el resumen. ¿Qué debe impugnarse, ante quién y en qué plazo?
+
+## Cargos, cláusulas y prácticas abusivas
+
+**Ley 25.065, art. 14:** nulidad de cláusulas contractuales expresamente prohibidas.
+
+**LDC, art. 37; CCyC, arts. 988 y 1117 a 1122:** control de cláusulas abusivas.
+
+- Cargos no pactados o informados.
+- Renuncia anticipada a defensas del usuario.
+- Alteraciones unilaterales incompatibles con la ley.
+- Obstáculos irrazonables para solicitar la baja.
+
+**Ejemplo:** una cláusula que impide cualquier reclamo por errores de liquidación no puede prevalecer sobre los derechos legales del titular.
+
+## Caso integrador · Tarjeta
+
+**Situación:** Lucía compra un teléfono por $720.000 en 12 cuotas. El resumen registra una cuota duplicada y un seguro que nunca solicitó. El banco responde que «el resumen es definitivo».
+
+**Preguntas:**
+
+1. ¿Qué régimen especial regula la impugnación?
+2. ¿Qué deber de información podría estar comprometido?
+3. ¿Es eficaz la afirmación de que no se admiten reclamos?
+4. ¿Qué conceptos deberían corregirse si el reclamo prospera?
+
+# Tema 2 · Leyes 25.065 y 24.240
+
+## ¿Son normas excluyentes?
+
+**No.** La Ley 25.065 regula especialmente el sistema de tarjetas, pero ello no elimina la protección general de la relación de consumo.
+
+- **Ley 25.065:** emisión, resumen, impugnación, intereses y funcionamiento del sistema.
+- **LDC:** información, trato digno, cláusulas abusivas, incumplimiento y reparación.
+- **CCyC, arts. 1094 y 1095:** interpretación protectoria y favorable al consumidor.
+
+**Ejemplo:** la impugnación de un resumen se rige por el procedimiento especial, sin excluir el control de una cláusula abusiva bajo la LDC.
+
+## Diálogo de normas: método de resolución
+
+1. **Identificar la relación de consumo:** ¿actúa el usuario como destinatario final?
+2. **Precisar la cuestión:** ¿plazo de impugnación, información, daños, baja o trato?
+3. **Aplicar la disposición especial pertinente** sin desplazar injustificadamente el sistema protector.
+4. **Controlar la compatibilidad** con los principios de la LDC y del CCyC.
+
+**Importante:** el principio favorable al consumidor no permite ignorar sin más los plazos y procedimientos previstos expresamente por la legislación especial.
+
+## Deber de información y trato digno
+
+**LDC, art. 4:** información cierta, clara y detallada sobre características esenciales y condiciones de comercialización.
+
+**LDC, art. 8 bis:** trato digno y equitativo.
+
+**CCyC, art. 1100:** deber de información en contratos de consumo.
+
+**Ejemplo:** un banco comunica una modificación del costo de mantenimiento mediante una referencia oscura en un documento extenso. Debe analizarse si la información fue suficiente y oportuna.
+
+## Responsabilidad y daños
+
+- **LDC, art. 10 bis:** opciones frente al incumplimiento del proveedor.
+- **LDC, art. 40:** responsabilidad solidaria en los supuestos comprendidos por la norma, especialmente daños por riesgo o vicio de cosas o servicios.
+- **LDC, art. 40 bis:** daño directo en su ámbito de aplicación.
+- **LDC, art. 52 bis:** multa civil por daño punitivo, si se reúnen sus presupuestos.
+
+**Precaución:** no toda controversia con una tarjeta genera automáticamente responsabilidad solidaria de todos los participantes ni daño punitivo.
+
+## Caso · Compra y financiación
+
+Una plataforma vende una notebook que nunca entrega. El consumidor pagó con tarjeta y reclama al vendedor y al emisor.
+
+- ¿Qué obligaciones incumplió el vendedor?
+- ¿La sola financiación convierte al emisor en vendedor del producto?
+- ¿Qué importancia tienen la conducta del emisor, las condiciones contractuales y la intervención concreta de cada sujeto?
+
+**Clave:** separar la operación de compraventa, el servicio de pago y las eventuales responsabilidades concurrentes.
+
+# Tema 3 · Financiación al consumidor
+
+## ¿Qué es una operación de crédito para consumo?
+
+El consumidor recibe financiación para adquirir bienes o servicios o disponer de dinero para fines de consumo.
+
+**LDC, art. 36:** requisitos de información y reglas específicas para operaciones financieras y de crédito para consumo.
+
+**CCyC, arts. 1384 a 1389:** disposiciones de contratos bancarios con consumidores y publicidad e información.
+
+**Ejemplos:** préstamo personal, compra de electrodomésticos en cuotas y financiación ofrecida en el punto de venta.
+
+## Artículo 36 LDC: información obligatoria
+
+En las operaciones alcanzadas, deben consignarse de manera clara, según corresponda:
+
+- Descripción del bien o servicio objeto de la contratación.
+- Precio al contado.
+- Importe inicial a desembolsar y monto financiado.
+- Tasa de interés efectiva anual.
+- Costo financiero total (CFT).
+- Sistema de amortización, cantidad, periodicidad y monto de pagos.
+- Gastos extras, seguros o adicionales que correspondan.
+
+**Idea central:** el consumidor debe poder comprender el costo real del crédito antes de contratar.
+
+## TNA, TEA y CFT: no son sinónimos
+
+- **TNA:** tasa nominal anual, expresada según una convención financiera.
+- **TEA:** tasa efectiva anual, que incorpora el efecto de la capitalización periódica.
+- **CFT:** indicador del costo total de financiación, que contempla intereses y otros conceptos computables.
+
+**Ejemplo:** dos préstamos anuncian la misma tasa nominal, pero uno exige un seguro y gastos adicionales. Sus costos financieros totales pueden diferir.
+
+**Para analizar:** ¿es suficiente publicitar «12 cuotas de $100.000» sin informar los restantes datos exigidos por el art. 36?
+
+## Ejemplo numérico: precio y financiación
+
+| Concepto | Oferta A | Oferta B |
+|---|---:|---:|
+| Precio de contado | $900.000 | $900.000 |
+| Anticipo | $0 | $0 |
+| Cuotas | 12 × $100.000 | 12 × $92.000 |
+| Total nominal de cuotas | $1.200.000 | $1.104.000 |
+| Seguro adicional | No | $15.000 mensuales |
+| Total nominal con seguro | $1.200.000 | $1.284.000 |
+
+**Conclusión:** comparar solo el valor de la cuota puede inducir a error. Los totales nominales ilustran el problema, pero **no sustituyen el cálculo del CFT**.
+
+## Omisión de información y consecuencias
+
+**LDC, art. 36:** establece consecuencias específicas por incumplimientos de los requisitos informativos, incluida la nulidad contractual o de cláusulas, según el supuesto, y la regla legal sobre intereses ante omisión de la tasa efectiva anual.
+
+- No toda omisión produce idéntica consecuencia.
+- Debe distinguirse la información efectivamente ausente de la que fue suministrada de forma ininteligible.
+- La tutela judicial exige examinar el contrato y el remedio legal aplicable.
+
+**Caso:** un préstamo consigna cuotas y capital, pero omite la tasa efectiva anual. ¿Qué consecuencia prevé el artículo 36?
+
+## Pagaré de consumo
+
+**Decreto-ley 5965/63:** régimen cambiario del pagaré.
+
+**LDC, art. 36:** deberes informativos de la financiación al consumidor.
+
+**Problema:** el proveedor obtiene un pagaré para documentar un crédito de consumo y luego promueve una ejecución cambiaria.
+
+**Tensión jurídica:** abstracción y autonomía del título frente al control de transparencia y protección del consumidor.
+
+**Ejemplo:** una financiera presta $500.000 y obtiene un pagaré por $950.000 sin detallar intereses ni costos. ¿Puede el juez desentenderse del negocio de consumo subyacente?
+
+## Competencia judicial en créditos de consumo
+
+**LDC, art. 36:** regla protectoria de competencia vinculada al domicilio real del consumidor, con nulidad de pactos contrarios en el ámbito previsto por la norma.
+
+**Ejemplo:** una financiera que opera en Buenos Aires incluye una cláusula para demandar al consumidor domiciliado en Córdoba ante tribunales de otra jurisdicción.
+
+**Pregunta:** ¿qué finalidad protectoria cumple la regla de competencia?
+
+## Caso integrador · Crédito
+
+Una empresa ofrece una moto a $2.400.000 al contado o en 24 cuotas de $155.000. Se exige un seguro mensual de $18.000 que no aparece en la publicidad.
+
+1. ¿Qué información debería suministrarse antes de contratar?
+2. ¿Cuánto suman nominalmente las cuotas? **$3.720.000**.
+3. ¿Cuánto suman las cuotas y el seguro en 24 meses? **$4.152.000**.
+4. ¿Por qué esos importes no bastan para conocer el CFT?
+5. ¿Qué remedios podrían corresponder por la información omitida?
+
+# Tema 4 · Asistencia médica
+
+## ¿Qué contratos analizamos?
+
+Principalmente, contratos de **medicina prepaga**: prestaciones de prevención, protección, tratamiento y rehabilitación de la salud mediante sistemas de adhesión y cuotas.
+
+- **Ley 26.682:** marco regulatorio de medicina prepaga.
+- **Ley 24.240:** protección del consumidor en la relación contractual.
+- **CCyC:** reglas generales y de consumo.
+- **Ley 24.754:** prestaciones mínimas exigibles a empresas de medicina prepaga, en su ámbito.
+
+**Ejemplo:** una familia contrata un plan de salud con cobertura ambulatoria, internación y especialistas.
+
+## Derecho a la salud y tutela contractual
+
+**CN, arts. 42 y 75 inc. 22:** protección constitucional y tratados de derechos humanos relevantes.
+
+**LDC, arts. 4, 8 bis y 37:** información, trato digno y control de cláusulas abusivas.
+
+La cobertura médica no es un servicio indiferente: las controversias pueden afectar la continuidad de tratamientos y derechos fundamentales.
+
+**Ejemplo:** una prepaga rechaza una autorización oncológica mediante una respuesta automática que no identifica el fundamento contractual ni normativo.
+
+## Ley 26.682: cobertura mínima
+
+**Ley 26.682, art. 7:** obligación de cubrir, como mínimo, el Programa Médico Obligatorio (PMO) y el sistema de prestaciones básicas para personas con discapacidad establecido por la Ley 24.901, en los términos legales.
+
+- El contrato no puede utilizarse para vaciar prestaciones mínimas obligatorias.
+- La extensión de una cobertura concreta requiere revisar la legislación sanitaria, el plan y las circunstancias clínicas.
+
+**Caso:** un plan económico excluye por contrato una prestación incluida obligatoriamente en la cobertura mínima. ¿Puede prevalecer la exclusión?
+
+## Enfermedades preexistentes
+
+**Ley 26.682, art. 10:** las enfermedades preexistentes deben determinarse conforme al régimen legal y no pueden utilizarse como criterio de rechazo de admisión; el régimen contempla valores diferenciales autorizados en los supuestos que correspondan.
+
+**Ejemplo:** una persona declara diabetes antes de afiliarse. La empresa no puede simplemente negar el ingreso por ese diagnóstico.
+
+**Para discutir:** diferencia entre declaración jurada falsa, enfermedad preexistente declarada y patología detectada después de la afiliación.
+
+## Edad y continuidad de afiliación
+
+**Ley 26.682, arts. 11 y 12:** reglas protectorias sobre edad y aumentos, con condiciones y excepciones legales.
+
+- La edad no puede funcionar libremente como causal de rechazo de admisión.
+- Existen límites específicos a los incrementos por edad, incluidos supuestos vinculados con antigüedad.
+
+**Ejemplo:** una persona afiliada durante muchos años cumple 65 años. ¿Puede la empresa duplicar automáticamente su cuota por ese solo hecho?
+
+## Rescisión del contrato
+
+**Ley 26.682, art. 9:** regula las causales por las cuales la entidad puede rescindir el contrato, entre ellas la falta de pago de tres cuotas consecutivas con la intimación previa exigida y la falsedad de la declaración jurada en los términos legales.
+
+**LDC, arts. 4 y 8 bis:** información y trato digno en la gestión de la baja y los reclamos.
+
+**Ejemplo:** una prepaga dispone la baja por una única cuota impaga sin seguir el procedimiento legal. ¿Es admisible?
+
+## Cuotas y modificaciones del plan
+
+**Ley 26.682 y normativa reglamentaria vigente:** régimen sectorial de cuotas y modificaciones contractuales; su aplicación debe revisarse según la fecha del conflicto, dadas las reformas y cambios regulatorios.
+
+**LDC, arts. 4 y 37:** información suficiente y control de abusividad.
+
+**Ejemplo:** una prepaga informa un incremento sin explicar desde cuándo rige ni su impacto sobre la cuota. El análisis comprende la transparencia de la comunicación y la normativa vigente al momento del aumento.
+
+## Cobertura y negativa de prestaciones
+
+Ante una negativa, analizar:
+
+1. ¿Cuál es la prestación solicitada y qué documentación médica la respalda?
+2. ¿Integra la cobertura mínima obligatoria o el plan contratado?
+3. ¿Existe una exclusión válida y debidamente informada?
+4. ¿La negativa está fundada y fue comunicada de forma adecuada?
+5. ¿Corresponde una vía urgente de tutela judicial por riesgo para la salud?
+
+**Ejemplo:** una cirugía indicada como urgente se posterga sin fundamento suficiente. Además del incumplimiento contractual, puede estar comprometida la tutela judicial efectiva.
+
+## Caso integrador · Medicina prepaga
+
+Una afiliada de 68 años, con 14 años de antigüedad, recibe un incremento por franja etaria y una negativa de cobertura para un tratamiento prescripto.
+
+- ¿Qué aspectos deben verificarse conforme a los arts. 7, 11 y 12 de la Ley 26.682?
+- ¿Qué información debe requerirse a la empresa?
+- ¿Es suficiente que la empresa invoque una exclusión genérica?
+- ¿Qué relevancia tienen la urgencia y la prueba médica?
+
+## Comparación de los cuatro ejes
+
+| Contrato | Norma sectorial | Conflicto típico | Protección transversal |
+|---|---|---|---|
+| Tarjeta de crédito | Ley 25.065 | Resumen erróneo | LDC, arts. 4 y 37 |
+| Tarjeta + consumo | Leyes 25.065 y 24.240 | Cargos y daños | CCyC, arts. 1094–1095 |
+| Crédito de consumo | LDC, art. 36 | CFT omitido | Información y competencia |
+| Medicina prepaga | Ley 26.682 | Cobertura y rescisión | Salud, información y trato digno |
+
+## Actividad final
+
+**Consigna:** en grupos, elegir uno de los cuatro casos y redactar una respuesta jurídica breve que contenga:
+
+1. Identificación de las partes y de la relación de consumo.
+2. Normas y artículos aplicables.
+3. Hechos relevantes que deberían probarse.
+4. Solución fundada y remedio solicitado.
+
+**Criterio de evaluación:** no alcanza con citar artículos; deben explicarse su aplicación al caso y los límites del régimen especial.
+
+## Fuentes normativas para consultar
+
+- [Ley 24.240 – Defensa del Consumidor](https://www.argentina.gob.ar/normativa/nacional/ley-24240-638/texto)
+- [Ley 25.065 – Tarjetas de crédito](https://www.argentina.gob.ar/normativa/nacional/ley-25065-55556/texto)
+- [Ley 26.682 – Medicina prepaga](https://www.argentina.gob.ar/normativa/nacional/ley-26682-182180/texto)
+- [Código Civil y Comercial – Ley 26.994](https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/texto)
+
+**Nota docente:** contrastar siempre el texto actualizado y la reglamentación vigente, especialmente en medicina prepaga y servicios financieros.
+
+
+# Unidad 9 · Contratos de consumo en particular
+
+## Introducción: un mismo consumidor, distintos regímenes
+
+- La contratación masiva suele organizarse mediante **condiciones generales predispuestas** y sistemas digitales de adhesión.
+- La **Constitución Nacional, art. 42**, la **LDC, arts. 1 a 3**, y el **CCyC, arts. 1092 a 1095**, proporcionan el marco de protección.
+- Las normas especiales regulan aspectos técnicos de cada actividad; no eliminan automáticamente la protección consumeril.
+- **LDC, art. 37; CCyC, arts. 988 y 1117 a 1122:** control de cláusulas abusivas.
+
+**Ejemplo:** una exclusión de cobertura de seguro, una penalidad de telefonía o una condición de una reserva online pueden someterse a control judicial aunque el usuario haya hecho clic en «Acepto».
+
+## Método de resolución de casos
+
+1. Identificar al consumidor, al proveedor y a los demás integrantes de la cadena contractual.
+2. Precisar qué se ofreció, qué se informó y qué se contrató efectivamente.
+3. Examinar **norma especial + LDC + CCyC**, con atención a las reglas de prelación e interpretación.
+4. Determinar el incumplimiento, la prueba disponible y el remedio solicitado.
+
+**Pregunta:** ¿una condición incluida en la «letra chica» basta para considerar que fue informada adecuadamente? Relacionar con **LDC, art. 4**.
+
+# Tema 1 · Contrato de seguro
+
+## Concepto y sujetos del seguro
+
+**Ley 17.418, art. 1:** hay contrato de seguro cuando el asegurador se obliga, mediante una prima o cotización, a resarcir un daño o cumplir la prestación convenida si ocurre el evento previsto.
+
+- **Asegurador:** asume el riesgo en los términos del contrato.
+- **Tomador:** celebra el contrato y asume el pago de la prima.
+- **Asegurado:** titular del interés o persona protegida.
+- **Beneficiario:** destinatario de la prestación cuando corresponde.
+
+**Ejemplo:** una persona contrata seguro contra robo para su automóvil. La cobertura depende del riesgo asegurado, de sus límites y de las exclusiones válidamente convenidas.
+
+## Póliza, información y delimitación del riesgo
+
+- **Ley 17.418, art. 11:** la póliza instrumenta el contrato y debe contener las condiciones legalmente exigidas.
+- **LDC, art. 4:** información cierta, clara y detallada de las características esenciales del servicio.
+- **LDC, art. 37:** control de cláusulas que desnaturalicen obligaciones o importen renuncia o restricción indebida de derechos.
+- Diferenciar **delimitación legítima del riesgo** de **cláusula abusiva**: no toda exclusión es nula por el solo hecho de restringir la cobertura.
+
+**Ejemplo:** un seguro contra robo no necesariamente cubre un daño mecánico; distinto sería esconder una exclusión relevante en condiciones ambiguas o contradictorias con la publicidad.
+
+## Reticencia y declaración del riesgo
+
+**Ley 17.418, art. 5:** la reticencia o falsa declaración de circunstancias conocidas por el asegurado, relevantes para la aceptación del riesgo según juicio de peritos, puede provocar nulidad en las condiciones legales.
+
+- Importa qué información se solicitó, qué conocía el asegurado y la relevancia del dato omitido.
+- No toda inexactitud es jurídicamente equivalente a una reticencia relevante.
+- La buena fe rige para ambas partes; el asegurador debe informar de manera comprensible.
+
+**Caso:** en un seguro automotor se declara uso particular y luego se comprueba utilización habitual para transporte remunerado. ¿Qué hechos deben probarse antes de resolver la cobertura?
+
+## Denuncia del siniestro y decisión del asegurador
+
+- **Ley 17.418, art. 46:** deber de comunicar el siniestro, en principio, dentro de los **tres días** de conocerlo, salvo supuestos y excepciones legales.
+- **Art. 47:** consecuencias de incumplir la carga de denuncia, con las excepciones previstas.
+- **Art. 56:** el asegurador debe pronunciarse sobre el derecho del asegurado dentro de **30 días** de recibida la información complementaria prevista por la ley; el silencio importa aceptación.
+- Las consecuencias de los plazos exigen estudiar las circunstancias concretas y el régimen legal.
+
+**Ejemplo:** la compañía recibe la denuncia de un choque y solicita documentación pertinente. ¿Desde cuándo se cuenta el plazo para pronunciarse?
+
+## Seguro y relación de consumo: tensiones jurídicas
+
+- **Ley 17.418:** define riesgo, cargas, siniestro y obligaciones propias del contrato.
+- **LDC, arts. 4, 8 bis y 37:** información, trato digno y control de abusividad.
+- **CCyC, arts. 1094 y 1095:** interpretación protectoria en relaciones y contratos de consumo.
+- **LDC, art. 10 bis:** remedios ante incumplimientos de oferta o contrato, según su aplicabilidad al caso.
+
+**Caso:** tras un siniestro, la aseguradora rechaza el reclamo invocando una exclusión redactada de modo equívoco. ¿Debe analizarse solo la Ley de Seguros?
+
+## Caso práctico: rechazo de cobertura
+
+Una asegurada denuncia el robo de su automóvil. La compañía rechaza el siniestro por una cláusula de exclusión que figura únicamente en condiciones generales, mientras que la publicidad destacaba «cobertura integral contra robo».
+
+1. ¿Cuál es el riesgo efectivamente contratado?
+2. ¿Qué incidencia tienen la póliza, la publicidad y la información precontractual?
+3. ¿Qué relevancia tienen los **arts. 11 y 56 de la Ley 17.418** y los **arts. 4 y 37 LDC**?
+4. ¿Qué documentación y fechas deberían acreditarse?
+
+# Tema 2 · Telefonía celular
+
+## Telefonía móvil como servicio de consumo
+
+- **Ley 27.078 (Argentina Digital):** marco sectorial de tecnologías de la información y comunicaciones, sujeto a sus modificaciones y reglamentación.
+- **LDC, arts. 4, 8 bis, 10 bis y 19:** información, trato digno, incumplimiento y modalidades de prestación de servicios.
+- La relación comprende planes pospagos, prepagos, datos móviles, equipos y servicios accesorios, que deben distinguirse contractualmente.
+
+**Ejemplo:** se publicita un plan con «datos ilimitados» pero, tras determinado consumo, se reduce drásticamente la velocidad. Debe evaluarse cómo se informó esa limitación.
+
+## Oferta, facturación y modificaciones
+
+- **LDC, art. 7:** obligatoriedad de la oferta dirigida a consumidores.
+- **LDC, art. 8:** integración de las precisiones publicitarias en el contrato.
+- **LDC, art. 4:** deber de informar precio, duración de promociones, restricciones y cargos adicionales.
+- **LDC, art. 19:** obligación de respetar términos, plazos, condiciones y modalidades ofrecidos o convenidos.
+
+**Ejemplo:** se ofrece una bonificación del 50 % durante seis meses y se factura el precio completo en el tercero. El usuario puede reclamar por la divergencia entre oferta y ejecución.
+
+## Baja del servicio y cargos posteriores
+
+- **LDC, art. 10 ter:** derecho a rescindir por el mismo medio utilizado para contratar en los supuestos que contempla la norma, sin perjuicio de otras vías habilitadas.
+- **LDC, art. 10 quater:** prohibición de cobrar preaviso, mes adelantado o conceptos equivalentes en los supuestos legalmente previstos.
+- **LDC, art. 8 bis:** prohibición de prácticas de atención que lesionen el trato digno.
+- La reglamentación de atención al usuario y los mecanismos de baja también deben consultarse.
+
+**Ejemplo:** la empresa exige acudir presencialmente para dar de baja un servicio contratado por internet y continúa facturando. ¿Qué normas invocaría el usuario?
+
+## Portabilidad numérica y continuidad
+
+- La **portabilidad numérica móvil** permite conservar el número al cambiar de prestador, de acuerdo con el régimen sectorial aplicable.
+- Distinguir la **baja definitiva de una línea** de la **portabilidad hacia otra empresa**.
+- Examinar las condiciones informadas, eventuales interrupciones y la atribución de responsabilidades ante fallas en el trámite.
+- **LDC, arts. 4 y 19:** información y respeto de las condiciones del servicio.
+
+**Ejemplo:** el usuario solicita portabilidad y queda varios días sin línea. ¿Quién recibió el trámite? ¿Qué plazos y comunicaciones constan? ¿Qué perjuicios se produjeron?
+
+## Equipo celular, servicio y garantía
+
+- La compra del **equipo** y la contratación del **servicio de comunicaciones** pueden constituir relaciones diferentes.
+- **LDC, arts. 11 a 17:** garantía legal de cosas muebles no consumibles, servicio técnico y responsabilidad correspondiente.
+- **LDC, art. 40:** responsabilidad por daños derivados del riesgo o vicio del producto o de la prestación del servicio, bajo sus presupuestos.
+
+**Caso:** un teléfono adquirido en promoción falla a los dos meses. La operadora afirma que «solo vende planes» y deriva toda responsabilidad al fabricante. Analizar quién vendió el equipo y quién integra la cadena de comercialización.
+
+## Caso práctico: plan de telefonía
+
+Un consumidor contrata online un plan promocionado a $18.000 mensuales durante seis meses. En el segundo mes recibe una factura de $29.000 por servicios adicionales que no recuerda haber solicitado. Pide la baja por la aplicación y le exigen llamar en horario laboral.
+
+1. ¿Qué debe demostrar la empresa respecto de la contratación de adicionales?
+2. ¿Qué importancia tienen los **arts. 4, 7, 8 y 19 LDC**?
+3. ¿Cómo se aplican los **arts. 10 ter y 10 quater LDC**?
+4. ¿Qué documentos o capturas debería conservar el consumidor?
+
+# Tema 3 · Comercio electrónico
+
+## Contratación a distancia y medios electrónicos
+
+- **CCyC, art. 1104:** contratos celebrados fuera de establecimientos comerciales.
+- **CCyC, art. 1105:** contratos celebrados a distancia, sin presencia física simultánea, mediante medios de comunicación a distancia.
+- **CCyC, art. 1106:** utilización de medios electrónicos y aceptación del medio utilizado, conforme al régimen aplicable.
+- **LDC, art. 33:** venta por correspondencia y otras modalidades a distancia.
+
+**Ejemplo:** comprar una notebook en un sitio web es contratación a distancia aunque el retiro se efectúe en una sucursal.
+
+## Información previa y oferta digital
+
+- **CCyC, art. 1107:** deber de informar contenido mínimo del contrato y datos necesarios para utilizar el medio electrónico, comprender riesgos y ejercer derechos.
+- **CCyC, art. 1108:** ofertas por medios electrónicos y vigencia.
+- **CCyC, art. 1109:** lugar de cumplimiento en los contratos celebrados fuera de establecimientos comerciales y a distancia.
+- **LDC, arts. 4, 7 y 8:** información y fuerza vinculante de oferta y publicidad.
+
+**Ejemplo:** una tienda anuncia «entrega gratis en 24 horas» y después de cobrar comunica un costo de envío y un plazo de diez días.
+
+## Derecho de revocación: regla general
+
+- **CCyC, art. 1110:** en contratos a distancia y fuera del establecimiento, el consumidor tiene, en principio, derecho irrenunciable a revocar la aceptación dentro de **10 días**, con las particularidades del artículo.
+- **CCyC, art. 1111:** obligación de informar el derecho de revocación.
+- **CCyC, art. 1112:** forma y plazo de ejercicio de la revocación.
+- **LDC, art. 34:** derecho de revocación en los supuestos contemplados.
+
+**Ejemplo:** una persona recibe una cafetera comprada online y decide devolverla dentro del plazo legal, sin necesidad de alegar un defecto.
+
+## Efectos, gastos y excepciones
+
+- **CCyC, art. 1113:** efectos de la revocación.
+- **CCyC, art. 1114:** imposibilidad de devolución y sus consecuencias.
+- **CCyC, art. 1115:** gastos de restitución, a cargo del proveedor en los términos legales.
+- **CCyC, art. 1116:** excepciones al derecho de revocar, entre ellas determinados bienes personalizados y supuestos de contenido digital, según las condiciones legales.
+
+**Ejemplo:** no es equivalente comprar una remera estándar y encargar una prenda confeccionada con medidas y especificaciones individualizadas.
+
+## Botón de arrepentimiento y contratación digital
+
+- La normativa administrativa argentina exige mecanismos visibles y accesibles de arrepentimiento para los proveedores alcanzados; debe verificarse la **regulación vigente** y sus modificaciones.
+- El mecanismo operativo no sustituye los derechos reconocidos en **LDC, art. 34**, y **CCyC, arts. 1110 a 1116**.
+- Distinguir **revocación sin causa**, **garantía por defectos** y **resolución por incumplimiento**.
+
+**Ejemplo:** un producto llega roto a los 20 días. Aunque haya vencido el plazo ordinario de arrepentimiento, pueden subsistir derechos por garantía e incumplimiento.
+
+## Plataformas digitales e intermediarios
+
+- Identificar quién publica, quién vende, quién cobra, quién entrega y quién atiende reclamos.
+- **LDC, arts. 4 y 40:** información y eventual responsabilidad de los integrantes de la cadena, según su participación y presupuestos legales.
+- El solo rótulo «intermediario» no decide por sí mismo todas las cuestiones de responsabilidad.
+- Analizar términos de uso, funcionamiento de pagos, promesas de protección y control de la operación.
+
+**Ejemplo:** una plataforma cobra la compra, promete «compra protegida» y gestiona el reclamo, pero atribuye toda la responsabilidad al vendedor. ¿Qué intervención efectiva tuvo?
+
+## Caso práctico: compra online
+
+Una consumidora compra un televisor por $1.200.000. El sitio promete entrega en 48 horas, pero llega después de dos semanas. La caja está cerrada y el aparato funciona; la consumidora igualmente decide revocar la compra dentro del plazo legal contado según las reglas aplicables.
+
+1. ¿Puede revocar sin probar un defecto?
+2. ¿Quién debe asumir los gastos de restitución?
+3. ¿Qué diferencia hay entre revocar y reclamar por entrega tardía?
+4. Fundamentar en **CCyC, arts. 1110 a 1116**, y **LDC, arts. 10 bis y 34**.
+
+# Tema 4 · Turismo como relación de consumo
+
+## Turismo y pluralidad de contratos
+
+Un viaje puede reunir contratos de **transporte, alojamiento, excursiones, asistencia al viajero e intermediación turística**.
+
+- **LDC, arts. 1 a 3:** identificación de la relación de consumo.
+- **CCyC, arts. 1092 a 1095:** interpretación protectoria.
+- **LDC, arts. 4, 7, 8 y 19:** información, oferta, publicidad y cumplimiento.
+- Las reglas especiales de transporte y turismo deben analizarse según el servicio, el prestador y la operación concreta.
+
+**Ejemplo:** se compra un paquete que incluye hotel, traslado y excursión. Debe identificarse quién prometió cada prestación y qué papel tuvo la agencia.
+
+## Agencia de viajes: organizador e intermediario
+
+- No todas las agencias asumen el mismo papel: pueden **organizar un paquete** o **intermediar** en prestaciones de terceros.
+- La responsabilidad depende de la actividad realizada, lo ofrecido, las normas aplicables y la participación en la prestación.
+- **LDC, arts. 4, 10 bis y 40:** información, remedios por incumplimiento y responsabilidad por daños cuando se reúnen los presupuestos respectivos.
+- Debe evitarse afirmar que toda agencia responde siempre de idéntico modo por cualquier servicio ajeno.
+
+**Ejemplo:** una agencia vende un paquete «hotel frente al mar» y asigna uno situado a varios kilómetros. Analizar quién seleccionó y garantizó el alojamiento.
+
+## Información y publicidad turística
+
+- **LDC, art. 4:** información clara sobre servicios, condiciones, precio y restricciones.
+- **LDC, arts. 7 y 8:** fuerza obligatoria de la oferta y publicidad.
+- **CCyC, arts. 1100 a 1103:** información y publicidad dirigida a consumidores.
+- Informar condiciones relevantes de equipaje, traslados, horarios, categorías hoteleras y políticas de cancelación.
+
+**Ejemplo:** el aviso dice «hotel 5 estrellas con desayuno»; al llegar se asigna uno de menor categoría sin desayuno. El consumidor puede invocar las condiciones publicitadas.
+
+## Incumplimiento y remedios
+
+**LDC, art. 10 bis:** frente al incumplimiento de la oferta o contrato, y bajo las condiciones legales, el consumidor puede optar por:
+
+1. Exigir el cumplimiento forzado, si resulta posible.
+2. Aceptar otro producto o prestación equivalente.
+3. Rescindir con derecho a restitución de lo pagado.
+
+Todo ello **sin perjuicio de las acciones de daños y perjuicios** que correspondan.
+
+**Ejemplo:** el hotel contratado no tiene habitación disponible. Analizar si corresponde reubicación equivalente, devolución y eventual reparación del perjuicio.
+
+## Cancelaciones, cambios y fuerza mayor
+
+- Distinguir cancelación **decidida por el turista**, **imputable al proveedor** y **derivada de un hecho extraordinario**.
+- La devolución, las penalidades y la responsabilidad dependen de las condiciones válidas, de la normativa sectorial y de la causa concreta.
+- **CCyC, arts. 955 y 1730:** imposibilidad de cumplimiento y caso fortuito o fuerza mayor, según corresponda.
+- **LDC, art. 37:** las penalidades predispuestas también pueden ser controladas por abusividad.
+
+**Ejemplo:** una excursión se cancela por cierre oficial del parque debido a una tormenta severa. ¿Qué ocurre con el precio? ¿Quién asumió el riesgo? ¿Se ofreció una alternativa?
+
+## Transporte aéreo: una advertencia necesaria
+
+- El transporte aéreo cuenta con **normativa especial**, que puede incluir el Código Aeronáutico y convenios internacionales.
+- **LDC, art. 63:** prevé la aplicación del Código Aeronáutico, tratados internacionales y supletoriamente la LDC en materia de contrato de transporte aéreo.
+- No debe trasladarse automáticamente el régimen general de la LDC a cualquier demora, cancelación o daño de equipaje.
+- En viajes internacionales hay que identificar itinerario, transportista y convenio aplicable.
+
+**Ejemplo:** una aerolínea extravía equipaje en un vuelo internacional. El régimen de responsabilidad puede diferir del aplicable a una reserva hotelera.
+
+## Turismo contratado por internet
+
+- Una reserva digital puede reunir normas de **turismo y contratación a distancia**.
+- **CCyC, arts. 1105 y 1110 a 1116:** analizar la contratación a distancia y el derecho de revocación con sus excepciones y alcances.
+- **LDC, arts. 4 y 37:** información sobre tarifas «no reembolsables» y control de cláusulas abusivas.
+- No debe suponerse que **toda** reserva turística admite cancelación gratuita durante diez días: requiere analizar el contrato, las excepciones y la normativa aplicable.
+
+**Ejemplo:** una plataforma anuncia un alojamiento con «cancelación gratuita» hasta determinada fecha, pero el proveedor rechaza el reintegro antes de ese vencimiento.
+
+## Caso práctico: paquete turístico
+
+Una pareja contrata online un paquete de siete noches, con traslados y hotel cuatro estrellas. Al llegar, el traslado no aparece y el hotel asignado es de categoría inferior. La agencia afirma que solo fue intermediaria.
+
+1. ¿Qué prometía exactamente la oferta?
+2. ¿Qué papel desempeñó la agencia en la organización y venta?
+3. ¿Qué remedios permite considerar el **art. 10 bis LDC**?
+4. ¿Qué daños podrían reclamarse y qué hechos deberían probarse?
+
+## Comparación de los contratos de la Unidad 9
+
+| Contrato | Norma principal | Problema frecuente | Pregunta central |
+|---|---|---|---|
+| Seguro | Ley 17.418 | Exclusión de cobertura | ¿Qué riesgo se aseguró? |
+| Telefonía | Ley 27.078 + LDC | Facturación y baja | ¿Qué se ofreció y contrató? |
+| Comercio electrónico | CCyC, arts. 1104–1116 | Revocación y entrega | ¿Qué derecho se ejerce? |
+| Turismo | LDC + regímenes sectoriales | Servicio distinto al contratado | ¿Quién prometió la prestación? |
+
+## Actividad integradora: cuatro situaciones
+
+**A. Seguro:** rechazo de siniestro con exclusión ambigua.
+
+**B. Telefonía:** cargos no solicitados y obstáculos para solicitar la baja.
+
+**C. Comercio electrónico:** devolución de una compra sin defectos dentro del plazo legal.
+
+**D. Turismo:** paquete con alojamiento de categoría inferior.
+
+**Consigna:** para cada caso, identificar **relación de consumo, norma especial, artículos de la LDC, prueba relevante y remedio**. Justificar por qué no basta con citar únicamente la ley sectorial.
+
+## Fuentes normativas de la Unidad 9
+
+- [Ley 17.418 — Contrato de seguro](https://www.argentina.gob.ar/normativa/nacional/ley-17418-39520/texto)
+- [Ley 24.240 — Defensa del Consumidor](https://www.argentina.gob.ar/normativa/nacional/ley-24240-638/texto)
+- [Ley 27.078 — Argentina Digital](https://www.argentina.gob.ar/normativa/nacional/ley-27078-239771/texto)
+- [Código Civil y Comercial — Ley 26.994](https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/texto)
+
+**Nota docente:** verificar la versión actualizada de los regímenes administrativos de comunicaciones, comercio electrónico y turismo; la normativa sectorial puede cambiar con mayor frecuencia que los principios generales de la LDC.

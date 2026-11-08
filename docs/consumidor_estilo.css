@@ -1,0 +1,9 @@
+/* Estilo para el simulacro de Derecho del Consumidor */
+.reveal { font-size: 29px; }
+.reveal h2 { color: #123b66; font-weight: 750; font-size: 1.3em; }
+.reveal h3 { color: #183c62; font-size: 1.03em; line-height: 1.22; }
+.reveal .case { background: #f2f6fa; border-left: 8px solid #b28a35; border-radius: 8px; padding: 18px 24px; font-size: .76em; line-height: 1.36; color: #182a3b; }
+.reveal .answer { background: #edf5f4; border-left: 8px solid #177e76; border-radius: 8px; padding: 22px 28px; font-size: .99em; line-height: 1.45; color: #163d3a; }
+.reveal ol { font-size: .71em; line-height: 1.24; }
+.reveal li { margin-bottom: .32em; }
+.reveal .callout { font-size: .8em; }

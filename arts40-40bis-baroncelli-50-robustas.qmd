@@ -1,0 +1,603 @@
+---
+title: "Responsabilidad por daños y daño directo"
+subtitle: "Arts. 40 y 40 bis de la Ley 24.240"
+author: "Derecho del Consumidor · Grado"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+---
+
+## Responsabilidad por daños: art. 40 LDC
+
+El art. 40 establece una regla específica para los daños que resultan del **vicio o riesgo de la cosa o de la prestación del servicio**.
+
+La responsabilidad alcanza a una extensa cadena de sujetos vinculados con la producción, circulación y comercialización del bien o servicio, y la ley adopta como regla la **solidaridad**.
+
+**Idea para la clase:** el régimen desplaza el foco desde la culpa individual hacia la protección de quien sufre el daño dentro de una relación de consumo.
+
+
+---
+
+## Fundamento constitucional
+
+Baroncelli ubica el régimen dentro de la protección de los **intereses económicos de consumidores y usuarios** reconocida por el art. 42 CN.
+
+También lo conecta con las Directrices de Naciones Unidas para la Protección del Consumidor: cuando un producto presenta un defecto grave o un peligro considerable, deben existir mecanismos adecuados de sustitución, reparación o compensación.
+
+La responsabilidad por productos y servicios defectuosos aparece así como una herramienta de tutela de la seguridad y del patrimonio del consumidor.
+
+
+---
+
+## ¿Por qué responsabilidad objetiva?
+
+La producción masiva y tecnificada multiplica bienes y servicios, pero también distribuye socialmente riesgos que el consumidor no está en condiciones de controlar.
+
+Baroncelli recoge el fundamento económico según el cual resulta razonable **internalizar los costos de los daños** en quienes introducen los productos y servicios al mercado.
+
+**Ejemplo:** el consumidor que compra un electrodoméstico no controla su diseño ni su proceso de fabricación; esos riesgos pertenecen a la organización profesional que lo produce y comercializa.
+
+
+---
+
+## De la responsabilidad individual al riesgo de mercado
+
+El modelo tradicional de responsabilidad civil se construía alrededor de una conducta individual reprochable. El art. 40 responde a otra lógica: productos y servicios masivos pueden generar daños a una pluralidad de consumidores.
+
+La tutela deja de depender de demostrar quién, dentro de una organización compleja, cometió concretamente el error.
+
+Lo decisivo será acreditar el **daño**, la intervención del producto o servicio y la relación causal, salvo que opere una eximente.
+
+
+---
+
+## Ámbito de aplicación del art. 40
+
+El régimen comprende daños producidos por:
+
+- **vicio de la cosa**;
+- **riesgo de la cosa**;
+- **vicio de la prestación del servicio**;
+- **riesgo de la prestación del servicio**.
+
+Debe distinguirse este supuesto de otros remedios de la LDC, como los vinculados con falta de conformidad, garantías o incumplimiento contractual.
+
+
+---
+
+## Daño causado por el servicio
+
+El art. 40 también alcanza la prestación de servicios.
+
+No debe confundirse este supuesto con el mero incumplimiento contractual. El régimen se activa cuando la prestación presenta un **vicio o riesgo** que ocasiona un daño.
+
+**Ejemplo:** una prestación profesional o técnica defectuosa puede comprometer bienes, integridad física o patrimonio del usuario cuando su ejecución genera un riesgo jurídicamente relevante.
+
+
+---
+
+## Vicio: concepto
+
+Baroncelli identifica el vicio con la idea de **defecto**: una anomalía que torna al bien impropio para su uso normal o compromete su seguridad.
+
+La responsabilidad objetiva presupone que ese defecto intervenga causalmente en el daño.
+
+La clasificación de los defectos ayuda a comprender que el problema puede encontrarse en la concepción, fabricación, construcción, información o conservación del producto.
+
+
+---
+
+## Vicios intrínsecos
+
+Son defectos inherentes al propio bien y no dependen necesariamente de una acción externa posterior.
+
+Baroncelli menciona, entre otros ejemplos, peligrosidad o nocividad propia de la composición del producto.
+
+**Ejemplos del texto:** alimentos afectados por microorganismos, hongos venenosos, hierbas o frutos silvestres tóxicos y carne infectada por triquinosis.
+
+
+---
+
+## Vicios de diseño
+
+El defecto puede encontrarse en la **concepción misma del producto**.
+
+Aunque el proceso industrial siga correctamente el diseño previsto, el resultado puede ser inseguro porque el error estaba presente desde la planificación.
+
+La diferencia con el defecto de fabricación es importante: en el vicio de diseño, el problema puede proyectarse sobre toda una serie producida conforme al mismo modelo.
+
+
+---
+
+## Vicios de fabricación
+
+Aquí el problema se origina durante la etapa de producción.
+
+El diseño puede ser correcto, pero una falla humana o mecánica altera el resultado esperado. El defecto puede afectar toda la producción o únicamente determinadas unidades.
+
+**Ejemplo:** un componente correctamente diseñado es ensamblado de manera defectuosa en una partida determinada.
+
+
+---
+
+## Defectos de información
+
+El producto puede ser materialmente correcto y, sin embargo, resultar defectuoso porque no se brindaron instrucciones o advertencias necesarias para utilizarlo con seguridad.
+
+La información sobre riesgos integra la seguridad esperable del producto o servicio.
+
+**Ejemplo:** omitir una advertencia indispensable sobre la interacción peligrosa entre un producto y determinada forma de utilización puede convertirlo en defectuoso desde la perspectiva del consumidor.
+
+
+---
+
+## Defectos de conservación
+
+Un producto inicialmente adecuado puede transformarse en riesgoso por una conservación incorrecta.
+
+Baroncelli incluye este supuesto dentro de las posibles fuentes del defecto.
+
+**Ejemplo:** alimentos o medicamentos que requieren condiciones específicas de temperatura pueden perder seguridad cuando se rompe la cadena de conservación.
+
+
+---
+
+## Riesgo de la cosa
+
+El riesgo refiere a la eventualidad de que una cosa produzca daño por su naturaleza, uso habitual o extraordinario, o por circunstancias especiales que potencien su peligrosidad.
+
+Puede tratarse de objetos inertes o en movimiento.
+
+El perjuicio aparece cuando la actuación de la cosa, dentro de esas condiciones, causa el daño que luego se reclama.
+
+
+---
+
+## Riesgo de la prestación del servicio
+
+Baroncelli propone no limitar el art. 40 a una lectura literal que sólo contemple ejecución defectuosa.
+
+También pueden existir servicios que, por su naturaleza, medios empleados o circunstancias de realización, generan riesgos.
+
+El análisis debe concentrarse en el **servicio efectivamente prestado** y en la seguridad que razonablemente puede esperarse de él.
+
+
+---
+
+## Legitimados activos
+
+Puede reclamar quien haya sufrido un daño derivado del vicio o riesgo de la cosa o servicio.
+
+Baroncelli adopta una lectura amplia: la víctima puede ser consumidor directo, indirecto o sujeto expuesto a prácticas comerciales, conforme al alcance del art. 1 LDC.
+
+El análisis se desplaza desde quién celebró formalmente el contrato hacia quién resulta jurídicamente protegido frente al daño.
+
+
+---
+
+## Legitimados pasivos: una cadena extensa
+
+El art. 40 enumera una pluralidad de responsables:
+
+- productor;
+- fabricante;
+- importador;
+- distribuidor;
+- proveedor;
+- vendedor;
+- quien pone su marca en la cosa o servicio;
+- transportista, respecto de daños ocasionados a la cosa con motivo u ocasión del servicio.
+
+La enumeración responde a la estructura compleja del mercado de consumo.
+
+
+---
+
+## Quien pone su marca
+
+El art. 40 incluye a quien coloca su marca en la cosa o servicio aunque no sea materialmente el fabricante.
+
+Baroncelli explica que la marca actúa como un **puente simbólico** entre el consumidor y el producto: comunica identidad, reputación y confianza.
+
+**Ejemplo:** una empresa que comercializa bajo su propia marca productos fabricados por terceros puede quedar comprendida en la cadena.
+
+
+---
+
+## Transportista: un supuesto particular
+
+El transportista queda comprendido respecto del daño ocasionado a la cosa **con motivo u ocasión del servicio**.
+
+Baroncelli señala que su situación presenta una particularidad: puede responder solidariamente aunque estrictamente no integre la misma cadena de comercialización del producto.
+
+**Ejemplo:** daño al bien durante el traslado contratado dentro de la operación de consumo.
+
+
+---
+
+## Naturaleza objetiva
+
+El factor de atribución es **objetivo**.
+
+La víctima no debe demostrar culpa del fabricante, vendedor o proveedor. El responsable se libera demostrando que la causa del daño le ha sido ajena.
+
+Esto modifica radicalmente el eje probatorio: la discusión no se concentra en la diligencia subjetiva del proveedor, sino en la causalidad y las eximentes admitidas.
+
+
+---
+
+## Solidaridad
+
+La norma establece responsabilidad solidaria entre los sujetos alcanzados.
+
+Para el consumidor, esto significa que puede reclamar la reparación total a cualquiera de los integrantes responsables, sin necesidad de distribuir previamente porcentajes internos.
+
+Luego podrán operar las acciones de repetición entre quienes integran la cadena según la causa particular de la obligación de cada uno.
+
+
+---
+
+## Reparación plena
+
+El consumidor puede reclamar reparación plena de los daños sufridos conforme a las reglas aplicables.
+
+Baroncelli recuerda que el daño puede ser patrimonial o extrapatrimonial.
+
+Entre los rubros posibles aparecen daño emergente, lucro cesante, incapacidad, daño moral y otras consecuencias resarcibles según las circunstancias del caso.
+
+
+---
+
+## La eximente: causa ajena
+
+El art. 40 permite liberarse total o parcialmente a quien demuestre que la **causa del daño le ha sido ajena**.
+
+En un sistema objetivo, esta defensa se vincula con la relación causal y no con la mera ausencia de culpa.
+
+No basta afirmar que el proveedor actuó diligentemente: debe acreditarse una circunstancia idónea para quebrar o reducir causalmente la imputación.
+
+
+---
+
+## Hecho de la víctima
+
+Baroncelli propone una valoración **restrictiva** del hecho del consumidor como eximente.
+
+La vulnerabilidad estructural y el principio protectorio justifican especial severidad antes de trasladar a la víctima las consecuencias del daño.
+
+La jurisprudencia reseñada exige, en supuestos de consumidores vulnerables, una conducta particularmente grave para reconocer eficacia causal liberatoria.
+
+
+---
+
+## Autorización estatal no exime
+
+La sola circunstancia de que el producto o servicio cuente con autorización estatal para su comercialización no constituye por sí misma una eximente.
+
+Baroncelli recuerda que el CCyC establece que la autorización administrativa para utilizar una cosa o realizar una actividad no impide atribuir responsabilidad.
+
+**Idea clave:** autorización regulatoria y responsabilidad frente al consumidor son planos diferentes.
+
+
+---
+
+## Riesgo de desarrollo
+
+El riesgo de desarrollo aparece cuando un producto es introducido en el mercado con apariencia de seguridad conforme al estado de la ciencia y la técnica, pero luego nuevos conocimientos revelan su peligrosidad.
+
+Baroncelli menciona ejemplos históricos vinculados con medicamentos, alimentos, biotecnologías, transgénicos, prótesis y nanotecnología.
+
+La cuestión es quién debe soportar económicamente ese riesgo inicialmente incognoscible.
+
+
+---
+
+## ¿El riesgo de desarrollo es eximente?
+
+Baroncelli sostiene una posición protectoria: el riesgo de desarrollo **no debería funcionar como eximente** frente al consumidor.
+
+Su argumento se apoya en los arts. 5, 6 y 40 LDC y en la obligación de seguridad.
+
+El progreso científico no debería permitir que el costo de un daño derivado del producto sea trasladado a la víctima que no participó de los beneficios económicos de su introducción al mercado.
+
+
+---
+
+## Art. 40 bis: daño directo
+
+El art. 40 bis regula el **daño directo** como un mecanismo de compensación en favor del consumidor dentro de sede administrativa.
+
+Baroncelli lo vincula con el mandato constitucional de establecer procedimientos eficaces para la prevención y solución de conflictos.
+
+Aquí cambia el eje de la clase: ya no se trata sólo de quién responde, sino de **qué puede resolver la Administración** frente al daño sufrido.
+
+
+---
+
+## Concepto legal de daño directo
+
+La norma define el daño directo como todo perjuicio o menoscabo al derecho del usuario o consumidor, susceptible de apreciación pecuniaria, ocasionado de manera inmediata sobre sus bienes o sobre su persona como consecuencia de la acción u omisión del proveedor.
+
+Baroncelli critica aspectos de la denominación y propone comprender el instituto desde su función administrativa compensatoria.
+
+
+---
+
+## Finalidad práctica del daño directo
+
+El instituto busca brindar una vía ágil para reparar daños de menor complejidad sin obligar al consumidor a iniciar necesariamente un juicio.
+
+Baroncelli destaca el problema económico del acceso a justicia: frente a reclamos pequeños, el costo y tiempo de litigar puede superar el monto pretendido.
+
+**Ejemplo:** cobros indebidos o daños materiales simples pueden carecer de incentivo económico para un proceso judicial autónomo.
+
+
+---
+
+## Fernández Arias: punto de partida constitucional
+
+Baroncelli utiliza **“Fernández Arias c. Poggio”** como antecedente fundamental para explicar la admisibilidad de funciones materialmente jurisdiccionales ejercidas por la Administración.
+
+La clave constitucional no es una prohibición absoluta, sino la existencia de límites y, especialmente, de **control judicial suficiente**.
+
+Este precedente sirve como base para analizar después la validez del art. 40 bis.
+
+
+---
+
+## Ángel Estrada: requisitos
+
+El comentario desarrolla **“Ángel Estrada y Cía. S.A. c. Secretaría de Energía y Puertos”**.
+
+Baroncelli recoge cuatro requisitos para órganos administrativos con funciones jurisdiccionales:
+
+1. creación legal;
+2. independencia e imparcialidad indubitadas;
+3. objetivo económico y político razonable;
+4. control judicial amplio y suficiente.
+
+
+---
+
+## Ángel Estrada y el límite de la competencia administrativa
+
+En el precedente, la Corte examinó los límites de las facultades del ente regulador frente a una pretensión indemnizatoria.
+
+Baroncelli utiliza el caso para mostrar que reconocer funciones jurisdiccionales administrativas **no equivale a atribuir competencia ilimitada**.
+
+La Administración sólo puede resolver dentro de la habilitación legal y de los límites compatibles con la Constitución.
+
+
+---
+
+## El debate sobre la constitucionalidad del art. 40 bis
+
+Las objeciones se apoyan principalmente en la división de poderes, el art. 109 CN, el derecho de defensa y la garantía del juez natural.
+
+La posición favorable destaca que el art. 42 CN exige procedimientos eficaces de tutela y que la función administrativa puede ser constitucional cuando se cumplen los recaudos de especialización, imparcialidad y revisión judicial suficiente.
+
+Baroncelli se inclina por la **constitucionalidad** del instituto bajo esas condiciones.
+
+
+---
+
+## Requisitos del órgano administrativo
+
+Para fijar daño directo, el órgano debe reunir los requisitos legales:
+
+- habilitación normativa para resolver conflictos y razonabilidad del objetivo económico;
+- especialización técnica;
+- independencia e imparcialidad indubitadas;
+- decisiones sujetas a control judicial amplio y suficiente.
+
+No cualquier oficina administrativa puede asumir válidamente esta función.
+
+
+---
+
+## Daño directo: a petición de parte
+
+Baroncelli sostiene que, mayoritariamente, el daño directo procede **a petición del consumidor**.
+
+La solicitud no debería interpretarse con formalismo excesivo: puede surgir aunque el usuario no utilice exactamente la expresión técnica “daño directo”.
+
+El enfoque se vincula con el carácter gratuito e informal del procedimiento de consumo.
+
+
+---
+
+## Relación con el procedimiento sancionador
+
+El daño directo puede insertarse dentro de un procedimiento administrativo donde también se analiza una infracción.
+
+Pero debe distinguirse conceptualmente de la **sanción administrativa**.
+
+La multa castiga la infracción; el daño directo busca otorgar una compensación al consumidor. Son finalidades diferentes y requieren tratamiento jurídico diferenciado.
+
+
+---
+
+## El consumidor como parte interesada
+
+La incorporación del daño directo modifica la posición tradicional del denunciante.
+
+El consumidor pasa a tener un interés concreto en la determinación administrativa: puede pedir, ser oído, ofrecer y producir prueba y cuestionar judicialmente la decisión cuando corresponda.
+
+La resolución sobre su daño afecta directamente su esfera jurídica y no puede tratarse como un asunto ajeno.
+
+
+---
+
+## Alcance material del daño directo
+
+Baroncelli interpreta el instituto de manera acotada a daños **materiales, inmediatos y mensurables** vinculados con los bienes objeto de la relación de consumo.
+
+Quedan fuera del mecanismo administrativo las consecuencias que requieren una valoración compleja propia de sede judicial.
+
+La simplicidad probatoria es importante para justificar la intervención administrativa.
+
+
+---
+
+## Qué queda fuera
+
+El art. 40 bis excluye consecuencias relativas a:
+
+- integridad personal;
+- salud psicofísica;
+- afecciones espirituales legítimas;
+- consecuencias sobre el proyecto de vida;
+- en general, consecuencias no patrimoniales.
+
+Estas materias quedan reservadas al reclamo judicial correspondiente.
+
+
+---
+
+## Ejemplos de daño directo procedente
+
+Baroncelli reseña supuestos como:
+
+- comisiones o cargos indebidamente cobrados;
+- diferencias de facturación;
+- precio por ejercer un derecho de arrepentimiento;
+- incumplimiento de baja de un servicio;
+- productos o servicios no garantizados;
+- recuperación de dinero pagado por una prestación deficiente.
+
+Son casos donde el perjuicio puede determinarse con relativa sencillez.
+
+
+---
+
+## Cuando el caso exige mayor complejidad probatoria
+
+No todo daño sufrido en una relación de consumo es apto para el art. 40 bis.
+
+Baroncelli menciona supuestos en los que lesiones físicas, tratamientos, incapacidades o daño psicológico exigen una actividad probatoria incompatible con la simplicidad del mecanismo administrativo.
+
+En esos casos, la pretensión resarcitoria integral debe canalizarse judicialmente.
+
+
+---
+
+## Daño directo como obligación de valor
+
+Baroncelli analiza el daño directo como una **obligación de valor**.
+
+El objeto inicial no es simplemente una suma nominal de dinero, sino la reparación de un valor económico afectado. La cuantificación monetaria aparece al momento de determinar la compensación.
+
+Esta caracterización resulta importante frente a inflación, mora y actualización del perjuicio.
+
+
+---
+
+## Intereses
+
+La compensación fijada administrativamente puede plantear la cuestión de los intereses.
+
+Baroncelli distingue entre intereses compensatorios y moratorios y sostiene que la reparación no debería perder eficacia por el transcurso del tiempo.
+
+La discusión se conecta con la naturaleza resarcitoria del instituto y con la necesidad de que el consumidor no reciba una suma económicamente depreciada.
+
+
+---
+
+## Daño directo y causa civil
+
+El consumidor puede iniciar una acción judicial aunque exista una actuación administrativa sobre daño directo.
+
+Pero las sumas abonadas por el proveedor en sede administrativa deben computarse para evitar una **doble reparación por el mismo concepto**.
+
+La coexistencia de vías no habilita enriquecimiento sin causa ni duplicación indemnizatoria.
+
+
+---
+
+## Órganos de aplicación
+
+El daño directo sólo puede ser fijado por organismos que reúnan los requisitos del art. 40 bis.
+
+Baroncelli examina especialmente:
+
+- habilitación legal;
+- especialización;
+- independencia e imparcialidad;
+- control judicial amplio.
+
+La competencia no surge simplemente de ser “autoridad de aplicación” de la LDC: requiere una atribución compatible con las exigencias constitucionales.
+
+
+---
+
+## Control judicial amplio y suficiente
+
+La revisión judicial es una garantía central.
+
+Baroncelli recuerda que la jurisprudencia exige que las decisiones administrativas puedan ser revisadas por tribunales con amplitud suficiente para controlar legalidad, razonabilidad y afectación de derechos.
+
+Sin esta revisión, la atribución de funciones materialmente jurisdiccionales a la Administración encontraría una objeción constitucional decisiva.
+
+
+---
+
+## Inaplicabilidad del daño directo en sede judicial
+
+Baroncelli aclara que el **daño directo del art. 40 bis** es una figura propia del ámbito administrativo.
+
+En sede judicial el consumidor puede reclamar reparación conforme al régimen general correspondiente, pero no necesita pedir que el juez “aplique el art. 40 bis” como si fuera una categoría indemnizatoria autónoma.
+
+La distinción evita confundir el instituto administrativo con la reparación judicial plena.
+
+
+---
+
+## Caso integrador 1: producto defectuoso
+
+Un consumidor compra un electrodoméstico comercializado bajo la marca de una cadena minorista. Un defecto de fabricación provoca un incendio y daños en su vivienda. El fabricante alega que el vendedor debía controlar el producto; el vendedor sostiene que sólo lo comercializó.
+
+**Analizar con Baroncelli:**
+
+- vicio y causalidad;
+- legitimados pasivos;
+- responsabilidad objetiva;
+- solidaridad;
+- causa ajena;
+- alcance de la reparación.
+
+
+---
+
+## Caso integrador 2: servicio y daño directo
+
+Una empresa de telefonía continúa facturando durante cuatro meses después de una baja correctamente solicitada. El consumidor reclama la devolución de los importes y acompaña facturas, constancia de baja y comprobantes de pago.
+
+**Analizar:**
+
+- existencia de perjuicio inmediato y mensurable;
+- procedencia del daño directo;
+- diferencia con una sanción;
+- prueba necesaria;
+- competencia del órgano;
+- eventual revisión judicial.
+
+
+---
+
+## Mapa final: arts. 40 y 40 bis
+
+**Art. 40:** vicio o riesgo → daño → cadena de responsables → factor objetivo → solidaridad → causa ajena → reparación.
+
+**Art. 40 bis:** perjuicio inmediato y mensurable → petición del consumidor → órgano administrativo habilitado → compensación → control judicial amplio → coordinación con eventual acción civil.
+
+La conexión entre ambos artículos está en la tutela efectiva; la diferencia está en su **función**: el art. 40 estructura responsabilidad por daños y el art. 40 bis crea un mecanismo administrativo específico de compensación.

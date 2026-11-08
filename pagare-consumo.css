@@ -1,0 +1,30 @@
+/* Pagaré de consumo — RevealJS */
+:root{
+ --azul:#123a63; --dorado:#c99a2e; --texto:#27313a;
+ --gris:#6b7280; --borde:#dfe5ea; --celeste:#eef5fb;
+ --crema:#fbfaf6; --rojo:#a33a3a;
+}
+.reveal{color:var(--texto);background:#fff;font-size:29px}
+.reveal .slides{text-align:left}
+.reveal .slides section{box-sizing:border-box;padding:30px 52px}
+.reveal h1,.reveal h2,.reveal h3{text-transform:none;letter-spacing:normal}
+.reveal h1{color:var(--azul);font-size:1.95em;font-weight:750}
+.reveal h2{color:var(--azul);font-size:1.42em;font-weight:730;border-bottom:1px solid var(--borde);padding-bottom:.18em;margin-bottom:.55em}
+.reveal h3{color:var(--dorado);font-size:1.02em;font-weight:750}
+.reveal p,.reveal li{line-height:1.28}
+.reveal li{margin:.17em 0}
+.reveal strong{color:var(--azul)}
+.caja-azul,.caja-dorada,.idea,.pregunta{
+ border-radius:12px;padding:18px 23px;margin:17px 0;
+ box-shadow:0 4px 14px rgba(18,58,99,.05)
+}
+.caja-azul{background:var(--azul);color:#fff}
+.caja-azul strong{color:#fff}
+.caja-dorada,.idea{background:var(--crema);border-left:6px solid var(--dorado)}
+.pregunta{background:var(--celeste);border-left:6px solid var(--azul);font-size:1.04em}
+.reveal .columns{gap:28px}
+.reveal .column{padding:0 12px}
+.reveal a{color:var(--azul);font-size:.82em;overflow-wrap:anywhere}
+.reveal blockquote{width:auto;background:var(--crema);border-left:5px solid var(--dorado);padding:15px 20px;box-shadow:none;font-style:italic}
+.reveal .slide-number{background:transparent;color:var(--gris)}
+.reveal .progress{height:4px;color:var(--dorado)}

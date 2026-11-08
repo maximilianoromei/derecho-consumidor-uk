@@ -1,0 +1,899 @@
+---
+title: "Garantías legales y reparación"
+subtitle: "Ley 24.240 · Arts. 11 a 18"
+author: "Derecho del Consumidor · Grado"
+slide-level: 1
+format:
+  revealjs:
+    theme: simple
+    css: clase4-reveal.css
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+    link-external-newwindow: true
+---
+
+# El problema de esta clase
+
+<div class="hero-box">
+¿Qué ocurre cuando la cosa comprada no funciona, funciona mal o no coincide con lo que debía entregarse?
+</div>
+
+Los arts. 11 a 18 construyen un **sistema de tutela posterior a la entrega**:
+
+<div class="flow-row">
+<div class="flow-card"><b>GARANTÍA</b><br>¿Qué defectos quedan cubiertos?</div>
+<div class="flow-card"><b>REPARACIÓN</b><br>¿Quién debe reparar y en qué condiciones?</div>
+<div class="flow-card"><b>REMEDIOS</b><br>¿Qué puede hacer el consumidor si la reparación fracasa?</div>
+</div>
+
+<div class="takeaway">
+El eje ya no está puesto en la promesa previa, sino en la conformidad de la cosa efectivamente recibida.
+</div>
+
+# Mapa normativo
+
+| Norma | Problema que regula |
+|---|---|
+| **Art. 11** | Garantía legal |
+| **Art. 12** | Servicio técnico y repuestos |
+| **Art. 13** | Responsabilidad solidaria |
+| **Art. 14** | Certificado de garantía |
+| **Art. 15** | Constancia de reparación |
+| **Art. 16** | Prolongación del plazo de garantía |
+| **Art. 17** | Reparación no satisfactoria |
+| **Art. 18** | Vicios redhibitorios |
+
+<div class="blue-box">
+El sistema debe leerse como una secuencia: garantía → reparación → documentación → prolongación → remedios.
+</div>
+
+# Caso de apertura: auto 0 km
+
+Una persona compra un automóvil 0 km.
+
+A los veinte días:
+
+- aparece una falla eléctrica;
+- el vehículo ingresa tres veces al taller;
+- cada reparación demora varios días;
+- el concesionario dice que “la garantía sigue corriendo”;
+- después del tercer ingreso, el defecto reaparece;
+- el fabricante sostiene que el consumidor debe seguir intentando reparar.
+
+<div class="question-box">
+¿Hasta cuándo tiene que tolerar reparaciones? ¿Quién responde? ¿Qué opciones tiene?
+</div>
+
+# El sistema de garantías
+
+Tambussi distingue **tres planos diferentes**:
+
+<div class="case-grid">
+<div class="case-card"><b>GARANTÍA LEGAL</b><br>Surge directamente de la ley.</div>
+<div class="case-card"><b>GARANTÍA CONVENCIONAL</b><br>Puede ser ofrecida adicionalmente por el proveedor.</div>
+<div class="case-card"><b>VICIOS REDHIBITORIOS</b><br>Régimen general que convive con la tutela consumeril.</div>
+</div>
+
+<div class="takeaway">
+No deben confundirse: son herramientas vinculadas, pero con presupuestos y efectos propios.
+</div>
+
+# Artículo 11: garantía legal
+
+Cuando se comercializan cosas muebles no consumibles, el consumidor y los sucesivos adquirentes gozan de **garantía legal por defectos o vicios de cualquier índole**.
+
+También comprende supuestos en los cuales la cosa:
+
+- no coincide con lo ofrecido;
+- no funciona correctamente;
+- presenta defectos que afectan su utilización.
+
+<div class="hero-box">LA GARANTÍA LEGAL NO DEPENDE DE QUE EL PROVEEDOR “QUIERA DARLA”.</div>
+
+# ¿Por qué existe una garantía legal?
+
+Tambussi vincula la garantía con una finalidad protectoria concreta:
+
+- asegurar la **identidad entre lo ofrecido y lo entregado**;
+- preservar el correcto funcionamiento;
+- permitir reparación, sustitución u otros remedios cuando la prestación no satisface lo debido.
+
+<div class="question-box">
+Si la garantía dependiera únicamente de lo que cada proveedor decidiera ofrecer, ¿seguiría siendo una verdadera protección legal?
+</div>
+
+# ¿Quiénes están protegidos?
+
+La garantía legal beneficia:
+
+- al consumidor que celebró la operación;
+- a los sucesivos adquirentes;
+- incluso, según explica Tambussi, a ciertos consumidores equiparados dentro del régimen general de relaciones de consumo.
+
+<div class="blue-box">
+La garantía acompaña a la cosa y no queda necesariamente encerrada en la persona del comprador original.
+</div>
+
+# ¿Qué cosas comprende?
+
+El art. 11 se refiere a **cosas muebles no consumibles**.
+
+Tambussi explica que el régimen alcanza a bienes destinados a una utilización durable o continuada.
+
+### Ejemplos
+
+- automóvil;
+- heladera;
+- notebook;
+- teléfono;
+- televisor;
+- lavarropas.
+
+Quedan fuera de este régimen específico las cosas que se consumen con su primer uso.
+
+# “Comercialización” en sentido amplio
+
+Tambussi utiliza un concepto amplio de comercialización.
+
+La garantía puede proyectarse sobre bienes entregados en relaciones de consumo aunque la operación no adopte la forma clásica de una compraventa onerosa.
+
+<div class="example-box">
+Promociones, programas de puntos, premios o bienes entregados dentro de una relación de consumo pueden quedar comprendidos cuando la entrega forma parte del vínculo económico con el proveedor.
+</div>
+
+# ¿Qué cubre la garantía?
+
+Tambussi agrupa los problemas en dos grandes categorías:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Falta de identidad</strong><br><br>Lo entregado no coincide con lo ofrecido o prometido.</div>
+<div class="compare-card"><strong>Defecto o mal funcionamiento</strong><br><br>La cosa presenta una falla que afecta su utilización normal.</div>
+</div>
+
+Ambas situaciones pueden activar el sistema de garantía.
+
+# Vicio y defecto: una distinción útil
+
+Tambussi diferencia ambos conceptos.
+
+**Vicio**: problema interno que afecta la cosa y puede comprometer su aptitud o seguridad.
+
+**Defecto**: concepto más amplio, que puede incluir problemas:
+
+- de diseño;
+- de fabricación;
+- de información;
+- de conservación.
+
+<div class="takeaway">
+La tutela no se limita al defecto industrial clásico: también puede abarcar fallas informativas o de conservación.
+</div>
+
+# Defecto de diseño
+
+<div class="example-box">
+Un producto fue fabricado exactamente como estaba previsto, pero el propio diseño genera un riesgo o impide un funcionamiento adecuado.
+</div>
+
+El problema no está en una unidad mal fabricada.
+
+Está en **cómo fue concebido el producto**.
+
+# Defecto de fabricación
+
+<div class="example-box">
+El modelo es correcto, pero una unidad específica salió de fábrica con una pieza defectuosa.
+</div>
+
+Aquí el defecto aparece en el proceso productivo y provoca que la cosa concreta se aparte del resultado esperado.
+
+# Defecto de información
+
+<div class="example-box">
+La cosa funciona correctamente sólo si se utiliza de una determinada manera, pero el consumidor no recibe las instrucciones necesarias.
+</div>
+
+La insuficiencia informativa puede integrar el análisis del defecto cuando compromete el uso normal o seguro.
+
+# Defecto de conservación
+
+<div class="example-box">
+El producto fue correctamente diseñado y fabricado, pero fue almacenado o conservado de manera inadecuada antes de la entrega.
+</div>
+
+El deterioro puede generar responsabilidad aunque el problema no se haya originado en la fábrica.
+
+# La garantía no exige que el defecto sea visible
+
+Tambussi destaca que los defectos pueden ser:
+
+- ostensibles;
+- ocultos;
+- manifiestos desde el inicio;
+- detectados posteriormente.
+
+<div class="blue-box">
+La garantía no desaparece simplemente porque el consumidor no haya advertido el problema en el momento de recibir la cosa.
+</div>
+
+# ¿Debe probar el consumidor la causa técnica exacta?
+
+No siempre.
+
+Tambussi explica que, verificado el funcionamiento defectuoso o la falta de identidad, el régimen protector no puede transformarse en una carga técnica imposible para el consumidor.
+
+<div class="question-box">
+¿Es razonable exigir a quien compra un lavarropas que identifique qué componente electrónico interno produjo la falla?
+</div>
+
+# Plazo de la garantía
+
+El art. 11 fija un plazo legal mínimo.
+
+Tambussi explica:
+
+- **bienes muebles usados:** tres meses;
+- **demás bienes muebles no consumibles:** seis meses.
+
+El plazo corre desde la **entrega**.
+
+<div class="takeaway">
+La garantía convencional puede ampliar la protección. No puede reducir el mínimo legal.
+</div>
+
+# ¿Puede el contrato acortar la garantía?
+
+No.
+
+Tambussi considera abusiva una cláusula que reduzca directa o indirectamente el plazo mínimo legal.
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Válido</strong><br><br>“Garantía por 2 años.”</div>
+<div class="compare-card"><strong>Inválido</strong><br><br>“Garantía por 30 días. Luego no se admiten reclamos.”</div>
+</div>
+
+El piso legal es indisponible en perjuicio del consumidor.
+
+# Traslado al servicio técnico
+
+Si la cosa debe trasladarse para hacer efectiva la garantía, el régimen coloca los gastos necesarios a cargo del responsable.
+
+Tambussi menciona especialmente:
+
+- flete;
+- seguros;
+- gastos vinculados con el traslado.
+
+<div class="example-box">
+Una heladera falla en una localidad pequeña y el service oficial más cercano está a 500 km. El consumidor no debería soportar económicamente el traslado necesario para ejercer una garantía legal.
+</div>
+
+# Jurisprudencia: gastos de traslado
+
+<div class="case-title">La garantía debe ser realmente utilizable</div>
+
+**Hechos.** Un consumidor necesitaba trasladar el bien para poder hacerlo revisar o reparar dentro del régimen de garantía.
+
+**Problema jurídico.** El proveedor pretendía trasladar al usuario el costo del transporte.
+
+**Criterio citado por Tambussi.** Los gastos necesarios para hacer efectiva la garantía corresponden al responsable de la garantía, no al consumidor.
+
+**Resultado.** La tutela perdería eficacia si ejercerla costara al consumidor una suma desproporcionada.
+
+# Jurisprudencia: automóvil y defectos reiterados
+
+<div class="case-title">Reclamo por fallas de un vehículo</div>
+
+**Hechos.** El adquirente de un vehículo promovió un reclamo contra el fabricante por defectos y vicios que afectaban el bien.
+
+**Problema jurídico.** Se discutió la procedencia de la tutela de garantía y la responsabilidad por los defectos del vehículo.
+
+**Resolución.** La jurisprudencia citada por Tambussi reconoce que la pretensión derivada de vicios o defectos se encuentra alcanzada por el sistema especial de garantía del consumidor.
+
+**Resultado.** El fabricante no puede desvincularse del régimen simplemente porque la operación inmediata se haya celebrado con un concesionario.
+
+# Jurisprudencia: camión con defectos
+
+<div class="case-title">Defecto de calidad y funcionamiento</div>
+
+**Hechos.** El adquirente de un camión detectó defectos de calidad y funcionamiento poco tiempo después de comenzar a utilizarlo.
+
+**Problema jurídico.** Se discutió la responsabilidad del fabricante frente a fallas que comprometían el uso normal del vehículo.
+
+**Resolución.** El criterio citado por Tambussi atribuye responsabilidad al fabricante cuando la cosa no reúne las condiciones que razonablemente debía presentar.
+
+<div class="takeaway">
+La garantía protege la expectativa de recibir un producto apto para el uso normal prometido.
+</div>
+
+# Artículo 12: servicio técnico
+
+Los fabricantes, importadores y vendedores deben asegurar:
+
+- un **servicio técnico adecuado**;
+- el suministro de **partes y repuestos**.
+
+La garantía no termina en reconocer que existe un defecto.
+
+<div class="hero-box">
+DEBE EXISTIR UNA ESTRUCTURA REAL CAPAZ DE REPARAR LA COSA.
+</div>
+
+# Servicio técnico: dos obligaciones
+
+<div class="compare-grid">
+<div class="compare-card"><strong>1. Reparación</strong><br><br>Existencia de un servicio técnico apto.</div>
+<div class="compare-card"><strong>2. Repuestos</strong><br><br>Disponibilidad de piezas necesarias.</div>
+</div>
+
+Tambussi explica que ambas obligaciones son instrumentales para hacer efectiva la garantía.
+
+# ¿Por cuánto tiempo deben existir repuestos?
+
+Tambussi señala que la ley no fija un plazo uniforme rígido para todos los productos.
+
+La razonabilidad depende de:
+
+- naturaleza del bien;
+- vida útil esperable;
+- condiciones del mercado;
+- posibilidad técnica de mantenimiento.
+
+<div class="question-box">
+¿Sería razonable vender un electrodoméstico durable y dejar de ofrecer repuestos seis meses después?
+</div>
+
+# Repuestos usados
+
+Tambussi explica que la utilización de piezas usadas sólo resulta admisible en supuestos excepcionales y con las autorizaciones correspondientes.
+
+<div class="blue-box">
+La regla es que la reparación debe restablecer adecuadamente el funcionamiento, no degradar el bien mediante piezas inferiores no consentidas.
+</div>
+
+# Jurisprudencia: importador y servicio técnico
+
+<div class="case-title">Responsabilidad por falta de reparación adecuada</div>
+
+**Hechos.** Un bien presentó fallas y el consumidor recurrió al sistema de garantía. La respuesta técnica no solucionó adecuadamente el problema.
+
+**Problema jurídico.** Se discutió si el importador podía limitarse a remitir al consumidor al vendedor o a un service.
+
+**Resolución.** La jurisprudencia recogida por Tambussi considera que quienes integran la cadena tienen deberes propios vinculados con la efectividad de la garantía.
+
+**Resultado.** La organización interna de la cadena no puede transformarse en un obstáculo para el consumidor.
+
+# Jurisprudencia: concesionario y fabricante
+
+<div class="case-title">La reparación defectuosa no elimina la responsabilidad del fabricante</div>
+
+**Hechos.** Un automóvil fue sometido a reparación por un concesionario. La reparación resultó defectuosa y el problema persistió.
+
+**Problema jurídico.** El fabricante intentó desligarse alegando que la intervención técnica había sido realizada por el concesionario.
+
+**Resolución.** La jurisprudencia citada por Tambussi reconoció la responsabilidad del fabricante dentro del sistema de garantía.
+
+**Resultado.** La división de tareas entre fabricante y concesionario no perjudica al consumidor.
+
+# Artículo 13: responsabilidad solidaria
+
+Son solidariamente responsables por el otorgamiento y cumplimiento de la garantía legal:
+
+- productores;
+- importadores;
+- distribuidores;
+- vendedores.
+
+<div class="hero-box">
+EL CONSUMIDOR NO TIENE QUE DESCUBRIR QUIÉN, DENTRO DE LA CADENA, “TUVO LA CULPA”.
+</div>
+
+# ¿Por qué solidaridad?
+
+Tambussi explica la solidaridad desde la estructura misma de la relación de consumo.
+
+El consumidor se vincula con una **cadena de producción y comercialización**.
+
+No debería quedar atrapado entre respuestas como:
+
+- “eso es problema del fabricante”;
+- “reclame al importador”;
+- “el concesionario fue quien reparó”;
+- “nosotros sólo vendemos”.
+
+# Jurisprudencia: fabricante + concesionaria
+
+<div class="case-title">Daño de motor y responsabilidad conjunta</div>
+
+**Hechos.** Un vehículo presentó un problema relevante en el motor. Se discutió la responsabilidad del fabricante y de la concesionaria interviniente.
+
+**Problema jurídico.** Cada integrante intentó delimitar su responsabilidad según la etapa en que había intervenido.
+
+**Resolución.** La jurisprudencia citada por Tambussi responsabilizó a los sujetos de la cadena a la luz del régimen solidario de garantía.
+
+**Resultado.** El consumidor pudo dirigir su pretensión contra quienes integraban el circuito de comercialización y garantía.
+
+# Artículo 14: certificado de garantía
+
+El certificado debe contener, como mínimo:
+
+- identificación de vendedor, fabricante, importador o distribuidor;
+- identificación de la cosa;
+- especificaciones técnicas;
+- condiciones de uso, instalación y mantenimiento;
+- condiciones y plazo de la garantía;
+- condiciones de reparación;
+- lugar donde debe hacerse efectiva.
+
+<div class="takeaway">
+El certificado no crea la garantía legal: la documenta y facilita su ejercicio.
+</div>
+
+# ¿Qué ocurre si no se entrega el certificado?
+
+La falta del certificado no elimina la garantía legal.
+
+Tambussi distingue:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Garantía</strong><br><br>Surge de la ley.</div>
+<div class="compare-card"><strong>Certificado</strong><br><br>Instrumenta e informa sus condiciones.</div>
+</div>
+
+Por eso, omitir el certificado puede ser una infracción adicional, pero no extingue los derechos del consumidor.
+
+# Notificación al fabricante o importador
+
+Cuando resulte necesaria la notificación para poner en funcionamiento determinados aspectos de la garantía, el régimen coloca esa carga en cabeza del vendedor en los términos explicados por Tambussi.
+
+<div class="blue-box">
+El consumidor no debería quedar sin garantía por fallas internas de comunicación entre quienes integran la cadena comercial.
+</div>
+
+# Jurisprudencia: certificado incompleto
+
+<div class="case-title">Wal Mart Argentina S.A.</div>
+
+**Hechos.** En una fiscalización se constató la venta de productos con documentación de garantía que no reunía todas las exigencias legales.
+
+**Problema jurídico.** La empresa cuestionó la sanción, sosteniendo que la existencia material de garantía debía ser suficiente.
+
+**Resolución.** La jurisprudencia citada por Tambussi confirmó la sanción por incumplimiento de los requisitos formales del certificado.
+
+**Resultado.** La información documental exigida constituye una obligación autónoma del proveedor.
+
+# Jurisprudencia: manual y certificado
+
+<div class="case-title">Información incompleta al consumidor</div>
+
+**Hechos.** Un proveedor entregó el bien sin acompañar adecuadamente el manual de uso y/o la documentación exigida sobre la garantía.
+
+**Problema jurídico.** Se discutió si la omisión era sancionable aun cuando no se hubiera producido un daño material.
+
+**Resolución.** El precedente citado por Tambussi confirmó que la falta de documentación exigida configura por sí misma una infracción al régimen.
+
+# Artículo 15: constancia de reparación
+
+Cuando la cosa es reparada dentro del período de garantía, el garante debe entregar una constancia indicando:
+
+- naturaleza de la reparación;
+- piezas reparadas o reemplazadas;
+- fecha de ingreso;
+- fecha de devolución.
+
+<div class="hero-box">
+LA REPARACIÓN TAMBIÉN DEBE QUEDAR DOCUMENTADA.
+</div>
+
+# ¿Para qué sirve la constancia?
+
+La constancia cumple una función probatoria fundamental.
+
+Permite reconstruir:
+
+- cuántas veces ingresó la cosa;
+- qué falla se informó;
+- qué piezas se cambiaron;
+- cuánto tiempo permaneció en reparación;
+- si el mismo defecto reapareció.
+
+<div class="question-box">
+Sin esa constancia, ¿cómo demuestra el consumidor que llevó tres veces el mismo auto por la misma falla?
+</div>
+
+# Jurisprudencia: D'Arc Libertador S.A.
+
+<div class="case-title">La obligación formal es autónoma</div>
+
+**Hechos.** Un vehículo ingresó a reparación y el proveedor no entregó adecuadamente la constancia exigida por el art. 15.
+
+**Problema jurídico.** La empresa sostuvo que no existía daño concreto derivado de esa omisión.
+
+**Resolución.** La jurisprudencia citada por Tambussi confirmó la sanción: la obligación de documentar la reparación existe independientemente de que el consumidor pruebe un daño adicional.
+
+**Resultado.** La infracción formal no necesita producir un perjuicio patrimonial autónomo para ser sancionable.
+
+# Artículo 16: prolongación de la garantía
+
+El tiempo durante el cual el consumidor está privado del uso de la cosa por una causa vinculada con su reparación **se computa como prolongación del plazo de garantía**.
+
+<div class="hero-box">
+EL TIEMPO EN EL TALLER NO CONSUME GARANTÍA.
+</div>
+
+# Ejemplo: auto en el taller
+
+Garantía original: 6 meses.
+
+El vehículo permanece:
+
+- 10 días en la primera reparación;
+- 8 días en la segunda;
+- 12 días en la tercera.
+
+<div class="question-box">
+¿Esos 30 días reducen el período útil de garantía?
+</div>
+
+No. El sistema prolonga la garantía por el tiempo en que el consumidor estuvo privado del uso por la reparación.
+
+# ¿Por qué se prolonga?
+
+Porque de otro modo se produciría un resultado absurdo:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Consumidor</strong><br><br>No puede usar la cosa porque está siendo reparada.</div>
+<div class="compare-card"><strong>Proveedor</strong><br><br>Al mismo tiempo deja correr el plazo de garantía.</div>
+</div>
+
+La prolongación evita que el proveedor se beneficie del tiempo que necesita para reparar.
+
+# Jurisprudencia: prolongación del plazo
+
+<div class="case-title">Tiempo de reparación y vigencia de la garantía</div>
+
+**Hechos.** Un automóvil permaneció fuera de uso durante períodos vinculados con reparaciones en garantía.
+
+**Problema jurídico.** Se discutió si esos períodos debían descontarse o si el plazo legal continuaba corriendo normalmente.
+
+**Resolución.** La jurisprudencia citada por Tambussi aplicó el art. 16 y computó ese lapso como prolongación.
+
+**Resultado.** El consumidor conserva efectivamente el período de protección que la ley le reconoce.
+
+# Artículo 17: reparación no satisfactoria
+
+Este artículo aparece cuando la reparación **no reúne las condiciones óptimas para el uso normal**.
+
+El consumidor puede optar por:
+
+<div class="remedy-grid">
+<div class="remedy-card"><b>A</b><br>Sustitución por otra cosa de idénticas características</div>
+<div class="remedy-card"><b>B</b><br>Devolver la cosa y recibir el importe correspondiente</div>
+<div class="remedy-card"><b>C</b><br>Obtener una quita proporcional del precio</div>
+</div>
+
+# El punto de quiebre
+
+Hasta aquí el sistema prioriza la reparación.
+
+Pero la garantía no obliga al consumidor a soportar una **cadena interminable de reparaciones fallidas**.
+
+<div class="hero-box">
+CUANDO LA REPARACIÓN NO ES SATISFACTORIA, APARECEN REMEDIOS MÁS INTENSOS.
+</div>
+
+# ¿Qué es una reparación satisfactoria?
+
+La reglamentación citada por Tambussi remite a las condiciones óptimas necesarias para un uso normal, mediante trato adecuado y conforme con las expectativas razonables respecto del producto.
+
+No alcanza con:
+
+- que la cosa “más o menos funcione”;
+- que el defecto se atenúe;
+- que aparezcan nuevas fallas derivadas de la reparación.
+
+# Opción A: sustitución
+
+El consumidor puede pedir otra cosa de **idénticas características**.
+
+Tambussi analiza críticamente algunos aspectos reglamentarios vinculados con el valor y el estado de la cosa sustituta.
+
+<div class="example-box">
+Si un auto nuevo presenta defectos reiterados que no pueden repararse satisfactoriamente, la solución legal no es necesariamente entregarle al consumidor cualquier vehículo usado de valor aproximado.
+</div>
+
+# Opción B: devolución
+
+El consumidor puede devolver la cosa y recibir el importe correspondiente en los términos legales.
+
+La regla busca evitar que el consumidor quede atrapado en un vínculo que ya no satisface la finalidad perseguida.
+
+<div class="question-box">
+¿Debe seguir aceptando reparaciones si el bien continúa fallando después de múltiples ingresos al servicio técnico?
+</div>
+
+# Opción C: quita proporcional
+
+El consumidor puede conservar la cosa y obtener una **reducción proporcional del precio**.
+
+Esta opción puede resultar razonable cuando:
+
+- el defecto no impide completamente el uso;
+- el consumidor prefiere conservar el bien;
+- la disminución de valor puede compensarse mediante una reducción adecuada.
+
+# Los daños quedan a salvo
+
+El art. 17 aclara que la opción elegida no impide reclamar los **daños y perjuicios** que correspondan.
+
+<div class="takeaway">
+Sustituir, devolver o reducir el precio resuelve el destino del contrato. No necesariamente repara todos los daños producidos.
+</div>
+
+# Jurisprudencia: 0 km con fallas reiteradas
+
+<div class="case-title">Reparaciones múltiples que no solucionan el defecto</div>
+
+**Hechos.** Un automóvil 0 km presentó problemas poco tiempo después de la compra. El consumidor concurrió reiteradamente al servicio técnico y el defecto persistió.
+
+**Problema jurídico.** El proveedor sostenía que debía seguir intentándose la reparación.
+
+**Resolución.** La jurisprudencia citada por Tambussi consideró que las sucesivas intervenciones infructuosas podían configurar una **reparación no satisfactoria**.
+
+**Resultado.** Se habilitaron los remedios previstos por el art. 17.
+
+# Jurisprudencia: vehículo de alta gama
+
+<div class="case-title">Múltiples intentos de reparación</div>
+
+**Hechos.** El adquirente de un automóvil de alta gama reclamó por defectos que persistieron pese a varias intervenciones técnicas.
+
+**Problema jurídico.** Se discutió si debía continuar recurriendo al service o si podía pasar a los remedios sustitutivos del art. 17.
+
+**Resolución.** El criterio citado por Tambussi entendió que, cuando las reparaciones no restablecen condiciones óptimas de uso, no puede obligarse indefinidamente al consumidor a aceptar nuevos intentos.
+
+# Jurisprudencia: neumático/rodado defectuoso
+
+<div class="case-title">Sustitución por otro de iguales características</div>
+
+**Hechos.** Se acreditó un defecto de fabricación en un componente esencial del vehículo.
+
+**Problema jurídico.** El proveedor propuso una solución que no restablecía de manera adecuada la condición que el producto debía tener.
+
+**Resolución.** La jurisprudencia citada por Tambussi reconoció la procedencia de una sustitución compatible con las características originariamente contratadas.
+
+**Resultado.** La solución debe colocar al consumidor, en la medida jurídicamente posible, en una situación equivalente a la que habría tenido con un producto conforme.
+
+# ¿Cuántas reparaciones debe soportar?
+
+La ley no fija mecánicamente un número idéntico para todos los casos.
+
+El análisis depende de:
+
+- naturaleza del defecto;
+- gravedad;
+- reiteración;
+- tiempo fuera de uso;
+- capacidad real de reparación;
+- finalidad del bien.
+
+<div class="blue-box">
+Un defecto grave que compromete seguridad puede justificar una respuesta más rápida que una falla menor de sencilla reparación.
+</div>
+
+# Caso integrador: auto con cuatro ingresos al taller
+
+Un auto 0 km ingresa al taller cuatro veces por la misma falla electrónica.
+
+Cada vez:
+
+- permanece varios días;
+- se entrega una constancia;
+- el defecto reaparece;
+- el fabricante atribuye la falla a “ajustes normales”.
+
+## Preguntas
+
+1. ¿Opera la garantía?
+2. ¿Se prolonga su plazo?
+3. ¿Quién responde?
+4. ¿Puede exigirse una quinta reparación?
+5. ¿Qué remedios aparecen?
+
+# Caso integrador: resolución
+
+**Garantía.** El bien está dentro del sistema del art. 11.
+
+**Prolongación.** El tiempo privado de uso se agrega al plazo de garantía.
+
+**Solidaridad.** Pueden responder los integrantes alcanzados por el art. 13.
+
+**Reparación no satisfactoria.** La reiteración del mismo defecto es un dato central.
+
+**Remedios.** Pueden entrar en juego sustitución, devolución o quita proporcional, además de daños.
+
+# Artículo 18: vicios redhibitorios
+
+El art. 18 dispone que la aplicación del régimen especial de garantía **no impide** la subsistencia de la tutela por vicios redhibitorios.
+
+<div class="hero-box">
+GARANTÍA LEGAL Y VICIOS REDHIBITORIOS NO SE ANULAN ENTRE SÍ.
+</div>
+
+Tambussi analiza la articulación entre la ley de defensa del consumidor y las reglas generales del derecho privado.
+
+# ¿Qué es un vicio redhibitorio?
+
+En términos generales, se trata de un defecto oculto que:
+
+- existe en los términos relevantes de la adquisición;
+- vuelve la cosa impropia para su destino;
+- o disminuye de tal modo su utilidad que, de haberlo conocido, el adquirente no habría contratado o habría pagado menos.
+
+<div class="example-box">
+Un inmueble presenta un grave problema estructural oculto que existía al momento de la adquisición y que no podía ser razonablemente advertido por el comprador.
+</div>
+
+# Vicios redhibitorios: remedios
+
+Tambussi recuerda que este régimen tradicionalmente habilita remedios como:
+
+- dejar sin efecto la operación;
+- obtener reducción del precio;
+- reclamar daños en los casos correspondientes.
+
+La tutela consumeril amplía y fortalece esa protección.
+
+# Diferencias con la garantía legal
+
+| Garantía legal | Vicios redhibitorios |
+|---|---|
+| Régimen específico de consumo | Régimen general del derecho privado |
+| No exige necesariamente un vicio oculto clásico | Tradicionalmente ligado al defecto oculto |
+| Tiene sujetos, plazos y remedios propios | Opera con presupuestos propios |
+| Puede convivir con otras acciones | No desplaza automáticamente la LDC |
+
+<div class="takeaway">
+El consumidor puede contar con un sistema de protección más amplio que el que surgiría de una única acción contractual.
+</div>
+
+# Conocimiento técnico del consumidor
+
+Tambussi analiza críticamente la idea de que el proveedor pueda liberarse afirmando:
+
+> “El comprador debió darse cuenta.”
+
+En relaciones de consumo importa la **asimetría técnica e informativa**.
+
+<div class="question-box">
+¿Puede exigirse al consumidor común el mismo nivel de conocimiento que a un fabricante, importador o vendedor especializado?
+</div>
+
+# La cláusula que elimina la garantía
+
+Tambussi vincula el régimen con las reglas sobre cláusulas abusivas.
+
+Una cláusula que intente excluir o reducir indebidamente:
+
+- garantía;
+- responsabilidad;
+- saneamiento;
+
+puede resultar incompatible con el carácter protectorio e indisponible del sistema.
+
+<div class="hero-box">“SE VENDE COMO ESTÁ Y SIN GARANTÍA” NO NEUTRALIZA AUTOMÁTICAMENTE LA LEY.</div>
+
+# Prueba y cargas dinámicas
+
+En materia de consumo, Tambussi destaca la importancia de la colaboración probatoria del proveedor.
+
+Quien posee:
+
+- conocimientos técnicos;
+- documentación;
+- registros de reparación;
+- información de fábrica;
+
+se encuentra normalmente en mejores condiciones de aportar ciertos elementos.
+
+<div class="takeaway">
+La asimetría informativa también tiene consecuencias en el plano probatorio.
+</div>
+
+# Jurisprudencia: acción por vicios
+
+<div class="case-title">Vicio oculto y remedios del consumidor</div>
+
+**Hechos.** Un adquirente reclamó por defectos ocultos relevantes que afectaban el bien adquirido.
+
+**Problema jurídico.** Se discutió la posibilidad de articular remedios generales por vicios con la protección especial del consumidor.
+
+**Resolución.** La jurisprudencia citada por Tambussi admite la convivencia de ambas herramientas cuando sus presupuestos se encuentran reunidos.
+
+**Resultado.** La existencia de garantía legal no elimina automáticamente otras vías de tutela.
+
+# Un mapa para llevarse
+
+<div class="concept-chain">
+DEFECTO → GARANTÍA → REPARACIÓN → DOCUMENTACIÓN → PROLONGACIÓN → ¿REPARACIÓN SATISFACTORIA?
+</div>
+
+<div class="flow-row">
+<div class="flow-card"><b>SÍ</b><br>La cosa vuelve a condiciones óptimas.</div>
+<div class="flow-card"><b>NO</b><br>Art. 17: sustitución, devolución o quita.</div>
+<div class="flow-card"><b>DAÑOS</b><br>Pueden coexistir con los remedios contractuales.</div>
+</div>
+
+# Actividad de cierre
+
+Una persona compra una notebook nueva.
+
+A los dos meses:
+
+- deja de encender;
+- el vendedor la deriva al fabricante;
+- el service está a 400 km;
+- el consumidor paga el envío;
+- permanece 25 días en reparación;
+- vuelve con la misma falla;
+- no le entregan constancia;
+- le dicen que “la garantía venció mientras estaba en el taller”.
+
+## Consigna
+
+Identifique todos los artículos aplicables y los incumplimientos.
+
+# Actividad de cierre: solución orientativa
+
+**Art. 11.** Existe garantía legal sobre la cosa mueble no consumible.
+
+**Traslado.** Los gastos necesarios para hacer efectiva la garantía no deben recaer indebidamente sobre el consumidor.
+
+**Art. 13.** La cadena alcanzada responde solidariamente por la garantía.
+
+**Art. 15.** Debió entregarse constancia de reparación.
+
+**Art. 16.** El tiempo de privación de uso prolonga la garantía.
+
+**Art. 17.** Si la reparación no fue satisfactoria, aparecen los remedios legales.
+
+# Cinco ideas para recordar
+
+<div class="big-five">
+<div><span>1</span> La garantía legal surge de la ley, no de la voluntad del proveedor.</div>
+<div><span>2</span> La responsabilidad alcanza solidariamente a la cadena prevista por el régimen.</div>
+<div><span>3</span> La reparación debe ser documentada y el tiempo fuera de uso prolonga la garantía.</div>
+<div><span>4</span> El consumidor no está obligado a aceptar reparaciones fallidas indefinidamente.</div>
+<div><span>5</span> Garantía legal y vicios redhibitorios pueden convivir.</div>
+</div>
+
+# Cierre
+
+<div class="hero-box">
+LA GARANTÍA NO ES UNA PROMESA COMERCIAL: ES UNA TÉCNICA LEGAL PARA ASEGURAR LA CONFORMIDAD DE LA PRESTACIÓN.
+</div>
+
+El régimen de los arts. 11 a 18 busca que el consumidor no quede atrapado entre:
+
+**fabricante → vendedor → service → importador → concesionario**
+
+cuando la realidad es mucho más sencilla:
+
+<div class="question-box">
+Compró una cosa que debía funcionar. No funciona. El sistema debe darle una respuesta efectiva.
+</div>
+
+# Fuente utilizada
+
+Esta presentación fue elaborada **exclusivamente sobre el PDF suministrado**, correspondiente al comentario de Carlos E. Tambussi a la Ley 24.240, tramo comprendido entre los arts. 11 y 18.
+
+No se incorporó doctrina ni jurisprudencia externa al material suministrado.

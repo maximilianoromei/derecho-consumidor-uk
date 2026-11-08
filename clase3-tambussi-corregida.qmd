@@ -1,0 +1,1008 @@
+---
+title: "Protección del consumidor"
+subtitle: "Seguridad, oferta, publicidad, trato digno e incumplimiento · Ley 24.240, arts. 5 a 10 quáter"
+author: "Derecho del Consumidor · Grado"
+slide-level: 1
+format:
+  revealjs:
+    theme: simple
+    css: clase3-reveal.css
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+    link-external-newwindow: true
+---
+
+# El problema que atraviesa toda la clase
+
+<div class="hero-box">
+Una relación de consumo no se agota en que el proveedor “entregue algo”.
+</div>
+
+El régimen estudiado por Tambussi exige mirar **todo el recorrido de la relación**:
+
+<div class="flow-row">
+<div class="flow-card"><b>ANTES</b><br>Oferta · publicidad · información</div>
+<div class="flow-card"><b>DURANTE</b><br>Seguridad · trato digno · documentación</div>
+<div class="flow-card"><b>DESPUÉS</b><br>Cumplimiento · reclamo · baja · reparación</div>
+</div>
+
+<div class="question-box">
+<strong>Pregunta guía:</strong> ¿qué herramientas tiene el consumidor cuando la realidad no coincide con lo prometido?
+</div>
+
+# Mapa normativo
+
+| Norma | Problema que resuelve |
+|---|---|
+| **Art. 5** | Protección de la salud y seguridad |
+| **Art. 6** | Cosas y servicios riesgosos |
+| **Art. 7** | Fuerza obligatoria de la oferta |
+| **Art. 8** | Efectos contractuales de la publicidad |
+| **Art. 8 bis** | Trato digno y prácticas abusivas |
+| **Art. 9** | Cosas usadas, deficientes o reconstituidas |
+| **Art. 10** | Contenido del documento de venta |
+| **Art. 10 bis** | Remedios frente al incumplimiento |
+| **Arts. 10 ter y quáter** | Baja del servicio y prohibición de cobros |
+
+<div class="takeaway">
+No son compartimentos aislados: en un mismo caso pueden operar varias normas simultáneamente.
+</div>
+
+# Caso de apertura: una bicicleta eléctrica
+
+Una persona compra por internet una bicicleta eléctrica.
+
+- La publicidad promete **70 km de autonomía**.
+- El vendedor informa que soporta **120 kg**.
+- El manual está sólo en idioma extranjero.
+- Durante un uso normal, la batería se recalienta.
+- Atención al cliente demora semanas en responder.
+- El proveedor rechaza la devolución del dinero y sólo ofrece cambiar la batería.
+
+<div class="question-box">
+¿Cuántos problemas jurídicos distintos aparecen?
+</div>
+
+# Caso de apertura: primera lectura jurídica
+
+<div class="case-grid">
+<div class="case-card"><b>Seguridad</b><br>¿La batería puede generar un riesgo durante el uso normal?</div>
+<div class="case-card"><b>Información</b><br>¿Las instrucciones permiten un uso seguro?</div>
+<div class="case-card"><b>Oferta/Publicidad</b><br>¿Los 70 km prometidos integran el vínculo?</div>
+<div class="case-card"><b>Trato digno</b><br>¿Cómo se gestiona el reclamo?</div>
+<div class="case-card"><b>Incumplimiento</b><br>¿Quién elige el remedio: consumidor o proveedor?</div>
+<div class="case-card"><b>Daños</b><br>¿La solución contractual agota todas las consecuencias?</div>
+</div>
+
+# Artículo 5: salud y seguridad
+
+El art. 5 establece que las cosas y servicios deben ser suministrados o prestados de modo que, **utilizados en condiciones previsibles o normales**, no presenten peligro para la salud o integridad física de consumidores y usuarios.
+
+<div class="blue-box">
+La obligación no se limita a “entregar”: la prestación debe ser segura para el uso que razonablemente puede esperarse.
+</div>
+
+Tambussi vincula esta protección con el derecho a la salud, la integridad física y la tutela constitucional del consumidor.
+
+# ¿Qué significa “uso normal o previsible”?
+
+No se trata de exigir seguridad frente a cualquier utilización imaginable.
+
+Se trata de valorar **cómo razonablemente puede utilizarse** el bien o servicio.
+
+<div class="example-box">
+<strong>Ejemplo.</strong> Un secador de pelo debe tolerar un uso doméstico normal. Si sólo es seguro bajo una precaución especial que el consumidor no puede conocer, aparece también el deber de información.
+</div>
+
+<div class="example-box">
+<strong>Otro ejemplo.</strong> El deber de seguridad de un supermercado no se limita a los productos en góndola: también puede alcanzar elementos y espacios que forman parte de la experiencia de consumo.
+</div>
+
+# Seguridad e información
+
+Tambussi relaciona estrechamente:
+
+<div class="concept-chain">
+INFORMACIÓN → USO ADECUADO → PREVENCIÓN → SEGURIDAD
+</div>
+
+La información puede ser el instrumento que permita evitar el daño.
+
+<div class="question-box">
+Si un producto sólo es seguro cuando se siguen determinadas instrucciones, ¿qué ocurre si esas instrucciones son insuficientes o incomprensibles?
+</div>
+
+# Jurisprudencia: medicina prepaga
+
+<div class="case-title">Función social de las empresas de salud</div>
+
+**Hechos.** El conflicto se produjo en el marco de una relación entre una empresa de medicina prepaga y sus usuarios, donde estaban comprometidas prestaciones directamente vinculadas con la salud.
+
+**Problema jurídico.** ¿Puede analizarse la actuación de una prepaga como si fuera una empresa que sólo asume obligaciones patrimoniales ordinarias?
+
+**Criterio citado por Tambussi.** La jurisprudencia reconoce que estas empresas presentan rasgos mercantiles, pero también adquieren un **compromiso social con sus usuarios** por la naturaleza de las prestaciones asumidas.
+
+**Resultado.** Ese compromiso impide desconocer la contratación de una manera incompatible con el propio objeto de la prestadora.
+
+<div class="takeaway">La seguridad y la salud pueden intensificar las obligaciones que derivan de una relación de consumo.</div>
+
+# Jurisprudencia: transporte de pasajeros
+
+<div class="case-title">Deber de seguridad del transportista</div>
+
+**Hechos.** Un pasajero sufrió un daño durante la ejecución del contrato de transporte.
+
+**Problema jurídico.** Se discutió la responsabilidad del transportista y el alcance del deber de seguridad frente al pasajero-consumidor.
+
+**Resolución.** El criterio citado por Tambussi interpreta la presunción de responsabilidad del transportista en armonía con el **principio protectorio de las relaciones de consumo** y con la obligación de seguridad.
+
+**Consecuencia.** El transportista no sólo debe trasladar al pasajero: debe hacerlo en condiciones compatibles con su integridad.
+
+<div class="question-box">¿La seguridad es una obligación “accesoria” o integra la finalidad misma de la prestación?</div>
+
+# Jurisprudencia: medicamentos de venta libre
+
+<div class="case-title">Proconsumer c/ Farmacity S.A.</div>
+
+**Hechos.** Se cuestionó la comercialización de medicamentos de venta libre en lugares distintos de los autorizados, en particular su disponibilidad fuera del ámbito de las farmacias.
+
+**Problema jurídico.** ¿La restricción a la comercialización vulneraba injustificadamente la libertad comercial?
+
+**Resolución.** El tribunal citado por Tambussi consideró legítima la restricción porque perseguía una finalidad preventiva: evitar daños vinculados con la automedicación y asegurar información adecuada.
+
+**Regla que deja el caso.** La libertad de comercialización encuentra límites cuando está comprometida la **salud de consumidores y usuarios**.
+
+# Jurisprudencia: local de comidas rápidas
+
+<div class="case-title">Daño sufrido dentro del establecimiento</div>
+
+**Hechos.** Un consumidor sufrió daños en un local de comidas rápidas durante una situación vinculada con la prestación del servicio.
+
+**Problema jurídico.** ¿El proveedor sólo responde por la comida entregada o también por las condiciones de seguridad del establecimiento?
+
+**Resolución.** La jurisprudencia citada por Tambussi aplicó el deber legal de suministrar servicios de modo que, en condiciones normales o previsibles, **no presenten peligro para la salud o integridad física**.
+
+**Resultado.** La tutela se proyectó sobre el ámbito material en el que se desarrollaba la relación de consumo.
+
+# Jurisprudencia: supermercado
+
+<div class="case-title">Daño causado por un elemento puesto a disposición del cliente</div>
+
+**Hechos.** Un consumidor sufrió daños asociados al uso de un elemento o vehículo dispuesto por el supermercado para facilitar la compra.
+
+**Problema jurídico.** ¿Ese elemento accesorio queda fuera del contrato porque no fue “comprado”?
+
+**Resolución.** La jurisprudencia recogida por Tambussi consideró que el supermercado debía responder desde la obligación de seguridad integrada a la relación de consumo.
+
+<div class="takeaway">
+La relación de consumo puede comprender prestaciones principales y accesorias. La obligación de seguridad se proyecta sobre ambas.
+</div>
+
+# Artículo 6: cosas y servicios riesgosos
+
+El art. 6 se ocupa de productos y servicios que, por su propia naturaleza, **pueden implicar riesgo** para la salud o integridad física.
+
+La ley exige:
+
+- mecanismos de seguridad;
+- instrucciones adecuadas;
+- manual en idioma nacional;
+- asesoramiento;
+- observancia de las normas razonables aplicables.
+
+<div class="blue-box">El riesgo no vuelve ilícita a la cosa. Lo que exige el régimen es controlar e informar adecuadamente ese riesgo.</div>
+
+# Artículos 5 y 6: diferencia
+
+| Art. 5 | Art. 6 |
+|---|---|
+| Regla general de seguridad | Bien o servicio que por naturaleza puede ser riesgoso |
+| Uso normal o previsible | Precauciones especiales |
+| No debe generar peligro | El riesgo debe ser controlado e informado |
+| Deber general del proveedor | Deber reforzado de instrucciones y asesoramiento |
+
+<div class="example-box"><strong>Art. 5:</strong> un vaso que explota durante su uso normal.</div>
+<div class="example-box"><strong>Art. 6:</strong> una motosierra que puede venderse, pero requiere protecciones, instrucciones y advertencias.</div>
+
+# El manual no es un papel decorativo
+
+Para Tambussi, la obligación de informar sobre el uso, instalación y mantenimiento se vincula directamente con la prevención.
+
+<div class="example-box">
+Una máquina importada requiere una secuencia especial de apagado para no generar un riesgo. El producto puede estar perfectamente fabricado, pero si el consumidor no recibe instrucciones comprensibles, la prestación sigue siendo jurídicamente problemática.
+</div>
+
+**Idea central:** la seguridad debe analizarse durante el desarrollo de toda la relación de consumo.
+
+# Jurisprudencia: agencia de viajes
+
+<div class="case-title">Paquete turístico y deber de seguridad</div>
+
+**Hechos.** Una consumidora adquirió un paquete turístico mediante una agencia y sufrió un daño vinculado con uno de los servicios incluidos en el viaje.
+
+**Problema jurídico.** La agencia alegó que materialmente no había ejecutado la prestación dañosa.
+
+**Criterio citado.** Tambussi recoge jurisprudencia que analiza la responsabilidad desde la relación de consumo y desde el deber de seguridad de quienes intervienen en la cadena de prestación ofrecida al consumidor.
+
+**Pregunta para el aula.** ¿Puede el proveedor que arma y comercializa una prestación compleja desentenderse automáticamente porque una parte fue ejecutada por un tercero?
+
+# Jurisprudencia: mueble que cae en un supermercado
+
+<div class="case-title">Seguridad dentro del establecimiento</div>
+
+**Hechos.** A una mujer le cayó un mueble encima mientras se encontraba en la caja de un supermercado.
+
+**Problema jurídico.** El daño no provenía del producto que la clienta estaba comprando, sino de las condiciones del lugar.
+
+**Resolución.** El tribunal citado por Tambussi reconoció una **obligación de seguridad** a cargo de la demandada.
+
+**Resultado.** La protección alcanza a situaciones producidas durante el desenvolvimiento normal de la relación de consumo.
+
+# Capítulo III: cambia el eje
+
+Hasta aquí la pregunta fue:
+
+<div class="question-box">¿La prestación es segura?</div>
+
+Ahora aparecen nuevas preguntas:
+
+<div class="flow-row">
+<div class="flow-card"><b>OFERTA</b><br>¿Qué prometió el proveedor?</div>
+<div class="flow-card"><b>PUBLICIDAD</b><br>¿Qué expectativas creó?</div>
+<div class="flow-card"><b>CONTRATO</b><br>¿Qué queda jurídicamente incorporado?</div>
+</div>
+
+# Artículo 7: la oferta obliga
+
+La oferta dirigida a consumidores potenciales indeterminados obliga a quien la emite durante el tiempo en que se realiza.
+
+Debe contener:
+
+- fecha de comienzo y finalización;
+- modalidades;
+- condiciones;
+- limitaciones.
+
+La revocación sólo es eficaz si se difunde por medios similares a los utilizados para hacer conocer la oferta.
+
+# ¿Por qué la oferta obliga?
+
+<div class="compare-grid">
+<div class="compare-card">
+<strong>Oferta A</strong><br><br>
+“Notebook $800.000.<br>
+Del 1 al 5 de septiembre.<br>
+12 cuotas.<br>
+Stock: 30 unidades.”
+</div>
+<div class="compare-card">
+<strong>Oferta B</strong><br><br>
+“Notebooks a precios increíbles.<br>
+Consultar.”
+</div>
+</div>
+
+La primera permite determinar con mucha mayor precisión **qué asumió el proveedor frente al público**.
+
+# Caso para el aula: 2 × 1
+
+Una cadena anuncia:
+
+<div class="quote-box">“2 × 1 en todas las zapatillas. Viernes y sábado.”</div>
+
+El sábado, en la caja, le dicen al consumidor:
+
+<div class="quote-box">“La promoción terminó ayer; nos olvidamos de sacar el cartel.”</div>
+
+**Preguntas**
+
+1. ¿La comunicación constituye una oferta?
+2. ¿Sigue obligando al proveedor?
+3. ¿Podía revocarla?
+4. ¿Cómo debía comunicar esa revocación?
+5. ¿Qué remedios puede reclamar el consumidor?
+
+# Limitaciones de la oferta
+
+El proveedor puede establecer condiciones:
+
+- plazo;
+- cantidad;
+- productos incluidos;
+- ámbito territorial;
+- modalidad de pago.
+
+Pero debe **informarlas de manera adecuada**.
+
+Tambussi destaca la importancia de las reglas sobre disponibilidad y stock: una fórmula genérica como “hasta agotar stock” no puede convertirse en una autorización para atraer consumidores con una oferta sin disponibilidad real o sin cantidad informada.
+
+# Oferta incumplida: consecuencias
+
+La reglamentación recogida por Tambussi contempla, frente a la oferta incumplida:
+
+<div class="remedy-grid">
+<div class="remedy-card"><b>1</b><br>Exigir cumplimiento</div>
+<div class="remedy-card"><b>2</b><br>Aceptar prestación equivalente</div>
+<div class="remedy-card"><b>3</b><br>Rescindir y recuperar lo pagado</div>
+</div>
+
+Y pueden corresponder **daños y perjuicios**.
+
+<div class="takeaway">Esta estructura anticipa la lógica del art. 10 bis.</div>
+
+# Jurisprudencia: oferta de medicina prepaga
+
+<div class="case-title">Oferta pública dirigida a potenciales afiliados</div>
+
+**Hechos.** Una empresa de medicina prepaga realizó una oferta pública para incorporar beneficiarios bajo determinadas condiciones.
+
+**Problema jurídico.** Posteriormente pretendió desconocer o apartarse de aquello que había comunicado al público.
+
+**Resolución.** La jurisprudencia citada por Tambussi consideró que la oferta pública generaba obligaciones para la empresa.
+
+**Resultado.** El proveedor no podía tratar lo publicitado como una simple invitación sin efectos cuando la comunicación reunía las características propias de una oferta.
+
+# Jurisprudencia: promoción y falta de stock
+
+<div class="case-title">La restricción debe ser informada</div>
+
+**Hechos.** El proveedor difundió una promoción y, frente a consumidores que pretendieron aprovecharla, alegó inexistencia de stock o restricciones que no habían sido suficientemente exteriorizadas.
+
+**Problema jurídico.** ¿Puede una limitación no informada neutralizar una oferta ya difundida?
+
+**Criterio citado.** Los precedentes recogidos por Tambussi exigen que las restricciones sean claras y que la disponibilidad sea informada en los términos reglamentarios.
+
+**Resultado.** La falta de stock no opera automáticamente como excusa frente a una oferta vinculante.
+
+# Artículo 8: efectos de la publicidad
+
+Las precisiones formuladas en publicidad, anuncios, prospectos, circulares u otros medios de difusión:
+
+<div class="hero-box">SE TIENEN POR INCLUIDAS EN EL CONTRATO Y OBLIGAN AL OFERENTE</div>
+
+La publicidad deja de ser un fenómeno puramente comercial y pasa a tener **efectos contractuales**.
+
+# Ejemplo: el hotel que no era el de la publicidad
+
+Publicidad:
+
+<div class="quote-box">“Hotel frente al mar · habitación con balcón · desayuno incluido.”</div>
+
+Reserva:
+
+<div class="quote-box">“Habitación doble · cinco noches.”</div>
+
+Al llegar:
+
+- no hay balcón;
+- el desayuno se cobra aparte;
+- el hotel está a varias cuadras del mar.
+
+<div class="question-box">
+¿Puede el proveedor responder: “Eso no estaba escrito en la reserva”?
+</div>
+
+# ¿Por qué la publicidad produce efectos?
+
+Tambussi explica que la publicidad pasó de ser un elemento accesorio a convertirse en una herramienta central del mercado:
+
+- informa;
+- persuade;
+- crea necesidades y expectativas;
+- instala productos;
+- orienta elecciones.
+
+<div class="takeaway">
+Si la publicidad participa en la formación de la voluntad del consumidor, el Derecho no puede tratarla como una comunicación jurídicamente indiferente.
+</div>
+
+# Tres exigencias de la publicidad
+
+<div class="case-grid">
+<div class="case-card"><b>LEGALIDAD</b><br>No puede vulnerar el ordenamiento vigente.</div>
+<div class="case-card"><b>VERACIDAD</b><br>No debe confrontar objetivamente con la realidad.</div>
+<div class="case-card"><b>AUTENTICIDAD</b><br>El consumidor debe reconocer que está frente a un mensaje publicitario.</div>
+</div>
+
+La protección no exige eliminar la persuasión publicitaria. Exige evitar que esa persuasión se construya mediante **engaño o información incompatible con la realidad**.
+
+# Jurisprudencia: producto para bajar de peso
+
+<div class="case-title">Sprayette S.A. c/ DNCI</div>
+
+**Hechos.** Se difundió publicidad de un producto relacionado con el descenso de peso. El mensaje atribuía resultados y utilizaba expresiones capaces de generar expectativas relevantes sobre la eficacia del producto.
+
+**Problema jurídico.** Se discutió si la publicidad podía inducir a error o generar una representación inexacta sobre sus efectos.
+
+**Resolución.** El criterio administrativo/judicial citado por Tambussi examinó el mensaje desde la protección frente a publicidad engañosa, teniendo especialmente en cuenta que se vinculaba con salud y expectativas corporales.
+
+**Resultado.** Se confirmó la relevancia jurídica de la forma en que el mensaje presenta los resultados, no sólo de afirmaciones aisladas.
+
+# Jurisprudencia: telefonía y mensajes al exterior
+
+<div class="case-title">Mensaje publicitario e información omitida</div>
+
+**Hechos.** Una empresa de telefonía publicitó condiciones para el envío de mensajes al exterior. La comunicación podía llevar al consumidor a entender que el servicio comprendía destinos o condiciones que en realidad estaban limitados.
+
+**Problema jurídico.** ¿Una publicidad es suficiente porque ninguna frase aislada es falsa?
+
+**Resolución.** El precedente citado por Tambussi consideró relevante la información omitida y la **impresión global** producida por la publicidad.
+
+**Regla.** Una verdad parcial puede igualmente generar un mensaje apto para inducir a error.
+
+# Jurisprudencia: alquiler de automóviles
+
+<div class="case-title">Promoción publicitaria incorporada al contrato</div>
+
+**Hechos.** Una empresa promocionó un descuento para el alquiler de vehículos. La consumidora contrató sobre la base de esa promoción y luego el beneficio no fue reconocido en las condiciones anunciadas.
+
+**Problema jurídico.** El proveedor pretendió separar la publicidad del contrato finalmente celebrado.
+
+**Resolución.** La jurisprudencia citada por Tambussi entendió que la precisión publicitaria **integraba la relación contractual**.
+
+**Resultado.** La empresa debía respetar el beneficio que había comunicado y que había incidido en la contratación.
+
+# Artículo 8 bis: trato digno
+
+Los proveedores deben garantizar condiciones de atención y trato:
+
+- **digno**;
+- **equitativo**.
+
+Deben abstenerse de conductas:
+
+- vergonzantes;
+- vejatorias;
+- intimidatorias.
+
+Además, en reclamos extrajudiciales de deuda no pueden emplear medios que otorguen **apariencia de reclamo judicial**.
+
+# La dignidad como contenido jurídico
+
+Tambussi vincula el art. 8 bis con la dignidad humana y con el art. 42 de la Constitución Nacional.
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Pregunta clásica</strong><br><br>¿El proveedor cumplió la prestación?</div>
+<div class="compare-card"><strong>Pregunta consumeril</strong><br><br>¿Cómo trató al consumidor durante toda la relación?</div>
+</div>
+
+El modo de atender, reclamar, cobrar y solucionar problemas también puede constituir un **incumplimiento jurídicamente relevante**.
+
+# Trato digno: deber negativo y positivo
+
+<div class="case-grid">
+<div class="case-card"><b>DEBER NEGATIVO</b><br>No humillar, intimidar, vejar ni colocar al consumidor en situaciones vergonzantes.</div>
+<div class="case-card"><b>DEBER POSITIVO</b><br>Organizar la atención de manera compatible con un trato digno y equitativo.</div>
+</div>
+
+**Ejemplos desarrollados por Tambussi y su jurisprudencia:**
+
+- demoras y falta de respuesta;
+- prácticas intimidatorias de cobranza;
+- controles humillantes;
+- diferencias injustificadas de trato;
+- obstáculos organizados para ejercer derechos.
+
+# Jurisprudencia: usuarios con necesidades particulares
+
+<div class="case-title">Trato digno y consideración de situaciones diferentes</div>
+
+**Hechos.** Usuarios con capacidades diferentes o menores necesitaban condiciones específicas para utilizar adecuadamente un servicio de transporte.
+
+**Problema jurídico.** ¿Tratar a todos exactamente igual satisface siempre el deber de trato equitativo?
+
+**Resolución.** La jurisprudencia de la Corte citada por Tambussi relaciona el art. 42 CN con el deber de adoptar medidas adecuadas para usuarios que necesitan una protección particular.
+
+**Resultado.** El trato digno puede exigir considerar diferencias reales y evitar que una organización uniforme del servicio produzca exclusiones.
+
+# Jurisprudencia: demoras y falta de respuesta
+
+<div class="case-title">El reclamo también forma parte de la relación</div>
+
+**Hechos.** Un consumidor realizó reclamos reiterados y encontró demoras, falta de respuesta y obstáculos para obtener una solución.
+
+**Problema jurídico.** El proveedor sostenía que el conflicto debía limitarse al incumplimiento original.
+
+**Resolución.** La jurisprudencia citada por Tambussi reconoce que la forma en que se tramita el reclamo puede configurar por sí misma una afectación del **trato digno**.
+
+**Resultado.** Solucionar tardíamente el problema principal no borra necesariamente el destrato sufrido durante el reclamo.
+
+# Jurisprudencia: servicio telefónico
+
+<div class="case-title">Múltiples gestiones para obtener una respuesta</div>
+
+**Hechos.** Una empresa telefónica incumplió deberes de atención e información y obligó al usuario a desplegar múltiples gestiones para obtener una respuesta adecuada.
+
+**Problema jurídico.** Se discutió si esa conducta era sólo una deficiencia administrativa o una infracción consumeril autónoma.
+
+**Resolución.** El precedente citado por Tambussi la relaciona con el deber de trato digno y con la posibilidad de sanción.
+
+<div class="takeaway">El proveedor también responde por la manera en que administra el problema que él mismo generó.</div>
+
+# Jurisprudencia: diferencias entre ramales ferroviarios
+
+<div class="case-title">Trato equitativo</div>
+
+**Hechos.** Se cuestionaron diferencias relevantes en la calidad del servicio brindado a usuarios de distintos ramales ferroviarios.
+
+**Problema jurídico.** ¿Toda diferencia de servicio es jurídicamente inadmisible?
+
+**Resolución.** La jurisprudencia citada por Tambussi analizó la razonabilidad de las diferencias y el deber de evitar un trato inequitativo.
+
+**Resultado.** La desigualdad de trato requiere una justificación objetiva y razonable; no basta con la mera decisión organizativa del prestador.
+
+# Jurisprudencia: controles en supermercados
+
+<div class="case-title">Seguridad empresarial vs. dignidad del consumidor</div>
+
+**Hechos.** Supermercados implementaron mecanismos de control sobre clientes para prevenir sustracciones.
+
+**Problema jurídico.** ¿La protección de la propiedad permite aplicar cualquier mecanismo de vigilancia o requisa?
+
+**Resolución.** La jurisprudencia recogida por Tambussi reconoce el interés del proveedor en prevenir ilícitos, pero exige que las medidas no lesionen el **honor, la integridad física o psíquica ni la dignidad** de los consumidores.
+
+**Regla.** El control puede ser legítimo; la humillación no.
+
+# Cobranzas extrajudiciales
+
+Una empresa de cobranzas envía una comunicación con:
+
+- formato similar a una cédula judicial;
+- expresión “EMBARGO INMINENTE”;
+- diseño que aparenta provenir de un tribunal.
+
+<div class="question-box">
+¿El problema es reclamar la deuda?
+</div>
+
+No. El problema es utilizar una **apariencia judicial falsa** para intimidar al consumidor.
+
+Tambussi ubica este tipo de conducta dentro de las prácticas abusivas prohibidas por el art. 8 bis.
+
+# Artículo 9: usados, deficientes o reconstituidos
+
+Cuando se ofrecen públicamente cosas:
+
+- usadas;
+- deficientes;
+- reconstituidas;
+
+esa circunstancia debe indicarse de manera **precisa y notoria**.
+
+<div class="blue-box">
+El punto no es sólo si la cosa funciona: importa que el consumidor sepa qué clase de bien está comprando.
+</div>
+
+# Ejemplo: celular reacondicionado
+
+El comercio vende un celular como **“nuevo”**.
+
+Tres meses después el comprador descubre que:
+
+- ya había sido vendido;
+- fue devuelto;
+- se reemplazó la batería;
+- fue reingresado al circuito comercial.
+
+<div class="question-box">¿Hay problema aunque el teléfono funcione perfectamente?</div>
+
+Sí puede haberlo. La condición de usado o reconstituido es una **característica esencial para formar la decisión de contratar**.
+
+# Fundamento del artículo 9
+
+Tambussi vincula la regla con:
+
+<div class="concept-chain">
+INFORMACIÓN · BUENA FE · CONFIANZA · LEALTAD · EXPECTATIVAS LEGÍTIMAS
+</div>
+
+El proveedor conoce un dato que el consumidor difícilmente pueda descubrir por sí mismo.
+
+Por eso la ley impone una carga clara: **exteriorizar la verdadera condición del bien**.
+
+# Artículo 10: documento de venta
+
+El documento debe contener información relevante de la operación, entre ella:
+
+- descripción y especificación del bien;
+- identificación y domicilio del vendedor;
+- fabricante, distribuidor o importador, cuando corresponda;
+- características de la garantía;
+- plazo y condiciones de entrega;
+- precio y condiciones de pago;
+- costos adicionales y precio final.
+
+# ¿Para qué sirve el documento?
+
+<div class="hero-box">
+INFORMACIÓN + INSTRUMENTACIÓN + PRUEBA
+</div>
+
+Tambussi subraya que el documento permite reconstruir:
+
+- qué se compró;
+- a quién;
+- por cuánto;
+- en qué condiciones;
+- cuándo debía entregarse;
+- qué garantía se ofreció.
+
+**No es una formalidad vacía.**
+
+# Ejemplo: sillón a medida
+
+Se encarga:
+
+- 3 cuerpos;
+- tela gris;
+- 2,20 m;
+- entrega en 30 días;
+- precio final $900.000;
+- 50% de anticipo.
+
+El comprobante sólo dice:
+
+<div class="quote-box">“Sillón — anticipo $450.000.”</div>
+
+Si llega un sillón beige de 1,80 m después de 70 días, el conflicto demuestra por qué el art. 10 exige **documentar las condiciones esenciales de la operación**.
+
+# Claridad documental
+
+La redacción debe ser:
+
+- en castellano;
+- completa;
+- clara;
+- fácilmente legible.
+
+No debe remitir a documentos que no se entreguen previa o simultáneamente.
+
+Las cláusulas adicionales exigibles deben estar destacadas y suscriptas.
+
+Un ejemplar debe ser entregado al consumidor.
+
+# Jurisprudencia: electrodoméstico
+
+<div class="case-title">Documento incompleto y garantía</div>
+
+**Hechos.** Una empresa dedicada a la venta de electrodomésticos documentó la operación sin incluir adecuadamente información exigida por el art. 10, en particular datos vinculados con la garantía.
+
+**Problema jurídico.** ¿La infracción sólo existe si después el producto presenta una falla?
+
+**Resolución.** La jurisprudencia administrativa citada por Tambussi confirmó la sanción por incumplir los recaudos documentales.
+
+**Resultado.** El deber de documentación es **autónomo**: se infringe por omitir la información legalmente exigida, aun antes de que aparezca un defecto material del producto.
+
+# Artículo 10 bis: el corazón remedial
+
+Frente al incumplimiento de la oferta o del contrato, salvo caso fortuito o fuerza mayor, el consumidor puede **a su elección**:
+
+<div class="remedy-grid">
+<div class="remedy-card"><b>A</b><br>Exigir cumplimiento forzado, si es posible</div>
+<div class="remedy-card"><b>B</b><br>Aceptar otro producto o servicio equivalente</div>
+<div class="remedy-card"><b>C</b><br>Rescindir con restitución de lo pagado</div>
+</div>
+
+Y todo ello opera **sin perjuicio de los daños y perjuicios** que correspondan.
+
+# La elección es del consumidor
+
+Comprás una heladera nueva y te entregan un modelo inferior.
+
+El comercio responde:
+
+<div class="quote-box">“No devolvemos dinero. Sólo damos crédito para comprar otra cosa.”</div>
+
+<div class="question-box">
+¿Puede una “política interna” reemplazar las opciones que la ley coloca en cabeza del consumidor?
+</div>
+
+**No.** El art. 10 bis estructura remedios que no pueden ser sustituidos unilateralmente por el proveedor.
+
+# Opción A: cumplimiento forzado
+
+Comprás una notebook específica, pagás el precio y el proveedor se niega a entregarla porque después aumentó.
+
+Si el cumplimiento sigue siendo posible, el consumidor puede exigir:
+
+<div class="hero-box">“ENTREGAME LO QUE CONTRATAMOS.”</div>
+
+La devolución unilateral del precio no necesariamente satisface el derecho del consumidor.
+
+# Opción B: prestación equivalente
+
+El modelo comprado ya no se fabrica.
+
+El proveedor ofrece otro.
+
+La equivalencia exige comparar:
+
+- características;
+- prestaciones;
+- calidad;
+- finalidad;
+- condiciones relevantes de la contratación.
+
+<div class="takeaway">“Equivalente” no significa “lo que el proveedor tenga ganas de entregar”. Y la aceptación corresponde al consumidor.</div>
+
+# Opción C: rescisión
+
+El consumidor puede poner fin al contrato con restitución de lo pagado.
+
+<div class="example-box">
+<strong>Ejemplo.</strong> Se contrata un mueble a medida. Después de reiterados incumplimientos, se entrega uno sustancialmente distinto. El consumidor puede decidir no continuar vinculado y reclamar la restitución correspondiente.
+</div>
+
+La rescisión no impide, cuando corresponda, reclamar **daños**.
+
+# Jurisprudencia: defecto de pintura en un automóvil
+
+<div class="case-title">Garantía vs. opciones del art. 10 bis</div>
+
+**Hechos.** Un automóvil presentó defectos de pintura. El proveedor pretendió encauzar la situación exclusivamente a través de la reparación.
+
+**Problema jurídico.** ¿El consumidor debe aceptar necesariamente la reparación como única salida?
+
+**Resolución / criterio.** La jurisprudencia citada por Tambussi analiza el supuesto desde el art. 10 bis y rechaza una lectura que deje al consumidor sometido a la solución unilateralmente elegida por el proveedor.
+
+**Resultado.** Debe distinguirse el régimen de garantía de las **opciones generales frente al incumplimiento de la oferta o del contrato**.
+
+# ¿Hay que agotar primero la garantía?
+
+Tambussi discute expresamente esta cuestión.
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Afirmación correcta</strong><br><br>El proveedor puede tener la posibilidad de reparar dentro del régimen de garantía.</div>
+<div class="compare-card"><strong>Afirmación problemática</strong><br><br>El consumidor siempre está obligado a aceptar primero la reparación antes de usar el art. 10 bis.</div>
+</div>
+
+El texto rechaza convertir la reparación en un **paso obligatorio universal**.
+
+# ¿Cualquier incumplimiento permite resolver?
+
+No todos los defectos tienen igual entidad.
+
+Tambussi conecta la solución con:
+
+- buena fe;
+- entidad del incumplimiento;
+- finalidad perseguida;
+- integridad del contrato;
+- expectativas legítimas.
+
+<div class="compare-grid">
+<div class="compare-card"><b>Defecto menor</b><br><br>Una deficiencia mínima y fácilmente subsanable.</div>
+<div class="compare-card"><b>Incumplimiento sustancial</b><br><br>Recibir una versión, calidad o prestación esencialmente distinta.</div>
+</div>
+
+# Incumplimiento principal y deberes accesorios
+
+La relación de consumo contiene una obligación principal, pero también deberes vinculados con:
+
+- información;
+- seguridad;
+- documentación;
+- entrega;
+- colaboración;
+- buena fe.
+
+<div class="takeaway">
+El incumplimiento puede resultar de la prestación principal o de deberes que integran jurídicamente la relación de consumo.
+</div>
+
+# Daños y perjuicios
+
+Las opciones del art. 10 bis operan **sin perjuicio de las acciones de daños**.
+
+<div class="example-box">
+El consumidor paga un producto que nunca es entregado. Recuperar el precio puede resolver una parte del conflicto. Si además existieron daños jurídicamente resarcibles, la restitución no los elimina automáticamente.
+</div>
+
+La reparación contractual y la reparación de daños cumplen funciones distintas.
+
+# Caso integrador: auto 0 km
+
+Una persona compra un auto 0 km.
+
+- La publicidad ofrece una versión determinada.
+- El contrato individualiza esa versión.
+- El concesionario entrega una versión inferior.
+- Propone “compensar” instalando dos accesorios.
+
+**Preguntas**
+
+1. ¿Hay incumplimiento?
+2. ¿Puede exigir la versión contratada?
+3. ¿Debe aceptar los accesorios?
+4. ¿Puede rescindir?
+5. ¿Puede reclamar daños?
+
+# Caso integrador: resolución
+
+**1. Incumplimiento.** Existe discordancia entre lo ofrecido/contratado y lo entregado.
+
+**2. Cumplimiento.** Si es posible, el consumidor puede exigir la prestación prometida.
+
+**3. Equivalente.** No puede imponerse unilateralmente una compensación distinta.
+
+**4. Rescisión.** Puede ser una opción legal frente al incumplimiento relevante.
+
+**5. Daños.** El art. 10 bis deja a salvo las acciones indemnizatorias que correspondan.
+
+<div class="blue-box">La pregunta correcta no es “¿qué solución ofrece la concesionaria?”, sino “¿qué opción reconoce la ley al consumidor?”.</div>
+
+# Artículo 10 ter: modos de rescisión
+
+Cuando un servicio fue contratado:
+
+- telefónicamente;
+- electrónicamente;
+- o por un medio similar,
+
+el consumidor puede rescindirlo **mediante el mismo medio utilizado para contratar**.
+
+<div class="hero-box">SI ENTRAR FUE SIMPLE, SALIR NO PUEDE CONVERTIRSE EN UNA CARRERA DE OBSTÁCULOS.</div>
+
+# Ejemplo: servicio de streaming
+
+**Alta**
+
+<div class="quote-box">Tres clics.</div>
+
+**Baja**
+
+<div class="quote-box">“Debe presentarse personalmente de lunes a viernes de 10 a 12, con DNI, tarjeta utilizada y formulario impreso.”</div>
+
+La asimetría muestra exactamente el problema que el art. 10 ter busca evitar.
+
+# La constancia de rescisión
+
+La empresa debe documentar la recepción del pedido.
+
+El conflicto típico es sencillo:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Consumidor</strong><br><br>“Yo pedí la baja.”</div>
+<div class="compare-card"><strong>Proveedor</strong><br><br>“No tenemos registro.”</div>
+</div>
+
+La constancia tiene una función práctica y probatoria: **dar eficacia a la decisión del consumidor**.
+
+# Jurisprudencia: baja de servicio telefónico
+
+<div class="case-title">La baja no puede transformarse en un trámite obstructivo</div>
+
+**Hechos.** Un usuario solicitó la baja de un servicio, pero la empresa no procesó adecuadamente el pedido y continuó generando consecuencias económicas.
+
+**Problema jurídico.** La empresa pretendió condicionar la eficacia de la rescisión a pasos adicionales.
+
+**Resolución.** Los precedentes citados por Tambussi exigen respetar la manifestación rescisoria y rechazan mecanismos que prolongan artificialmente la relación.
+
+**Resultado.** El proveedor debe disponer un procedimiento compatible con la efectividad del derecho de baja.
+
+# Artículo 10 quáter: prohibición de cobro
+
+En los términos de la norma, frente a una solicitud de baja se prohíbe cobrar:
+
+- preaviso;
+- mes adelantado;
+- otros conceptos asociados a la baja.
+
+<div class="example-box">
+“Procesamos su baja, pero debe pagar el mes próximo completo.”
+</div>
+
+La regla busca impedir que la terminación del vínculo se transforme en una **penalidad económica**.
+
+# 10 ter + 10 quáter
+
+<div class="compare-grid">
+<div class="compare-card">
+<strong>ART. 10 TER</strong><br><br>
+No dificultes <b>formalmente</b> la salida.
+</div>
+<div class="compare-card">
+<strong>ART. 10 QUÁTER</strong><br><br>
+No castigues <b>económicamente</b> la salida.
+</div>
+</div>
+
+<div class="takeaway">La finalidad común es que el derecho a terminar el servicio sea real y no meramente nominal.</div>
+
+# Caso final: gimnasio
+
+Una persona contrata online:
+
+<div class="quote-box">“Todas las sedes · pileta incluida · cancelá cuando quieras.”</div>
+
+Luego descubre que:
+
+- la pileta requiere un adicional;
+- una sede no admite su plan;
+- la baja sólo puede hacerse presencialmente;
+- le cobran un mes extra;
+- recibe mensajes intimidatorios por una supuesta deuda.
+
+<div class="question-box">Identifique todas las normas de este bloque que pueden entrar en juego.</div>
+
+# Caso final: solución
+
+| Problema | Norma |
+|---|---|
+| Promesa sobre sedes y pileta | **Art. 7** |
+| Contenido del anuncio incorporado al vínculo | **Art. 8** |
+| Mensajes intimidatorios | **Art. 8 bis** |
+| Discordancia entre lo prometido y prestado | **Art. 10 bis** |
+| Exigencia de baja presencial | **Art. 10 ter** |
+| Cobro adicional por terminar el servicio | **Art. 10 quáter** |
+
+<div class="takeaway">Una relación de consumo puede producir una constelación de incumplimientos, no un único problema aislado.</div>
+
+# Actividad de cierre
+
+Una tienda anuncia:
+
+<div class="quote-box">“Smart TV 65'', 4K, $900.000, 12 cuotas, entrega en 48 horas. Sólo 20 unidades.”</div>
+
+El consumidor compra y paga. Cinco días después:
+
+- no recibió el televisor;
+- le ofrecen uno de 55'';
+- le dicen que “no devuelven dinero”;
+- el comprobante no indica fecha de entrega;
+- atención al cliente corta reiteradamente las llamadas.
+
+**Consigna:** identificar normas, incumplimientos y remedios.
+
+# Actividad de cierre: solución orientativa
+
+**Art. 7.** La oferta precisa vincula al proveedor.
+
+**Art. 8.** Las precisiones publicitarias integran el contrato.
+
+**Art. 10.** El documento debe exteriorizar adecuadamente las condiciones de entrega.
+
+**Art. 10 bis.** El proveedor no puede sustituir por decisión propia las opciones del consumidor.
+
+**Art. 8 bis.** La gestión del reclamo puede agregar un problema de trato indigno.
+
+**Daños.** Los remedios contractuales no excluyen, cuando correspondan, la reparación de daños.
+
+# Cinco ideas para llevarse
+
+<div class="big-five">
+<div><span>1</span> La seguridad forma parte de la prestación.</div>
+<div><span>2</span> La oferta obliga.</div>
+<div><span>3</span> La publicidad puede integrar el contrato.</div>
+<div><span>4</span> El modo de tratar al consumidor también tiene relevancia jurídica.</div>
+<div><span>5</span> Frente al incumplimiento, la ley coloca remedios concretos en cabeza del consumidor.</div>
+</div>
+
+# Cierre
+
+<div class="hero-box">
+La protección consumeril no se limita al momento de celebrar el contrato.
+</div>
+
+Atraviesa:
+
+**la formación de la voluntad → la seguridad de la prestación → la ejecución → el reclamo → los remedios → la salida del vínculo**
+
+<div class="question-box">
+¿De qué serviría reconocer derechos si el proveedor pudiera neutralizarlos mediante información incompleta, publicidad contradictoria, reclamos interminables o bajas imposibles?
+</div>
+
+# Fuente utilizada
+
+Esta presentación fue elaborada **exclusivamente sobre el PDF suministrado**, correspondiente al comentario de Carlos E. Tambussi a la Ley 24.240, tramo comprendido entre los arts. 5 y 10 quáter.
+
+No se incorporó doctrina ni jurisprudencia externa al material suministrado.

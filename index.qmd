@@ -50,10 +50,88 @@ Ley 24.240 · análisis artículo por artículo · consumidores hipervulnerables
 :::
 :::
 
-::: {.clase-card .proximamente}
-### Clase 3
+::: {.clase-card}
+### Clase 3 
 
-## Próximamente
+## Seguridad, oferta, publicidad, trato digno e incumplimiento · Ley 24.240, arts. 5 a 10 quáter
 
-El material será incorporado a medida que avance el curso.
+::: {.material}
+**Seguridad**
+
+[Ver presentación →](clase3-tambussi-corregida.qmd){target="_blank" .btn-clase}
+:::
+
+:::
+
+::: {.clase-card}
+### Clase 4 
+
+## Garantías 
+
+::: {.material}
+**Garantías**
+
+[Ver presentación →](clase4-garantias-tambussi-arts11-18.qmd){target="_blank" .btn-clase}
+:::
+
+:::
+
+::: {.clase-card}
+### Clase 5
+
+## Servicios 
+
+::: {.material}
+**Servicios**
+
+[Ver presentación →](clase5-servicios-tambussi-arts19-24.qmd){target="_blank" .btn-clase}
+:::
+
+:::
+
+::: {.clase-card}
+### Clase 6
+
+## Pagare de Consumo 
+
+::: {.material}
+**Pagare de Consumo**
+
+[Ver presentación →](pagare-consumo-50-robustas.qmd){target="_blank" .btn-clase}
+:::
+
+::: {.material}
+**Pagare de Consumo - fallos**
+
+[Ver presentación →](fallos-pagare-cncom.qmd){target="_blank" .btn-clase}
+
+[Ver presentación →](fallos-pagare-cons.qmd){target="_blank" .btn-clase}
+:::
+
+:::
+
+::: {.clase-card}
+### Clase 7
+
+## Cláusulas abusivas y prácticas abusivas 
+
+::: {.material}
+**Cláusulas abusivas y prácticas abusivas**
+
+[Ver presentación →](clausulas-abusivas-baroncelli-50-robustas.qmd){target="_blank" .btn-clase}
+:::
+
+:::
+
+::: {.clase-card}
+### Simulacion de Final Oral
+
+## Casos resueltos 
+
+::: {.material}
+**En cada caso va a ver preguntas orientativas y respuestas**
+
+[Ver presentación →](simulacro_derecho_consumidor.html){target="_blank" .btn-clase}
+:::
+
 :::

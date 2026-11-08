@@ -1,0 +1,1088 @@
+---
+title: "Usuarios de servicios públicos domiciliarios"
+subtitle: "Ley 24.240 · Arts. 25 a 31"
+author: "Derecho del Consumidor · Grado"
+slide-level: 1
+format:
+  revealjs:
+    theme: simple
+    css: clase6-reveal.css
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+    link-external-newwindow: true
+---
+
+# El problema de esta clase
+
+<div class="hero-box">
+¿Qué cambia cuando el consumidor no puede simplemente “irse a otro proveedor” y depende de un servicio domiciliario esencial?
+</div>
+
+El capítulo VI de la Ley 24.240 parte de una relación marcada por:
+
+<div class="flow-row">
+<div class="flow-card"><b>NECESIDAD</b><br>El servicio suele ser esencial para la vida cotidiana.</div>
+<div class="flow-card"><b>ASIMETRÍA</b><br>El prestador domina información, medición, facturación y redes.</div>
+<div class="flow-card"><b>CAUTIVIDAD</b><br>El usuario tiene posibilidades limitadas de sustituir al proveedor.</div>
+</div>
+
+<div class="takeaway">
+Por eso la ley refuerza información, reclamo, medición, continuidad y control de la facturación.
+</div>
+
+# Mapa normativo
+
+| Norma | Eje |
+|---|---|
+| **Art. 25** | Información, constancia escrita, normativa aplicable y reclamos |
+| **Art. 26** | Reciprocidad en el trato |
+| **Art. 27** | Registro y trámite de reclamos |
+| **Art. 28** | Seguridad de instalaciones y artefactos |
+| **Art. 29** | Instrumentos y unidades de medición |
+| **Art. 30** | Interrupción o alteración del servicio |
+| **Art. 30 bis** | Información sobre deudas pendientes |
+| **Art. 31** | Errores de facturación, sobreconsumo y cobros indebidos |
+
+# Caso de apertura
+
+Un usuario recibe una factura eléctrica que triplica su consumo habitual.
+
+Además:
+
+- el medidor está en un gabinete al que no tiene acceso;
+- la empresa no explica cómo obtuvo la lectura;
+- al reclamar le asignan un número, pero no responden;
+- amenaza con cortar el suministro;
+- una factura anterior decía que no había deuda pendiente;
+- el usuario sostiene que el monto es imposible.
+
+<div class="question-box">
+¿Qué herramientas concretas le da la LDC antes de llegar a un juicio?
+</div>
+
+# Servicios públicos domiciliarios: una relación especial
+
+Tambussi insiste en que aquí existe una **desigualdad estructural intensa** entre empresa y usuario.
+
+¿Por qué?
+
+- el servicio puede ser indispensable;
+- el prestador suele actuar en condiciones monopólicas o altamente concentradas;
+- el usuario no diseña el contrato;
+- la empresa controla datos técnicos;
+- el usuario depende de la continuidad del suministro.
+
+<div class="blue-box">
+El régimen consumeril no desaparece porque el servicio tenga regulación pública específica.
+</div>
+
+# Artículo 25: tres ejes
+
+Tambussi organiza el art. 25 alrededor de tres cuestiones:
+
+<div class="case-grid">
+<div class="case-card"><b>INFORMACIÓN</b><br>Condiciones del servicio y derechos de las partes.</div>
+<div class="case-card"><b>NORMAS APLICABLES</b><br>Integración entre LDC y marcos regulatorios.</div>
+<div class="case-card"><b>RECLAMOS</b><br>Vías administrativas disponibles para el usuario.</div>
+</div>
+
+# Constancia escrita de la prestación
+
+La empresa debe entregar al usuario constancia escrita de:
+
+- condiciones de la prestación;
+- derechos y obligaciones de ambas partes.
+
+Además, esa información debe mantenerse disponible en las oficinas de atención.
+
+<div class="takeaway">
+La información no es sólo “qué tarifa pago”: también debe permitir saber qué puede exigir el usuario y qué obligaciones tiene el prestador.
+</div>
+
+# El contrato de servicios domiciliarios
+
+Tambussi explica que, aunque exista consentimiento, en la práctica suele tratarse de un **contrato de adhesión**.
+
+El usuario:
+
+- no redacta las cláusulas;
+- no negocia el marco regulatorio;
+- no define la calidad técnica;
+- no establece el procedimiento de reclamos.
+
+<div class="hero-box">
+EL USUARIO ADHIERE A UN SISTEMA PREDEFINIDO POR EMPRESA + REGULACIÓN.
+</div>
+
+# Información sobre facturación indebida
+
+El art. 25 obliga también a informar al usuario sobre su derecho a reclamar cuando:
+
+- se facturan sumas indebidas;
+- se cobran conceptos improcedentes;
+- se pretende cobrar una factura ya abonada.
+
+La empresa debe exhibir cartelería específica al respecto.
+
+# Factura detallada
+
+A pedido del usuario, el proveedor debe entregar una factura detallada del servicio.
+
+Tambussi destaca que la información debe permitir distinguir:
+
+- consumos;
+- cargos fijos;
+- cargos variables;
+- conceptos impositivos;
+- tarifas aplicadas;
+- otros rubros.
+
+<div class="question-box">
+Sin detalle, ¿cómo podría el usuario saber si la factura es correcta o impugnarla?
+</div>
+
+# LDC + marco regulatorio
+
+Uno de los puntos más importantes del art. 25 es la coexistencia de:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Ley 24.240</strong><br><br>Protección general del consumidor.</div>
+<div class="compare-card"><strong>Marco regulatorio sectorial</strong><br><br>Reglas específicas de electricidad, gas, agua, telefonía, etc.</div>
+</div>
+
+La reforma recepta una **integración normativa**.
+
+<div class="takeaway">
+En caso de duda, debe privilegiarse la solución más favorable al consumidor.
+</div>
+
+# ¿Ante quién reclama el usuario?
+
+Tambussi analiza la coexistencia entre:
+
+- autoridad de aplicación de la LDC;
+- ente regulador específico.
+
+La ley amplía las posibilidades de tutela, pero advierte que deben respetarse las competencias técnicas propias de cada organismo.
+
+<div class="blue-box">
+No toda controversia técnica del servicio puede ser resuelta del mismo modo por cualquier autoridad.
+</div>
+
+# Caso: Parody c. Telefónica de Argentina
+
+<div class="case-title">“Parody, Alejandro A. c. Telefónica de Argentina S.A.” · JCCF n.º 3, 29/12/1997</div>
+
+**Hechos.** Un usuario cuestionó la conducta de una empresa prestadora de telefonía en una relación de servicio público domiciliario.
+
+**Problema jurídico.** Se discutió si la relación debía quedar sólo dentro del régimen sectorial de telecomunicaciones o también bajo la Ley 24.240.
+
+**Resolución.** El tribunal entendió que las cuestiones entre el usuario y quien presta profesionalmente un servicio público deben encuadrarse en la Ley de Defensa del Consumidor.
+
+**Fundamento.** Los usuarios de servicios públicos domiciliarios requieren especial protección porque el acceso a esos servicios resulta indispensable para una vida digna.
+
+<div class="takeaway">
+La calidad de “servicio público” no excluye la relación de consumo: la refuerza.
+</div>
+
+# Caso: Ulrich c. Aguas Argentinas
+
+<div class="case-title">“Ulrich, Lilian I. c. Aguas Argentinas S.A.” · CACC San Isidro, Sala I, 1/8/2003</div>
+
+**Hechos.** La usuaria cuestionó una situación vinculada con el servicio de agua potable prestado por Aguas Argentinas.
+
+**Problema jurídico.** Se debatió el carácter del servicio y la posición contractual del usuario frente a una prestación esencial y monopólica.
+
+**Resolución.** La Cámara afirmó que el servicio de agua es **esencial, imprescindible y de prestación monopólica**, razón por la cual las posibilidades de contratación del usuario se encuentran fuertemente limitadas.
+
+**Consecuencia.** Esa estructura justifica un control particularmente intenso de la conducta del proveedor.
+
+# Caso: Veiga c. Telecom Argentina
+
+<div class="case-title">“Veiga, Santiago Adolfo c. Telecom Argentina S.A. s/Daños y perjuicios” · JCC n.º 5 San Nicolás, 6/9/2013</div>
+
+**Hechos.** Un usuario promovió una acción de daños contra la empresa telefónica en el marco de un servicio domiciliario.
+
+**Problema jurídico.** Se analizó la posición del usuario frente a una empresa prestadora de un servicio esencial.
+
+**Resolución.** El tribunal calificó al usuario como **débil jurídico**, destacando que la prestación está a cargo del Estado o de grandes concesionarios y que el usuario no dispone de una capacidad real equivalente de negociación.
+
+**Resultado.** Se reconoció la necesidad de aplicar una tutela intensa propia del derecho del consumidor.
+
+# Caso: Carreño c. Cooperativa Rama Caída
+
+<div class="case-title">“Carreño, Fernando c. Coop. Rural de Servicio Público Rama Caída” · CACC MPT 2ª San Rafael, 22/9/2009</div>
+
+**Hechos.** Se restringió el suministro de agua potable a un usuario.
+
+**Problema jurídico.** Se discutió el daño moral derivado de la privación del servicio.
+
+**Resolución.** El tribunal sostuvo que el agua potable es esencial no sólo para beber, sino también para higiene, vestimenta y utensilios.
+
+**Resultado.** Consideró que el daño moral por la restricción del agua debía presumirse y no requería una prueba concluyente específica.
+
+<div class="takeaway">
+La afectación de un servicio esencial puede generar consecuencias extrapatrimoniales evidentes.
+</div>
+
+# Caso: Osvaldo c. Aguas de Corrientes
+
+<div class="case-title">“Ojeda, Osvaldo L. c. Aguas de Corrientes S.A. s/Sumarísimo” · CACCC Corrientes, 5/2/2014</div>
+
+**Hechos.** Un usuario litigó contra la empresa de agua y saneamiento por cuestiones vinculadas con la prestación sanitaria.
+
+**Problema jurídico.** Se debatió la dimensión jurídica del acceso al agua y al saneamiento.
+
+**Resolución.** La Cámara destacó que el acceso a servicios sanitarios básicos es un **derecho humano**, relacionado con la vida, la salud y condiciones mínimas de existencia.
+
+**Fundamento.** El agua contaminada constituye una de las principales causas de mortalidad en poblaciones vulnerables y el Estado tiene deberes de garantía en esta materia.
+
+# Caso: Biestro de Bover c. Telefónica
+
+<div class="case-title">“Biestro de Bover, Amelia T. c. Telefónica de Argentina S.A. s/Acción de amparo” · CNCCF, Sala III, 16/12/1994</div>
+
+**Hechos.** Una usuaria mantenía una relación contractual con la empresa prestadora del servicio telefónico.
+
+**Problema jurídico.** Se discutió la naturaleza del vínculo y la capacidad del usuario de aceptar o rechazar las condiciones.
+
+**Resolución.** La Cámara afirmó que aun los contratos vinculados con la Administración participan de la categoría contractual porque existe una manifestación de voluntad, aunque limitada.
+
+**Resultado.** Reconoció que la relación usuario-concesionario configura un **contrato de adhesión**, dado el poder de imposición de la empresa frente al usuario.
+
+# Caso: Spekter de Hamra c. Telefónica
+
+<div class="case-title">“Spekter de Hamra, Sofía B. R. c. Telefónica de Argentina S.A.” · CNCCF, Sala II, 27/5/1999</div>
+
+**Hechos.** Una usuaria cuestionó aspectos informativos vinculados con la prestación telefónica.
+
+**Problema jurídico.** Se discutió el alcance del deber informativo de una empresa que presta un servicio en forma monopólica.
+
+**Resolución.** La Cámara sostuvo que Telefónica debía proporcionar al cliente información **adecuada y veraz**, y que el deber de información frente al usuario era especialmente intenso.
+
+**Consecuencia.** La posición dominante del prestador no disminuye sus deberes: los incrementa.
+
+# Caso: Andrada c. Telecom
+
+<div class="case-title">“Andrada, Adoralicia c. Telecom Argentina S.A. s/Acción emergente de la ley de consumidor” · CAC Jujuy, Sala II, 11/3/2015</div>
+
+**Hechos.** La usuaria reclamó contra Telecom por cuestiones relacionadas con la contratación y prestación del servicio.
+
+**Problema jurídico.** Se analizó si la modalidad contractual utilizada por la empresa cumplía con el deber de información del art. 25.
+
+**Resolución.** El tribunal entendió que no se había cumplido adecuadamente con la obligación de brindar información escrita sobre condiciones de prestación, derechos y obligaciones.
+
+**Resultado.** La falta de información impidió al usuario conocer debidamente su posición contractual y justificó la intervención protectoria.
+
+# Caso: factura detallada en Mendoza
+
+<div class="case-title">“Telefónica de Argentina S.A. c. Pcia. de Mendoza” · SC Mendoza, Sala I, 3/4/2002</div>
+
+**Hechos.** La provincia había regulado la obligación de entregar al usuario una factura detallada del servicio telefónico cuando éste lo requiriera.
+
+**Problema jurídico.** Se discutió la validez de esa regulación provincial frente al régimen federal de telecomunicaciones.
+
+**Resolución.** La Suprema Corte mendocina consideró razonable reconocer al usuario el derecho a obtener gratuitamente y en tiempo oportuno el detalle de la factura.
+
+**Resultado.** La información sobre el consumo fue considerada una herramienta esencial para controlar la corrección del monto facturado.
+
+# Caso: Telefónica c. Provincia de Mendoza
+
+<div class="case-title">“Telefónica de Argentina S.A. c. Provincia de Mendoza” · CSJN, 25/11/2003</div>
+
+**Hechos.** Mendoza había establecido obligaciones técnicas y administrativas vinculadas con el modo de facturar llamadas telefónicas.
+
+**Problema jurídico.** Se discutió si la provincia podía regular aspectos pertenecientes al funcionamiento técnico del servicio telefónico.
+
+**Resolución.** La Corte Suprema entendió que esa regulación invadía facultades delegadas a la Nación.
+
+**Resultado.** La tutela del consumidor debe coexistir con la distribución constitucional de competencias.
+
+<div class="takeaway">
+Protección del usuario no significa que cualquier autoridad pueda regular cualquier aspecto técnico del servicio.
+</div>
+
+# Caso: Ciancio c. Resolución 184/97 ENARGAS
+
+<div class="case-title">“Ciancio, José M. c. Res. 184/97 - Enargas” · CNACAF, Sala II, 5/11/1998</div>
+
+**Hechos.** Se debatió la relación entre la legislación específica de servicios domiciliarios y la Ley 24.240.
+
+**Problema jurídico.** ¿Debe aplicarse una normativa excluyendo a la otra?
+
+**Resolución.** La Cámara sostuvo que la legislación específica debe **armonizarse** con la Ley de Defensa del Consumidor y con el art. 42 de la Constitución Nacional.
+
+**Resultado.** Confirmó una lectura integrada y no excluyente de ambos regímenes.
+
+# Caso: Edesur c. DNCI
+
+<div class="case-title">“Edesur S.A. c. DNCI - Disp. n.º 452/11” · CNACAF, Sala III, 25/9/2012</div>
+
+**Hechos.** La Dirección Nacional de Comercio Interior sancionó a Edesur por cortes en el suministro eléctrico sufridos por un usuario.
+
+**Problema jurídico.** Se discutió qué autoridad tenía competencia para sancionar ese incumplimiento específico de la prestación.
+
+**Resolución.** La Cámara declaró la nulidad de la sanción de la DNCI en ese punto.
+
+**Fundamento.** El ENRE era el organismo específicamente competente para controlar y sancionar incumplimientos vinculados con la prestación técnica del servicio eléctrico.
+
+<div class="takeaway">
+La empresa sigue sujeta a la LDC, pero deben respetarse las competencias específicas del ente regulador.
+</div>
+
+# Artículo 26: reciprocidad en el trato
+
+La empresa debe aplicar a reintegros o devoluciones los **mismos criterios** que utiliza para calcular cargos por mora del usuario.
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Si el usuario debe</strong><br><br>La empresa cobra intereses moratorios.</div>
+<div class="compare-card"><strong>Si la empresa debe devolver</strong><br><br>Debe aplicar criterios equivalentes.</div>
+</div>
+
+<div class="hero-box">
+LA RECIPROCIDAD BUSCA EVITAR QUE EL DINERO “VALGA DISTINTO” SEGÚN QUIÉN DEBA PAGAR.
+</div>
+
+# Reciprocidad y trato digno
+
+Tambussi conecta el art. 26 con:
+
+- igualdad;
+- trato equitativo;
+- dignidad;
+- prohibición de privilegios unilaterales.
+
+La regla pretende evitar que el proveedor:
+
+- cobre rápidamente intereses al usuario;
+- pero devuelva sin intereses;
+- o compense unilateralmente en facturas futuras sin reintegro efectivo.
+
+# Caso: Unión de Usuarios y Consumidores c. AMX
+
+<div class="case-title">“Unión de Usuarios y Consumidores c. AMX Argentina S.A.” · CNACAF, Sala IV, 9/3/2010</div>
+
+**Hechos.** Una empresa de telefonía móvil debía reintegrar a usuarios importes vinculados con tasas y aportes cobrados indebidamente.
+
+**Problema jurídico.** Se discutió qué tasa de interés debía aplicarse a esos reintegros.
+
+**Resolución.** La Cámara aplicó el principio de reciprocidad del art. 26.
+
+**Resultado.** La tasa a favor del usuario no podía estructurarse de modo manifiestamente inferior al criterio utilizado por la empresa frente a la mora del consumidor.
+
+# Artículo 27: registro de reclamos
+
+Las empresas deben:
+
+- habilitar un registro de reclamos;
+- recibir reclamos por diversos medios;
+- entregar constancia;
+- contestar en plazo;
+- satisfacerlos en plazos perentorios;
+- garantizar atención personalizada.
+
+<div class="takeaway">
+El derecho sustantivo sirve poco si reclamar se vuelve imposible.
+</div>
+
+# El reclamo como herramienta de tutela
+
+Tambussi explica que el reclamo cumple varias funciones:
+
+- permite resolver el problema;
+- deja prueba;
+- activa plazos;
+- posibilita acudir luego a otras instancias;
+- obliga a la empresa a revisar su propia prestación.
+
+<div class="hero-box">
+RECLAMAR NO ES UNA “MOLESTIA”: ES PARTE DEL SISTEMA DE PROTECCIÓN.
+</div>
+
+# ¿Cómo puede reclamar el usuario?
+
+El art. 27 admite:
+
+- nota;
+- teléfono;
+- fax;
+- correo;
+- correo electrónico;
+- otros medios disponibles.
+
+Tambussi entiende que la evolución tecnológica amplía, no reduce, los canales de acceso.
+
+<div class="blue-box">
+La empresa debe mantener canales efectivamente utilizables, no sólo declararlos en abstracto.
+</div>
+
+# La constancia del reclamo
+
+El usuario debe recibir una constancia que permita acreditar:
+
+- número de reclamo;
+- fecha;
+- motivo;
+- identificación del reclamante;
+- recepción por la empresa.
+
+Esto es fundamental para demostrar luego:
+
+- que reclamó;
+- cuándo;
+- sobre qué;
+- y cuándo vencieron los plazos.
+
+# Contestación del reclamo
+
+La reglamentación fija un plazo máximo de **diez días corridos** para contestar.
+
+Tambussi aclara que “contestar” no significa necesariamente “resolver”, pero tampoco admite una respuesta vacía.
+
+La contestación debería indicar:
+
+- naturaleza del problema;
+- actuaciones realizadas;
+- curso de acción;
+- plazo estimado de solución.
+
+# Atención personalizada
+
+El art. 27 exige que las empresas de servicios públicos garanticen **atención personalizada**.
+
+Tambussi critica la sustitución absoluta de oficinas por sistemas telefónicos impersonales.
+
+<div class="question-box">
+¿Puede una empresa cerrar toda atención presencial y dejar al usuario únicamente frente a un contestador automático?
+</div>
+
+# Caso: Unión de Usuarios c. CNC
+
+<div class="case-title">“Unión de Usuarios y Consumidores c. Comisión Nacional de Comunicaciones - Res. 1763/99 y otros” · JNCAF n.º 5, 27/3/2002; CNACAF, Sala III, 22/12/2003</div>
+
+**Hechos.** Telefónica y Telecom habían cerrado oficinas comerciales de atención al público, sustituyéndolas por mecanismos alternativos.
+
+**Pretensión.** Una asociación de consumidores solicitó tutela cautelar para evitar que los usuarios quedaran privados de atención presencial.
+
+**Resolución inicial.** El juzgado consideró configurados los requisitos cautelares y ordenó garantizar atención al público.
+
+**Resolución de Cámara.** La Cámara adecuó el alcance de la medida para no imponer indiscriminadamente la reapertura de todas las oficinas, pero exigió que ambas empresas aseguraran atención personal y mantuvieran abiertas las oficinas necesarias.
+
+<div class="takeaway">
+La atención personalizada no puede transformarse en una promesa normativa vacía.
+</div>
+
+# Caso: Ulrich c. Aguas Argentinas — reclamos ignorados
+
+<div class="case-title">“Ulrich, Lilian I. c. Aguas Argentinas S.A.” · CACC San Isidro, Sala I, 1/8/2003</div>
+
+**Hechos.** La usuaria formuló reclamos fundados a la empresa durante aproximadamente cinco años.
+
+**Problema jurídico.** Se discutió si la falta prolongada de atención constituía incumplimiento relevante.
+
+**Resolución.** La Cámara atribuyó responsabilidad a Aguas Argentinas por no atender los reclamos de la usuaria conforme al deber establecido por el art. 27.
+
+**Fundamento.** La omisión no podía justificarse por explicaciones internas de la empresa cuando los reclamos eran fundados y verificables.
+
+# Artículo 28: seguridad de instalaciones
+
+Los usuarios deben ser informados sobre condiciones de seguridad de:
+
+- instalaciones;
+- redes;
+- artefactos necesarios para utilizar el servicio.
+
+La norma se conecta con los arts. 5 y 6 de la LDC.
+
+<div class="hero-box">
+EL PROVEEDOR NO SÓLO DEBE SUMINISTRAR: TAMBIÉN DEBE INFORMAR CÓMO UTILIZAR EL SERVICIO SIN RIESGO.
+</div>
+
+# ¿Por qué es tan importante?
+
+En servicios como:
+
+- electricidad;
+- gas;
+- agua;
+
+una instalación defectuosa puede producir daños gravísimos.
+
+El prestador posee conocimiento técnico superior y debe comunicar:
+
+- condiciones seguras de uso;
+- riesgos;
+- requisitos técnicos;
+- advertencias necesarias.
+
+# Doble seguridad
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Seguridad de la red</strong><br><br>Instalaciones propias del prestador.</div>
+<div class="compare-card"><strong>Seguridad del artefacto</strong><br><br>Equipos que utiliza el usuario para acceder al servicio.</div>
+</div>
+
+Tambussi aclara que el deber informativo puede proyectarse incluso cuando el artefacto fue adquirido a un tercero.
+
+# Artículo 29: medición
+
+La autoridad competente puede verificar el funcionamiento de los instrumentos que miden:
+
+- energía;
+- gas;
+- agua;
+- comunicaciones;
+- combustibles;
+- otros servicios.
+
+Las empresas deben garantizar el **control individual de los consumos**.
+
+# Medir es determinar cuánto se paga
+
+El consumo real se cuantifica mediante instrumentos:
+
+- kWh;
+- m³;
+- pulsos;
+- otras unidades legalmente reconocidas.
+
+<div class="concept-chain">
+MEDIDOR → CONSUMO → TARIFA → FACTURA
+</div>
+
+Si el primer eslabón falla, toda la facturación puede quedar comprometida.
+
+# Requisitos del instrumento
+
+Tambussi destaca que el instrumento debe ser:
+
+- idóneo;
+- de fácil lectura;
+- accesible al usuario;
+- técnicamente autorizado;
+- verificable.
+
+<div class="takeaway">
+El usuario debe poder controlar la evolución de su consumo y no quedar totalmente dependiente de una lectura unilateral del proveedor.
+</div>
+
+# Tres niveles de control
+
+<div class="case-grid">
+<div class="case-card"><b>USUARIO</b><br>Puede controlar el instrumento y sus consumos.</div>
+<div class="case-card"><b>EMPRESA</b><br>Debe revisar y verificar ante reclamos.</div>
+<div class="case-card"><b>ENTE REGULADOR</b><br>Puede fiscalizar técnicamente el funcionamiento.</div>
+</div>
+
+# Acceso al medidor
+
+El control individual exige que el usuario pueda razonablemente acceder al instrumento.
+
+Tambussi advierte que la empresa no debería obstaculizar injustificadamente ese acceso.
+
+<div class="question-box">
+¿Cómo controla el usuario una facturación excesiva si nunca puede ver el medidor?
+</div>
+
+# Caso: Puerta de Dantur c. Entel
+
+<div class="case-title">“Puerta de Dantur, Marta R. c. Entel” · CNCiv., Sala IV, 4/2/1988</div>
+
+**Hechos.** Una usuaria cuestionó consumos telefónicos facturados mediante un sistema de medición controlado exclusivamente por la prestadora.
+
+**Problema jurídico.** La empresa pretendía que la facturación surgida de su propio mecanismo tuviera valor prácticamente incontestable.
+
+**Resolución.** El tribunal rechazó la idea de una medición unilateral e incontrovertible.
+
+**Resultado.** El sistema de verificación no puede convertirse en un mecanismo donde la empresa produce, controla y valida por sí sola toda la prueba del consumo.
+
+# Caso: Biestro de Bover — control unilateral
+
+<div class="case-title">“Biestro de Bover, Amelia T. c. Telefónica de Argentina S.A.” · CNACAF, Sala III, 16/12/1994</div>
+
+**Hechos.** Una usuaria cuestionó consumos telefónicos que no podía verificar personalmente porque el sistema de medición estaba bajo control exclusivo del prestador.
+
+**Problema jurídico.** Se discutió si esa situación colocaba al usuario en indefensión.
+
+**Resolución.** La Cámara sostuvo que la imposibilidad de controlar el consumo vulneraba garantías básicas y reforzaba el deber probatorio del prestador.
+
+<div class="takeaway">
+Quien controla el sistema técnico está en mejores condiciones de demostrar que la medición fue correcta.
+</div>
+
+# Factura con anticipación suficiente
+
+El art. 29 exige entregar la factura con **no menos de diez días de anticipación** al vencimiento.
+
+¿Por qué?
+
+Para permitir al usuario:
+
+- verificar;
+- reclamar;
+- organizar el pago;
+- evitar mora;
+- impedir un corte injustificado.
+
+# Caso: Telefónica y entrega tardía de facturas
+
+<div class="case-title">“Defensores de Barrio de Usuarios y Consumidores c. Telefónica de Argentina S.A.” · CNCiv., Sala I, 10/7/1995</div>
+
+**Hechos.** Se cuestionó la entrega de facturas telefónicas sin la anticipación suficiente respecto de su vencimiento.
+
+**Problema jurídico.** La demora dificultaba que el usuario controlara la factura y pagara en término.
+
+**Resolución.** El tribunal consideró procedente la tutela para asegurar que la prestadora entregara la facturación con anticipación adecuada.
+
+**Fundamento.** El plazo protege el derecho del usuario a verificar el consumo antes de quedar expuesto a mora o corte.
+
+# Artículo 30: interrupción del servicio
+
+Cuando el servicio se interrumpe o altera, se presume que la causa es **imputable a la empresa prestadora**.
+
+El usuario formula el reclamo.
+
+La empresa debe demostrar lo contrario.
+
+<div class="hero-box">
+LA CARGA NO RECAE INICIALMENTE SOBRE EL USUARIO: OPERA UNA PRESUNCIÓN A SU FAVOR.
+</div>
+
+# ¿Por qué existe la presunción?
+
+Porque existe una asimetría probatoria evidente.
+
+El proveedor sabe:
+
+- qué ocurrió en la red;
+- qué falló;
+- cuándo;
+- por qué;
+- qué tareas se realizaron.
+
+El usuario sólo sabe una cosa:
+
+<div class="quote-box">
+“El servicio dejó de funcionar.”
+</div>
+
+# Continuidad del servicio
+
+Tambussi considera la continuidad una característica esencial del servicio domiciliario.
+
+El prestador debe mantener el suministro:
+
+- en condiciones regulares;
+- con continuidad;
+- evitando interrupciones injustificadas.
+
+<div class="takeaway">
+La continuidad está vinculada con la finalidad misma por la cual el usuario contrata el servicio.
+</div>
+
+# Reclamo por interrupción
+
+El art. 30 establece que, formulado el reclamo, la empresa dispone de un plazo máximo para demostrar que la interrupción no le fue imputable.
+
+Si no lo hace, corresponde:
+
+- reintegrar importes;
+- reconocer consecuencias previstas;
+- sin perjuicio de daños.
+
+# ¿Qué puede reclamar el usuario?
+
+Tambussi organiza la respuesta en tres planos:
+
+<div class="case-grid">
+<div class="case-card"><b>RESTABLECIMIENTO</b><br>Que el servicio vuelva a prestarse.</div>
+<div class="case-card"><b>REINTEGRO</b><br>Devolución de lo cobrado durante el período sin servicio.</div>
+<div class="case-card"><b>DAÑOS</b><br>Reparación de perjuicios adicionales.</div>
+</div>
+
+# Caso: Goyena c. Telecom
+
+<div class="case-title">“Goyena, Raúl c. Telecom Argentina Stet France Telecom S.A.” · CNCom., Sala D, 11/7/1996</div>
+
+**Hechos.** El usuario sufrió una interrupción del servicio telefónico.
+
+**Problema jurídico.** Se discutió quién debía probar la causa de la interrupción.
+
+**Resolución.** La Cámara aplicó la presunción del art. 30: la interrupción se presume imputable a la empresa.
+
+**Resultado.** Correspondía al prestador acreditar una causa ajena que excluyera su responsabilidad.
+
+# Caso: Costa c. Telefónica
+
+<div class="case-title">“Costa, Lidia V. y otro c. Telefónica de Argentina S.A.” · CNCom., Sala C, 30/6/1997</div>
+
+**Hechos.** Los usuarios sufrieron interrupción del servicio y reclamaron por los períodos sin prestación.
+
+**Problema jurídico.** Telefónica había cobrado abonos correspondientes a períodos en los que no había prestado servicio.
+
+**Resolución.** La Cámara ordenó devolver los importes percibidos por los períodos sin servicio.
+
+**Fundamento.** Admitir el cobro sin prestación hubiera significado un enriquecimiento sin causa.
+
+# Caso: Maccarone c. Telefónica
+
+<div class="case-title">“Maccarone, Sala Alicia c. Telefónica Argentina Norte S.A.” · CACC Mendoza, 20/10/2006</div>
+
+**Hechos.** La usuaria sufrió una interrupción prolongada del servicio telefónico.
+
+**Problema jurídico.** Se discutió la carga probatoria sobre la causa del corte.
+
+**Resolución.** El tribunal sostuvo que la empresa debía acreditar que la interrupción no le era imputable.
+
+**Resultado.** Se aplicó un criterio de carga dinámica: quien posee los medios técnicos para explicar el corte debe producir esa prueba.
+
+# Caso: Valdez c. Edesur
+
+<div class="case-title">“Valdez, Edgar R. c. Edesur S.A.” · CNCiv., Sala I, 18/10/2005</div>
+
+**Hechos.** Durante un corte de energía eléctrica una persona descendía por una escalera y sufrió una caída.
+
+**Responsabilidades debatidas.** Se demandó tanto a Edesur como al consorcio del edificio.
+
+**Resolución.** El tribunal distribuyó responsabilidad concurrente: atribuyó una parte a la empresa eléctrica por la interrupción y otra al consorcio por falta de iluminación de emergencia adecuada.
+
+<div class="takeaway">
+El corte puede integrar una cadena causal con otros incumplimientos concurrentes.
+</div>
+
+# Caso: Federación del Pueblo c. Edesur
+
+<div class="case-title">“Federación del Pueblo de la Ciudad de Buenos Aires c. Edesur S.A.” · CNCCF, Sala I, 16/3/2000</div>
+
+**Hechos.** Una interrupción prolongada del servicio eléctrico afectó masivamente a usuarios.
+
+**Pretensión.** Se promovió una acción para tutelar los derechos individuales de los usuarios perjudicados.
+
+**Resolución.** La Cámara reconoció legitimación para accionar por los derechos afectados y destacó que la privación prolongada del suministro puede generar daños individualizables.
+
+**Resultado.** La prestación deficiente de un servicio público masivo puede justificar tutela colectiva sin eliminar las reparaciones individuales.
+
+# Caso: Carreño y restricción de agua
+
+<div class="case-title">“Carreño, Fernando c. Coop. Rural de Servicio Público Rama Caída” · CACC MPT 2ª San Rafael, 22/9/2009</div>
+
+**Hechos.** El usuario sufrió una restricción en el suministro de agua potable.
+
+**Problema jurídico.** Se discutió la procedencia del daño moral.
+
+**Resolución.** El tribunal presumió la existencia del daño moral dada la esencialidad del agua para la vida cotidiana, higiene y necesidades básicas.
+
+**Resultado.** La privación de un servicio esencial puede, por su propia naturaleza, generar un menoscabo extrapatrimonial evidente.
+
+# Caso: Uazzi c. EDEA
+
+<div class="case-title">“Uazzi, Cristina Mabel y otros c. E.D.E.N. —Empresa Distribuidora de Energía Norte—” · CACC Junín, 5/2/2009</div>
+
+**Hechos.** Los usuarios padecieron una privación del servicio de energía durante aproximadamente siete días.
+
+**Problema jurídico.** La empresa había resarcir daños materiales, pero se discutía el daño moral.
+
+**Resolución.** El tribunal consideró procedente el daño moral.
+
+**Fundamento.** La prolongación del corte y las molestias derivadas de vivir sin electricidad excedían una simple incomodidad patrimonial.
+
+# Caso: Diez Yarade c. Telecom
+
+<div class="case-title">“Diez Yarade, Oscar Matías c. Telecom S.A. s/Sumarísimo por acción de defensa del consumidor” · CACC Jujuy, Sala I, 28/2/2013</div>
+
+**Hechos.** Un usuario de telefonía e internet alegó una prestación defectuosa y promovió una acción consumeril.
+
+**Problema jurídico.** Se discutió quién debía probar si el servicio había sido correctamente prestado.
+
+**Resolución.** El tribunal responsabilizó a la empresa porque no logró acreditar que hubiese prestado el servicio en debida forma.
+
+**Fundamento.** La prestadora tenía una posición contractual dominante y controlaba los medios técnicos de prueba.
+
+# Caso: Asociación Profesional Farmacéutica c. EPE
+
+<div class="case-title">“Asociación Profesional Farmacéutica c. Empresa Provincial de la Energía de la Provincia de Santa Fe” · CC Circuito Rosario, 22/2/2010</div>
+
+**Hechos.** Artefactos eléctricos de la reclamante sufrieron desperfectos a raíz de una sobretensión en la línea.
+
+**Problema jurídico.** Se debatió si la empresa eléctrica respondía por los daños derivados de una alteración de tensión.
+
+**Resolución.** El tribunal responsabilizó a la prestadora.
+
+**Fundamento.** La empresa tiene el deber constante de mantener en debido estado las líneas de alta y baja tensión y vigilar las condiciones en que presta el servicio.
+
+# Artículo 30 bis: deudas pendientes
+
+Las facturas deben informar si existen:
+
+- períodos pendientes;
+- otras deudas;
+- fechas;
+- conceptos;
+- intereses, cuando correspondan.
+
+Si no existen deudas debe indicarse:
+
+<div class="hero-box">
+“NO EXISTEN DEUDAS PENDIENTES”
+</div>
+
+# Presunción del art. 30 bis
+
+Si la factura **no informa deuda**, la ley presume que el usuario:
+
+- está al día;
+- no mantiene obligaciones pendientes con la prestadora.
+
+Tambussi caracteriza esta presunción como especialmente intensa.
+
+<div class="takeaway">
+La empresa no puede guardar silencio durante meses y luego sorprender al usuario con una deuda antigua originada en su propio desorden contable.
+</div>
+
+# Caso: Carreño — deuda no informada
+
+<div class="case-title">“Carreño, Fernando c. Coop. Rural de Servicio Público Rama Caída” · CACC MPT 2ª San Rafael, 22/9/2009</div>
+
+**Hechos.** La cooperativa pretendió justificar una restricción del agua invocando una deuda que no había sido informada adecuadamente en facturas anteriores.
+
+**Problema jurídico.** Se discutió el efecto del silencio de las facturas respecto de la deuda.
+
+**Resolución.** El tribunal aplicó la presunción del art. 30 bis en favor del usuario.
+
+**Resultado.** La prestadora no pudo apoyar válidamente la restricción del servicio en una deuda incompatible con la información previa suministrada.
+
+# Caso: Fragal c. Obras Sanitarias
+
+<div class="case-title">“Fragal S.A.C.I. e I. c. Obras Sanitarias de la Nación” · CNCiv., Sala G, 16/10/1998</div>
+
+**Hechos.** Obras Sanitarias pretendió cobrar nuevamente diferencias relacionadas con períodos y pagos anteriores.
+
+**Problema jurídico.** Se discutió si podía reabrirse una obligación ya cancelada por pagos aceptados sin reservas.
+
+**Resolución.** La Cámara consideró que los pagos recibidos y aceptados producían efecto liberatorio.
+
+**Resultado.** La empresa no podía hacer renacer posteriormente una obligación extinguida mediante un nuevo cálculo unilateral.
+
+# Caso: Fragal — recálculo posterior inválido
+
+<div class="case-title">“Fragal S.A.C.I. e I. c. Obras Sanitarias de la Nación” · CNCiv., Sala G, 16/10/1998</div>
+
+**Hechos.** Obras Sanitarias pretendió cobrar diferencias mediante un recálculo de la tasa básica mensual y otros conceptos correspondientes a períodos ya pagados.
+
+**Problema jurídico.** El recálculo se basaba en un error propio de la prestadora.
+
+**Resolución.** La Cámara declaró nulo e insanable el acto administrativo que pretendía exigir esas diferencias.
+
+**Fundamento.** La empresa no podía trasladar al usuario las consecuencias de sus propios errores de cálculo sobre obligaciones ya canceladas.
+
+# Artículo 31: sobreconsumo y error de facturación
+
+El art. 31 establece una presunción de error cuando la factura supera determinados parámetros de consumo histórico.
+
+Dos supuestos:
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Consumos estacionales</strong><br><br>Comparación con el mismo período de los dos años anteriores.</div>
+<div class="compare-card"><strong>Consumos no estacionales</strong><br><br>Comparación con el promedio de los últimos doce meses.</div>
+</div>
+
+# ¿Qué pasa si se activa la presunción?
+
+El usuario formula el reclamo.
+
+Durante la discusión:
+
+- puede abonar el consumo promedio;
+- no debe ser privado automáticamente del servicio;
+- la empresa debe demostrar que el consumo facturado fue real.
+
+<div class="hero-box">
+LA CARGA DE PROBAR EL CONSUMO EXTRAORDINARIO PASA AL PRESTADOR.
+</div>
+
+# Procedimiento del reclamo
+
+La empresa dispone de **30 días** desde el reclamo para acreditar fehacientemente que el consumo facturado fue efectivamente realizado.
+
+Si:
+
+- rechaza el reclamo;
+- guarda silencio;
+- o responde fuera de plazo,
+
+el usuario puede recurrir al organismo de control.
+
+# Reclamo resuelto a favor del usuario
+
+Si el consumidor pagó de más, corresponde:
+
+1. reintegro de la diferencia;
+2. intereses equivalentes a los que cobra la empresa por mora;
+3. crédito adicional del **25%** del importe cobrado o reclamado indebidamente;
+4. devolución en la factura siguiente.
+
+<div class="takeaway">
+El sistema no busca sólo corregir la cuenta: también desalienta la sobrefacturación negligente.
+</div>
+
+# Reclamo resuelto a favor del prestador
+
+Si la empresa demuestra que el consumo fue real:
+
+- puede cobrar la diferencia;
+- más intereses por mora conforme a los límites legales.
+
+Tambussi subraya nuevamente la idea de **reciprocidad**.
+
+# Conceptos indebidos y facturas ya pagadas
+
+El art. 31 también cubre:
+
+- conceptos incorrectamente facturados;
+- reclamo de facturas ya abonadas.
+
+El usuario puede pagar sólo los conceptos no cuestionados mientras se sustancia el reclamo.
+
+# Límite a los intereses moratorios
+
+La tasa de interés por mora en facturas de servicios públicos no puede superar en más de un 50% la tasa pasiva para depósitos a treinta días del Banco Nación, según el parámetro desarrollado por el artículo.
+
+<div class="blue-box">
+La empresa no dispone de libertad absoluta para fijar recargos de mora.
+</div>
+
+# Caso: Biestro de Bover — carga de la prueba
+
+<div class="case-title">“Biestro de Bover, Amelia T. c. Telefónica de Argentina” · CNCCF, Sala III, 16/12/1994</div>
+
+**Hechos.** La usuaria impugnó consumos telefónicos que no podía verificar porque no tenía acceso directo al sistema técnico de medición.
+
+**Problema jurídico.** Telefónica pretendía que la consumidora acreditara el funcionamiento incorrecto del mecanismo.
+
+**Resolución.** La Cámara rechazó esa exigencia.
+
+**Fundamento.** El consumidor no puede ser obligado a producir una prueba prácticamente imposible cuando la empresa posee el control del sistema y los elementos técnicos necesarios.
+
+**Resultado.** La prestadora debía acreditar la corrección de la facturación.
+
+# Caso: Teubal de Alhadeff c. ENTEL
+
+<div class="case-title">“Teubal de Alhadeff, Evelina c. ENTEL” · CNACAF, Sala IV, 16/9/1999</div>
+
+**Hechos.** La usuaria cuestionó una facturación vinculada con consumos cuya exactitud no podía controlar de manera directa.
+
+**Problema jurídico.** Existían deficiencias o ausencia de prueba técnica suficiente.
+
+**Resolución.** La Cámara sostuvo que esas deficiencias probatorias no podían perjudicar a la parte que se encontraba en situación de inferioridad.
+
+**Resultado.** La falta de prueba suficiente debía pesar sobre quien estaba en mejores condiciones técnicas de producirla.
+
+# Caso: Spekter de Hamra — facturación extraordinaria
+
+<div class="case-title">“Spekter de Hamra, Sofía B. R. c. Telefónica de Argentina” · CNCCF, Sala II, 27/5/1999</div>
+
+**Hechos.** La usuaria recibió facturas con consumos notablemente superiores a los períodos anteriores.
+
+**Problema jurídico.** Se discutió si correspondía presumir que la diferencia obedecía a un aumento real del consumo.
+
+**Resolución.** La Cámara valoró la comparación con facturaciones anteriores y consideró insuficiente atribuir sin más el incremento al usuario.
+
+**Resultado.** La prestadora debía aportar prueba concluyente sobre el consumo extraordinario facturado.
+
+# Caso: Telecentro c. Puente Hermanos
+
+<div class="case-title">“Telecentro S.A. c. Puente Hermanos Sociedad de Bolsa S.A. s/Ordinario” · CNCom., Sala F, 16/4/2015</div>
+
+**Hechos.** Telecentro reclamó el cobro de facturas por servicios de interconexión de redes.
+
+**Dato central.** La demandada acreditó una **desmedida y grosera facturación**.
+
+**Problema jurídico.** Se discutió si el prestador podía sostener el cobro sin demostrar la efectiva existencia del consumo o servicio extraordinario.
+
+**Resolución.** La Cámara aplicó el art. 31 y exigió a la prestadora demostrar el normal funcionamiento y la efectiva realización del consumo facturado.
+
+**Resultado.** La pretensión de cobro no podía prosperar sobre la sola base de la factura unilateral.
+
+# Caso: Distribuidora de Gas Cuyana
+
+<div class="case-title">“Distribuidora de Gas Cuyana S.A. c. Res. 330/00 - Enargas” · CNACAF, Sala I, 13/12/2001</div>
+
+**Hechos.** Se discutió el régimen de intereses moratorios aplicable en reclamos vinculados con facturación del servicio de gas.
+
+**Problema jurídico.** El marco regulatorio sectorial no contenía una previsión expresa suficiente sobre el punto.
+
+**Resolución.** La Cámara aplicó el principio del art. 31 de la LDC.
+
+**Resultado.** Si el consumo facturado era correcto, la empresa podía reclamar diferencia e intereses; si era incorrecto, debía devolver lo percibido con intereses equivalentes a los que cobraba por mora.
+
+<div class="takeaway">
+La reciprocidad funciona en ambos sentidos.
+</div>
+
+# Caso integrador final
+
+Un usuario de gas recibe una factura cuatro veces superior al promedio.
+
+- reclama inmediatamente;
+- paga el promedio histórico;
+- la empresa amenaza con cortar;
+- no responde durante 40 días;
+- el medidor está fuera de acceso;
+- luego afirma que había una deuda de seis meses que nunca figuró en facturas;
+- finalmente reconoce un error de lectura.
+
+## Consigna
+
+Identifique los artículos aplicables y qué puede exigir el usuario.
+
+# Caso integrador: resolución
+
+**Art. 25.** Derecho a información y factura detallada.
+
+**Art. 27.** Reclamo registrado, constancia y respuesta en plazo.
+
+**Art. 29.** Derecho a control del instrumento y de la medición.
+
+**Art. 30 bis.** La deuda no informada genera presunción favorable al usuario.
+
+**Art. 31.** Presunción de error por consumo extraordinario y traslado de la carga probatoria.
+
+**Resultado.** Si el reclamo se resuelve a favor del usuario, corresponde recomposición de la factura, reintegro e indemnización legal según el art. 31.
+
+# Cinco ideas para recordar
+
+<div class="big-five">
+<div><span>1</span> La LDC y los marcos regulatorios deben integrarse, no excluirse automáticamente.</div>
+<div><span>2</span> El usuario tiene derecho a información, reclamo efectivo y atención personalizada.</div>
+<div><span>3</span> La empresa debe permitir controlar la medición y probar consumos extraordinarios.</div>
+<div><span>4</span> La interrupción del servicio se presume imputable al prestador salvo prueba en contrario.</div>
+<div><span>5</span> La facturación indebida activa reintegros, intereses y mecanismos sancionatorios específicos.</div>
+</div>
+
+# Cierre
+
+<div class="hero-box">
+EN LOS SERVICIOS PÚBLICOS DOMICILIARIOS, LA PROTECCIÓN DEL USUARIO SE CONSTRUYE SOBRE INFORMACIÓN + CONTINUIDAD + MEDICIÓN + RECLAMO + CONTROL.
+</div>
+
+El problema central es que el usuario depende de un sistema técnico que no controla.
+
+Por eso la ley busca equilibrar la relación mediante:
+
+<div class="concept-chain">
+DEBERES DEL PRESTADOR + PRESUNCIONES A FAVOR DEL USUARIO + CARGAS PROBATORIAS DINÁMICAS
+</div>
+
+# Fuente utilizada
+
+Presentación elaborada **exclusivamente sobre el PDF suministrado**, correspondiente al comentario de Carlos E. Tambussi a la Ley 24.240, tramo comprendido entre los arts. 25 y 31.
+
+La jurisprudencia incluida fue tomada del mismo material. En cada caso se incorporaron **autos, tribunal/fecha cuando surgen del texto, hechos, problema jurídico y resolución**, sin incorporar fallos externos.

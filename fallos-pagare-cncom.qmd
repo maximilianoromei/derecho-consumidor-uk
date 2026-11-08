@@ -1,0 +1,627 @@
+---
+title: "Pagaré de consumo"
+subtitle: "Jurisprudencia de la Cámara Nacional de Apelaciones en lo Comercial"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    slide-number: true
+    scrollable: true
+    center: false
+    transition: slide
+---
+
+## Pagaré de consumo — CNCom.
+
+### El conflicto
+
+El pagaré se caracteriza por:
+
+- literalidad;
+- autonomía;
+- abstracción;
+- ejecutividad.
+
+Pero cuando instrumenta una **operación de crédito para consumo** entra en juego el régimen protectorio de la **Ley 24.240**.
+
+Especialmente:
+
+**art. 36 LDC**
+
+---
+
+## Dos regímenes en tensión
+
+### Derecho cambiario
+
+La abstracción procura separar:
+
+**título cambiario ≠ relación causal**
+
+### Derecho del consumidor
+
+La LDC exige:
+
+- información;
+- transparencia;
+- conocimiento de las condiciones del crédito;
+- tutela efectiva del consumidor.
+
+### Pregunta
+
+**¿Puede ejecutarse el pagaré sin examinar la relación de consumo subyacente?**
+
+---
+
+## Caso 1 — Banco Galicia c/ Dayan
+
+**Autos:** *Banco de Galicia y Buenos Aires S.A. c/ Dayan, Gonzalo s/ Ejecutivo*
+
+**Expediente:** 28.493/2014
+
+**Tribunal:** CNCom., Sala F
+
+**Fecha:** 19/2/2015
+
+### Tema
+
+Presunción de existencia de una operación de crédito para consumo y límites de la abstracción cambiaria.
+
+---
+
+## Dayan — hechos
+
+**Banco Galicia** promovió un juicio ejecutivo fundado en un **pagaré**.
+
+El ejecutante era una entidad bancaria y el demandado una **persona humana**.
+
+Las características de las partes y de la operación permitían presumir que el pagaré podía encontrarse vinculado con una:
+
+**operación de crédito para consumo.**
+
+El banco pretendía avanzar directamente con la ejecución cambiaria.
+
+---
+
+## Dayan — problema jurídico
+
+El pagaré, considerado aisladamente, no permitía determinar:
+
+**si la obligación provenía o no de una relación de consumo.**
+
+La cuestión era:
+
+### ¿Puede el juez indagar la relación subyacente?
+
+O bien:
+
+### ¿La abstracción cambiaria impide todo examen causal?
+
+La respuesta resultaba decisiva para determinar la aplicación del **art. 36 LDC**.
+
+---
+
+## Dayan — resolución
+
+La Sala F confirmó la decisión que había **desestimado provisoriamente la ejecución**.
+
+La ejecución no podía avanzar mientras el banco:
+
+- no desvirtuara la presunción de una operación de crédito para consumo; o
+- no optara por preparar la vía ejecutiva acompañando la documentación correspondiente al **art. 36 LDC**.
+
+### Regla
+
+La abstracción cambiaria no impide realizar el control necesario para determinar si existe una relación de consumo.
+
+[Reseña del fallo — elDial](https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=37390)
+
+---
+
+## Caso 2 — Vidaplan c/ Litvin
+
+**Autos:** *Vidaplan S.A. c/ Litvin, Teddy Daniel s/ Ejecutivo*
+
+**Expediente:** COM 9159/2016
+
+**Tribunal:** CNCom., Sala F
+
+**Fecha:** 23/2/2017
+
+### Particularidades
+
+- pagaré librado en Uruguay;
+- deuda vinculada con juegos de azar;
+- relación de consumo;
+- determinación del derecho aplicable.
+
+[Texto del fallo — vLex](https://ar.vlex.com/vid/vidaplan-s-c-litvin-668822881)
+
+---
+
+## Vidaplan — hechos
+
+**Vidaplan S.A.** explotaba el casino del **Hotel Conrad de Punta del Este**.
+
+Promovió contra Litvin la ejecución de un pagaré por:
+
+**USD 10.000**
+
+El pagaré había sido librado en la:
+
+**República Oriental del Uruguay.**
+
+En otro proceso, Litvin había sostenido que las obligaciones reclamadas correspondían a:
+
+**“deudas de juego”.**
+
+---
+
+## Vidaplan — primera instancia
+
+El juez desestimó la ejecución mientras la actora:
+
+- no desvirtuara la presunción de que se trataba de una operación de crédito para consumo; o
+- no preparara la vía ejecutiva acompañando el instrumento correspondiente al **art. 36 LDC**.
+
+Vidaplan apeló.
+
+### Argumento de la ejecutante
+
+El pagaré era abstracto y había sido librado en Uruguay.
+
+Por ello sostuvo que no correspondía aplicar la **Ley 24.240 argentina**.
+
+---
+
+## Vidaplan — resolución
+
+La Sala F **confirmó la decisión**.
+
+Consideró relevantes:
+
+- la actividad empresarial de Vidaplan;
+- la condición de persona humana del ejecutado;
+- las características de la operación;
+- el monto de USD 10.000;
+- las manifestaciones sobre el origen de la deuda.
+
+Estas circunstancias permitían considerar configurada, *prima facie*, una:
+
+**relación proveedor-consumidor.**
+
+[Texto del fallo — vLex](https://ar.vlex.com/vid/vidaplan-s-c-litvin-668822881)
+
+---
+
+## Vidaplan — importancia
+
+El caso demuestra que la relación de consumo puede determinarse mediante:
+
+**indicios derivados de las circunstancias concretas.**
+
+La abstracción del pagaré no impide analizar los elementos necesarios para establecer:
+
+**si existe una relación de consumo subyacente.**
+
+Además, el fallo incorpora una cuestión de:
+
+**Derecho Internacional Privado**
+
+por haberse librado el pagaré en Uruguay.
+
+---
+
+## Caso 3 — Santander c/ Rico
+
+**Autos:** *Banco Santander Río S.A. c/ Rico, Enrique Carlos y otro s/ Ejecutivo*
+
+**Expediente:** COM 4261/2016
+
+**Tribunal:** CNCom., Sala F
+
+**Fecha:** 28/9/2017
+
+### Tema
+
+Inhabilidad de título y pagaré vinculado con un préstamo personal.
+
+[Sentencia — Poder Judicial de la Nación](https://www.fiscales.gob.ar/wp-content/uploads/2017/10/Ver-fallo.pdf)
+
+---
+
+## Santander — hechos
+
+**Banco Santander Río** promovió la ejecución de un pagaré.
+
+Los demandados opusieron:
+
+**excepción de inhabilidad de título.**
+
+La primera instancia:
+
+- rechazó la excepción;
+- mandó llevar adelante la ejecución.
+
+Los ejecutados apelaron invocando la aplicación de la **Ley 24.240**.
+
+---
+
+## Santander — posiciones
+
+### Banco
+
+Sostuvo que el pagaré no había sido emitido en garantía de consumos de tarjeta.
+
+Reconoció que había sido otorgado en el marco de un:
+
+**préstamo personal.**
+
+### Ejecutados
+
+Afirmaron que la operación estaba alcanzada por la LDC.
+
+Sostuvieron que las exigencias del art. 36 no podían ser neutralizadas mediante la utilización de un pagaré.
+
+---
+
+## Santander — resolución
+
+La Sala F **revocó la sentencia de primera instancia**.
+
+Admitió la:
+
+**excepción de inhabilidad de título**
+
+y rechazó la ejecución.
+
+### Fundamento
+
+La utilización de instrumentos cambiarios no puede permitir al proveedor:
+
+**eludir las normas imperativas que regulan el crédito para consumo.**
+
+[Sentencia — Poder Judicial de la Nación](https://www.fiscales.gob.ar/wp-content/uploads/2017/10/Ver-fallo.pdf)
+
+---
+
+## Santander — importancia
+
+La Sala F destaca una práctica habitual:
+
+**instrumentar mediante títulos circulatorios operaciones celebradas entre entidades financieras y consumidores.**
+
+El problema consiste en evitar que el pagaré permita:
+
+- aislar artificialmente la operación;
+- impedir el control del art. 36 LDC;
+- colocar al proveedor en una situación procesal más favorable.
+
+### Resultado
+
+La abstracción cambiaria encuentra un límite en el **orden público consumeril**.
+
+---
+
+## Caso 4 — Lazatopass
+
+**Autos:** *Lazatopass S.R.L. c/ Cabrera, Mercedes del Carmen s/ Ejecutivo*
+
+**Expediente:** COM 17.896/2018
+
+**Tribunal:** CNCom., Sala F
+
+**Fecha:** 27/11/2018
+
+### Tema
+
+Presunción de operación de crédito para consumo.
+
+[Texto del fallo — vLex](https://ar.vlex.com/vid/lazatopass-s-r-l-746689069)
+
+---
+
+## Lazatopass — hechos
+
+**Lazatopass S.R.L.** promovió una ejecución fundada en un pagaré.
+
+El juez desestimó la ejecución mientras la actora:
+
+- no desvirtuara la presunción de una operación de crédito para consumo; o
+- no preparara la vía ejecutiva acompañando el instrumento exigido por el **art. 36 LDC**.
+
+La ejecutante apeló.
+
+---
+
+## Lazatopass — argumento de la actora
+
+La sociedad sostuvo que:
+
+**el pagaré es un título abstracto.**
+
+Por ello consideraba improcedente:
+
+- investigar la causa;
+- determinar si la demandada era consumidora;
+- aplicar la LDC al título cambiario.
+
+También sostuvo que debía prevalecer el régimen específico del:
+
+**Decreto-Ley 5965/63.**
+
+---
+
+## Lazatopass — resolución
+
+La Sala F **confirmó la decisión**.
+
+Consideró configurada *prima facie* una:
+
+**relación de consumo.**
+
+La abstracción cambiaria no impedía realizar la indagación necesaria para determinar si detrás del pagaré existía:
+
+**una operación de crédito para consumo.**
+
+[Texto del fallo — vLex](https://ar.vlex.com/vid/lazatopass-s-r-l-746689069)
+
+---
+
+## Caso 5 — Banco Comafi
+
+**Autos:** *Banco Comafi S.A. c/ Sansuste, Fernando Andrés s/ Ejecutivo*
+
+**Expediente:** COM 27.430/2018/CA1
+
+**Tribunal:** CNCom., Sala C
+
+**Fecha:** 11/7/2019
+
+### Particularidad
+
+El demandado no era el librador.
+
+Era:
+
+**avalista del pagaré.**
+
+[Sentencia](https://abogados.com.ar/archivos/2019-07-15-074137-banco-comafi-sa-c-sansuste-fernando-andres-s-ejecutivo.pdf)
+
+---
+
+## Banco Comafi — hechos
+
+Banco Comafi ejecutó un pagaré contra:
+
+**Fernando Andrés Sansuste, en carácter de avalista.**
+
+El avalista sostuvo que el pagaré integraba un:
+
+**contrato de préstamo.**
+
+En ese contrato se había previsto la posibilidad de debitar cuotas de amortización e intereses de la cuenta corriente de la obligada principal.
+
+---
+
+## Banco Comafi — defensa
+
+Sansuste cuestionó que el banco no hubiera acompañado los:
+
+**antecedentes de la operación.**
+
+Además señaló que se pretendía ejecutar:
+
+**un importe inferior al consignado en el pagaré.**
+
+Según el demandado, ello afectaba:
+
+- autonomía;
+- literalidad;
+- habilidad ejecutiva del título.
+
+La primera instancia rechazó sus defensas y mandó llevar adelante la ejecución.
+
+---
+
+## Banco Comafi — problema
+
+La particularidad era que el obligado principal no había sido demandado.
+
+La cuestión era determinar:
+
+### ¿La eventual relación comercial entre banco y librador excluye la protección del avalista?
+
+La Sala C respondió que no podía trasladarse automáticamente al avalista la situación jurídica del obligado principal.
+
+---
+
+## Banco Comafi — resolución
+
+La Sala destacó que la obligación del avalista frente al banco era:
+
+**autónoma.**
+
+Sansuste era una **persona humana** que había asumido frente a una entidad crediticia una obligación de pago como deudor principal.
+
+Por ello, la situación del avalista debía examinarse independientemente de la relación entre:
+
+**el banco y la sociedad afianzada.**
+
+La Cámara admitió la relevancia del régimen consumeril respecto del avalista.
+
+[Sentencia](https://abogados.com.ar/archivos/2019-07-15-074137-banco-comafi-sa-c-sansuste-fernando-andres-s-ejecutivo.pdf)
+
+---
+
+## Caso 6 — Supervielle
+
+**Autos:** *Banco Supervielle S.A. c/ Ghigliazza, Ricardo Andrés s/ Ejecutivo*
+
+**Expediente:** COM 8146/2020
+
+**Tribunal:** CNCom., Sala F
+
+**Fecha:** 11/5/2021
+
+### Tema
+
+Pagaré de consumo integrado con documentación causal.
+
+[Reseña — elDial](https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=54467)
+
+---
+
+## Supervielle — hechos
+
+Banco Supervielle promovió la ejecución de un pagaré.
+
+El juez había condicionado el avance del proceso a que el banco:
+
+- desvirtuara la presunción de crédito para consumo; o
+- preparara la vía acompañando la documentación del art. 36 LDC.
+
+El banco acompañó entonces el:
+
+**contrato de mutuo**
+
+correspondiente a la operación.
+
+---
+
+## Supervielle — cuestión
+
+El pagaré había sido integrado con:
+
+**documentación adicional relativa al negocio causal.**
+
+El banco cuestionó que, aun después de esa integración, el juez exigiera:
+
+**preparar la vía ejecutiva mediante reconocimiento de documentación.**
+
+La discusión ya no era solamente:
+
+**abstracción vs. relación causal.**
+
+Ahora era:
+
+**¿cómo debe procesarse el título una vez integrado?**
+
+---
+
+## Supervielle — resolución
+
+La mayoría de la Sala F confirmó la decisión.
+
+Consideró que la preparación de la vía ejecutiva dispuesta por el juez:
+
+**no resultaba impropia.**
+
+### Importancia
+
+El caso admite expresamente la posibilidad de considerar:
+
+**pagaré + contrato de mutuo**
+
+para controlar el cumplimiento de la legislación consumeril.
+
+[Reseña — elDial](https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=54467)
+
+---
+
+## Supervielle — disidencia
+
+El fallo tuvo una posición disidente.
+
+La disidencia entendió que:
+
+- la documentación acompañada permitía cumplir el art. 36 LDC;
+- el pagaré podía integrarse con el contrato de mutuo;
+- una vez satisfechas esas exigencias, no era necesario exigir además la preparación de la vía.
+
+### Debate
+
+**¿La integración documental basta para ejecutar?**
+
+O:
+
+**¿debe además prepararse formalmente la vía ejecutiva?**
+
+---
+
+## Evolución de la CNCom.
+
+**Dayan — 2015**  
+Presunción de crédito para consumo.
+
+**Vidaplan — 2017**  
+Indicios + pagaré extranjero + deuda de juego.
+
+**Santander c/ Rico — 2017**  
+Inhabilidad del pagaré.
+
+**Lazatopass — 2018**  
+Control de la relación subyacente.
+
+**Banco Comafi — 2019**  
+Situación del avalista.
+
+**Supervielle — 2021**  
+Integración con contrato de mutuo.
+
+---
+
+## Reglas que surgen de los casos
+
+### 1. Relación de consumo
+
+Puede surgir de las circunstancias e **indicios** del caso.
+
+### 2. Abstracción
+
+No impide necesariamente indagar si existe una operación de consumo.
+
+### 3. Art. 36 LDC
+
+Debe poder controlarse aun dentro del contexto ejecutivo.
+
+### 4. Documentación causal
+
+Puede adquirir relevancia para determinar la **habilidad ejecutiva** del pagaré.
+
+---
+
+## Para resolver un caso práctico
+
+Ante un pagaré:
+
+**1.** ¿Quién es el ejecutante?
+
+**2.** ¿Quién es el ejecutado?
+
+**3.** ¿Hay indicios de una operación de consumo?
+
+**4.** ¿Puede controlarse el art. 36 LDC?
+
+**5.** ¿Se acompañó documentación causal?
+
+**6.** ¿Esa documentación permite integrar el pagaré?
+
+**7.** ¿Es necesario preparar la vía ejecutiva?
+
+---
+
+## Idea final
+
+La jurisprudencia de la CNCom. muestra una progresiva superación de una lectura basada exclusivamente en:
+
+**la abstracción cambiaria.**
+
+El pagaré conserva su naturaleza cambiaria.
+
+Pero cuando existen elementos que permiten identificar una operación de consumo:
+
+**la abstracción no puede impedir el control de las normas imperativas de la LDC.**
+
+El problema pasa entonces por determinar:
+
+**cuándo el pagaré es inhábil y cuándo puede integrarse con la documentación causal.**

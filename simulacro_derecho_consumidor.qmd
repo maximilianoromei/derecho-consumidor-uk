@@ -1,0 +1,1146 @@
+---
+title: "Simulación de examen final · Derecho del Consumidor"
+subtitle: "Cinco casos integradores · Orden público · Crédito · Turismo · Salud · Seguridad"
+author: "Derecho del Consumidor · Universidad Kennedy"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    scrollable: true
+    transition: slide
+    center: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    css: consumidor_estilo.css
+    footer: "Derecho del Consumidor · Simulacro de examen final"
+execute:
+  echo: false
+lang: es
+---
+
+## Cómo usar este simulacro
+
+- **Primero:** leer el caso completo e identificar los hechos relevantes.
+- **Después:** responder cada pregunta antes de ver su solución.
+- **Por último:** contrastar la respuesta con la norma y los argumentos jurídicos.
+
+::: {.callout .callout-note}
+Las soluciones son orientativas. En servicios regulados y procedimientos debe verificarse también la normativa especial y local vigente.
+:::
+
+
+## Caso 1 · El automóvil que nunca quedó reparado
+
+<div class="case">
+
+Marina compra un automóvil cero kilómetro en una concesionaria oficial. El vendedor anuncia «garantía total por tres años» y le asegura que el vehículo puede utilizarse para viajar inmediatamente. A las tres semanas falla la caja de cambios. La concesionaria lo recibe, lo conserva veinte días y lo devuelve con una constancia que dice «reparación definitiva». La falla reaparece dos veces. Marina pierde jornadas laborales y paga traslados alternativos. La concesionaria sostiene que solo el fabricante responde por la garantía; el fabricante afirma que debe acudir al taller autorizado. En el contrato figura una cláusula que limita cualquier reclamo al costo de una reparación. Marina pide la sustitución del vehículo y una indemnización. La empresa le ofrece un cupón de mantenimiento a cambio de renunciar a futuras acciones. En una publicidad posterior, el concesionario sigue promocionando ese modelo como «libre de fallas».
+
+</div>
+
+
+## Caso 1 · Mapa de cuestiones
+
+1. ¿Existe una relación de consumo y quiénes son proveedor y consumidora?
+2. ¿Qué diferencia hay entre garantía legal y garantía comercial?
+3. ¿Quién responde por la garantía: fabricante, vendedor o servicio técnico?
+4. ¿Qué derechos tiene Marina durante la reparación?
+5. ¿Qué puede exigir si la reparación no resulta satisfactoria?
+6. ¿Puede el contrato limitar la responsabilidad al costo de reparación aunque Marina lo haya firmado?
+7. ¿Qué daños puede reclamar Marina?
+8. ¿Cuándo procede el daño punitivo y en qué se diferencia de la indemnización?
+9. ¿Qué valor tiene la publicidad sobre la garantía y la ausencia de fallas?
+10. ¿Qué significa que la garantía y los remedios legales sean indisponibles para el proveedor?
+
+
+## Caso 1 · Pregunta 1
+
+### ¿Existe una relación de consumo y quiénes son proveedor y consumidora?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 1
+
+### ¿Existe una relación de consumo y quiénes son proveedor y consumidora?
+
+<div class="answer">
+
+Sí. Marina adquiere como destinataria final y la concesionaria y el fabricante participan profesionalmente en la cadena de comercialización. Rigen la Ley 24.240 (arts. 1 a 3) y las normas de consumo del Código Civil y Comercial.
+
+</div>
+
+
+## Caso 1 · Pregunta 2
+
+### ¿Qué diferencia hay entre garantía legal y garantía comercial?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 2
+
+### ¿Qué diferencia hay entre garantía legal y garantía comercial?
+
+<div class="answer">
+
+La garantía legal nace de la ley y no puede suprimirse por contrato: para bienes muebles nuevos es de seis meses como mínimo (art. 11, LDC). La garantía comercial de tres años amplía esa protección según lo prometido; no la reemplaza.
+
+</div>
+
+
+## Caso 1 · Pregunta 3
+
+### ¿Quién responde por la garantía: fabricante, vendedor o servicio técnico?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 3
+
+### ¿Quién responde por la garantía: fabricante, vendedor o servicio técnico?
+
+<div class="answer">
+
+La responsabilidad por la garantía legal alcanza solidariamente a productores, importadores, distribuidores y vendedores, en los términos del art. 13 LDC. No corresponde enviar a Marina de una empresa a otra para eludirla.
+
+</div>
+
+
+## Caso 1 · Pregunta 4
+
+### ¿Qué derechos tiene Marina durante la reparación?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 4
+
+### ¿Qué derechos tiene Marina durante la reparación?
+
+<div class="answer">
+
+El servicio técnico debe suministrar repuestos adecuados (art. 12). El tiempo durante el cual el vehículo está inmovilizado por reparaciones de garantía se suma al plazo de garantía (art. 16). Debe entregarse constancia de la reparación (art. 15).
+
+</div>
+
+
+## Caso 1 · Pregunta 5
+
+### ¿Qué puede exigir si la reparación no resulta satisfactoria?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 5
+
+### ¿Qué puede exigir si la reparación no resulta satisfactoria?
+
+<div class="answer">
+
+Puede elegir entre sustitución por otro bien de idénticas características, devolución del importe pagado según las pautas legales o quita proporcional del precio; además puede reclamar daños (art. 17 LDC). No está obligada a aceptar reparaciones indefinidas.
+
+</div>
+
+
+## Caso 1 · Pregunta 6
+
+### ¿Puede el contrato limitar la responsabilidad al costo de reparación aunque Marina lo haya firmado?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 6
+
+### ¿Puede el contrato limitar la responsabilidad al costo de reparación aunque Marina lo haya firmado?
+
+<div class="answer">
+
+No. La cláusula restringe la reparación de daños y los remedios legales, por lo que se tiene por no convenida (art. 37 LDC). La LDC es de orden público (art. 65): la firma de Marina no permite desplazar sus normas imperativas. El contrato puede mejorar la protección legal, pero no reducirla.
+
+</div>
+
+
+## Caso 1 · Pregunta 7
+
+### ¿Qué daños puede reclamar Marina?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 7
+
+### ¿Qué daños puede reclamar Marina?
+
+<div class="answer">
+
+Los daños patrimoniales probados, como gastos de transporte y pérdidas acreditadas, y eventualmente daño extrapatrimonial si se verifican sus presupuestos. Debe establecerse el daño y la relación causal; no todo inconveniente genera automáticamente todos los rubros.
+
+</div>
+
+
+## Caso 1 · Pregunta 8
+
+### ¿Cuándo procede el daño punitivo y en qué se diferencia de la indemnización?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 8
+
+### ¿Cuándo procede el daño punitivo y en qué se diferencia de la indemnización?
+
+<div class="answer">
+
+El daño punitivo es una multa civil que puede imponer el juez ante un incumplimiento especialmente reprochable (art. 52 bis LDC). No compensa una pérdida concreta: cumple una función sancionatoria y disuasoria. No procede automáticamente por cualquier defecto.
+
+</div>
+
+
+## Caso 1 · Pregunta 9
+
+### ¿Qué valor tiene la publicidad sobre la garantía y la ausencia de fallas?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 9
+
+### ¿Qué valor tiene la publicidad sobre la garantía y la ausencia de fallas?
+
+<div class="answer">
+
+La publicidad integra las condiciones ofrecidas y obliga al proveedor (art. 8 LDC). Si induce a error sobre características relevantes, puede constituir publicidad engañosa (art. 1101 CCyC).
+
+</div>
+
+
+## Caso 1 · Pregunta 10
+
+### ¿Qué significa que la garantía y los remedios legales sean indisponibles para el proveedor?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 1 · Respuesta 10
+
+### ¿Qué significa que la garantía y los remedios legales sean indisponibles para el proveedor?
+
+<div class="answer">
+
+Significa que el proveedor no puede suprimirlos ni reducirlos mediante condiciones contractuales. No puede imponer un cupón como sustituto de los derechos del art. 17 ni exigir una renuncia general a reclamos futuros. Una eventual solución acordada de un conflicto concreto debe respetar el orden público y no encubrir una renuncia abusiva (arts. 37 y 65 LDC).
+
+</div>
+
+
+## Caso 2 · El préstamo y el pagaré de consumo
+
+<div class="case">
+
+Julián obtiene de un banco un préstamo personal para equipar su vivienda y contrata una tarjeta de crédito. La oferta destaca «cuota fija», pero el costo financiero total aparece en un enlace poco visible y el contrato entregado omite la tasa efectiva anual y el detalle de gastos. Como garantía del préstamo, el banco le exige firmar un pagaré por el total reclamable, sin referencia al destino del crédito. Luego aparecen un seguro no solicitado y comisiones que el banco aumenta «a su exclusivo criterio». Julián cuestiona los cargos. El banco inicia la ejecución del pagaré ante los tribunales de otra ciudad, elegidos en el formulario. Presenta únicamente el título y sostiene que, por ser abstracto, no corresponde revisar el préstamo ni aplicar el art. 36 LDC. Subsidiariamente propone acompañar el contrato. Otra cláusula expresa que Julián renuncia a invocar la legislación de consumo y acepta como definitiva la liquidación del banco.
+
+</div>
+
+
+## Caso 2 · Mapa de cuestiones
+
+1. ¿Por qué el préstamo y el pagaré quedan alcanzados por el derecho del consumidor?
+2. ¿Qué información exige el art. 36 LDC para este préstamo?
+3. ¿Qué ocurre si se omiten los datos del art. 36 o la tasa efectiva anual?
+4. ¿Son válidos el seguro no solicitado y la cláusula que permite modificar cualquier comisión?
+5. ¿Qué es un pagaré de consumo y qué significa que sea un título abstracto?
+6. ¿Puede el banco invocar la abstracción para impedir todo examen del art. 36 LDC?
+7. ¿Puede integrarse el pagaré con el contrato de préstamo para cumplir el art. 36?
+8. ¿Qué sucede si se pretende ejecutar solo el pagaré y no se satisface el art. 36?
+9. ¿Puede el banco demandar ante los tribunales lejanos elegidos en el pagaré?
+10. ¿La firma del pagaré o una renuncia expresa permiten excluir la LDC?
+
+
+## Caso 2 · Pregunta 1
+
+### ¿Por qué el préstamo y el pagaré quedan alcanzados por el derecho del consumidor?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 1
+
+### ¿Por qué el préstamo y el pagaré quedan alcanzados por el derecho del consumidor?
+
+<div class="answer">
+
+Julián recibe financiación como destinatario final. El pagaré garantiza ese crédito y no elimina su finalidad de consumo. Las reglas cambiarias deben aplicarse junto con la LDC y la protección constitucional del consumidor.
+
+</div>
+
+
+## Caso 2 · Pregunta 2
+
+### ¿Qué información exige el art. 36 LDC para este préstamo?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 2
+
+### ¿Qué información exige el art. 36 LDC para este préstamo?
+
+<div class="answer">
+
+En este préstamo deben informarse claramente el monto financiado, la tasa efectiva anual, el total de intereses o costo financiero total, el sistema de amortización, la cantidad, periodicidad y monto de los pagos, y los gastos, seguros y adicionales. En una compra financiada también corresponden la descripción del bien o servicio, el precio de contado y el desembolso inicial, si existe. Destacar únicamente «cuota fija» resulta insuficiente.
+
+</div>
+
+
+## Caso 2 · Pregunta 3
+
+### ¿Qué ocurre si se omiten los datos del art. 36 o la tasa efectiva anual?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 3
+
+### ¿Qué ocurre si se omiten los datos del art. 36 o la tasa efectiva anual?
+
+<div class="answer">
+
+La omisión de los datos habilita al consumidor a demandar la nulidad del contrato o de una o más cláusulas; si declara la nulidad parcial, el juez integra el contrato cuando sea necesario. Si falta la tasa efectiva anual, los intereses se ajustan a la tasa pasiva anual promedio del mercado difundida por el BCRA, vigente al celebrarse el contrato. No implica que el capital desaparezca automáticamente.
+
+</div>
+
+
+## Caso 2 · Pregunta 4
+
+### ¿Son válidos el seguro no solicitado y la cláusula que permite modificar cualquier comisión?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 4
+
+### ¿Son válidos el seguro no solicitado y la cláusula que permite modificar cualquier comisión?
+
+<div class="answer">
+
+El seguro no solicitado no puede cobrarse como una contratación consentida. Tampoco es válida una facultad ilimitada de modificar precios a exclusivo criterio del banco: desnaturaliza sus obligaciones y desequilibra el contrato. La cláusula abusiva se tiene por no convenida (arts. 19, 35 y 37 LDC).
+
+</div>
+
+
+## Caso 2 · Pregunta 5
+
+### ¿Qué es un pagaré de consumo y qué significa que sea un título abstracto?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 5
+
+### ¿Qué es un pagaré de consumo y qué significa que sea un título abstracto?
+
+<div class="answer">
+
+Es un pagaré emitido en el marco de una financiación de consumo; no constituye un tipo cambiario autónomo. La abstracción permite reclamar la obligación incorporada al título sin discutir, como regla, el negocio que le dio origen. Esa regla no autoriza a ocultar un crédito de consumo ni a eludir sus exigencias imperativas.
+
+</div>
+
+
+## Caso 2 · Pregunta 6
+
+### ¿Puede el banco invocar la abstracción para impedir todo examen del art. 36 LDC?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 6
+
+### ¿Puede el banco invocar la abstracción para impedir todo examen del art. 36 LDC?
+
+<div class="answer">
+
+No. La abstracción cambiaria debe conciliarse con el art. 36 y con el orden público de consumo. Frente a un pagaré vinculado con este préstamo, el juez debe controlar las exigencias de protección del consumidor. El banco no puede obtener mediante el título lo que le está prohibido en el contrato.
+
+</div>
+
+
+## Caso 2 · Pregunta 7
+
+### ¿Puede integrarse el pagaré con el contrato de préstamo para cumplir el art. 36?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 7
+
+### ¿Puede integrarse el pagaré con el contrato de préstamo para cumplir el art. 36?
+
+<div class="answer">
+
+Una línea jurisprudencial admite integrar el pagaré con documentación del mismo crédito para formar un título complejo que reúna la información exigida por el art. 36. La SCBA lo admitió en «Asociación Mutual Asís c/ Cubilla», C. 121.684, 14/8/2019. Debe respetarse la defensa del consumidor; no es una autorización general para ejecutar cualquier pagaré incompleto. Su aplicación depende del criterio de la jurisdicción.
+
+</div>
+
+
+## Caso 2 · Pregunta 8
+
+### ¿Qué sucede si se pretende ejecutar solo el pagaré y no se satisface el art. 36?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 8
+
+### ¿Qué sucede si se pretende ejecutar solo el pagaré y no se satisface el art. 36?
+
+<div class="answer">
+
+La sola regularidad formal del pagaré no basta para sortear el control de consumo. Si no se reúnen las exigencias para la ejecución conforme al criterio aplicable, corresponde rechazar esa vía. Ello no extingue por sí solo el crédito: el proveedor puede reclamarlo por la vía de conocimiento que corresponda, sujeto al régimen de consumo.
+
+</div>
+
+
+## Caso 2 · Pregunta 9
+
+### ¿Puede el banco demandar ante los tribunales lejanos elegidos en el pagaré?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 9
+
+### ¿Puede el banco demandar ante los tribunales lejanos elegidos en el pagaré?
+
+<div class="answer">
+
+No. Si demanda el proveedor por este crédito, es competente el tribunal del domicilio real del consumidor y es nulo el pacto contrario (art. 36 LDC). Fijar otro lugar de pago en el pagaré no permite eludir esa regla.
+
+</div>
+
+
+## Caso 2 · Pregunta 10
+
+### ¿La firma del pagaré o una renuncia expresa permiten excluir la LDC?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 2 · Respuesta 10
+
+### ¿La firma del pagaré o una renuncia expresa permiten excluir la LDC?
+
+<div class="answer">
+
+No. La LDC es de orden público (art. 65). Las condiciones impuestas no pueden excluir el art. 36, validar cargos indebidos ni privar al consumidor de defensas legales. Las cláusulas que reduzcan esos derechos se tienen por no convenidas (art. 37).
+
+</div>
+
+
+## Caso 3 · Las vacaciones contratadas por internet
+
+<div class="case">
+
+Sofía compra por internet un paquete turístico ofrecido como «hotel frente al mar, traslado privado y excursiones incluidas». La plataforma cobra en pesos y envía un comprobante digital. Una semana antes del viaje informa que el hotel fue sustituido por otro a seis kilómetros de la playa y que el traslado será compartido. Sofía no acepta el cambio. La plataforma afirma que solo intermedia y que la agencia organizadora es la responsable; la agencia invoca una cláusula que permite modificar «cualquier prestación sin reintegro». Al llegar, Sofía paga taxis y una excursión que estaba anunciada como incluida. Sofía viaja al exterior, no conoce el idioma local y, al llegar de noche, se encuentra sin asistencia presencial ni alojamiento cercano disponible. La agencia le exige aceptar por la aplicación los cambios y renunciar a reintegros para recibir ayuda. El proveedor alega que, por tratarse de una contratación a distancia, Sofía solo podía cancelar dentro de los diez días y que ese plazo ya venció. También sostiene que el alojamiento era «similar» y que no existe daño indemnizable.
+
+</div>
+
+
+## Caso 3 · Mapa de cuestiones
+
+1. ¿Qué integra la oferta contractual del paquete turístico?
+2. ¿Qué deber de información pesa sobre la plataforma y la agencia?
+3. ¿Qué relevancia jurídica tiene que la contratación haya sido por internet?
+4. ¿Sofía puede exigir el cumplimiento de lo prometido?
+5. ¿Puede la agencia modificar cualquier prestación y excluir reintegros por una cláusula aceptada?
+6. ¿El derecho de revocación de diez días reemplaza los remedios por incumplimiento?
+7. ¿La plataforma queda automáticamente exenta por llamarse intermediaria?
+8. ¿Por qué Sofía puede ser una consumidora hipervulnerable transitoria durante el viaje?
+9. ¿Qué daños podría reclamar Sofía?
+10. ¿Qué diferencia hay entre publicidad engañosa e incumplimiento contractual?
+
+
+## Caso 3 · Pregunta 1
+
+### ¿Qué integra la oferta contractual del paquete turístico?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 1
+
+### ¿Qué integra la oferta contractual del paquete turístico?
+
+<div class="answer">
+
+Las condiciones concretas anunciadas —ubicación del hotel, traslado y excursiones— obligan al proveedor e integran el contrato (art. 8 LDC; art. 1103 CCyC). No pueden tratarse como simples frases publicitarias sin efecto.
+
+</div>
+
+
+## Caso 3 · Pregunta 2
+
+### ¿Qué deber de información pesa sobre la plataforma y la agencia?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 2
+
+### ¿Qué deber de información pesa sobre la plataforma y la agencia?
+
+<div class="answer">
+
+Deben informar de modo claro y detallado las prestaciones, precio, condiciones, restricciones y cambios relevantes (art. 4 LDC). La información posterior no corrige automáticamente una oferta inicial engañosa.
+
+</div>
+
+
+## Caso 3 · Pregunta 3
+
+### ¿Qué relevancia jurídica tiene que la contratación haya sido por internet?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 3
+
+### ¿Qué relevancia jurídica tiene que la contratación haya sido por internet?
+
+<div class="answer">
+
+Es una contratación a distancia, sujeta a reglas especiales de información y contratación electrónica (CCyC arts. 1105 y siguientes), además de la normativa de consumo y turística aplicable.
+
+</div>
+
+
+## Caso 3 · Pregunta 4
+
+### ¿Sofía puede exigir el cumplimiento de lo prometido?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 4
+
+### ¿Sofía puede exigir el cumplimiento de lo prometido?
+
+<div class="answer">
+
+Sí. Ante incumplimiento de la oferta o del contrato puede reclamar cumplimiento, una prestación equivalente aceptada por ella o rescisión con restitución, según el art. 10 bis LDC, sin perjuicio de daños.
+
+</div>
+
+
+## Caso 3 · Pregunta 5
+
+### ¿Puede la agencia modificar cualquier prestación y excluir reintegros por una cláusula aceptada?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 5
+
+### ¿Puede la agencia modificar cualquier prestación y excluir reintegros por una cláusula aceptada?
+
+<div class="answer">
+
+No. Esa facultad desnaturaliza lo prometido y elimina remedios legales. La cláusula se tiene por no convenida (art. 37 LDC). Los derechos mínimos derivados del incumplimiento son indisponibles para el proveedor: no puede suprimirlos por formulario, aceptación digital o letra pequeña (arts. 10 bis y 65 LDC).
+
+</div>
+
+
+## Caso 3 · Pregunta 6
+
+### ¿El derecho de revocación de diez días reemplaza los remedios por incumplimiento?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 6
+
+### ¿El derecho de revocación de diez días reemplaza los remedios por incumplimiento?
+
+<div class="answer">
+
+No. La revocación en contratos a distancia y los remedios por incumplimiento son institutos diferentes. Además, en servicios turísticos deben verificarse las excepciones y el régimen especial aplicable; no corresponde presumir que todo viaje puede revocarse sin condiciones.
+
+</div>
+
+
+## Caso 3 · Pregunta 7
+
+### ¿La plataforma queda automáticamente exenta por llamarse intermediaria?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 7
+
+### ¿La plataforma queda automáticamente exenta por llamarse intermediaria?
+
+<div class="answer">
+
+No. Debe examinarse su papel real, qué ofreció y cobró, sus obligaciones propias y la normativa especial. La mera denominación contractual no basta para excluir responsabilidad.
+
+</div>
+
+
+## Caso 3 · Pregunta 8
+
+### ¿Por qué Sofía puede ser una consumidora hipervulnerable transitoria durante el viaje?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 8
+
+### ¿Por qué Sofía puede ser una consumidora hipervulnerable transitoria durante el viaje?
+
+<div class="answer">
+
+Porque a la vulnerabilidad propia de todo consumidor se agregan obstáculos concretos: está lejos de su entorno, desconoce el idioma y necesita alojamiento y asistencia inmediatos. Es una hipervulnerabilidad transitoria o circunstancial, vinculada con ese viaje. Ser turista no basta por sí solo: aquí las condiciones agravan efectivamente su desventaja. La agencia debe adaptar la información y brindar atención accesible y oportuna (art. 42 CN; arts. 4 y 8 bis LDC).
+
+</div>
+
+
+## Caso 3 · Pregunta 9
+
+### ¿Qué daños podría reclamar Sofía?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 9
+
+### ¿Qué daños podría reclamar Sofía?
+
+<div class="answer">
+
+Los gastos adicionales razonables y acreditados —taxis y excursión pagada— y otros daños que se demuestren, incluida eventualmente una afectación extrapatrimonial. Debe existir relación causal con el incumplimiento.
+
+</div>
+
+
+## Caso 3 · Pregunta 10
+
+### ¿Qué diferencia hay entre publicidad engañosa e incumplimiento contractual?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 3 · Respuesta 10
+
+### ¿Qué diferencia hay entre publicidad engañosa e incumplimiento contractual?
+
+<div class="answer">
+
+La publicidad engañosa induce a error sobre características relevantes de lo ofrecido; el incumplimiento consiste en no ejecutar lo pactado. En el mismo caso pueden concurrir ambos problemas, pero son conceptos distintos.
+
+</div>
+
+
+## Caso 4 · La prepaga y la persona mayor
+
+<div class="case">
+
+Elena, de 76 años, está afiliada desde hace años a una empresa de medicina prepaga. Su médico indica una práctica diagnóstica y la empresa la rechaza mediante un mensaje automático sin explicación concreta. Cuando Elena pide una respuesta por escrito, la derivan entre distintas oficinas y le exigen completar formularios digitales que no puede utilizar con facilidad. La empresa modifica el valor de su cuota y le informa que determinadas prestaciones quedan sujetas a «autorización discrecional». Elena necesita atención personal y explicaciones accesibles, pero la empresa insiste en que todos los trámites se realizan exclusivamente por la aplicación. Su hija consulta por un reclamo administrativo y por una medida judicial urgente, porque el médico afirma que la demora puede perjudicar su salud. La empresa sostiene que la cuestión es puramente contractual y que cualquier cláusula aceptada al afiliarse es válida.
+
+</div>
+
+
+## Caso 4 · Mapa de cuestiones
+
+1. ¿Por qué existe una relación de consumo en el servicio de medicina prepaga?
+2. ¿Por qué Elena presenta hipervulnerabilidad permanente y cómo se diferencia de la turista?
+3. ¿Qué exige el deber de información ante el rechazo de cobertura?
+4. ¿Qué significa trato digno en este caso?
+5. ¿Es válida una cláusula que deja toda cobertura a decisión discrecional de la empresa?
+6. ¿Toda modificación de cuota es automáticamente ilegal?
+7. ¿Cómo se relacionan el derecho a la salud y la protección del consumidor?
+8. ¿Qué puede hacer Elena ante la negativa?
+9. ¿Puede la prepaga imponer la aplicación como único canal de atención a Elena?
+10. ¿Por qué la aceptación del contrato no valida una cobertura discrecional?
+
+
+## Caso 4 · Pregunta 1
+
+### ¿Por qué existe una relación de consumo en el servicio de medicina prepaga?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 1
+
+### ¿Por qué existe una relación de consumo en el servicio de medicina prepaga?
+
+<div class="answer">
+
+La empresa presta profesionalmente un servicio a una destinataria final. Rigen la protección constitucional del consumidor, la LDC, el CCyC y la legislación especial de medicina prepaga, según corresponda.
+
+</div>
+
+
+## Caso 4 · Pregunta 2
+
+### ¿Por qué Elena presenta hipervulnerabilidad permanente y cómo se diferencia de la turista?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 2
+
+### ¿Por qué Elena presenta hipervulnerabilidad permanente y cómo se diferencia de la turista?
+
+<div class="answer">
+
+En Elena, la edad avanzada y las barreras de acceso descriptas generan una desventaja persistente: se habla de hipervulnerabilidad permanente o estructural. En Sofía, la desventaja adicional depende de las circunstancias temporales del viaje. La distinción atiende a la duración de los obstáculos; no implica incapacidad de Elena ni supone que toda persona mayor tenga idénticas dificultades. Exige información comprensible, atención accesible y protección reforzada.
+
+</div>
+
+
+## Caso 4 · Pregunta 3
+
+### ¿Qué exige el deber de información ante el rechazo de cobertura?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 3
+
+### ¿Qué exige el deber de información ante el rechazo de cobertura?
+
+<div class="answer">
+
+Una explicación clara, comprensible y fundada de la decisión y de las condiciones aplicables (art. 4 LDC). Una negativa automática sin motivos concretos dificulta conocer y cuestionar el rechazo.
+
+</div>
+
+
+## Caso 4 · Pregunta 4
+
+### ¿Qué significa trato digno en este caso?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 4
+
+### ¿Qué significa trato digno en este caso?
+
+<div class="answer">
+
+La empresa debe ofrecer atención respetuosa y accesible, sin imponer obstáculos injustificados que agraven la situación de Elena (art. 8 bis LDC y art. 1097 CCyC).
+
+</div>
+
+
+## Caso 4 · Pregunta 5
+
+### ¿Es válida una cláusula que deja toda cobertura a decisión discrecional de la empresa?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 5
+
+### ¿Es válida una cláusula que deja toda cobertura a decisión discrecional de la empresa?
+
+<div class="answer">
+
+Una cláusula que permite negar arbitrariamente prestaciones o vacía obligaciones esenciales puede ser abusiva y tenerse por no convenida (art. 37 LDC), sin perjuicio de la regulación sanitaria especial.
+
+</div>
+
+
+## Caso 4 · Pregunta 6
+
+### ¿Toda modificación de cuota es automáticamente ilegal?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 6
+
+### ¿Toda modificación de cuota es automáticamente ilegal?
+
+<div class="answer">
+
+No. Su validez depende de la legislación y regulación vigentes, el contrato, la información brindada y la ausencia de abusividad. Debe analizarse la modificación concreta, no presumir validez o invalidez por el solo aumento.
+
+</div>
+
+
+## Caso 4 · Pregunta 7
+
+### ¿Cómo se relacionan el derecho a la salud y la protección del consumidor?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 7
+
+### ¿Cómo se relacionan el derecho a la salud y la protección del consumidor?
+
+<div class="answer">
+
+Se complementan: el contrato de consumo debe interpretarse considerando la tutela constitucional de la salud y las reglas especiales de cobertura. La LDC no sustituye las normas sanitarias aplicables.
+
+</div>
+
+
+## Caso 4 · Pregunta 8
+
+### ¿Qué puede hacer Elena ante la negativa?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 8
+
+### ¿Qué puede hacer Elena ante la negativa?
+
+<div class="answer">
+
+Reclamar por escrito a la empresa y ante la autoridad de control competente, y acudir a la Justicia cuando corresponda. La urgencia y la prueba médica pueden justificar solicitar una medida cautelar.
+
+</div>
+
+
+## Caso 4 · Pregunta 9
+
+### ¿Puede la prepaga imponer la aplicación como único canal de atención a Elena?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 9
+
+### ¿Puede la prepaga imponer la aplicación como único canal de atención a Elena?
+
+<div class="answer">
+
+No puede imponer un canal que, en las circunstancias del caso, impida ejercer sus derechos o acceder a una respuesta urgente. Debe ofrecer una alternativa accesible, como atención personal o asistencia efectiva. La digitalización debe respetar el deber de información y el trato digno, especialmente ante una vulnerabilidad agravada (arts. 4 y 8 bis LDC).
+
+</div>
+
+
+## Caso 4 · Pregunta 10
+
+### ¿Por qué la aceptación del contrato no valida una cobertura discrecional?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 4 · Respuesta 10
+
+### ¿Por qué la aceptación del contrato no valida una cobertura discrecional?
+
+<div class="answer">
+
+Porque las obligaciones legales de cobertura y las normas imperativas de protección no quedan a disposición de la empresa. Una cláusula no puede vaciarlas ni autorizar negativas arbitrarias. La firma de Elena no sanea la abusividad: la condición se tiene por no convenida y el resto del contrato subsiste si puede conservarse (arts. 37 y 65 LDC; art. 1122 CCyC).
+
+</div>
+
+
+## Caso 5 · La bicicleta eléctrica y la batería que se incendia
+
+<div class="case">
+
+Tomás compra una bicicleta eléctrica nueva para trasladarse a su trabajo. El vendedor la anuncia como «segura para cargar dentro de la vivienda». Dos semanas después, mientras carga la batería con el cargador original y conforme al manual, esta se incendia: Tomás sufre quemaduras y el fuego daña muebles y parte de la instalación eléctrica. La tienda ofrece únicamente otra batería y remite cualquier otro reclamo al fabricante extranjero. El importador sostiene que no responde porque no vendió directamente al consumidor. El formulario de compra contiene dos condiciones: «toda compensación se limita al reemplazo de la batería» y «el comprador asume todos los riesgos y renuncia a reclamar daños». El manual agrega «uso bajo exclusiva responsabilidad del comprador». El importador había recibido avisos de incendios del mismo modelo y continuó comercializándolo sin informar el riesgo ni adoptar medidas de seguridad.
+
+</div>
+
+
+## Caso 5 · Mapa de cuestiones
+
+1. ¿Qué deber de seguridad se incumple cuando la batería se incendia durante el uso normal?
+2. ¿En qué se diferencia este reclamo de una simple reparación en garantía?
+3. ¿Quiénes responden por los daños causados por la batería defectuosa?
+4. ¿Puede el vendedor liberarse diciendo que desconocía el defecto?
+5. ¿Es válida la cláusula que limita toda compensación al reemplazo de la batería?
+6. ¿La advertencia «uso bajo exclusiva responsabilidad del comprador» elimina el deber de seguridad?
+7. ¿Qué significa que las reglas de seguridad y responsabilidad sean indisponibles y de orden público?
+8. ¿Qué efecto tiene la nulidad de las cláusulas abusivas sobre el resto del contrato?
+9. ¿Qué daños puede reclamar Tomás además del precio o reemplazo del producto?
+10. ¿Qué relevancia tiene para el daño punitivo que el importador conociera otros incendios y siguiera vendiendo?
+
+
+## Caso 5 · Pregunta 1
+
+### ¿Qué deber de seguridad se incumple cuando la batería se incendia durante el uso normal?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 1
+
+### ¿Qué deber de seguridad se incumple cuando la batería se incendia durante el uso normal?
+
+<div class="answer">
+
+El producto debe ser seguro en condiciones normales o previsibles de uso (arts. 5 y 6 LDC). El incendio de una batería cargada conforme al manual compromete ese deber y puede generar responsabilidad por los daños causados.
+
+</div>
+
+
+## Caso 5 · Pregunta 2
+
+### ¿En qué se diferencia este reclamo de una simple reparación en garantía?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 2
+
+### ¿En qué se diferencia este reclamo de una simple reparación en garantía?
+
+<div class="answer">
+
+La garantía atiende el defecto del producto; la responsabilidad por daños comprende las consecuencias del defecto, como las quemaduras y los daños en la vivienda. Reparar o sustituir la bicicleta no agota el reclamo por esos perjuicios (arts. 11 a 17 y 40 LDC).
+
+</div>
+
+
+## Caso 5 · Pregunta 3
+
+### ¿Quiénes responden por los daños causados por la batería defectuosa?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 3
+
+### ¿Quiénes responden por los daños causados por la batería defectuosa?
+
+<div class="answer">
+
+El art. 40 LDC establece responsabilidad solidaria del productor, fabricante, importador, distribuidor, proveedor, vendedor y de quien haya puesto su marca en la cosa, según su intervención en la cadena. Vendedor e importador no pueden desligarse remitiendo al fabricante extranjero. Quien paga puede luego reclamar a los demás responsables lo que corresponda.
+
+</div>
+
+
+## Caso 5 · Pregunta 4
+
+### ¿Puede el vendedor liberarse diciendo que desconocía el defecto?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 4
+
+### ¿Puede el vendedor liberarse diciendo que desconocía el defecto?
+
+<div class="answer">
+
+No. La responsabilidad del art. 40 es objetiva: desconocer el defecto o afirmar que actuó con cuidado no basta. Solo se libera total o parcialmente quien demuestra que la causa del daño le fue ajena. Un defecto de fabricación no es una causa ajena por el solo hecho de que el vendedor no haya fabricado el producto.
+
+</div>
+
+
+## Caso 5 · Pregunta 5
+
+### ¿Es válida la cláusula que limita toda compensación al reemplazo de la batería?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 5
+
+### ¿Es válida la cláusula que limita toda compensación al reemplazo de la batería?
+
+<div class="answer">
+
+No. Limita la responsabilidad por daños y reduce derechos legales. Se tiene por no convenida (art. 37 LDC). El consumidor puede reclamar los perjuicios derivados del incendio, aunque haya aceptado el formulario.
+
+</div>
+
+
+## Caso 5 · Pregunta 6
+
+### ¿La advertencia «uso bajo exclusiva responsabilidad del comprador» elimina el deber de seguridad?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 6
+
+### ¿La advertencia «uso bajo exclusiva responsabilidad del comprador» elimina el deber de seguridad?
+
+<div class="answer">
+
+No. Una advertencia genérica no autoriza a comercializar un producto inseguro ni transfiere al consumidor todos los riesgos de un defecto. Las instrucciones deben informar riesgos reales y pautas de uso seguro; no reemplazan el cumplimiento del deber legal de seguridad (arts. 4 a 6 y 37 LDC).
+
+</div>
+
+
+## Caso 5 · Pregunta 7
+
+### ¿Qué significa que las reglas de seguridad y responsabilidad sean indisponibles y de orden público?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 7
+
+### ¿Qué significa que las reglas de seguridad y responsabilidad sean indisponibles y de orden público?
+
+<div class="answer">
+
+Que las partes no pueden pactar válidamente una protección inferior a la exigida por normas imperativas. El proveedor no puede excluir de antemano la seguridad del producto ni la reparación de daños. Puede otorgar condiciones más favorables, como una garantía más extensa (arts. 37 y 65 LDC).
+
+</div>
+
+
+## Caso 5 · Pregunta 8
+
+### ¿Qué efecto tiene la nulidad de las cláusulas abusivas sobre el resto del contrato?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 8
+
+### ¿Qué efecto tiene la nulidad de las cláusulas abusivas sobre el resto del contrato?
+
+<div class="answer">
+
+Las cláusulas abusivas se tienen por no convenidas. Si el contrato puede subsistir, se conserva y el juez lo integra cuando resulte necesario. Eliminar la exoneración no borra la compraventa ni los derechos del comprador (art. 37 LDC; art. 1122 CCyC).
+
+</div>
+
+
+## Caso 5 · Pregunta 9
+
+### ¿Qué daños puede reclamar Tomás además del precio o reemplazo del producto?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 9
+
+### ¿Qué daños puede reclamar Tomás además del precio o reemplazo del producto?
+
+<div class="answer">
+
+Puede reclamar gastos de atención médica, reparación de la vivienda, bienes dañados y consecuencias no patrimoniales derivadas de las lesiones y del incendio. También otros perjuicios causalmente vinculados, como ingresos perdidos. La indemnización depende de los daños concretos, no de una suma fijada unilateralmente por el vendedor.
+
+</div>
+
+
+## Caso 5 · Pregunta 10
+
+### ¿Qué relevancia tiene para el daño punitivo que el importador conociera otros incendios y siguiera vendiendo?
+
+::: {.callout .callout-note}
+**Consigna:** responder con claridad, aplicar la norma al caso y justificar la solución.
+:::
+
+
+## Caso 5 · Respuesta 10
+
+### ¿Qué relevancia tiene para el daño punitivo que el importador conociera otros incendios y siguiera vendiendo?
+
+<div class="answer">
+
+Puede revelar una grave indiferencia frente a la seguridad del consumidor y justificar una multa civil, además de la indemnización (art. 52 bis LDC). El juez debe valorar la gravedad de esa conducta. La multa busca sancionar y disuadir; la indemnización busca reparar los perjuicios.
+
+</div>
+

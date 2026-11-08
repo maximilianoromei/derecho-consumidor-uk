@@ -1,0 +1,795 @@
+---
+title: "Prestación de servicios"
+subtitle: "Ley 24.240 · Arts. 19 a 24"
+author: "Derecho del Consumidor · Grado"
+slide-level: 1
+format:
+  revealjs:
+    theme: simple
+    css: clase5-reveal.css
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+    link-external-newwindow: true
+---
+
+# El problema de esta clase
+
+<div class="hero-box">
+¿Qué exige la Ley de Defensa del Consumidor cuando lo contratado no es una cosa, sino un servicio?
+</div>
+
+El capítulo estudiado por Tambussi organiza la relación de consumo alrededor de una secuencia:
+
+<div class="flow-row">
+<div class="flow-card"><b>LO OFRECIDO</b><br>Términos, plazos, condiciones y modalidades.</div>
+<div class="flow-card"><b>LO PRESUPUESTADO</b><br>Trabajo, materiales, precio y tiempo.</div>
+<div class="flow-card"><b>LO EJECUTADO</b><br>Calidad, corrección de deficiencias y garantía.</div>
+</div>
+
+<div class="takeaway">
+La prestación del servicio debe coincidir con lo ofrecido, lo informado y lo convenido.
+</div>
+
+# Mapa normativo
+
+| Norma | Problema que regula |
+|---|---|
+| **Art. 19** | Modalidades de prestación |
+| **Art. 20** | Materiales utilizados en reparación |
+| **Art. 21** | Presupuesto obligatorio |
+| **Art. 22** | Trabajos y materiales no incluidos |
+| **Art. 23** | Deficiencias en la prestación |
+| **Art. 24** | Garantía escrita del servicio |
+
+<div class="blue-box">
+La lógica es progresiva: qué se prometió → qué se presupuestó → qué puede modificarse → qué ocurre si el servicio se presta mal.
+</div>
+
+# Caso de apertura: reparación de un automóvil
+
+Una persona lleva su auto a un taller por una pérdida de aceite.
+
+El taller informa:
+
+- reparación estimada: $350.000;
+- entrega: 72 horas;
+- repuestos nuevos;
+- garantía por 90 días.
+
+Al retirarlo:
+
+- la factura asciende a $620.000;
+- se usaron repuestos usados;
+- no hubo aviso previo;
+- a los dos días reaparece la falla;
+- el taller niega haber dado garantía.
+
+<div class="question-box">
+¿Cuántos incumplimientos distintos aparecen?
+</div>
+
+# Artículo 19: modalidades de prestación
+
+Quienes prestan servicios de cualquier naturaleza deben respetar:
+
+- términos;
+- plazos;
+- condiciones;
+- modalidades;
+- reservas;
+- demás circunstancias
+
+conforme a las cuales el servicio fue **ofrecido, publicitado o convenido**.
+
+<div class="hero-box">
+EL SERVICIO DEBE PRESTARSE COMO FUE OFRECIDO Y COMO FUE CONTRATADO.
+</div>
+
+# El art. 19 conecta normas anteriores
+
+Tambussi relaciona el régimen de servicios con reglas ya estudiadas:
+
+<div class="concept-chain">
+INFORMACIÓN → OFERTA → PUBLICIDAD → CONTRATO → CUMPLIMIENTO
+</div>
+
+No se trata de un régimen aislado.
+
+El art. 19 obliga a mirar qué se dijo antes de contratar y qué terminó haciendo efectivamente el proveedor.
+
+# ¿Qué servicios quedan comprendidos?
+
+Tambussi utiliza una noción amplia.
+
+Entre otros:
+
+- servicio técnico;
+- reparación;
+- tintorería y lavadero;
+- peluquería y estética;
+- televisión por cable e internet;
+- servicios financieros;
+- servicios vinculados con turismo;
+- servicios prestados en establecimientos comerciales.
+
+<div class="takeaway">
+La norma no se limita al “servicio técnico”: comprende servicios de cualquier naturaleza dentro de una relación de consumo.
+</div>
+
+# Caso: plan de ahorro y demora en la entrega
+
+<div class="case-title">Autos: “Sacndura, Alfredo D. y otros c. Círculo de Inversores p/f determinados s/Sumarísimo” · CNCom., Sala A, 16/3/2000</div>
+
+**Hechos.** Los actores habían ingresado en un plan de ahorro para fines determinados, habían abonado la totalidad de las cuotas y el saldo remanente conforme el estado de deuda emitido por la sociedad administradora. Pese a ello, la entidad incumplió con la entrega del vehículo dentro del plazo contractualmente estipulado.
+
+**Pretensión.** Los consumidores promovieron la rescisión contractual con fundamento en la Ley 24.240.
+
+**Defensa.** La administradora sostuvo que el régimen consumeril no resultaba aplicable porque los actores no habían cursado previamente la intimación prevista en el entonces art. 1204 del Código Civil.
+
+**Resolución.** La Cámara admitió la rescisión. Consideró que la exigencia de aquella intimación no podía operar como requisito adicional para el ejercicio del remedio reconocido por la normativa de consumo.
+
+<div class="takeaway">
+La mora del proveedor en entregar el bien comprometido habilita los remedios consumeriles sin agregar recaudos no previstos por el régimen protector.
+</div>
+
+# Caso: tarjeta, pasaje aéreo y daño moral
+
+<div class="case-title">Autos: “Vivas, Romina Paola c. Banco Santander Río S.A. y otro s/Ordinario” · CNCom., Sala D, 1/9/2015</div>
+
+**Hechos.** La actora contrató un pasaje aéreo. La compañía aérea informó incorrectamente el monto de la operación. El banco autorizó la compra aunque excedía el límite de la tarjeta y, posteriormente, inhabilitó provisoriamente la tarjeta porque la consumidora no había cancelado el saldo deudor.
+
+**Consecuencia.** La actora quedó privada de utilizar la tarjeta mientras se encontraba en el extranjero.
+
+**Problema jurídico.** Se discutió si la responsabilidad correspondía únicamente a la aerolínea o también a la entidad bancaria.
+
+**Resolución.** La Cámara reconoció daño moral y admitió responsabilidad concurrente. Consideró relevante tanto la información incorrecta de la aerolínea como el funcionamiento defectuoso del sistema de autorización bancaria.
+
+# Vivas: ¿por qué es importante?
+
+El fallo muestra que una prestación de servicios puede involucrar **varios proveedores conectados**.
+
+<div class="case-grid">
+<div class="case-card"><b>AEROLÍNEA</b><br>Informó incorrectamente el monto del pasaje.</div>
+<div class="case-card"><b>BANCO</b><br>Autorizó una operación por encima del límite y luego bloqueó la tarjeta.</div>
+<div class="case-card"><b>CONSUMIDORA</b><br>Quedó privada del medio de pago durante el viaje.</div>
+</div>
+
+**Resolución central:** frente a la consumidora, la distribución interna de responsabilidades entre los proveedores no eliminó el deber de responder.
+
+<div class="takeaway">
+En relaciones complejas, la organización interna del sistema no puede trasladar al consumidor el costo del mal funcionamiento.
+</div>
+
+# Caso: caja de seguridad
+
+<div class="case-title">Autos: “Sapaube S.R.L. c. Banco de la Provincia de Buenos Aires s/Ordinario” · CNCom., Sala B, 26/6/2015</div>
+
+**Hechos.** El conflicto se originó en un contrato de caja de seguridad bancaria. El cliente reclamó por la pérdida o sustracción de bienes guardados y el banco pretendió ampararse en cláusulas de exoneración o limitación de responsabilidad.
+
+**Problema jurídico.** ¿Puede el banco excluir contractualmente la obligación de custodia que constituye la finalidad misma del servicio?
+
+**Resolución.** La Cámara rechazó esa tesis. Consideró que la caja de seguridad es un contrato de adhesión cuya esencia es la **custodia y vigilancia** de los bienes colocados en el compartimiento.
+
+**Resultado.** Las cláusulas que vacían esa obligación carecen de valor cuando importan una renuncia anticipada a derechos esenciales del cliente.
+
+# Sapaube: obligación de resultado
+
+El criterio citado por Tambussi afirma que el banco debe disponer medios idóneos para:
+
+- vigilar el local;
+- impedir accesos indebidos;
+- preservar la integridad de la caja;
+- custodiar los bienes.
+
+<div class="hero-box">
+LA CUSTODIA NO ES UN DETALLE ACCESORIO: ES LA PRESTACIÓN CENTRAL DEL CONTRATO.
+</div>
+
+Por eso la jurisprudencia la caracteriza como una **obligación de resultado**.
+
+# Caso: seguro automotor sin póliza
+
+<div class="case-title">Autos: “Vega Yanela Martín c. Sancor Cooperativa de Seguros Ltda. y otros s/Ordinario” · CNCom., Sala B, 30/6/2015</div>
+
+**Hechos.** El comprador de un vehículo 0 km contrató un seguro automotor, pero no recibió oportunamente la póliza ni un certificado provisorio que acreditara la cobertura.
+
+**Consecuencia.** No pudo utilizar el automóvil durante un período porque carecía de la documentación necesaria para circular con cobertura.
+
+**Problema jurídico.** Se discutió si la aseguradora debía responder por la privación de uso.
+
+**Resolución.** La Cámara consideró responsable a la compañía aseguradora por los daños derivados de la falta de entrega de la póliza o certificado provisorio.
+
+<div class="takeaway">
+Un servicio puede ser incumplido no sólo por falta de cobertura material, sino también por omitir la documentación necesaria para que el consumidor pueda utilizarlo.
+</div>
+
+# Caso: viaje contratado y no prestado
+
+<div class="case-title">Autos: “Alonso, Gustavo Enrique c. Elementa S.R.L. s/Ordinario” · CNCom., Sala C, 1/11/2012</div>
+
+**Hechos.** El actor contrató y pagó determinados servicios turísticos para realizar un viaje al exterior. Los servicios finalmente no fueron prestados.
+
+**Defensa.** La demandada negó inicialmente la operación y luego sostuvo que quien había recibido el dinero ya no era empleada suya al momento relevante.
+
+**Prueba.** Los recibos permitían reconstruir suficientemente el viaje contratado y el pago realizado.
+
+**Resolución.** La Cámara admitió la demanda y consideró legítima la rescisión ejercida por el consumidor con fundamento en el art. 10 bis, inc. c), con derecho a recuperar lo pagado y sin perjuicio de los daños.
+
+# Alonso: distribución de la carga probatoria
+
+Una vez acreditada la operación y el pago, correspondía al proveedor aportar elementos que controvirtieran seriamente la explicación del consumidor.
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Consumidor</strong><br><br>Acreditó contratación y pago.</div>
+<div class="compare-card"><strong>Proveedor</strong><br><br>No logró demostrar una explicación alternativa suficiente.</div>
+</div>
+
+<div class="takeaway">
+La relación de consumo no puede resolverse imponiendo al consumidor la prueba imposible de hechos que se encuentran en la esfera organizativa del proveedor.
+</div>
+
+# Caso: pérdida de equipaje
+
+<div class="case-title">Autos: “Giangreco Marcelo c. Mexicana de Aviación S.A. s/Daños y perjuicios” · CNCCF, Sala III, 19/4/2005</div>
+
+**Hechos.** Durante un viaje, el actor sufrió primero la pérdida de su equipaje y luego recibió un nuevo equipaje con faltantes parciales.
+
+**Contexto.** Los hechos ocurrieron dentro de un lapso breve, durante un viaje cuya utilidad dependía justamente de poder disponer de sus efectos personales.
+
+**Problema jurídico.** Se discutió si la situación excedía el mero daño patrimonial y justificaba daño moral.
+
+**Resolución.** La Cámara reconoció la procedencia del daño moral, valorando la pérdida de tiempo, las gestiones burocráticas, la frustración y la privación de los efectos durante el viaje.
+
+<div class="takeaway">
+En servicios vinculados con viajes, la pérdida de tiempo y la frustración pueden tener entidad resarcitoria propia.
+</div>
+
+# Artículo 20: materiales en la reparación
+
+En servicios de:
+
+- reparación;
+- mantenimiento;
+- acondicionamiento;
+- limpieza;
+- servicios similares,
+
+el prestador debe utilizar **materiales o productos nuevos y adecuados**.
+
+Sólo puede apartarse de esa regla mediante **pacto escrito en contrario**.
+
+# ¿Qué significa “adecuados”?
+
+La reglamentación que reproduce Tambussi aclara:
+
+- deben ser nuevos;
+- deben adaptarse a la cosa de que se trate.
+
+Si se acuerda utilizar materiales adecuados pero no nuevos, la cláusula debe estar:
+
+- por escrito;
+- destacada;
+- notoriamente informada.
+
+<div class="blue-box">
+El silencio del consumidor no equivale a autorización para instalar repuestos usados.
+</div>
+
+# Ejemplo: reparación de un celular
+
+El service reemplaza una cámara averiada.
+
+El consumidor cree que se instalará un repuesto nuevo.
+
+En realidad:
+
+- se extrae la cámara de otro equipo usado;
+- no se informa;
+- no existe pacto escrito.
+
+<div class="question-box">
+¿El hecho de que el teléfono vuelva a funcionar elimina el incumplimiento del art. 20?
+</div>
+
+No. La norma regula también **qué materiales pueden utilizarse**.
+
+# Falta de repuestos: ¿es excusa?
+
+Tambussi analiza supuestos de escasez o dificultad de importación.
+
+La respuesta del régimen es exigente:
+
+<div class="hero-box">
+LA FALTA DE REPUESTOS EN EL MERCADO NO AUTORIZA AL PROVEEDOR A DESCONOCER SILENCIOSAMENTE LA LEY.
+</div>
+
+Si se pretende utilizar una pieza usada o distinta, debe informarse y obtenerse la conformidad del consumidor en los términos exigidos.
+
+# Caso: auto 0 km y service deficiente
+
+<div class="case-title">Autos: “Casale, Luciano Daniel c. Auto Zanet y otros s/Ordinario” · CNCom., Sala B, 24/4/2013</div>
+
+**Hechos.** El actor adquirió un automóvil 0 km. A menos de un mes debió llevarlo al servicio técnico, donde se reemplazó el motor. Diez meses después aparecieron nuevos problemas en la pieza sustituida y, tiempo más tarde, el vehículo volvió a ingresar por la rotura del embrague.
+
+**Problema jurídico.** El fabricante sostenía haber cumplido la garantía porque había efectuado el cambio de motor.
+
+**Resolución.** La Cámara entendió que no basta con realizar formalmente una reparación: el servicio técnico debe ser **eficiente y de calidad**, de modo que solucione efectivamente el problema.
+
+**Resultado.** Se admitió la demanda contra la concesionaria y el fabricante.
+
+# Casale: fabricante y service
+
+El mismo precedente desarrolla otro punto.
+
+**Hechos relevantes.** El fabricante elegía los servicios autorizados y proveía repuestos, remitiendo al usuario a esa red técnica.
+
+**Problema jurídico.** ¿Puede sostener que el service es un tercero totalmente ajeno?
+
+**Resolución.** La Cámara entendió que fabricante y servicio técnico asumen una obligación objetiva respecto del resultado de la reparación.
+
+<div class="takeaway">
+Quien organiza la red de garantía no puede desentenderse de la calidad del service al que envía al consumidor.
+</div>
+
+# Caso: reparación defectuosa y humo negro
+
+<div class="case-title">Autos: “Llaver, Pablo Javier y otro c. Centro Automotores S.A. y otros s/Ordinario” · CNCom., Sala B, 18/9/2013</div>
+
+**Hechos.** Un automóvil 0 km fue llevado a la concesionaria por una pérdida de aceite. La concesionaria asumió la reparación. Luego de retirarlo y recorrer pocos kilómetros, el habitáculo se llenó de humo negro y el vehículo debió volver al taller.
+
+**Pericia.** Se determinó que los daños del motor estaban vinculados con la omisión de reemplazar el filtro de aire durante la reparación anterior.
+
+**Conducta posterior.** Pese a reclamos personales y cartas documento, el automóvil no fue reparado ni devuelto adecuadamente.
+
+**Resolución.** La Cámara admitió la demanda contra concesionaria y fabricante.
+
+# Llaver: una reparación “de cortesía” también debe ser correcta
+
+La demandada pretendió relativizar la responsabilidad sosteniendo que el servicio se había prestado “de cortesía”.
+
+La Cámara rechazó esa idea.
+
+<div class="hero-box">
+SI EL PROVEEDOR REPARA, DEBE REPARAR BIEN.
+</div>
+
+**Resolución.** La responsabilidad derivó de la deficiente calidad del servicio efectivamente prestado. Ampararse en que la garantía había vencido resultaba incompatible con el espíritu protector de la LDC cuando el daño provenía de la propia reparación defectuosa.
+
+# Artículo 21: presupuesto
+
+En los supuestos del art. 20, el prestador debe entregar un presupuesto con un contenido mínimo.
+
+Debe incluir:
+
+- identificación del prestador;
+- descripción del trabajo;
+- materiales a emplear;
+- precio de materiales y mano de obra;
+- tiempo de realización;
+- garantía y duración;
+- plazo de aceptación;
+- datos registrales exigidos.
+
+# ¿Por qué el presupuesto es tan importante?
+
+Porque el presupuesto no es una estimación irrelevante.
+
+Tambussi lo conecta con:
+
+- información;
+- oferta;
+- formación del consentimiento;
+- delimitación del contenido contractual.
+
+<div class="hero-box">
+EL PRESUPUESTO PERMITE SABER QUÉ SE VA A HACER, CON QUÉ, POR CUÁNTO Y EN CUÁNTO TIEMPO.
+</div>
+
+# Caso: presupuesto como oferta
+
+<div class="case-title">Autos: “G., J. A. c. S.C. e I.” · CNACAF, Sala II, 4/4/2000</div>
+
+**Hechos.** En una relación de prestación de servicios se discutió el alcance jurídico del presupuesto entregado por el proveedor.
+
+**Problema jurídico.** El prestador pretendía restarle efectos vinculantes.
+
+**Resolución.** La Cámara sostuvo que las precisiones contenidas en el presupuesto obligan al oferente y se incorporan al vínculo con el usuario, en línea con los efectos reconocidos a la información y a la publicidad.
+
+**Resultado.** El presupuesto fue entendido como una verdadera oferta de prestación dirigida a persona determinada.
+
+<div class="takeaway">
+El proveedor no puede presupuestar una cosa y luego ejecutar otra como si el documento careciera de consecuencias.
+</div>
+
+# Caso: obligación de presupuestar limpieza
+
+<div class="case-title">Autos: “Elinat S.A. c. Secretaría de Comercio e Inversiones - Disp. DNCI 378/97” · CNACAF, Sala I, 30/12/1998</div>
+
+**Hechos.** Una empresa prestadora de servicios sostuvo que la obligación de extender presupuesto no debía aplicarse a determinadas tareas de limpieza.
+
+**Problema jurídico.** Pretendía restringir el alcance del art. 21.
+
+**Resolución.** La Cámara rechazó una lectura limitativa: la Ley 24.240 incluye expresamente a quienes contratan servicios y el art. 20 contempla también los servicios de limpieza.
+
+**Resultado.** Se confirmó la exigibilidad del presupuesto escrito.
+
+# Caso: orden de trabajo incompleta
+
+<div class="case-title">Autos: “Marva de Sergio Sicolo c. Sec. de Com. e Inv., Disp. DNCI 157/97” · CNACAF, Sala II, 2/4/1998</div>
+
+**Hechos.** El proveedor entregó una orden de trabajo que contenía algunos datos de la operación, pero omitía información exigida por el art. 21.
+
+**Omisiones.** No se precisaba adecuadamente si la limpieza sería “a seco” o “lavado a máquina”, qué materiales se emplearían, cuánto demoraría el trabajo ni si existía garantía, su alcance o duración.
+
+**Problema jurídico.** La empresa sostuvo que la documentación entregada era suficiente.
+
+**Resolución.** La Cámara consideró incumplidos los requisitos mínimos legales.
+
+<div class="takeaway">
+No basta con entregar “algún papel”: el presupuesto debe contener la información que la ley exige.
+</div>
+
+# Caso: Cyesa y presupuesto insuficiente
+
+<div class="case-title">Autos: “Cyesa S.R.L. c. Sec. de Com. e Inv. s/Disp. DNCI n.º 3542/95” · CNACAF, Sala IV, 8/3/1995</div>
+
+**Hechos.** La empresa presentó un presupuesto que no contenía todos los datos exigidos legalmente.
+
+**Omisiones detectadas.** Faltaban:
+
+- descripción detallada de materiales;
+- precio de esos materiales;
+- precio de mano de obra;
+- números de inscripción impositiva y previsional del firmante.
+
+**Resolución.** La Cámara consideró que el presupuesto incumplía el art. 21 y confirmó el criterio sancionatorio.
+
+# Caso: aceptación del presupuesto
+
+<div class="case-title">Autos: “Otis Argentina S.A. c. Fundación Instituto de Neurobiología —Fidneu— s/Ordinario” · CNCom., Sala D, 12/12/2006</div>
+
+**Hechos.** Se había emitido una propuesta donde se detallaban reparaciones, servicios y modalidades de pago. Al pie figuraba una cláusula preimpresa “aceptado p/duplicado”, firmada por la contraparte.
+
+**Problema jurídico.** Se discutió si aquella documentación configuraba aceptación de la propuesta.
+
+**Resolución.** La Cámara entendió que la firma exteriorizaba la voluntad de aceptar la oferta del prestador.
+
+**Resultado.** Se tuvo por celebrado el contrato en los términos presupuestados.
+
+<div class="takeaway">
+El presupuesto no sólo informa: puede ser el instrumento sobre el cual se perfecciona el contrato.
+</div>
+
+# Artículo 22: trabajos no incluidos
+
+Si durante la ejecución aparecen:
+
+- tareas adicionales;
+- materiales adicionales;
+- costos no previstos;
+
+el proveedor debe **comunicarlos al consumidor antes de realizarlos o utilizarlos**.
+
+<div class="hero-box">
+EL PRESTADOR NO PUEDE CONVERTIR UN PRESUPUESTO ACEPTADO EN UN CHEQUE EN BLANCO.
+</div>
+
+# Ejemplo: “aparecieron cosas”
+
+Presupuesto aceptado:
+
+- cambio de pastillas de freno;
+- $180.000.
+
+Al retirar el auto:
+
+- pastillas;
+- discos;
+- líquido;
+- rectificación;
+- mano de obra adicional;
+- total: $610.000.
+
+El taller explica:
+
+> “Cuando desarmamos, aparecieron cosas.”
+
+<div class="question-box">
+¿Puede realizar todos esos trabajos sin consultar previamente?
+</div>
+
+# Excepción a la comunicación previa
+
+Tambussi explica que existe una excepción cuando, por la naturaleza del servicio, interrumpir la tarea para pedir autorización:
+
+- puede afectar la calidad;
+- o puede provocar daño a los bienes del consumidor.
+
+La excepción debe interpretarse de modo acotado.
+
+<div class="blue-box">
+No es una autorización general para aumentar el presupuesto: responde a situaciones en las que detener el trabajo puede empeorar objetivamente el resultado.
+</div>
+
+# Prueba de la autorización
+
+Tambussi destaca la importancia de acreditar la comunicación y la conformidad del consumidor.
+
+Hoy esa prueba puede surgir de:
+
+- mensajes;
+- correo electrónico;
+- WhatsApp;
+- otros medios de comunicación.
+
+<div class="takeaway">
+En caso de controversia, el proveedor suele encontrarse en mejores condiciones de probar que informó el adicional y obtuvo conformidad.
+</div>
+
+# Caso: constancia de reparación obligatoria
+
+<div class="case-title">Autos: “Penélope c. Ciudad de Buenos Aires” · CCAT, Sala I, 25/2/2005</div>
+
+**Hechos.** El proveedor había reparado el portafolio del usuario con posterioridad al vencimiento del plazo de garantía legal.
+
+**Problema jurídico.** Sostuvo que, por haberse realizado la reparación fuera del plazo legal, no correspondía entregar la constancia prevista por el art. 15.
+
+**Resolución.** La Cámara confirmó el apercibimiento impuesto por la autoridad administrativa.
+
+**Fundamento.** La constancia de reparación contiene información necesaria no sólo para la garantía legal sino también para una eventual garantía convencional.
+
+<div class="takeaway">
+El deber documental subsiste aunque el proveedor intente discutir el alcance temporal de la garantía.
+</div>
+
+# Artículo 23: deficiencias en el servicio
+
+Si dentro de los **30 días** siguientes a la conclusión del servicio aparecen:
+
+- fallas;
+- deficiencias;
+- defectos;
+
+el prestador debe:
+
+- corregirlos;
+- reformar lo necesario;
+- reemplazar materiales o productos utilizados;
+
+**sin costo adicional para el consumidor**.
+
+# ¿Desde cuándo corre el plazo?
+
+La reglamentación citada por Tambussi establece:
+
+- regla: desde la conclusión del servicio;
+- excepción: si la eficacia no puede comprobarse inmediatamente, desde que se den las condiciones para verificarla.
+
+<div class="example-box">
+Una reparación de impermeabilización puede no poder evaluarse el mismo día. Si su eficacia sólo puede comprobarse ante una lluvia, la lógica del plazo debe contemplar esa circunstancia.
+</div>
+
+# Caso: Lavadero de Norma Raquel González
+
+<div class="case-title">Autos: “Lavadero de Norma Raquel González c. Sec. Com. e Inv. Disp. DNCI 2490/96” · CNACAF, Sala II, 7/10/1997</div>
+
+**Hechos.** La prestación presentó deficiencias y se inició una actuación administrativa. La firma posteriormente abonó al consumidor el precio total correspondiente a la prenda.
+
+**Defensa.** La empresa sostuvo que aquella compensación solucionaba el conflicto.
+
+**Problema jurídico.** La reparación económica se produjo fuera del plazo legal.
+
+**Resolución.** La Cámara confirmó la sanción. El art. 23 concede treinta días desde la conclusión del servicio para corregir las deficiencias detectadas; la conducta posterior fue extemporánea.
+
+<div class="takeaway">
+Cumplir tarde no borra necesariamente la infracción ya configurada.
+</div>
+
+# Caso: José Saponara Hnos.
+
+<div class="case-title">Autos: “José Saponara Hnos. S.A. c. Sec. Com. e Inv. - Disp. DNCI 671/96” · CNACAF, Sala IV, 10/4/1997</div>
+
+**Hechos.** Se denunció una deficiencia vinculada con un servicio, pero el reclamo se formuló una vez transcurrido con holgura el plazo de treinta días desde la conclusión del trabajo.
+
+**Problema jurídico.** Se discutió si podía aplicarse igualmente la obligación específica del art. 23.
+
+**Resolución.** La Cámara destacó que el régimen del art. 23 exige que las deficiencias se manifiesten y sean denunciadas dentro del plazo legal previsto.
+
+**Resultado.** El vencimiento del plazo tuvo relevancia para descartar la aplicación de esa obligación específica.
+
+# Artículo 24: garantía del servicio
+
+La garantía de un contrato de prestación de servicios debe documentarse por escrito.
+
+Debe indicar:
+
+1. trabajo realizado;
+2. plazo de garantía;
+3. fecha de inicio;
+4. condiciones de validez;
+5. identificación de la persona o entidad que la hará efectiva.
+
+<div class="hero-box">
+LA GARANTÍA DEL SERVICIO DEBE PODER LEERSE Y PROBARSE.
+</div>
+
+# ¿Por qué debe documentarse?
+
+Tambussi señala que el documento debe permitir conocer:
+
+- quién hizo el trabajo;
+- qué hizo;
+- cuándo comenzó la garantía;
+- cuánto dura;
+- bajo qué condiciones opera;
+- quién debe responder.
+
+<div class="takeaway">
+La garantía escrita reduce la asimetría informativa y evita que el proveedor modifique después las condiciones de su propio compromiso.
+</div>
+
+# Garantía legal y convencional del servicio
+
+Tambussi distingue la garantía que surge del régimen legal de aquella que el prestador pueda otorgar adicionalmente.
+
+La garantía convencional puede ampliar la protección, pero no neutralizar derechos indisponibles.
+
+Además, el texto analiza la suspensión o reinicio del plazo cuando el bien vuelve al service.
+
+# Caso: Thomas c. General Motors
+
+<div class="case-title">Autos: “Thomas, Elda c. General Motors de Argentina S.A. s/Ordinario” · CNCom., Sala C, 21/11/2008</div>
+
+**Hechos.** La actora adquirió un automóvil 0 km que presentó desperfectos. El fabricante autorizó la reparación en garantía. Sin embargo, la concesionaria realizó una reparación defectuosa: colocó en el vehículo modelo 2000 un motor fabricado en 1998. La intervención generó demora y daños adicionales.
+
+**Problema jurídico.** General Motors pretendía diferenciar el defecto original del vehículo de la posterior actuación del concesionario.
+
+**Resolución.** La Cámara responsabilizó al fabricante tanto por el vicio del vehículo como por la reparación defectuosa efectuada dentro del sistema de garantía.
+
+**Fundamento.** El fabricante debe asegurar un servicio técnico adecuado y responde solidariamente dentro de la cadena prevista por los arts. 11 y 13.
+
+# Thomas: la garantía comprende la calidad de la reparación
+
+<div class="compare-grid">
+<div class="compare-card"><strong>Primer problema</strong><br><br>El vehículo 0 km tenía desperfectos.</div>
+<div class="compare-card"><strong>Segundo problema</strong><br><br>La reparación efectuada bajo garantía fue también defectuosa.</div>
+</div>
+
+**Resolución del caso:** el segundo incumplimiento no “rompe” la cadena de responsabilidad. El fabricante no queda liberado porque la reparación material haya sido ejecutada por la concesionaria.
+
+<div class="takeaway">
+La garantía no consiste simplemente en recibir el auto en el taller: exige una reparación adecuada.
+</div>
+
+# Caso: Sevel Argentina
+
+<div class="case-title">Autos: “Sevel Argentina S.A. c. Secretaría de Comercio e Inversiones” · CNACAF, Sala III, 9/11/1999</div>
+
+**Hechos.** Un consumidor había comprado un automóvil Peugeot a la firma Ombú. Sevel Argentina, fabricante, no había contratado directamente con el comprador.
+
+**Dato relevante.** En el certificado de garantía figuraba Sevel como fabricante y sujeto obligado dentro del sistema de garantía.
+
+**Defensa.** La empresa alegó la ausencia de vínculo contractual directo con el consumidor.
+
+**Resolución.** La Cámara rechazó esa defensa. Consideró que, por su calidad de fabricante, Sevel asumía deberes de garantía y de mantenimiento durante su vigencia.
+
+<div class="takeaway">
+La ausencia de contrato directo no elimina las obligaciones legales del fabricante frente al consumidor.
+</div>
+
+# Caso final integrador: reforma de cocina
+
+Una persona contrata una remodelación.
+
+Presupuesto:
+
+- muebles nuevos;
+- mármol;
+- instalación eléctrica;
+- total $4.500.000;
+- plazo: 30 días;
+- garantía: 6 meses.
+
+Durante la obra:
+
+- se reemplaza el mármol por otro material;
+- aparecen $1.200.000 de adicionales no autorizados;
+- la obra demora 75 días;
+- a las dos semanas se desprenden muebles;
+- no se entrega garantía escrita.
+
+<div class="question-box">
+¿Cómo se distribuyen los problemas entre los arts. 19 a 24?
+</div>
+
+# Caso final: solución
+
+| Problema | Norma |
+|---|---|
+| Material distinto | **Arts. 19 y 20** |
+| Adicionales no comunicados | **Art. 22** |
+| Demora | **Art. 19** |
+| Presupuesto | **Art. 21** |
+| Muebles que se desprenden | **Art. 23** |
+| Falta de garantía escrita | **Art. 24** |
+
+<div class="takeaway">
+El régimen de servicios protege la coherencia entre lo prometido, lo presupuestado, lo ejecutado y lo finalmente garantizado.
+</div>
+
+# Actividad para el aula
+
+Un service recibe una notebook.
+
+Presupuesto:
+
+- cambio de placa;
+- repuesto nuevo;
+- $280.000;
+- 10 días.
+
+Al retirarla:
+
+- cobra $410.000;
+- instaló una placa usada;
+- no informó el cambio;
+- tardó 25 días;
+- la falla reaparece a la semana;
+- se niega a recibirla nuevamente.
+
+## Consigna
+
+Identifique los incumplimientos y explique qué debería poder exigir el consumidor.
+
+# Actividad: resolución orientativa
+
+**Art. 19.** No se respetaron precio, plazo y modalidad convenidos.
+
+**Art. 20.** Se utilizó un repuesto usado sin pacto escrito.
+
+**Art. 21.** El presupuesto delimita la prestación aceptada.
+
+**Art. 22.** Los adicionales debían ser comunicados previamente.
+
+**Art. 23.** La falla reaparecida dentro del plazo obliga a corregir el servicio sin costo.
+
+**Art. 24.** Si se otorgó garantía, debe estar documentada por escrito con sus condiciones.
+
+# Cinco ideas para recordar
+
+<div class="big-five">
+<div><span>1</span> El servicio debe prestarse exactamente conforme fue ofrecido o convenido.</div>
+<div><span>2</span> En reparaciones, la regla es utilizar materiales nuevos y adecuados.</div>
+<div><span>3</span> El presupuesto tiene contenido obligatorio y efectos jurídicos.</div>
+<div><span>4</span> Los trabajos adicionales requieren información previa, salvo excepción estricta.</div>
+<div><span>5</span> Una reparación defectuosa genera una obligación de corregir y puede activar responsabilidad.</div>
+</div>
+
+# Cierre
+
+<div class="hero-box">
+EN MATERIA DE SERVICIOS, LA LEY BUSCA EVITAR QUE EL CONSUMIDOR CONTRATE UNA COSA Y RECIBA OTRA.
+</div>
+
+La secuencia es clara:
+
+<div class="concept-chain">
+OFRECIDO → PRESUPUESTADO → AUTORIZADO → EJECUTADO → CORREGIDO → GARANTIZADO
+</div>
+
+Cada etapa genera deberes propios para el proveedor.
+
+# Fuente utilizada
+
+Presentación elaborada **exclusivamente sobre el PDF suministrado**, correspondiente al comentario de Carlos E. Tambussi a la Ley 24.240, tramo comprendido entre los arts. 19 y 24.
+
+La jurisprudencia incluida fue tomada del mismo material. En cada caso se incorporaron **autos, hechos, problema jurídico y resolución** conforme surge del texto aportado.

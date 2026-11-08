@@ -1,0 +1,377 @@
+---
+title: "Procedimiento, sanciones y acciones en defensa del consumidor"
+subtitle: "Ley 24.240 · Capítulos XII y XIII · Arts. 45 a 54 bis"
+author: "Prof. Maximiliano Lucas Romei · Universidad Kennedy"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    smaller: true
+    scrollable: true
+    incremental: false
+---
+
+## Objetivos de la clase
+
+- Reconstruir el **procedimiento administrativo sancionador** del art. 45 LDC.
+- Identificar las **sanciones**, sus criterios de graduación y la prescripción.
+- Diferenciar la **potestad sancionatoria administrativa** de las **acciones judiciales** del consumidor.
+- Analizar la legitimación, la prueba, el beneficio de justicia gratuita y los procesos colectivos.
+- Resolver casos con los artículos de la Ley 24.240.
+
+## Dos vías que no deben confundirse
+
+| Vía administrativa | Vía judicial |
+|---|---|
+| Investiga presuntas infracciones | Protege intereses afectados o amenazados |
+| Puede imponer sanciones | Puede ordenar cesación, cumplimiento y reparación |
+| Arts. 45–51 LDC | Arts. 52–54 bis LDC |
+
+**Ejemplo:** una empresa cobra un cargo no informado. La autoridad puede sancionarla; el consumidor puede reclamar judicialmente la devolución. Son consecuencias distintas.
+
+## Art. 45 — ¿Cómo se inicia el procedimiento?
+
+La autoridad nacional de aplicación puede iniciar actuaciones:
+
+- **De oficio:** detecta una infracción mediante controles.
+- **Por denuncia:** de quien invoca interés particular o actúa en defensa del interés general de los consumidores.
+- **Por comunicación:** de otra autoridad administrativa o judicial.
+
+**Ejemplo:** una inspección detecta precios de góndola diferentes de los cobrados en caja; no hace falta esperar una demanda individual.
+
+## Art. 45 — Formación de las actuaciones
+
+Se labran actuaciones con constancia de:
+
+1. El **hecho denunciado o verificado**.
+2. La **disposición presuntamente infringida**.
+3. La documentación que se acompañe.
+
+El proveedor debe conocer concretamente qué conducta se le atribuye para poder defenderse.
+
+**Ejemplo:** no basta imputar genéricamente «violar la LDC»; debe individualizarse el hecho y la regla presuntamente vulnerada.
+
+## Art. 45 — Descargo y defensa
+
+- Se cita al presunto infractor para presentar **descargo escrito** y ofrecer prueba.
+- Plazo: **5 días hábiles**.
+- En la primera presentación debe **constituir domicilio y acreditar personería**.
+- Si no acredita personería, se intima a subsanar en **5 días hábiles**, bajo apercibimiento de tenerlo por no presentado.
+
+**Ejemplo:** un comercio cuestiona un acta y aporta tickets y registros de su sistema de facturación.
+
+## Art. 45 — Inspecciones y comprobaciones técnicas
+
+Si el acta de inspección requiere una **comprobación técnica posterior** para determinar la infracción y esta resulta positiva:
+
+- Se notifica la infracción verificada.
+- Se intima al presunto responsable a presentar descargo escrito en **5 días hábiles**.
+
+**Ejemplo:** un producto se somete a ensayo técnico para verificar un defecto o incumplimiento de especificaciones.
+
+## Art. 45 — Valor de las actas y pruebas técnicas
+
+- Las constancias del expediente y las comprobaciones técnicas constituyen **prueba suficiente de los hechos comprobados**.
+- Esa eficacia no es absoluta: pueden **desvirtuarse mediante otras pruebas**.
+
+**Ejemplo:** un acta registra la ausencia de información de precios. El proveedor puede aportar prueba pertinente que contradiga el hecho constatado.
+
+**Clave:** no equivale a una presunción irrebatible de responsabilidad.
+
+## Art. 45 — Admisibilidad de la prueba
+
+La prueba se admite cuando:
+
+- Existen **hechos controvertidos**.
+- No es manifiestamente **inconducente**.
+- No resulta **meramente dilatoria**.
+
+Contra la denegatoria de medidas probatorias se prevé **recurso de reconsideración** conforme al Reglamento de Procedimientos Administrativos mencionado en el artículo.
+
+**Ejemplo:** una pericia sobre un desperfecto puede ser pertinente; diez testigos para probar un hecho admitido podrían resultar innecesarios.
+
+## Art. 45 — Producción de la prueba
+
+- Plazo de producción: **10 días hábiles**.
+- Puede prorrogarse por **causas justificadas**.
+- Se tiene por desistida la prueba no producida en término por **causa imputable al infractor**.
+
+**Ejemplo:** si el proveedor ofrece una pericia y luego omite injustificadamente las diligencias necesarias para producirla, puede perder esa prueba.
+
+## Art. 45 — Medidas preventivas
+
+En cualquier momento de las actuaciones, la autoridad puede ordenar:
+
+- **Cese preventivo** de la conducta presuntamente infractora.
+- Medidas técnicas.
+- Medidas de **no innovar**.
+
+**Ejemplo:** ordenar preventivamente que deje de difundirse una publicidad presuntamente engañosa mientras se investiga.
+
+**Distinción:** la medida preventiva no es la sanción definitiva.
+
+## Art. 45 — Resolución definitiva
+
+- Concluidas las diligencias instructorias, se dicta resolución definitiva dentro de **20 días hábiles**.
+- La resolución debe decidir sobre la infracción imputada y, de corresponder, la sanción.
+
+**Secuencia didáctica:** inicio → imputación → descargo → prueba → medidas preventivas, si corresponden → resolución.
+
+## Art. 45 — Revisión judicial de la sanción
+
+- Los actos que **imponen sanciones** son impugnables por **recurso directo** ante la Cámara competente indicada en la norma.
+- Se interpone y funda **ante la autoridad que sancionó** dentro de **10 días hábiles** desde la notificación.
+- La autoridad eleva recurso, contestación y expediente a la Cámara en **10 días**.
+
+**Ejemplo:** una empresa sancionada por publicidad engañosa recurre la decisión administrativa ante la vía judicial prevista.
+
+## Art. 45 — Multa y depósito previo
+
+Para recurrir una sanción de **multa**, el texto proporcionado exige:
+
+- Depositar el monto a la orden de la autoridad sancionadora.
+- Acompañar comprobante al recurso.
+- **Excepción:** cuando el depósito pueda ocasionar **perjuicio irreparable** al recurrente.
+
+**Pregunta:** ¿la exigencia del depósito es una condición procesal de admisibilidad o una confirmación de la sanción? Es una condición prevista para recurrir; no implica por sí sola confirmar el fondo.
+
+## Art. 45 — Supletoriedad y autoridades locales
+
+- En el ámbito nacional, las cuestiones no previstas se integran **analógicamente** con la Ley 19.549 y su reglamentación.
+- Subsidiariamente, con el **Código Procesal Civil y Comercial de la Nación**.
+- **CABA y provincias** dictan sus propias reglas de actuación como autoridades locales, compatibles con sus ordenamientos y los principios del art. 45.
+
+**Importante:** no trasladar automáticamente todos los plazos y vías nacionales a un procedimiento provincial.
+
+## Art. 46 — Incumplimiento del acuerdo conciliatorio
+
+- Incumplir un acuerdo conciliatorio constituye **infracción a la LDC**.
+- Puede dar lugar a las **sanciones** de la ley.
+- Ello es **sin perjuicio del cumplimiento imperativo** de lo acordado.
+
+**Ejemplo:** la empresa se compromete a reintegrar $120.000 y no paga. El incumplimiento del acuerdo puede ser sancionado, además de exigirse su cumplimiento.
+
+## Art. 47 — Catálogo de sanciones (I)
+
+Verificada la infracción, las sanciones pueden imponerse **independiente o conjuntamente**:
+
+- **a)** Apercibimiento.
+- **b)** Multa de **0,5 a 2.100 canastas básicas totales para el hogar 3** (INDEC).
+- **c)** Decomiso de mercaderías y productos objeto de infracción.
+
+**Ejemplo:** una empresa reincidente que comercializa productos con información irregular puede afrontar multa y decomiso, según las circunstancias.
+
+## Art. 47 — Catálogo de sanciones (II)
+
+- **d)** Clausura del establecimiento o suspensión del servicio afectado, hasta **30 días**.
+- **e)** Suspensión de hasta **5 años** en registros de proveedores que permiten contratar con el Estado.
+- **f)** Pérdida de concesiones, privilegios o regímenes impositivos o crediticios especiales.
+
+**Clave:** la elección y eventual acumulación deben justificarse según el caso.
+
+## Art. 47 — Publicación de la sanción
+
+- Regla: publicación de la **resolución condenatoria** o síntesis de hechos, infracción y sanción, por el infractor o a su costa.
+- La autoridad determina los medios adecuados y puede disponer alcance nacional y jurisdiccional cuando corresponda.
+- Si la sanción es **apercibimiento**, puede dispensarse la publicación.
+
+**Ejemplo:** una cadena con sucursales en varias provincias puede recibir una orden de difusión de alcance más amplio.
+
+## Art. 47 — Destino de lo recaudado
+
+El **50 %** de multas y otras penalidades percibidas se asigna a un fondo especial destinado a:
+
+- Educación al consumidor (capítulo XVI).
+- Otras actividades de ejecución de políticas de consumo, conforme al art. 43, inc. a).
+
+**Observación:** la multa administrativa no es una indemnización que se entregue al consumidor denunciante.
+
+## Art. 48 — Denuncias maliciosas
+
+Quien presenta denuncias **maliciosas o sin justa causa** puede recibir:
+
+- **Apercibimiento**.
+- **Multa**, según art. 47 incs. a) y b).
+- Sin perjuicio de eventuales consecuencias **civiles y penales**.
+
+**Distinción:** una denuncia que no prospera no es necesariamente una denuncia maliciosa.
+
+## Art. 49 — Graduación de las sanciones
+
+La autoridad debe ponderar, entre otros factores:
+
+- Perjuicio causado al consumidor y **posición de mercado** del infractor.
+- **Beneficio obtenido** e intencionalidad.
+- Gravedad y generalización de riesgos o perjuicios sociales.
+- **Reincidencia** y demás circunstancias relevantes.
+
+**Ejemplo:** un cargo pequeño cobrado indebidamente a cientos de miles de usuarios puede justificar una evaluación más severa por su extensión.
+
+## Art. 49 — Reincidencia
+
+Es reincidente quien, habiendo sido sancionado por infracción a la LDC, comete **otra dentro de 5 años**.
+
+**Ejemplo:** una empresa sancionada en 2024 incurre en otra infracción en 2026. Corresponde examinar la reincidencia conforme al art. 49.
+
+**No confundir:** el plazo de **5 años** de reincidencia con el plazo de **3 años** de prescripción de sanciones del art. 50.
+
+## Art. 50 — Prescripción
+
+- Las **sanciones emergentes de la LDC** prescriben en **3 años**.
+- Interrupción por **nuevas infracciones** o por **inicio de actuaciones administrativas**.
+
+**Atención:** el texto citado se refiere a sanciones; no debe enseñarse como plazo universal de toda acción civil del consumidor.
+
+## Art. 51 — Posible delito
+
+Si del sumario administrativo surge la **eventual comisión de un delito**, se remiten las actuaciones al **juez competente**.
+
+**Ejemplo:** la investigación de una conducta comercial permite advertir indicios de una maniobra penalmente relevante.
+
+La autoridad administrativa no sustituye al órgano judicial penal.
+
+## Art. 52 — Acciones judiciales
+
+El consumidor puede promover acciones cuando sus intereses resulten **afectados o amenazados**.
+
+Legitimados contemplados:
+
+- Consumidor o usuario por derecho propio.
+- Asociaciones de consumidores autorizadas.
+- Autoridad de aplicación nacional o local.
+- Defensor del Pueblo.
+- Ministerio Público Fiscal.
+
+**Ejemplo:** un usuario demanda la devolución de cargos; una asociación cuestiona un cargo uniforme que afecta a muchos usuarios.
+
+## Art. 52 — Rol del Ministerio Público Fiscal
+
+- Cuando no actúa como parte, interviene **obligatoriamente como fiscal de la ley**.
+- En ciertos procesos colectivos, las asociaciones pueden intervenir como **litisconsortes**, sujeto a evaluación judicial de legitimación.
+- Si una asociación legitimada desiste o abandona la acción, la **titularidad activa** pasa al Ministerio Público Fiscal.
+
+**Clave:** el legislador busca preservar la defensa de los intereses colectivos.
+
+## Art. 52 bis — Daño punitivo
+
+- Es una **multa civil** que el juez puede imponer al proveedor a instancia del damnificado.
+- Se gradúa según **gravedad del hecho y demás circunstancias**.
+- Es **independiente** de las indemnizaciones que correspondan.
+- Su tope es el máximo de multa del **art. 47, inc. b)**.
+- Si hay varios proveedores responsables, responden **solidariamente**, con regreso entre ellos.
+
+**Ejemplo:** ante un incumplimiento grave y reiterado, el consumidor pide reparación y, además, daño punitivo.
+
+## Sanción administrativa vs. daño punitivo
+
+| Sanción del art. 47 | Daño punitivo del art. 52 bis |
+|---|---|
+| Impuesta por autoridad administrativa | Impuesto por juez |
+| Consecuencia de infracción administrativa | Multa civil a instancia del damnificado |
+| No se entrega como reparación individual | Se establece a favor del consumidor |
+| Graduación: art. 49 | Gravedad y circunstancias: art. 52 bis |
+
+**Pregunta:** ¿el daño punitivo reemplaza el resarcimiento? **No**, es independiente.
+
+## Art. 53 — Trámite judicial
+
+- Rige el proceso de conocimiento **más abreviado** disponible en la jurisdicción ordinaria competente.
+- A pedido de parte, el juez puede disponer, por resolución fundada y según la **complejidad**, otro trámite de conocimiento más adecuado.
+- Para derechos individuales, puede acreditarse mandato mediante **simple acta poder**, según reglamentación.
+
+**Ejemplo:** un litigio con pericias complejas puede requerir un trámite distinto del abreviado.
+
+## Art. 53 — Deber de colaboración probatoria
+
+Los proveedores deben aportar **todos los elementos de prueba que obren en su poder**, según las características del bien o servicio, y colaborar para esclarecer el litigio.
+
+**Ejemplo:** un banco conserva registros de operaciones, comunicaciones y aceptación contractual; no puede limitarse a exigir al usuario documentos a los que solo la entidad tiene acceso.
+
+**Matiz:** la norma establece un deber de colaboración; no significa que todo hecho alegado por el consumidor se tenga automáticamente por probado.
+
+## Art. 53 — Justicia gratuita
+
+- Las actuaciones judiciales por **derechos o intereses individuales** gozan del **beneficio de justicia gratuita**.
+- La parte demandada puede promover **incidente para acreditar solvencia del consumidor**; de prosperar, cesa el beneficio.
+
+**Ejemplo:** un consumidor demanda por incumplimiento de garantía y accede al beneficio previsto por el artículo, sin perjuicio de las discusiones procesales aplicables.
+
+## Art. 54 — Acuerdos en procesos colectivos
+
+Para conciliar o transar:
+
+- Debe darse **vista previa al Ministerio Público Fiscal**, salvo que sea actor.
+- La **homologación judicial requiere auto fundado**.
+- El acuerdo debe permitir que los consumidores individuales que lo deseen **se aparten** de la solución general.
+
+**Ejemplo:** una asociación negocia el reintegro de comisiones cobradas masivamente; el juez controla la adecuada protección del grupo.
+
+## Art. 54 — Alcance de la sentencia colectiva
+
+- La sentencia favorable hace **cosa juzgada** respecto del demandado y los consumidores en condiciones similares.
+- Excepción: quienes manifiesten oportunamente voluntad en contrario, conforme a las condiciones fijadas por el juez.
+
+**Ejemplo:** una decisión sobre un cargo uniforme puede beneficiar a usuarios que no litigaron individualmente, en los términos de la sentencia.
+
+## Art. 54 — Reparación económica colectiva
+
+Si la cuestión es patrimonial, la sentencia fija pautas o procedimiento para determinar la reparación.
+
+- **Restitución de dinero:** por los mismos medios en que fue percibido, si es posible.
+- Si no es posible, mecanismos para facilitar el acceso a la reparación.
+- Si no se individualiza a los afectados, el juez define un modo que **beneficie al grupo**.
+- Para daños diferenciados, pueden establecerse **grupos o clases** y reclamos incidentales.
+
+## Art. 54 bis — Publicidad y antecedentes
+
+- Las sentencias **definitivas y firmes** deben publicarse según Ley 26.856.
+- La autoridad de aplicación correspondiente adopta medidas de su competencia y establece un **registro de antecedentes** en relaciones de consumo.
+
+**Distinción:** publicación de sanciones administrativas (art. 47) y publicación de sentencias judiciales firmes (art. 54 bis).
+
+## Caso práctico 1 — Cobro masivo
+
+Una empresa de telefonía cobra a 50.000 clientes un «cargo de gestión» que no informó previamente. Una asociación presenta una denuncia y evalúa demandar.
+
+1. ¿Puede iniciarse un procedimiento administrativo sin demanda individual? **Art. 45**.
+2. ¿Qué sanciones podrían corresponder? **Arts. 47 y 49**.
+3. ¿Quiénes pueden promover una acción colectiva? **Art. 52**.
+4. ¿Cómo se instrumentaría la devolución? **Art. 54**.
+
+## Caso práctico 2 — Acuerdo incumplido
+
+Una tienda acuerda reintegrar $180.000 en una audiencia conciliatoria, pero no paga. Luego recibe una sanción y pretende recurrirla.
+
+1. ¿Qué efecto tiene incumplir el acuerdo? **Art. 46**.
+2. ¿Qué plazo prevé el texto para recurrir la sanción? **10 días hábiles: art. 45**.
+3. Si la sanción es multa, ¿qué exigencia contempla el recurso y qué excepción existe? **Art. 45**.
+4. ¿La sanción sustituye el reintegro pactado? **No: art. 46**.
+
+## Caso práctico 3 — Prueba y daño punitivo
+
+Un proveedor niega reiteradamente la existencia de un servicio cobrado. El consumidor aporta sus facturas; los registros internos están en poder de la empresa.
+
+1. ¿Qué deber de colaboración tiene el proveedor? **Art. 53**.
+2. ¿Puede el consumidor pedir reparación y daño punitivo? **Art. 52 bis**.
+3. ¿Es automática la multa civil por cualquier incumplimiento? **No: la impone el juez y debe graduarla**.
+
+## Esquema final para repasar
+
+| Institución | Artículo |
+|---|---|
+| Inicio, descargo, prueba, resolución y recurso | 45 |
+| Incumplimiento conciliatorio | 46 |
+| Sanciones, denuncias maliciosas, graduación, prescripción y delito | 47–51 |
+| Acciones y legitimación | 52 |
+| Daño punitivo | 52 bis |
+| Trámite, colaboración y gratuidad | 53 |
+| Procesos colectivos | 54 |
+| Publicación de sentencias | 54 bis |
+
+## Fuentes y alcance
+
+**Fuente principal:** texto proporcionado de la **Ley 24.240, capítulos XII y XIII, arts. 45 a 54 bis**.
+
+Los ejemplos son **hipotéticos y didácticos**. La presentación sigue el texto suministrado; para litigación o asesoramiento debe verificarse la normativa vigente, las reglas jurisdiccionales y la jurisprudencia pertinente.

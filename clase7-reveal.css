@@ -1,0 +1,45 @@
+/* CLASE 7 · DERECHO DEL CONSUMIDOR · RevealJS */
+:root{
+  --azul:#123a63;
+  --azul-suave:#edf4fa;
+  --dorado:#c99a2e;
+  --texto:#27313a;
+  --gris:#6b7280;
+  --borde:#dfe5ea;
+  --rojo:#a33a3a;
+  --rojo-suave:#fff3f2;
+}
+.reveal{color:var(--texto);background:#fff;font-size:30px}
+.reveal .slides{text-align:left}
+.reveal .slides section{padding:34px 58px;box-sizing:border-box}
+.reveal h1,.reveal h2,.reveal h3{font-family:inherit;text-transform:none;letter-spacing:normal}
+.reveal h1{color:var(--azul);font-size:2.05em;font-weight:750;margin-bottom:.35em}
+.reveal h2{color:var(--azul);font-size:1.55em;font-weight:730;margin-bottom:.6em;border-bottom:1px solid var(--borde);padding-bottom:.18em}
+.reveal h3{color:var(--dorado);font-size:1.05em;font-weight:750}
+.reveal p,.reveal li{line-height:1.32}
+.reveal ul,.reveal ol{margin-top:.35em}
+.reveal li{margin:.22em 0}
+.reveal strong{color:var(--azul)}
+.reveal .portada h1{font-size:2.35em;max-width:1200px;margin-top:150px;border-bottom:0}
+.reveal .portada h2{color:var(--gris);border-bottom:0;font-weight:500}
+.caja-azul,.caja-celeste,.caja-dorada,.caja-roja,.idea,.pregunta,.fuente{
+ border-radius:14px;padding:22px 28px;margin:22px 0;box-shadow:0 5px 18px rgba(18,58,99,.06)
+}
+.caja-azul{background:var(--azul);color:#fff}
+.caja-azul strong{color:#fff}
+.caja-celeste,.idea{background:var(--azul-suave);border-left:7px solid var(--azul)}
+.caja-dorada{background:#fbfaf6;border-left:7px solid var(--dorado)}
+.caja-roja{background:var(--rojo-suave);border-left:7px solid var(--rojo)}
+.pregunta{background:#fbfaf6;border:1px solid var(--dorado);font-size:1.08em}
+.fuente{background:#f8fafc;border:1px solid var(--borde);color:var(--gris);font-size:.82em}
+.dos-columnas{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:start}
+.col{background:#fff;border:1px solid var(--borde);border-radius:14px;padding:20px 24px;box-shadow:0 5px 18px rgba(18,58,99,.05)}
+.reveal a{color:var(--azul);text-decoration:underline;text-decoration-color:rgba(18,58,99,.35);overflow-wrap:anywhere}
+.reveal blockquote{width:auto;margin:20px 0;padding:18px 24px;border-left:6px solid var(--dorado);background:#fbfaf6;box-shadow:none;font-style:italic}
+.reveal table{width:100%;font-size:.82em;border-collapse:collapse}
+.reveal th{background:var(--azul);color:#fff;padding:12px 14px}
+.reveal td{padding:11px 14px;border-bottom:1px solid var(--borde)}
+.reveal .slide-number{color:var(--gris);background:transparent}
+.reveal .progress{height:4px;color:var(--dorado)}
+.reveal .smaller{font-size:.82em}
+@media(max-width:900px){.dos-columnas{grid-template-columns:1fr}}

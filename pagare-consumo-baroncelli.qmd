@@ -1,0 +1,667 @@
+---
+title: "Pagaré de consumo"
+subtitle: "Título cambiario, relación causal y tutela del consumidor"
+author: "Derecho del Consumidor · Grado"
+format:
+  revealjs:
+    theme: simple
+    css: pagare-consumo.css
+    slide-number: true
+    transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+---
+
+## El problema central
+
+::: {.caja-azul}
+Un proveedor financia una operación de consumo, recibe un **pagaré** y, ante el incumplimiento, promueve directamente su ejecución.
+
+¿Qué ocurre con las normas protectorias de la relación de consumo?
+:::
+
+El problema aparece cuando la **forma cambiaria** y la **relación causal de consumo** conducen a reglas aparentemente distintas.
+
+---
+
+## Dos planos jurídicos
+
+::: {.columns}
+::: {.column width="48%"}
+### Derecho cambiario
+
+El pagaré funciona como título de crédito y se apoya en caracteres propios del régimen cambiario:
+
+- literalidad;
+- autonomía;
+- abstracción;
+- rigor formal.
+:::
+
+::: {.column width="48%"}
+### Derecho del consumidor
+
+La operación subyacente puede quedar alcanzada por:
+
+- art. 42 CN;
+- Ley 24.240;
+- art. 36 LDC;
+- normas de orden público;
+- principio protectorio.
+:::
+:::
+
+---
+
+## La tensión
+
+::: {.pregunta}
+¿La abstracción del pagaré permite prescindir completamente del contrato o de la operación de consumo que le dio origen?
+:::
+
+Baroncelli presenta el problema como una tensión entre la disciplina cambiaria y la necesidad de garantizar efectivamente la tutela consumeril.
+
+---
+
+## ¿Por qué se utiliza un pagaré?
+
+En operaciones de crédito el pagaré ofrece al acreedor una vía particularmente eficaz:
+
+- documenta una obligación dineraria;
+- habilita, reunidos sus recaudos, la vía ejecutiva;
+- restringe la discusión causal propia de un proceso de conocimiento;
+- facilita el cobro.
+
+Precisamente esas ventajas explican el conflicto cuando el deudor es consumidor.
+
+---
+
+## La relación subyacente
+
+El título puede haber sido librado como consecuencia de:
+
+- un préstamo personal;
+- financiación de una compraventa;
+- crédito otorgado por una financiera;
+- financiación concedida por el propio proveedor;
+- otra operación destinada al consumo.
+
+::: {.idea}
+La existencia del pagaré no permite olvidar que puede haber detrás una **operación de crédito para el consumo**.
+:::
+
+---
+
+# Artículo 36 LDC
+
+## ¿Por qué importa el art. 36?
+
+El art. 36 regula las operaciones financieras para consumo y de crédito para consumo.
+
+Impone un deber de información especialmente intenso respecto de elementos esenciales de la financiación.
+
+Por eso el conflicto no es meramente procesal: también involucra la **transparencia del negocio causal**.
+
+---
+
+## Información que exige el art. 36
+
+Entre los datos relevantes se encuentran:
+
+- descripción del bien o servicio;
+- precio al contado;
+- desembolso inicial y monto financiado;
+- tasa de interés efectiva anual;
+- intereses o costo financiero total;
+- sistema de amortización;
+- cantidad, periodicidad y monto de pagos;
+- gastos, seguros y adicionales.
+
+---
+
+## Lo que el pagaré no muestra
+
+Un pagaré puede expresar correctamente sus requisitos cambiarios y, sin embargo, no exteriorizar todos los datos que exige el art. 36.
+
+::: {.caja-dorada}
+Ahí aparece el núcleo del problema: **suficiencia cambiaria del título** no equivale necesariamente a **cumplimiento del régimen consumeril de la operación**.
+:::
+
+---
+
+## Orden público
+
+La tutela del consumidor no queda librada enteramente a la voluntad contractual.
+
+Baroncelli coloca el análisis bajo:
+
+- principio protectorio;
+- orden público;
+- irrenunciabilidad;
+- tutela de los intereses económicos;
+- deber de información.
+
+Esto condiciona la lectura puramente formal del título.
+
+---
+
+# Abstracción y causa
+
+## ¿Qué significa abstracción?
+
+En el funcionamiento cambiario, el título adquiere una relativa independencia respecto de la relación jurídica que determinó su creación.
+
+Esa separación favorece:
+
+- circulación;
+- seguridad;
+- rapidez;
+- eficacia ejecutiva.
+
+---
+
+## El problema en una relación de consumo
+
+Si la abstracción se aplica de manera absoluta, puede impedir examinar:
+
+- qué operación originó el pagaré;
+- si era un crédito para consumo;
+- si se informó correctamente su costo;
+- si existieron cláusulas o prácticas incompatibles con la LDC;
+- si la competencia territorial es la correcta.
+
+---
+
+## Principio de realidad
+
+Baroncelli recurre al **principio de realidad** para evitar que la forma elegida oculte la verdadera naturaleza de la relación.
+
+::: {.idea}
+El análisis debe atender a la operación económica real y no exclusivamente al instrumento utilizado para documentarla.
+:::
+
+---
+
+## Forma y realidad
+
+Puede existir formalmente:
+
+> un pagaré ejecutable.
+
+Y materialmente:
+
+> una operación financiera o de crédito para consumo.
+
+El desafío consiste en coordinar ambos regímenes sin hacer desaparecer ninguno de ellos.
+
+---
+
+# La ejecución
+
+## ¿Qué sucede en el juicio ejecutivo?
+
+El proceso ejecutivo se caracteriza por una cognición limitada.
+
+No está diseñado para reproducir toda la discusión propia de un proceso de conocimiento.
+
+Esto plantea una dificultad:
+
+::: {.pregunta}
+¿cómo controlar el cumplimiento de normas consumeriles de orden público sin transformar por completo la estructura del ejecutivo?
+:::
+
+---
+
+## Defensas causales
+
+Baroncelli analiza la jurisprudencia que admite, bajo determinadas condiciones, considerar defensas vinculadas con la relación causal de consumo.
+
+La cuestión no consiste simplemente en “eliminar” la abstracción, sino en determinar hasta dónde debe ceder frente a normas protectorias.
+
+---
+
+## Una relación comprobable
+
+La apertura hacia la causa adquiere especial relevancia cuando existen elementos objetivos que permiten identificar una relación de consumo.
+
+El consumidor no debería quedar privado de tutela únicamente porque la deuda fue instrumentada mediante un pagaré.
+
+---
+
+# Detectar el pagaré de consumo
+
+## ¿Cómo advertir la relación?
+
+Baroncelli recoge criterios jurisprudenciales orientados a detectar cuándo un pagaré puede provenir de una operación de consumo.
+
+No se trata de una presunción matemática.
+
+Son **indicios** que permiten mirar detrás del título.
+
+---
+
+## Indicio 1: el actor
+
+Debe observarse si quien ejecuta actúa profesionalmente en el mercado de crédito.
+
+Por ejemplo:
+
+- entidad financiera;
+- empresa de crédito;
+- proveedor que financia habitualmente;
+- sujeto cuya actividad revela profesionalidad.
+
+---
+
+## Indicio 2: el ejecutado
+
+Resulta relevante que el ejecutado sea una **persona humana**.
+
+Ese dato, por sí solo, no demuestra consumo, pero puede adquirir fuerza combinado con los demás elementos.
+
+---
+
+## Indicio 3: el monto
+
+También puede considerarse si el importe es compatible con:
+
+- un préstamo personal;
+- adquisición de bienes de consumo;
+- financiación destinada a necesidades privadas.
+
+El monto funciona como indicio contextual, no como criterio autónomo.
+
+---
+
+## Indicio 4: domicilio
+
+El domicilio del ejecutado adquiere particular importancia por la regla de competencia territorial prevista por el art. 36.
+
+::: {.caja-azul}
+Si existe una operación de consumo, la elección del tribunal no puede analizarse como si se tratara de una obligación comercial indiferente al domicilio real del consumidor.
+:::
+
+---
+
+## Lectura conjunta de los indicios
+
+::: {.caja-dorada}
+**Actor profesional + persona humana ejecutada + monto compatible con consumo + circunstancias territoriales**
+:::
+
+pueden justificar que el tribunal examine si detrás del pagaré existe una relación de consumo.
+
+Ningún elemento aislado reemplaza el análisis del caso.
+
+---
+
+# Competencia territorial
+
+## Regla protectoria
+
+Cuando la acción es promovida por el proveedor o prestador, el art. 36 atribuye competencia al tribunal correspondiente al **domicilio real del consumidor**.
+
+El pacto en contrario es nulo.
+
+---
+
+## ¿Qué ocurre con el pagaré?
+
+El lugar de pago indicado en el título puede conducir a un tribunal distinto.
+
+Entonces surge otra tensión:
+
+::: {.pregunta}
+¿prevalece la competencia cambiaria derivada del título o la regla protectoria del art. 36?
+:::
+
+Baroncelli analiza esta cuestión dentro de la jurisprudencia sobre pagarés de consumo.
+
+---
+
+## Finalidad de la regla
+
+La competencia del domicilio real del consumidor busca impedir que:
+
+- la distancia;
+- los costos;
+- la elección predispuesta del foro;
+
+se conviertan en barreras para el ejercicio efectivo de la defensa.
+
+No es una cuestión puramente geográfica.
+
+---
+
+# ¿Es inhábil el pagaré?
+
+## Primera respuesta posible
+
+Una posición estricta puede considerar que el pagaré, examinado aisladamente, no contiene la información exigida por el art. 36.
+
+Desde esta perspectiva aparece el planteo de **inhabilidad del título**.
+
+---
+
+## El problema de esa solución
+
+El pagaré no fue diseñado para contener todos los elementos de un contrato de financiación.
+
+Por eso surge otra posibilidad:
+
+::: {.idea}
+examinar el título **junto con la documentación causal** de la operación.
+:::
+
+---
+
+# Integración del título
+
+## ¿En qué consiste?
+
+El proveedor acompaña documentación adicional que permita verificar:
+
+- existencia de la operación de consumo;
+- condiciones de financiación;
+- cumplimiento del art. 36;
+- correspondencia entre contrato y pagaré.
+
+Así se intenta compatibilizar tutela consumeril y ejecución cambiaria.
+
+---
+
+## ¿Integrar es completar el pagaré?
+
+No necesariamente.
+
+La idea no consiste simplemente en agregar requisitos cambiarios faltantes.
+
+El objetivo es comprobar si el negocio de consumo que explica la emisión del pagaré cumple las exigencias protectorias aplicables.
+
+---
+
+## Dos exigencias diferentes
+
+::: {.columns}
+::: {.column width="48%"}
+### Título cambiario
+
+Debe reunir los requisitos propios del pagaré.
+:::
+
+::: {.column width="48%"}
+### Operación de consumo
+
+Debe satisfacer las exigencias de información y protección del consumidor.
+:::
+:::
+
+La documentación causal permite controlar el segundo plano.
+
+---
+
+## Una cuestión discutida
+
+Baroncelli no presenta la integración documental como una solución pacífica.
+
+También recoge posiciones que rechazan o limitan esta posibilidad.
+
+El debate gira alrededor de cuánto puede incorporarse al proceso ejecutivo sin desnaturalizar:
+
+- el título;
+- la abstracción;
+- la estructura procesal.
+
+---
+
+# Control judicial
+
+## ¿Debe actuar el juez?
+
+Cuando del expediente surgen elementos que permiten advertir una posible relación de consumo, Baroncelli recoge una concepción activa del control judicial.
+
+El fundamento se encuentra en el carácter de **orden público** de la legislación consumeril.
+
+---
+
+## Control de oficio
+
+El problema puede aparecer incluso aunque el consumidor no haya formulado técnicamente todas las defensas posibles.
+
+::: {.caja-azul}
+La protección de orden público plantea la posibilidad de que el juez examine de oficio aspectos necesarios para impedir que la forma cambiaria neutralice la LDC.
+:::
+
+---
+
+## El límite
+
+Controlar la relación de consumo no significa convertir automáticamente todo ejecutivo en un juicio ordinario.
+
+La dificultad consiste en encontrar un equilibrio entre:
+
+- eficacia del título;
+- cognición limitada;
+- tutela judicial efectiva;
+- normas consumeriles imperativas.
+
+---
+
+# Un posible método de análisis
+
+## Paso 1 — Examinar el título
+
+Preguntar:
+
+- ¿es formalmente un pagaré?
+- ¿reúne los recaudos cambiarios?
+- ¿quién aparece como acreedor?
+- ¿quién es el librador?
+- ¿qué domicilio y lugar de pago figuran?
+
+---
+
+## Paso 2 — Buscar indicios de consumo
+
+Examinar:
+
+- profesionalidad del ejecutante;
+- condición de persona humana del ejecutado;
+- monto;
+- domicilio;
+- contexto conocido de la operación.
+
+Si los indicios son suficientes, debe analizarse la posible relación de consumo.
+
+---
+
+## Paso 3 — Identificar la causa
+
+Determinar, en la medida permitida por el proceso:
+
+- qué operación originó el título;
+- quién financió;
+- para qué se otorgó el crédito;
+- qué documentación existe.
+
+---
+
+## Paso 4 — Controlar el art. 36
+
+Verificar si la documentación permite conocer:
+
+- capital;
+- tasa;
+- costo financiero;
+- cuotas;
+- sistema de amortización;
+- gastos y adicionales.
+
+::: {.idea}
+El control debe recaer sobre la **operación de financiación**, no solamente sobre la apariencia del pagaré.
+:::
+
+---
+
+## Paso 5 — Controlar competencia
+
+Si se verifica una relación de consumo:
+
+**¿la demanda fue promovida ante el tribunal correspondiente al domicilio real del consumidor?**
+
+La regla del art. 36 es parte de la protección y no un dato accesorio.
+
+---
+
+## Paso 6 — Resolver la compatibilidad
+
+El juez debe decidir, según las circunstancias:
+
+- si el título puede ejecutarse;
+- si necesita documentación complementaria;
+- si existe incumplimiento consumeril relevante;
+- si corresponde admitir defensas;
+- si el tribunal es competente.
+
+---
+
+# Ejemplo
+
+## Caso: préstamo personal
+
+**Financiera Rápida S.A.** entrega a una persona $1.500.000 para gastos personales.
+
+El cliente firma:
+
+- solicitud de préstamo;
+- contrato predispuesto;
+- pagaré por capital e intereses.
+
+Ante la mora, la financiera ejecuta solamente el pagaré.
+
+---
+
+## ¿Qué miraríamos?
+
+1. La actora es profesional del crédito.
+2. El ejecutado es persona humana.
+3. El monto es compatible con financiación personal.
+4. Existe documentación causal.
+5. El pagaré deriva del mismo negocio.
+
+::: {.pregunta}
+¿Sería razonable resolver la ejecución sin verificar si la operación está alcanzada por el art. 36?
+:::
+
+---
+
+## Segundo problema del caso
+
+El pagaré fija lugar de pago en la Ciudad de Buenos Aires.
+
+El consumidor tiene su domicilio real en La Plata.
+
+Si se verifica la relación de consumo, aparece inmediatamente la regla territorial del art. 36.
+
+**La forma cambiaria y la protección consumeril vuelven a entrar en tensión.**
+
+---
+
+# Jurisprudencia para la clase
+
+## “Compañía Financiera Argentina c/ Monzón”
+
+**CSJN — “Compañía Financiera Argentina S.A. c/ Monzón, Mariela Claudia s/ ejecutivo”**
+
+El precedente resulta relevante para la discusión sobre **competencia territorial y relación de consumo** en ejecuciones.
+
+<https://www.mpf.gob.ar/dictamenes/2009/MBeiro/noviembre/Compania_Financiera_Argentina_SC_Comp_623_L_XLV.pdf>
+
+---
+
+## “Productos Financieros c/ Ahumada”
+
+**CSJN — “Productos Financieros S.A. c/ Ahumada, Ana Laura s/ cobro ejecutivo”**
+
+Referencia vinculada con la problemática de las ejecuciones derivadas de operaciones de consumo.
+
+<https://www.mpf.gob.ar/Dictamenes/2023/VAbramovich/junio/Pilman_CSJ_462_2023_CS1.pdf>
+
+---
+
+## “Durotovich c/ Di Bona”
+
+**“Durotovich, Alberto Esteban c/ Di Bona, María Felipa s/ cobro ejecutivo”**
+
+Caso vinculado con pagaré, excepción de inhabilidad de título y relación de consumo.
+
+<https://www.infojudicial.com.ar/areas/jurisprudencia/jurisprudencia-2017/ejecutivo-pagare-excepcion-de-inhabilidad-de-titulo-relacion-de-consumo-mutuo-de-dinero-duplicidad-formal/111750/>
+
+---
+
+# Para cerrar
+
+## La idea central
+
+::: {.caja-azul}
+El problema del pagaré de consumo no se resuelve eligiendo simplemente entre “Derecho Cambiario” y “Derecho del Consumidor”.
+:::
+
+La cuestión consiste en **compatibilizar el régimen del título con normas consumeriles de orden público**, evitando que la abstracción sea utilizada para tornar inoperante la tutela del art. 36.
+
+---
+
+## Esquema final
+
+**Pagaré**
+
+↓  
+
+¿hay indicios de una relación de consumo?
+
+↓  
+
+**identificación de la operación causal**
+
+↓  
+
+control del **art. 36 LDC**
+
+↓  
+
+competencia + información + documentación
+
+↓  
+
+**compatibilización con la vía ejecutiva**
+
+---
+
+## Pregunta para discusión
+
+::: {.pregunta}
+¿Hasta dónde debería permitirse ingresar en la causa del pagaré dentro de un proceso ejecutivo sin destruir la abstracción cambiaria?
+:::
+
+Dos riesgos opuestos:
+
+- ignorar la relación de consumo;
+- convertir la ejecución en un proceso de conocimiento pleno.
+
+Ese es el verdadero problema jurídico.
+
+---
+
+## Fuente
+
+**Baroncelli — comentario al art. 36 de la Ley 24.240.**
+
+La estructura conceptual y el desarrollo sustantivo de esta presentación se basan en el material de Baroncelli suministrado para la clase.
+
+La jurisprudencia se presenta separadamente mediante identificación de autos y enlaces de consulta.

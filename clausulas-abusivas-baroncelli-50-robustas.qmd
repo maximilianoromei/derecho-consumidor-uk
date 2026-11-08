@@ -1,0 +1,529 @@
+---
+title: "Cláusulas abusivas"
+subtitle: "Arts. 37 a 39 LDC — incorporación, contenido y control"
+author: "Derecho del Consumidor · Grado"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+---
+
+## Cláusulas abusivas: el problema
+
+El régimen parte de una idea central: en contratos de consumo no basta comprobar que una cláusula fue incorporada formalmente o que el consumidor firmó el documento.
+
+También debe analizarse **si el contenido de esa cláusula es jurídicamente admisible**.
+
+Baroncelli estudia los arts. 37 a 39 como un sistema de control destinado a impedir que la predisposición contractual produzca desequilibrios incompatibles con la tutela del consumidor.
+
+---
+
+## Artículo 37: regla general
+
+El art. 37 dispone que determinadas cláusulas se tendrán por no convenidas, sin perjuicio de la validez del contrato.
+
+Comprende especialmente las que:
+
+- desnaturalizan obligaciones o limitan responsabilidad por daños;
+- restringen derechos del consumidor o amplían los de la otra parte;
+- invierten la carga de la prueba en perjuicio del consumidor.
+
+La enumeración funciona como núcleo del control de contenido.
+
+---
+
+## Fundamento constitucional
+
+Baroncelli vincula el régimen con el art. 42 CN y la protección de los **intereses económicos** de consumidores y usuarios.
+
+Las cláusulas abusivas no son sólo un problema de técnica contractual. Reflejan una situación estructural: una parte puede predisponer condiciones que la otra normalmente no negocia.
+
+El control jurídico busca impedir que esa superioridad se traduzca en ventajas contractuales injustificadas.
+
+---
+
+## Antecedentes del control
+
+La preocupación por contratos desequilibrados es anterior a la LDC. Baroncelli recuerda herramientas generales como buena fe, abuso del derecho, lesión y reglas sobre objeto y causa.
+
+La legislación consumeril, sin embargo, introduce una disciplina específica y sistemática.
+
+Esto permite controlar directamente cláusulas predispuestas sin obligar a reconducir todos los problemas a institutos generales pensados para relaciones contractuales diferentes.
+
+---
+
+## Qué es una cláusula abusiva
+
+Baroncelli revisa distintas definiciones doctrinarias. Algunas enfatizan la conducta o posición del predisponente; otras se concentran en el resultado objetivo.
+
+El elemento común es la producción de un **desequilibrio relevante** en perjuicio del consumidor.
+
+La pregunta deja de ser sólo “¿el consumidor aceptó?” y pasa a ser también “¿qué efecto produce la estipulación sobre el equilibrio contractual?”.
+
+---
+
+## Perspectiva subjetiva
+
+Una aproximación subjetiva observa el aprovechamiento de una posición de superioridad o el ejercicio desviado del poder contractual.
+
+Puede interesar cómo actuó el proveedor, qué finalidad perseguía o si utilizó conscientemente su posición para imponer una ventaja.
+
+Sin embargo, limitar el control a demostrar una intención abusiva dificultaría enormemente la tutela del consumidor.
+
+---
+
+## Perspectiva objetiva
+
+La perspectiva objetiva se concentra en el contenido y los efectos de la cláusula.
+
+El art. 1119 CCyC define como abusiva la cláusula que, haya sido o no negociada individualmente, tenga por objeto o efecto provocar un **desequilibrio significativo** entre derechos y obligaciones en perjuicio del consumidor.
+
+Esta formulación permite controlar la estipulación sin necesidad de probar una intención maliciosa.
+
+---
+
+## Buena fe
+
+La buena fe funciona como parámetro para valorar la conducta y el contenido contractual.
+
+Una cláusula puede contrariar la confianza legítima del consumidor cuando introduce una ventaja que no resulta razonablemente esperable dentro del negocio.
+
+**Ejemplo:** un servicio contratado por tiempo indeterminado que permite al proveedor alterar unilateralmente elementos esenciales sin parámetros objetivos puede comprometer la buena fe.
+
+---
+
+## Equilibrio contractual
+
+El equilibrio no exige que las prestaciones sean matemáticamente idénticas. Baroncelli descarta una concepción aritmética.
+
+Lo que debe evitarse es una alteración significativa de la estructura de derechos y obligaciones.
+
+**Ejemplo:** que una parte pueda rescindir libremente en cualquier momento mientras la otra deba pagar una penalidad extraordinaria para hacerlo puede revelar una asimetría jurídicamente relevante.
+
+---
+
+## Negociación individual
+
+En contratos de consumo, la circunstancia de que una cláusula haya sido negociada individualmente no la vuelve inmune al control.
+
+Baroncelli vincula esta solución con el art. 1118 CCyC.
+
+La razón es que la protección consumeril no depende exclusivamente de la técnica de adhesión: incluso una estipulación discutida puede producir un desequilibrio significativo contrario al régimen protectorio.
+
+---
+
+## Cláusulas claras, dudosas y oscuras
+
+Baroncelli recoge clasificaciones vinculadas con la inteligibilidad.
+
+Una cláusula clara permite identificar razonablemente su sentido. Una dudosa admite más de una interpretación. Una oscura dificulta establecer qué obligación pretende imponer.
+
+Esta clasificación importa porque el sistema incorpora reglas interpretativas favorables al consumidor y exige transparencia en la contratación predispuesta.
+
+---
+
+## Cláusulas ininteligibles
+
+La ininteligibilidad constituye una forma especialmente intensa de oscuridad.
+
+Si el consumidor no puede reconstruir razonablemente el significado de la estipulación, resulta problemático afirmar que existió una aceptación jurídicamente relevante de ese contenido.
+
+**Ejemplo:** una fórmula financiera incomprensible, definida mediante sucesivos reenvíos a anexos no entregados, puede frustrar el conocimiento real de la obligación.
+
+---
+
+## Abusividad jurídica
+
+Puede hablarse de abusividad jurídica cuando la estipulación contradice directamente reglas o principios protectores del ordenamiento.
+
+El problema surge de la incompatibilidad normativa del contenido.
+
+**Ejemplo:** una cláusula que pretende eliminar una garantía legal reconocida al consumidor no se vuelve válida porque figure destacada y haya sido firmada expresamente.
+
+---
+
+## Abusividad económica
+
+Otra dimensión se concentra en el desequilibrio económico generado por la cláusula.
+
+No todo negocio inconveniente es abusivo. El control requiere analizar si la estipulación altera significativamente la distribución contractual de ventajas y cargas.
+
+La evaluación debe realizarse dentro del contexto del contrato y no sobre una cifra aislada.
+
+---
+
+## Abusividad genética
+
+La abusividad puede encontrarse presente desde el momento mismo de celebración del contrato.
+
+La cláusula nace configurada de un modo incompatible con el equilibrio exigible.
+
+**Ejemplo:** desde el inicio, el proveedor se reserva una facultad de rescisión sin causa mientras impone al consumidor una penalidad desproporcionada si pretende terminar el vínculo.
+
+---
+
+## Abusividad funcional
+
+También puede observarse la manera en que una cláusula funciona durante la ejecución.
+
+Una estipulación aparentemente neutra puede ser aplicada de un modo que produzca un desequilibrio significativo.
+
+Baroncelli permite así comprender que el control no siempre se agota en una lectura estática del documento: puede requerir observar sus efectos concretos.
+
+---
+
+## Contratos conexos
+
+La situación abusiva puede aparecer dentro de una red de contratos vinculados.
+
+En sectores como turismo, crédito, locación o servicios complejos, la operación económica puede distribuirse entre varios instrumentos.
+
+**Ejemplo:** una limitación de responsabilidad puede aparecer en el contrato de una empresa vinculada y afectar, en los hechos, la tutela correspondiente al negocio principal.
+
+---
+
+## Dos controles distintos
+
+Baroncelli distingue dos preguntas fundamentales:
+
+1. **Control de incorporación:** ¿la cláusula ingresó válidamente al contrato y pudo ser conocida?
+2. **Control de contenido:** aun incorporada, ¿su contenido es jurídicamente admisible?
+
+La distinción evita un error frecuente: creer que una cláusula es válida simplemente porque fue entregada, leída o firmada.
+
+---
+
+## Control de incorporación
+
+Este control examina las condiciones mediante las cuales la estipulación pasa a formar parte del contrato.
+
+Interesa saber si el adherente tuvo posibilidad razonable de conocerla, si recibió la documentación y si el texto resultaba accesible.
+
+Una condición escondida en documentación nunca entregada puede fracasar antes incluso de analizarse si su contenido es abusivo.
+
+---
+
+## Reenvío a documentos externos
+
+Baroncelli destaca la regla del art. 985 CCyC para contratos de adhesión: no puede utilizarse el reenvío a textos o documentos que no hayan sido facilitados al adherente antes o simultáneamente con la contratación.
+
+**Ejemplo:** “se aplican además las condiciones publicadas en nuestro reglamento interno” no basta si ese reglamento no fue puesto efectivamente a disposición.
+
+---
+
+## Ficciones de conocimiento
+
+Las fórmulas predispuestas del tipo “el consumidor declara conocer y aceptar toda la documentación” no deberían sustituir automáticamente la posibilidad real de conocimiento.
+
+La firma prueba una exteriorización de voluntad, pero el régimen de consumo impide convertirla en una ficción absoluta que sane cualquier defecto informativo.
+
+El control mira las circunstancias reales de incorporación.
+
+---
+
+## Cláusulas generales y particulares
+
+Las condiciones generales son predispuestas para una pluralidad de contratos. Las cláusulas particulares responden a aspectos específicamente acordados en un negocio.
+
+Baroncelli recuerda la relevancia de distinguir ambas categorías y la prevalencia de las particulares ante incompatibilidad.
+
+**Ejemplo:** un formulario general establece entrega en 90 días, pero una cláusula particular firmada fija expresamente 30 días.
+
+---
+
+## Control de contenido
+
+Superado el problema de incorporación, debe examinarse el contenido.
+
+La pregunta es:
+
+> **¿Puede el ordenamiento tolerar el efecto que esta cláusula pretende producir?**
+
+Baroncelli articula el art. 37 LDC con el art. 988 CCyC y las reglas generales. El sistema no contiene un catálogo cerrado: utiliza estándares que permiten controlar nuevas formas de desequilibrio.
+
+---
+
+## Desnaturalización de las obligaciones
+
+Uno de los estándares centrales del art. 37 es la cláusula que **desnaturaliza las obligaciones**.
+
+Baroncelli explica que debe compararse la estipulación con la estructura normal y finalidad del contrato.
+
+La cláusula resulta problemática cuando vacía, altera o desplaza obligaciones que razonablemente integran el negocio, generando una ventaja injustificada para el predisponente.
+
+---
+
+## Desnaturalización: finalidad económica
+
+El análisis no se limita a identificar obligaciones típicas en abstracto. También puede considerar la finalidad económica perseguida y el equilibrio global del negocio.
+
+**Ejemplo:** un servicio pago que permite al proveedor suspender indefinidamente su prestación sin reducir el precio puede conservar formalmente el contrato pero alterar sustancialmente su lógica económica.
+
+---
+
+## No se exige equivalencia matemática
+
+Baroncelli aclara que la justicia contractual no supone una equivalencia exacta entre todas las prestaciones.
+
+Los contratos implican distribución de riesgos y ventajas. El control aparece cuando una cláusula produce un desequilibrio **significativo** incompatible con la buena fe y la protección del consumidor.
+
+No corresponde convertir al juez en fijador general de la conveniencia económica de cada negocio.
+
+---
+
+## Ejemplos de desnaturalización
+
+Entre las situaciones que pueden revelar desnaturalización aparecen:
+
+- indeterminación relevante del cumplimiento;
+- facultades excesivas sobre el precio;
+- falta de reciprocidad;
+- alteración unilateral de prestaciones;
+- desplazamiento de obligaciones esenciales.
+
+La evaluación siempre debe hacerse dentro del contrato concreto.
+
+**Ejemplo:** permitir sólo al proveedor postergar indefinidamente la fecha de prestación.
+
+---
+
+## Renuncia de derechos
+
+El art. 37 controla cláusulas que impliquen renuncia o restricción de derechos del consumidor.
+
+La protección legal no puede ser neutralizada mediante una estipulación predispuesta.
+
+**Ejemplo:** una cláusula por la cual el consumidor “renuncia irrevocablemente a toda garantía” entra en conflicto directo con derechos que el régimen le reconoce.
+
+---
+
+## Ampliación de derechos del proveedor
+
+La norma también contempla el fenómeno inverso: cláusulas que amplían injustificadamente las facultades de la otra parte.
+
+El desequilibrio puede producirse no sólo quitando derechos al consumidor, sino otorgando al proveedor poderes que exceden razonablemente la economía del contrato.
+
+**Ejemplo:** facultad unilateral de modificar cualquier condición sin causa, límite ni derecho de salida.
+
+---
+
+## Rescisión asimétrica
+
+Una fuente frecuente de desequilibrio aparece en la terminación del contrato.
+
+Si el proveedor puede rescindir sin costo y de inmediato, mientras el consumidor enfrenta preavisos extensos o penalidades significativas, debe analizarse la reciprocidad.
+
+La diferencia no es automáticamente abusiva, pero requiere una justificación compatible con la estructura y finalidad del negocio.
+
+---
+
+## Cláusulas sorpresivas
+
+El art. 988 CCyC permite controlar cláusulas que, por su contenido, redacción o presentación, **no son razonablemente previsibles**.
+
+El parámetro son las expectativas legítimas que genera el tipo de contrato y el modo en que se presenta la estipulación.
+
+La sorpresa puede existir aun cuando la cláusula sea gramaticalmente clara.
+
+---
+
+## La expectativa razonable
+
+Para determinar si una cláusula es sorpresiva debe compararse su contenido con lo que un adherente puede razonablemente esperar del contrato.
+
+**Ejemplo:** contratar almacenamiento digital y descubrir en una condición secundaria que el proveedor se atribuye facultades completamente ajenas a la prestación esperada.
+
+La previsibilidad se aprecia dentro del contexto total de contratación.
+
+---
+
+## La “Cláusula Herodes”
+
+Baroncelli utiliza un ejemplo experimental particularmente gráfico: un servicio wifi incorporó en sus términos una cláusula por la cual el usuario aceptaba entregar a su **primer hijo**.
+
+El caso evidencia la distancia que puede existir entre hacer clic en “acepto” y conocer realmente las condiciones.
+
+No demuestra que toda contratación digital sea inválida; muestra por qué el consentimiento formal no agota el control jurídico.
+
+---
+
+## Legibilidad
+
+La forma material del contrato también integra la transparencia.
+
+Baroncelli reseña exigencias relativas a tamaño de caracteres, contraste, facilidad de lectura y destaque de información relevante.
+
+**Ejemplo:** una cláusula importante impresa en caracteres prácticamente ilegibles puede comprometer el conocimiento aunque el texto, considerado aisladamente, sea lingüísticamente claro.
+
+---
+
+## Presentación y jerarquía de información
+
+La transparencia exige que la información relevante no quede perdida dentro de una masa documental diseñada para desalentar su lectura.
+
+El modo de organizar títulos, anexos, enlaces y condiciones puede facilitar o impedir la comprensión.
+
+La contratación digital no elimina el problema: puede agravarlo mediante hipervínculos sucesivos, ventanas separadas y condiciones extensas.
+
+---
+
+## Limitación de responsabilidad
+
+El art. 37 menciona expresamente las cláusulas que limitan responsabilidad por daños.
+
+Baroncelli distingue diversas técnicas: exclusiones subjetivas, límites cuantitativos, eliminación de rubros, exoneraciones o plazos restrictivos.
+
+El control busca impedir que el proveedor traslade contractualmente al consumidor consecuencias que el ordenamiento coloca a su cargo.
+
+---
+
+## Topes indemnizatorios
+
+Un límite cuantitativo puede ser problemático cuando reduce anticipadamente la reparación de un modo incompatible con el régimen aplicable.
+
+**Ejemplo:** una empresa pretende establecer que, cualquiera sea el daño causado por su incumplimiento, su responsabilidad nunca excederá el valor de una mensualidad.
+
+La validez no depende del nombre de la cláusula, sino de sus efectos jurídicos.
+
+---
+
+## Responsabilidad solidaria
+
+También deben controlarse estipulaciones destinadas a fragmentar responsabilidades que la ley estructura de modo solidario.
+
+Un proveedor no puede necesariamente neutralizar por contrato el sistema legal mediante una declaración unilateral.
+
+**Ejemplo:** una cláusula que afirma que cada integrante de una cadena de comercialización responde exclusivamente por “su parte” debe confrontarse con las normas imperativas aplicables.
+
+---
+
+## Carga de la prueba
+
+El art. 37 considera abusiva la cláusula que imponga una inversión de la carga probatoria en perjuicio del consumidor.
+
+Baroncelli relaciona esta cuestión con el art. 53 LDC y el deber de colaboración del proveedor.
+
+**Ejemplo:** una condición que obligue al consumidor a demostrar hechos cuya documentación se encuentra exclusivamente en poder de la empresa puede alterar indebidamente el equilibrio procesal.
+
+---
+
+## Buena fe precontractual
+
+La tutela se extiende a la etapa anterior a la conclusión del contrato.
+
+Baroncelli destaca la violación de la buena fe, del deber de información y de reglas de competencia o lealtad comercial.
+
+Esto muestra que el control no comienza con la firma: la manera en que se forma el consentimiento también integra la protección.
+
+**Ejemplo:** ocultar deliberadamente una condición decisiva hasta después de contratar.
+
+---
+
+## Límites al control: precio y prestación
+
+Baroncelli analiza el art. 1121 CCyC, que establece límites específicos al control de abusividad respecto de la relación entre precio y prestación.
+
+La regla no significa que cualquier problema relativo al precio sea jurídicamente irrelevante. Pueden operar otros institutos.
+
+Lo que se delimita es el uso del control de cláusulas abusivas para revisar directamente la equivalencia económica principal del negocio.
+
+---
+
+## Normas imperativas reproducidas
+
+El art. 1121 también contempla cláusulas que reflejan disposiciones de tratados o normas legales imperativas.
+
+Si el proveedor simplemente reproduce una solución impuesta por una norma, esa estipulación no se vuelve abusiva por el mecanismo específico analizado.
+
+Esto no impide discutir la norma por las vías jurídicas que correspondan, pero distingue el origen del contenido contractual.
+
+---
+
+## Efectos: “se tendrán por no convenidas”
+
+La fórmula del art. 37 genera una cuestión dogmática: ¿qué categoría jurídica explica el efecto sobre la cláusula?
+
+Baroncelli examina distintas alternativas, entre ellas inexistencia, inoponibilidad y nulidad.
+
+La discusión no es puramente terminológica: la categoría elegida incide sobre control de oficio, legitimación y conservación del contrato.
+
+---
+
+## La posición de Baroncelli: nulidad
+
+Baroncelli se inclina por encuadrar la cláusula abusiva dentro de la **nulidad** y descarta la inexistencia como explicación adecuada.
+
+En contratos de consumo, el orden público lleva al autor a caracterizar la nulidad como absoluta.
+
+La función es neutralizar jurídicamente los efectos de una estipulación incompatible con el régimen protector.
+
+---
+
+## Nulidad parcial
+
+La invalidez de una cláusula no obliga necesariamente a destruir todo el contrato.
+
+Cuando el negocio puede subsistir sin ella, la nulidad parcial permite conservar el resto.
+
+**Ejemplo:** si es inválida una cláusula que autoriza una modificación unilateral, puede eliminarse esa facultad sin hacer desaparecer necesariamente la prestación principal contratada.
+
+---
+
+## Integración judicial
+
+Si la nulidad parcial deja un vacío que impide el funcionamiento del contrato, el juez puede necesitar **integrarlo**.
+
+La integración no debe utilizarse para reconstruir libremente un negocio distinto, sino para permitir la subsistencia compatible con el ordenamiento.
+
+Baroncelli conecta esta consecuencia con la finalidad conservatoria del régimen.
+
+---
+
+## Control de oficio
+
+El carácter de orden público de la protección consumeril fundamenta el control judicial de oficio de cláusulas abusivas.
+
+El juez no queda necesariamente atado a la habilidad técnica con que el consumidor formule su planteo.
+
+Esto resulta especialmente importante en contratos masivos, donde una misma estipulación puede afectar a una gran cantidad de usuarios.
+
+---
+
+## Tutela colectiva
+
+Baroncelli también considera la dimensión colectiva del control.
+
+Una cláusula uniforme puede reproducirse en miles de contratos. Obligar a cada consumidor a iniciar un proceso idéntico reduciría la eficacia de la protección.
+
+La tutela colectiva permite cuestionar condiciones generales con efectos que exceden un conflicto individual y se proyectan sobre una categoría de consumidores.
+
+---
+
+## In dubio pro consumidor
+
+Ante dos o más interpretaciones posibles de una estipulación, debe privilegiarse la más favorable al consumidor.
+
+Baroncelli conecta esta regla con el principio protectorio y con el art. 1095 CCyC.
+
+**Ejemplo:** si una cláusula predispuesta admite razonablemente dos sentidos sobre el alcance de un cargo, no corresponde escoger el que maximiza la obligación del consumidor.
+
+---
+
+## Mapa final
+
+El régimen puede ordenarse así:
+
+**predisposición → incorporación → transparencia → control de contenido → desequilibrio significativo → nulidad → integración → control judicial → control administrativo.**
+
+La pregunta central permanece constante: que una cláusula esté escrita y aceptada formalmente no significa que el ordenamiento deba reconocerle eficacia.
+
+**Fuente doctrinaria exclusiva:** Baroncelli, comentario a los arts. 37, 38 y 39 LDC, material suministrado.

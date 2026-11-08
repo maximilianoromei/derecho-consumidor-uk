@@ -1,0 +1,514 @@
+---
+title: "Derecho del Consumidor y del Usuario"
+subtitle: "Simulacro de examen final · 20 casos prácticos"
+author: "Prof. Maximiliano Lucas Romei · Universidad Kennedy"
+lang: es
+format:
+  revealjs:
+    theme: white
+    slide-level: 2
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: consumidor-simulacro.css
+---
+
+# Simulacro de examen final
+
+**Derecho del Consumidor y del Usuario**
+
+20 situaciones prácticas · respuestas orientativas para estudiar y argumentar.
+
+Las respuestas proponen un razonamiento posible; no sustituyen la lectura de las normas vigentes ni la consideración de los hechos probados.
+
+
+## Caso 1 · La compra para un estudio profesional
+
+Una arquitecta compra una impresora para su estudio particular.
+
+La utiliza para imprimir planos que entrega a sus clientes.
+
+A los diez días, el equipo deja de funcionar.
+
+El vendedor sostiene que la Ley de Defensa del Consumidor no se aplica a profesionales.
+
+La compradora afirma que no comercializa impresoras ni las revende.
+
+**Preguntas para el alumno:** ¿Puede considerarse consumidora? ¿Qué hechos son relevantes para definir la relación de consumo?
+
+
+## Caso 1 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+La condición profesional no excluye por sí sola la protección. Conforme a los arts. 1 y 2 de la Ley 24.240 y 1092 del CCyC, debe analizarse si la impresora fue adquirida como destinataria final o integrada a un proceso de producción o comercialización. El uso profesional plantea un problema de destino económico: no alcanza con decir que no revende impresoras, ni con afirmar automáticamente que toda compra profesional está excluida. El alumno debe argumentar con el destino concreto del bien, la posición de la adquirente y las circunstancias del caso. Si se configura relación de consumo, resultan aplicables las reglas protectorias, incluidas las de garantía.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 2 · Un regalo defectuoso
+
+Una persona compra una cafetera y se la regala a su hermana.
+
+La hermana comienza a utilizarla en su domicilio.
+
+El aparato presenta una falla eléctrica a los pocos días.
+
+El comercio se niega a atenderla porque no figura en la factura.
+
+La destinataria conserva la caja y el comprobante de compra.
+
+**Preguntas para el alumno:** ¿Puede reclamar quien recibió el regalo? ¿Quiénes integran la relación de consumo?
+
+
+## Caso 2 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El concepto de consumidor no se limita a quien pagó el precio. El art. 1 de la LDC y el art. 1092 del CCyC contemplan a quien adquiere o utiliza bienes o servicios como destinatario final, aun gratuitamente. La hermana puede invocar su calidad de usuaria final. El proveedor es quien desarrolla profesionalmente la actividad de comercialización; también deben considerarse otros integrantes de la cadena según el tipo de reclamo. La factura sirve como prueba, pero no determina por sí sola quién tiene tutela legal.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 3 · Precio que aparece al pagar
+
+Una tienda anuncia una notebook por un precio en su página.
+
+La publicidad indica que la promoción dura hasta el domingo.
+
+El sábado, una clienta agrega el producto al carrito.
+
+En la pantalla de pago aparece un importe mayor sin explicación.
+
+La empresa dice que los precios de internet son meramente orientativos.
+
+**Preguntas para el alumno:** ¿Qué derechos están comprometidos? ¿Qué relevancia tiene la oferta publicitada?
+
+
+## Caso 3 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+Los arts. 4, 7 y 8 de la LDC protegen la información cierta y clara y la fuerza vinculante de las ofertas y precisiones publicitarias, en sus condiciones legales. Debe verificarse el contenido del anuncio, su vigencia, las condiciones comunicadas y si existía una advertencia válida sobre disponibilidad. Una variación sorpresiva al pagar puede vulnerar información y oferta, sin que la expresión genérica “precio orientativo” neutralice necesariamente obligaciones. El alumno debe explicar qué documentación conservaría y qué cumplimiento o reparación podría reclamar.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 4 · Instrucciones incomprensibles
+
+Una familia compra una estufa eléctrica importada.
+
+El manual de seguridad está solamente en un idioma extranjero.
+
+El vendedor asegura que es muy sencilla de utilizar.
+
+La familia desconoce la distancia mínima respecto de cortinas y muebles.
+
+Tras varios usos, observa un recalentamiento del enchufe.
+
+**Preguntas para el alumno:** ¿Qué deberes tiene el proveedor antes y después de vender? ¿Qué debe hacer ante el riesgo?
+
+
+## Caso 4 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 4 LDC exige información cierta, clara y detallada, y los arts. 5 y 6 tutelan la salud y seguridad. No basta con afirmar verbalmente que el producto es sencillo: deben brindarse instrucciones y advertencias comprensibles y adecuadas al riesgo. El alumno debe distinguir información precontractual, instrucciones de uso y deber de seguridad. Frente al recalentamiento corresponde dejar de usar el equipo y reclamar evaluación o reparación; si hay defecto peligroso, pueden activarse deberes adicionales de prevención y medidas correctivas.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 5 · Publicidad de resultados garantizados
+
+Un instituto anuncia que su curso asegura conseguir empleo en treinta días.
+
+La publicidad no informa condiciones ni excepciones.
+
+Un estudiante se inscribe y paga el curso completo.
+
+Al finalizar, descubre que el instituto solo ofrece una bolsa de trabajo.
+
+La empresa sostiene que el anuncio era una frase motivacional.
+
+**Preguntas para el alumno:** ¿Cómo se analiza la publicidad? ¿Puede integrar el contrato?
+
+
+## Caso 5 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+Los arts. 8 LDC y 1100 a 1103 CCyC permiten analizar la información y publicidad dirigida al consumidor; las precisiones relevantes pueden integrar el contrato. Debe distinguirse una exageración evidente de una afirmación concreta, verificable y apta para inducir a error, como garantizar empleo en un plazo. La falta de condiciones claras refuerza el problema. El alumno debe explicar posibles remedios contractuales y sancionatorios, sin asumir que todo incumplimiento publicitario genera automáticamente daño punitivo.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 6 · Alimento con cuerpo extraño
+
+Una persona compra un frasco de salsa cerrado.
+
+Al abrirlo encuentra un fragmento de vidrio en el interior.
+
+No llega a consumir el alimento, pero conserva el producto.
+
+El supermercado ofrece cambiarlo por otro frasco.
+
+El comprador considera que existió un riesgo grave para su salud.
+
+**Preguntas para el alumno:** ¿Qué obligaciones de seguridad se examinan? ¿Qué diferencia hay entre riesgo y daño indemnizable?
+
+
+## Caso 6 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 5 LDC impone que bienes y servicios no presenten peligros para la salud en condiciones previsibles de uso; el art. 6 refuerza las exigencias para cosas riesgosas. El vidrio en el alimento revela un posible incumplimiento del deber de seguridad. Debe distinguirse la infracción y la necesidad de medidas preventivas de una pretensión indemnizatoria, que requiere identificar un daño resarcible y nexo causal. La sustitución del frasco no necesariamente agota otras responsabilidades. Puede analizarse la responsabilidad de la cadena del art. 40 si se configura daño por vicio o riesgo.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 7 · Teléfono que falla a los cuatro meses
+
+Una persona compra un celular nuevo en una cadena comercial.
+
+A los cuatro meses, el equipo deja de encender.
+
+El local afirma que solo ofrece treinta días de cobertura.
+
+El fabricante remite al comprador a un servicio técnico lejano.
+
+La persona pide una solución sin costos adicionales.
+
+**Preguntas para el alumno:** ¿Cuál es la garantía legal? ¿Quién debe responder?
+
+
+## Caso 7 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+La garantía legal de cosas muebles no consumibles está prevista en los arts. 11 a 17 LDC. Para bienes nuevos el plazo legal general es de seis meses desde la entrega, sin perjuicio de condiciones más favorables; para usados, tres meses. La cobertura comercial de treinta días no puede reducir ese piso. Deben considerarse los sujetos obligados del art. 13, la reparación gratuita y las reglas de traslado del art. 11. Si la reparación no resulta satisfactoria, el art. 17 prevé alternativas que el alumno debe identificar.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 8 · La heladera reparada tres veces
+
+Una heladera nueva deja de enfriar durante la garantía.
+
+El servicio técnico reemplaza una pieza y la devuelve.
+
+A las dos semanas reaparece exactamente la misma falla.
+
+Se realiza una segunda reparación que tampoco soluciona el problema.
+
+El proveedor insiste en seguir reparando indefinidamente.
+
+**Preguntas para el alumno:** ¿Cuándo puede hablarse de reparación no satisfactoria? ¿Qué opciones tiene el consumidor?
+
+
+## Caso 8 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 17 LDC contempla el supuesto en que la reparación no reúne las condiciones óptimas para cumplir el uso al que está destinada la cosa. No existe un derecho irrestricto del proveedor a imponer reparaciones indefinidas. El consumidor puede optar, según las condiciones legales, por sustitución por otra de idénticas características, devolución de la cosa a cambio del importe equivalente o quita proporcional del precio, sin perjuicio de daños. Debe examinarse la documentación de reparaciones y la prolongación de garantía por el tiempo de indisponibilidad.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 9 · Servicio técnico y presupuesto
+
+Una persona lleva su lavarropas a reparar.
+
+El taller comienza el trabajo sin entregar presupuesto escrito.
+
+Al retirarlo, exige una suma muy superior a la informada verbalmente.
+
+Además incluye el cambio de una pieza que el cliente nunca autorizó.
+
+El taller retiene el electrodoméstico hasta que se pague todo.
+
+**Preguntas para el alumno:** ¿Qué reglas rigen el presupuesto y los trabajos adicionales?
+
+
+## Caso 9 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+Los arts. 19 y siguientes LDC regulan la prestación de servicios, y los arts. 21 y 22 exigen contenido del presupuesto y autorización para trabajos adicionales según corresponda. Debe examinarse si el taller informó precio, tareas, materiales y plazos, y si obtuvo consentimiento para la pieza adicional. El alumno debe diferenciar el precio originalmente pactado de cargos no autorizados y explicar qué documentación y reclamos resultan pertinentes. La retención del bien requiere fundamento propio y no se legitima por cualquier cargo unilateral.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 10 · Reparación que vuelve a fallar
+
+Un técnico repara el aire acondicionado de una vivienda.
+
+A los doce días reaparece el mismo desperfecto.
+
+El consumidor reclama una nueva intervención.
+
+El prestador pretende cobrar otra visita y nuevos honorarios.
+
+Sostiene que cada reparación es un contrato independiente.
+
+**Preguntas para el alumno:** ¿Qué protección existe frente a deficiencias en la prestación de servicios?
+
+
+## Caso 10 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 23 LDC contempla deficiencias o defectos del trabajo realizado, con obligación de corregirlos sin costo adicional dentro del plazo legal de garantía del servicio, salvo previsión expresa y válida en contrario dentro del marco legal. El art. 24 regula la constancia de garantía. Debe analizarse si se trata de la misma falla y si es atribuible a la reparación anterior. La sola calificación de “nueva visita” no elimina las obligaciones del prestador. También pueden resultar aplicables las reglas generales de incumplimiento contractual.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 11 · Cláusula que elimina toda responsabilidad
+
+Una empresa de mudanzas entrega un contrato predispuesto.
+
+Una cláusula dice que nunca responderá por roturas ni pérdidas.
+
+El cliente no puede negociar su contenido.
+
+Durante el traslado se destruye un televisor por una maniobra negligente.
+
+La empresa invoca la cláusula para rechazar cualquier reclamo.
+
+**Preguntas para el alumno:** ¿Cómo se controla una cláusula abusiva? ¿Qué efecto puede tener?
+
+
+## Caso 11 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+Los arts. 37 LDC y 1117 a 1122 CCyC permiten controlar cláusulas abusivas en contratos de consumo, en especial las que desnaturalizan obligaciones o limitan indebidamente responsabilidad. Debe explicarse la interpretación más favorable al consumidor y el carácter no negociado del formulario. La cláusula puede tenerse por no convenida, sin que ello implique necesariamente la nulidad de todo el contrato. Luego corresponde analizar incumplimiento, daño y causalidad para determinar reparación.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 12 · Compra por internet y arrepentimiento
+
+Una persona compra zapatillas en una tienda online.
+
+Recibe el paquete y comprueba que el talle es correcto.
+
+A los cinco días decide que prefiere otro modelo.
+
+La empresa le responde que solo admite devoluciones por defectos.
+
+La compra se hizo íntegramente a distancia.
+
+**Preguntas para el alumno:** ¿Existe derecho de revocación? ¿Debe alegarse una falla del producto?
+
+
+## Caso 12 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+En contratos celebrados a distancia, el CCyC (arts. 1104 y siguientes, en especial 1110 y ss.) y la LDC reconocen, como regla, un derecho de revocación dentro de diez días, con excepciones legales que deben examinarse. No exige demostrar un defecto ni justificar el cambio de opinión. Deben analizarse el inicio del plazo, el deber de informar el derecho, la modalidad de comunicación y los efectos restitutorios. La política comercial de “solo defectos” no puede desplazar una facultad legal aplicable.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 13 · Daños por una batería defectuosa
+
+Una batería portátil se sobrecalienta mientras se usa normalmente.
+
+El aparato daña una mesa y provoca una quemadura leve.
+
+El comercio sostiene que la falla corresponde al fabricante.
+
+El fabricante responsabiliza al importador.
+
+El consumidor conserva el producto y fotografías de los daños.
+
+**Preguntas para el alumno:** ¿Quiénes pueden responder? ¿Qué debe acreditar el consumidor?
+
+
+## Caso 13 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 40 LDC establece responsabilidad solidaria de los integrantes de la cadena por daño resultante del vicio o riesgo de la cosa o prestación del servicio, con las reglas de exoneración previstas en la norma. Deben identificarse daño, defecto o riesgo y relación causal, sin confundir solidaridad con responsabilidad automática por cualquier hecho. El vendedor no se libera simplemente señalando al fabricante. Pueden reclamarse daños patrimoniales y extrapatrimoniales si se acreditan sus presupuestos.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 14 · Daño directo y daño punitivo
+
+Una empresa de telefonía factura durante meses un servicio dado de baja.
+
+El cliente realiza varios reclamos y presenta comprobantes.
+
+La empresa reconoce un error, pero continúa facturando.
+
+El usuario pide devolución de importes y una sanción ejemplar.
+
+La compañía afirma que ambos conceptos son exactamente lo mismo.
+
+**Preguntas para el alumno:** ¿En qué se diferencian daño directo y daño punitivo?
+
+
+## Caso 14 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El daño directo del art. 40 bis LDC es una categoría resarcitoria con régimen específico y límites de actuación de la autoridad administrativa; el daño punitivo del art. 52 bis es una multa civil que puede imponer judicialmente el juez a favor del consumidor, según las condiciones legales. No son equivalentes ni sustituyen la restitución de sumas indebidamente cobradas. El alumno debe distinguir función reparadora y sancionatoria y explicar que el daño punitivo no se concede mecánicamente por cualquier incumplimiento: deben valorarse las circunstancias y gravedad de la conducta.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 15 · Resumen de tarjeta desconocido
+
+Una consumidora observa cargos que no reconoce en su tarjeta.
+
+El resumen llega con detalle insuficiente de dos operaciones.
+
+Presenta una impugnación ante la entidad emisora.
+
+El banco le exige pagar primero el total para investigar.
+
+También amenaza con bloquear cualquier consulta futura.
+
+**Preguntas para el alumno:** ¿Qué régimen regula la impugnación del resumen? ¿Cómo se articula con la LDC?
+
+
+## Caso 15 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+La Ley 25.065 regula la tarjeta de crédito y contempla un procedimiento especial de cuestionamiento del resumen, con plazos y obligaciones de la emisora que deben verificarse en el texto vigente. La LDC y el CCyC complementan la tutela en cuanto a información, trato digno y prácticas abusivas, sin reemplazar indiscriminadamente la regulación especial. El alumno debe explicar por qué la emisora no puede condicionar sin más la investigación al pago íntegro de lo cuestionado y distinguir importes controvertidos de los no impugnados.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 16 · Financiación con costos ocultos
+
+Una casa de electrodomésticos ofrece una televisión en doce cuotas.
+
+El cartel exhibe solo el valor de cada cuota.
+
+Al firmar aparecen seguros y cargos administrativos no informados.
+
+El costo financiero total es muy superior al esperado.
+
+El comprador afirma que habría elegido otra opción de conocerlo.
+
+**Preguntas para el alumno:** ¿Qué información exige el crédito para consumo? ¿Qué consecuencias pueden derivarse de la omisión?
+
+
+## Caso 16 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 36 LDC establece deberes especiales de información en operaciones de crédito para consumo, incluidos datos relevantes del financiamiento y costo financiero total según corresponda. El art. 4 refuerza la exigencia de claridad. El alumno debe identificar el monto financiado, tasa, cuotas, cargos y costos y examinar la sanción o remedios previstos para omisiones, evitando afirmar automáticamente la nulidad total de toda financiación. También debe analizar la publicidad de cuotas y la transparencia de cargos accesorios.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 17 · Préstamo vinculado a una compra
+
+Un comercio vende una motocicleta mediante crédito de una financiera.
+
+El contrato de venta y el préstamo se firman en el mismo local.
+
+La motocicleta nunca se entrega por problemas del vendedor.
+
+La financiera continúa reclamando las cuotas.
+
+El comprador afirma que ambos contratos estaban vinculados.
+
+**Preguntas para el alumno:** ¿Qué significa conexidad contractual? ¿Cómo analizar el reclamo de cuotas?
+
+
+## Caso 17 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+Los arts. 1073 a 1075 CCyC contemplan contratos conexos cuando existe finalidad económica común y vinculación relevante; además debe analizarse el régimen específico de financiación al consumidor del art. 36 LDC. No basta que dos contratos se firmen en un lugar: deben probarse la finalidad común y coordinación negocial. El alumno debe explicar qué defensas podría oponer el consumidor ante el incumplimiento de la entrega y cómo se analiza la oponibilidad a la financiera, atendiendo al vínculo concreto y las normas aplicables.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 18 · Prepaga que rechaza una cobertura
+
+Una afiliada a medicina prepaga solicita una prestación indicada por su médica.
+
+La empresa rechaza la autorización con una respuesta genérica.
+
+No indica cláusula contractual ni fundamento médico específico.
+
+La afiliada presenta estudios y pide revisión urgente.
+
+La prepaga insiste en que el contrato le permite decidir libremente.
+
+**Preguntas para el alumno:** ¿Qué deberes de información y trato están comprometidos? ¿Qué normas deben articularse?
+
+
+## Caso 18 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+La relación con una empresa de medicina prepaga puede encuadrarse en normas de consumo, sin perjuicio del régimen sanitario especial aplicable, incluida la Ley 26.682 y las normas sobre cobertura pertinente. Los arts. 4 y 8 bis LDC exigen información adecuada y trato digno. La empresa debe dar razones verificables de su decisión; no es suficiente invocar discrecionalidad contractual. El alumno debe aclarar que la procedencia de la prestación depende del contrato, la indicación médica y la normativa sanitaria aplicable, no solo de la LDC.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 19 · Pagaré firmado en blanco
+
+Una persona adquiere muebles en cuotas para su vivienda.
+
+El comercio le hace firmar un pagaré con datos incompletos.
+
+Meses después reclama judicialmente una suma muy superior al precio.
+
+La demanda acompaña únicamente el pagaré.
+
+El consumidor pide que se examine la operación de crédito subyacente.
+
+**Preguntas para el alumno:** ¿Qué es el pagaré de consumo? ¿Puede examinarse la relación causal?
+
+
+## Caso 19 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El pagaré conserva su naturaleza cambiaria, pero cuando instrumenta una financiación para consumo debe armonizarse su ejecución con las normas protectorias, especialmente el art. 36 LDC y el acceso a la información. La jurisprudencia ha desarrollado respuestas para evitar que la abstracción cambiaria eluda la tutela del consumidor; su alcance depende de la jurisdicción y del criterio aplicable. El alumno debe analizar la posibilidad de integrar o examinar documentación causal, competencia territorial y requisitos informativos, sin afirmar que todo pagaré de consumo es nulo.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Caso 20 · Trato indigno en una sucursal
+
+Una clienta reclama por un cobro duplicado en un servicio.
+
+En la sucursal la obligan a esperar durante horas sin explicación.
+
+Un empleado la ridiculiza delante de otras personas.
+
+Le exigen desistir de su reclamo para poder hablar con un supervisor.
+
+La empresa sostiene que no hay infracción porque finalmente devuelve el dinero.
+
+**Preguntas para el alumno:** ¿Qué es el trato digno? ¿La devolución elimina cualquier incumplimiento?
+
+
+## Caso 20 · Respuesta orientativa
+
+**Cómo razonar el caso**
+
+El art. 8 bis LDC y el art. 1097 CCyC exigen condiciones de atención dignas y equitativas, y prohíben prácticas vejatorias o intimidatorias. El alumno debe identificar el trato humillante, las demoras y la presión para desistir, distinguiendo los hechos acreditados de meras molestias. La devolución del cobro resuelve una dimensión patrimonial, pero no necesariamente elimina la infracción al deber de trato digno. Las consecuencias resarcitorias o sancionatorias requieren el análisis de sus presupuestos propios.
+
+**Para el examen:** identificá los hechos relevantes, citá las normas pertinentes y justificá tu conclusión.
+
+
+## Cierre del simulacro
+
+Una buena respuesta debe **calificar la relación jurídica**, **identificar la regla aplicable**, **confrontarla con los hechos** y **concluir con fundamento**.

@@ -1,0 +1,520 @@
+---
+title: "Artículo 36 — Crédito para el consumo"
+subtitle: "Información, financiación, competencia y sobreendeudamiento"
+author: "Derecho del Consumidor · Grado"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    navigation-mode: linear
+---
+
+## Artículo 36: por qué existe una regulación especial
+
+El crédito permite anticipar consumo, pero coloca al consumidor frente a una estructura económica que muchas veces no puede evaluar con la misma facilidad que el proveedor. Baroncelli vincula esta regulación con la protección constitucional de los **intereses económicos** y con el deber de información.
+
+La norma busca que la decisión de financiar no se tome mirando solamente el valor de una cuota, sino conociendo la operación completa.
+
+**Ejemplo:** un televisor cuesta $900.000 al contado o “18 cuotas de $79.000”. Sin más datos, el consumidor no puede comparar realmente ambas alternativas.
+
+---
+
+## Qué operaciones comprende
+
+El art. 36 alcanza las **operaciones financieras para consumo** y las **operaciones de crédito para consumo**. El punto decisivo es que exista una relación de consumo y que la financiación esté vinculada con necesidades privadas del consumidor.
+
+La categoría es amplia: no se limita al préstamo bancario tradicional.
+
+**Ejemplo:** puede existir crédito para consumo cuando el propio comercio financia la venta o cuando interviene una entidad distinta que aporta los fondos.
+
+---
+
+## Operaciones financieras para consumo
+
+Baroncelli incluye dentro del análisis las operaciones realizadas por entidades financieras y otros sujetos que profesionalmente ofrecen servicios financieros al público consumidor.
+
+La tutela consumeril se superpone así con la regulación financiera: una entidad puede estar sometida al BCRA y, simultáneamente, actuar como proveedor dentro de una relación de consumo.
+
+La existencia de regulación sectorial no elimina la aplicación de los principios protectores.
+
+---
+
+## Crédito para el consumo
+
+La noción comprende operaciones destinadas a posibilitar la adquisición de bienes, utilización de servicios o satisfacción de necesidades personales, familiares o sociales mediante financiación.
+
+Lo relevante es la **finalidad económica** del crédito.
+
+**Ejemplo:** un préstamo personal utilizado para gastos familiares puede quedar comprendido aunque el dinero sea entregado directamente al consumidor y no al vendedor de un bien determinado.
+
+---
+
+## Quién puede otorgar la financiación
+
+La financiación puede provenir del propio proveedor del bien o servicio o de un tercero. Baroncelli contempla la diversidad actual del mercado: entidades financieras, proveedores de crédito y otros operadores.
+
+Por eso no debe confundirse “crédito al consumo” con “crédito bancario”.
+
+**Ejemplo:** una cadena de electrodomésticos puede vender financiado directamente o derivar al comprador a una empresa financiera vinculada.
+
+---
+
+## El presupuesto: relación de consumo
+
+La aplicación del régimen requiere identificar consumidor y proveedor. El análisis debe realizarse atendiendo a la posición de las partes y a la finalidad de la operación.
+
+No toda financiación recibida por una persona humana es necesariamente de consumo.
+
+**Ejemplo:** si una persona toma crédito para adquirir maquinaria destinada a su actividad productiva, la calificación exige analizar la finalidad y no sólo quién firmó el contrato.
+
+---
+
+## El eje: información calificada
+
+Baroncelli presenta el art. 36 como una manifestación especialmente intensa del **deber de información**. En operaciones financieras, pequeños cambios de tasa, plazo, gastos o amortización pueden modificar sustancialmente el costo final.
+
+La información debe ser clara, comprensible, detallada, gratuita y oportuna. No es suficiente poner datos técnicamente correctos si el modo de presentarlos impide comprender la carga económica asumida.
+
+---
+
+## Descripción del bien o servicio
+
+Cuando la financiación se vincula con una adquisición determinada, la documentación debe permitir identificar el bien o servicio.
+
+Esto conecta el crédito con la operación económica que lo justifica y permite controlar la correspondencia entre prestación principal y financiación.
+
+**Ejemplo:** en una venta financiada de un automóvil, no debería aparecer una obligación dineraria completamente desvinculada de la identificación de la operación financiada.
+
+---
+
+## Precio al contado
+
+El precio al contado funciona como referencia esencial para comparar el costo de financiar.
+
+Si el consumidor conoce únicamente el valor de la cuota, no puede saber qué parte del precio final deriva del bien y qué parte corresponde al crédito.
+
+**Ejemplo:** precio contado $1.000.000; 12 cuotas de $120.000. La diferencia de $440.000 debe poder analizarse dentro de la estructura financiera informada.
+
+---
+
+## Desembolso inicial y monto financiado
+
+El consumidor debe poder distinguir cuánto paga inicialmente y cuánto capital queda efectivamente financiado.
+
+Esta separación evita que el costo del crédito quede diluido dentro del precio total.
+
+**Ejemplo:** precio $1.200.000, anticipo $400.000 y financiación de $800.000. La tasa y demás costos deben evaluarse sobre la financiación real, no sobre una cifra indeterminada.
+
+---
+
+## Tasa de interés efectiva anual
+
+La **TEA** permite expresar el interés en una referencia anual y facilita la comparación entre alternativas de financiación.
+
+Baroncelli destaca que la ley atribuye una consecuencia específica a su omisión, lo que demuestra la relevancia que el legislador asigna a este dato.
+
+Informar una cuota o una tasa aislada no necesariamente satisface la exigencia de transparencia.
+
+---
+
+## Costo financiero total
+
+El interés no agota el costo económico del crédito. Pueden existir seguros, cargos, comisiones y otros conceptos.
+
+Por eso el consumidor necesita una medida que permita apreciar el costo total de la financiación.
+
+**Ejemplo:** dos créditos con idéntica tasa pueden terminar costando distinto si uno incorpora seguro obligatorio, gastos administrativos y cargos adicionales.
+
+---
+
+## Sistema de amortización
+
+El sistema de amortización determina cómo se distribuyen los pagos entre capital e intereses durante la vida del crédito.
+
+No es una cuestión puramente matemática: incide sobre el saldo pendiente y sobre las consecuencias económicas de una cancelación anticipada o de la mora.
+
+La información debe permitir al consumidor comprender la lógica de devolución del crédito.
+
+---
+
+## Cantidad, periodicidad y monto de pagos
+
+La documentación debe indicar cuántos pagos existirán, con qué frecuencia y por qué importe.
+
+El consumidor necesita proyectar el impacto de la obligación sobre sus ingresos.
+
+**Ejemplo:** “hasta 24 cuotas” no equivale a informar que existirán 24 pagos mensuales de una suma determinada con vencimiento en fechas identificables.
+
+---
+
+## Gastos, seguros y adicionales
+
+Los conceptos accesorios pueden modificar sensiblemente el costo final. Por ello deben ser exteriorizados.
+
+La transparencia impide presentar como barato un crédito cuya tasa parece reducida pero que incorpora otros cargos significativos.
+
+**Ejemplo:** un seguro asociado al préstamo debe poder identificarse y cuantificarse, en lugar de quedar oculto dentro de una cuota global.
+
+---
+
+## La información debe permitir comparar
+
+La finalidad práctica del régimen es que el consumidor pueda comparar alternativas y comprender las consecuencias económicas antes de contratar.
+
+No basta una acumulación de datos inconexos. La información debe ser útil para decidir.
+
+**Ejemplo:** frente a dos créditos, el consumidor debería poder determinar cuál implica menor costo total, qué plazo tiene y qué obligaciones adicionales incorpora.
+
+---
+
+## Omisión de información: consecuencia
+
+El incumplimiento de los recaudos del art. 36 no es irrelevante. Baroncelli destaca que el consumidor puede demandar la **nulidad del contrato o de una o más cláusulas**.
+
+La respuesta debe adecuarse a la entidad del defecto. Si el problema afecta sólo una estipulación y el negocio puede subsistir, puede operar la nulidad parcial.
+
+---
+
+## Integración judicial del contrato
+
+Cuando se declara una nulidad parcial, la ley contempla la **integración del contrato** si resulta necesaria.
+
+El objetivo es evitar que la eliminación de una cláusula deje una laguna que haga imposible la subsistencia del negocio.
+
+**Ejemplo:** si una estipulación financiera resulta inválida, el juez puede necesitar determinar qué regla debe ocupar su lugar para conservar el contrato.
+
+---
+
+## Omisión de la TEA
+
+Baroncelli destaca una consecuencia legal específica: ante la omisión de la tasa de interés efectiva anual corresponde aplicar la **tasa pasiva anual promedio del mercado difundida por el BCRA**, vigente al momento de celebración.
+
+La solución cumple una función correctiva y genera un incentivo concreto para que el proveedor informe adecuadamente el costo financiero.
+
+---
+
+## Buena fe e información
+
+El deber informativo debe leerse junto con la buena fe contractual. La transparencia no consiste en cumplir formalmente con una lista de datos, sino en permitir que el consumidor comprenda el negocio que se le propone.
+
+Una documentación deliberadamente confusa puede frustrar la finalidad protectoria aun cuando contenga numerosas cifras.
+
+**Ejemplo:** esconder el costo total en anexos de difícil acceso compromete la transparencia.
+
+---
+
+## Financiación otorgada por un tercero
+
+La operación de consumo puede involucrar dos contratos: uno para adquirir el bien o servicio y otro para obtener el crédito.
+
+La presencia de un tercero financiador no necesariamente fragmenta jurídicamente la operación. Baroncelli analiza la **conexidad contractual** cuando ambos negocios responden a una finalidad económica común.
+
+---
+
+## Conexidad: una única finalidad económica
+
+Dos contratos formalmente distintos pueden estar funcionalmente relacionados.
+
+**Ejemplo:** el consumidor compra un automóvil en una concesionaria y, en el mismo acto, firma con una financiera el crédito específicamente ofrecido para pagar ese vehículo.
+
+La compraventa y el préstamo conservan autonomía formal, pero pueden integrar una única operación económica de consumo.
+
+---
+
+## Crédito no obtenido
+
+El art. 36 contempla el supuesto en que la eficacia de la operación principal queda condicionada a la obtención efectiva del crédito.
+
+Si la financiación no se obtiene, la operación puede resolverse sin costo para el consumidor, con restitución de las sumas entregadas en los términos legales.
+
+La regla evita que el consumidor quede obligado por un negocio cuya financiación prevista fracasó.
+
+---
+
+## El BCRA dentro del sistema
+
+Baroncelli dedica atención al rol del Banco Central respecto de entidades sometidas a su jurisdicción.
+
+El BCRA cumple funciones regulatorias y de fiscalización que se proyectan sobre la relación con los usuarios financieros. El régimen consumeril convive así con normas sectoriales específicas.
+
+La protección no proviene de una sola fuente, sino de un **diálogo entre regulación financiera y Derecho del Consumidor**.
+
+---
+
+## Usuario de servicios financieros
+
+La normativa reseñada por Baroncelli desarrolla estándares sobre información, contratos, comisiones, atención y reclamos.
+
+La categoría de usuario financiero permite observar cómo principios generales de la LDC se concretan en un mercado técnicamente complejo.
+
+**Ejemplo:** reglas sobre documentación contractual o cargos no sustituyen al art. 36, sino que complementan la tutela del consumidor financiero.
+
+---
+
+## Claridad de los contratos
+
+Los contratos financieros deben permitir una lectura y comprensión razonables. La información económica relevante no debería quedar oscurecida por fórmulas técnicas innecesarias o referencias inaccesibles.
+
+La claridad formal cumple una función sustantiva: un consumidor que no puede identificar sus obligaciones difícilmente pueda evaluar el crédito.
+
+Esto conecta el art. 36 con la exigencia general de transparencia.
+
+---
+
+## Comisiones y cargos
+
+Baroncelli reseña reglas que exigen vincular las comisiones y cargos con servicios efectivamente prestados y costos justificables.
+
+El nombre utilizado por el proveedor no determina por sí mismo la legitimidad del concepto.
+
+**Ejemplo:** denominar “gasto de gestión” a una suma periódica no basta para justificarla si no existe un servicio identificable que explique el cobro.
+
+---
+
+## Prec cancelación
+
+La posibilidad de cancelar anticipadamente un crédito incide sobre el costo total de la operación.
+
+Baroncelli reseña la regulación de la precancelación y las limitaciones aplicables a determinadas comisiones.
+
+Desde la perspectiva del consumidor, la cuestión es relevante porque permite reducir la carga futura del crédito cuando dispone de fondos antes del vencimiento originalmente previsto.
+
+---
+
+## Modificaciones contractuales
+
+En relaciones financieras de duración pueden existir modificaciones. Baroncelli destaca exigencias vinculadas con parámetros objetivos, notificación y posibilidad de rescisión cuando corresponda.
+
+Una facultad unilateral ilimitada permitiría alterar después de contratar aquello que el consumidor evaluó al decidir.
+
+**Ejemplo:** una entidad no debería poder crear libremente nuevos cargos sin una base contractual y regulatoria adecuada.
+
+---
+
+## Competencia cuando demanda el proveedor
+
+El art. 36 contiene una regla protectoria específica: cuando la acción es iniciada por el proveedor o prestador, resulta competente el tribunal correspondiente al **domicilio real del consumidor**.
+
+Todo pacto en contrario es nulo.
+
+La regla impide utilizar la predisposición contractual para obligar al consumidor a defenderse en un foro lejano.
+
+---
+
+## Por qué importa el domicilio real
+
+La competencia territorial tiene consecuencias económicas concretas. Litigar lejos puede aumentar costos, dificultar la asistencia letrada y desalentar la defensa.
+
+**Ejemplo:** una financiera con sede en CABA concede un pequeño préstamo a un consumidor de Salta. Obligar al consumidor a litigar en CABA podría convertir el costo de defenderse en una barrera práctica.
+
+La norma procura evitar ese resultado.
+
+---
+
+## Cuando demanda el consumidor
+
+Baroncelli explica que el art. 36 ofrece al consumidor distintas alternativas territoriales cuando es él quien promueve la acción.
+
+La asimetría es deliberada: el sistema restringe la elección del proveedor y amplía las opciones del consumidor.
+
+Esto muestra que la competencia integra la política protectoria de la norma y no constituye una mera regla procesal neutra.
+
+---
+
+## El pagaré de consumo
+
+Una parte especialmente relevante del comentario de Baroncelli es el problema del crédito documentado mediante **pagaré**.
+
+El título cambiario se caracteriza por literalidad, autonomía y abstracción. La relación de consumo, en cambio, exige controlar información, competencia y normas de orden público.
+
+La pregunta es hasta dónde puede la abstracción impedir el examen de la operación que originó el título.
+
+---
+
+## El conflicto con la abstracción
+
+Un pagaré puede ser formalmente correcto y no contener precio al contado, TEA, costo financiero total, sistema de amortización ni demás datos del art. 36.
+
+Por eso debe distinguirse:
+
+- aptitud cambiaria del documento;
+- regularidad consumeril de la financiación.
+
+**Ejemplo:** un pagaré por $2.000.000 no explica si el consumidor recibió $1.000.000 y el resto corresponde a intereses y cargos.
+
+---
+
+## Principio de realidad
+
+Baroncelli recurre al principio de realidad para impedir que la forma instrumental oculte la verdadera naturaleza de la relación.
+
+El análisis debe considerar qué operación económica explica el libramiento.
+
+Si existen indicios suficientes de crédito para consumo, el juez enfrenta normas protectorias que no pueden ser ignoradas únicamente porque la deuda fue documentada mediante un título abstracto.
+
+---
+
+## Indicios de una relación de consumo
+
+Baroncelli recoge criterios que permiten detectar la posible existencia de crédito al consumo:
+
+- profesionalidad o actividad financiera del actor;
+- ejecutado persona humana;
+- monto compatible con financiación personal;
+- domicilio y circunstancias de la operación.
+
+Ningún elemento es decisivo por sí solo. Su lectura conjunta permite superar una visión exclusivamente formal.
+
+---
+
+## Defensas causales
+
+La jurisprudencia discutida por Baroncelli plantea si el consumidor puede introducir defensas vinculadas con la relación causal dentro del juicio ejecutivo.
+
+La dificultad está en compatibilizar dos necesidades: evitar que la abstracción neutralice la LDC y conservar la cognición limitada propia de la ejecución.
+
+El debate no se resuelve simplemente diciendo que “la causa nunca importa” o que “siempre debe discutirse todo el contrato”.
+
+---
+
+## Integración documental
+
+Otra respuesta consiste en acompañar al pagaré documentación causal que permita verificar el cumplimiento del art. 36.
+
+Pueden resultar relevantes el contrato, solicitud, plan de cuotas y detalle financiero.
+
+La finalidad no es corregir cualquier defecto cambiario, sino controlar el negocio de consumo que explica el título.
+
+Esta solución también es discutida y Baroncelli recoge posiciones restrictivas.
+
+---
+
+## Control judicial en la ejecución
+
+Cuando aparecen elementos objetivos de una relación de consumo, el carácter de orden público de la legislación consumeril fundamenta una actuación judicial que no sea puramente mecánica.
+
+El juez puede necesitar examinar competencia, naturaleza del vínculo y documentación disponible.
+
+El desafío consiste en realizar ese control sin transformar automáticamente toda ejecución en un proceso ordinario.
+
+---
+
+## Ejecución prendaria
+
+Baroncelli extiende el análisis a ejecuciones prendarias vinculadas con financiación al consumo.
+
+La existencia de una garantía real y de un procedimiento especial no elimina necesariamente la relación consumeril.
+
+**Ejemplo:** un vehículo adquirido para uso personal mediante financiación prendaria continúa planteando cuestiones de información, costo del crédito y tutela del consumidor.
+
+---
+
+## Letra hipotecaria
+
+También se analiza la utilización de letras hipotecarias en operaciones que pueden ser de consumo.
+
+El problema conceptual se repite: la presencia de un título o garantía sometida a un régimen especial no determina por sí sola la exclusión de la LDC.
+
+Debe identificarse la relación económica subyacente y coordinar las normas aplicables.
+
+---
+
+## Contratos bancarios en el CCyC
+
+Baroncelli relaciona el art. 36 con la regulación de los contratos bancarios del Código Civil y Comercial.
+
+El Código refuerza exigencias de publicidad, forma, información y transparencia, especialmente cuando el cliente es consumidor o usuario.
+
+El art. 36 debe entonces leerse dentro de un sistema más amplio de protección del contratante financiero.
+
+---
+
+## Publicidad financiera
+
+La publicidad es relevante porque muchas decisiones de crédito comienzan antes de la firma del contrato.
+
+Baroncelli reseña exigencias vinculadas con tasas, gastos, comisiones, costo financiero y demás condiciones.
+
+**Ejemplo:** publicitar “cuota desde $50.000” sin mostrar adecuadamente las condiciones que determinan el costo puede generar una percepción incompleta del producto financiero.
+
+---
+
+## Costos no previstos
+
+La transparencia contractual impide trasladar al consumidor costos que no fueron adecuadamente previstos o que no corresponden a servicios efectivamente prestados.
+
+El problema se conecta directamente con el art. 36: el consumidor debe poder conocer de antemano la carga económica de la financiación.
+
+Los cargos sorpresivos destruyen la posibilidad de comparar y decidir racionalmente.
+
+---
+
+## Sobreendeudamiento: más allá de la mora
+
+Baroncelli dedica un tramo importante al **sobreendeudamiento**. No lo presenta simplemente como incumplimiento culpable del deudor, sino como un fenómeno económico y social vinculado con el mercado de crédito.
+
+La imposibilidad global de afrontar obligaciones puede surgir de múltiples factores y requiere pensar la tutela también en términos preventivos.
+
+---
+
+## Causas del sobreendeudamiento
+
+Entre las causas aparecen factores macroeconómicos, prácticas propias de la sociedad de consumo y acontecimientos personales.
+
+Una pérdida de ingresos, enfermedad familiar, crisis económica o acumulación de créditos pueden alterar una situación inicialmente sostenible.
+
+El análisis permite superar la idea de que todo sobreendeudamiento responde necesariamente a una decisión irresponsable del consumidor.
+
+---
+
+## Prevención
+
+Baroncelli reseña distintas herramientas preventivas:
+
+- publicidad responsable;
+- información clara;
+- deber de consejo;
+- evaluación de solvencia;
+- préstamo responsable;
+- posibilidad de pago anticipado;
+- límites a prácticas abusivas de cobro.
+
+La protección no debería comenzar recién cuando el consumidor ya se encuentra en incumplimiento.
+
+---
+
+## Préstamo responsable
+
+El otorgamiento profesional de crédito supone evaluar razonablemente la capacidad de pago y evitar que la financiación se convierta en un producto desconectado de la situación económica del consumidor.
+
+**Ejemplo:** conceder sucesivamente nuevos créditos para pagar cuotas anteriores puede agravar el endeudamiento en lugar de resolverlo.
+
+La información es necesaria, pero la prevención del sobreendeudamiento plantea además responsabilidades en la concesión del crédito.
+
+---
+
+## Caso integrador
+
+Un consumidor compra una notebook de $1.200.000. Entrega $200.000 y financia el resto en 18 cuotas mediante una empresa vinculada al comercio. Firma contrato y pagaré por $1.850.000. Luego entra en mora y es demandado en CABA, aunque vive en Rosario.
+
+**Analizar:** relación de consumo, información del art. 36, composición del costo, conexidad, pagaré, competencia territorial y documentación que debería examinarse.
+
+---
+
+## Mapa final del artículo 36
+
+El art. 36 puede estudiarse como una secuencia:
+
+**crédito para consumo → información → costo total → ejecución del contrato → conexidad → regulación financiera → competencia → títulos ejecutivos → prevención del sobreendeudamiento.**
+
+La idea común es proteger la decisión económica del consumidor antes, durante y después de contratar.
+
+**Fuente doctrinaria exclusiva:** Baroncelli, comentario al art. 36 LDC, material suministrado para la clase.
